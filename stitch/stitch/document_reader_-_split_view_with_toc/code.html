@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><title>Split-Reader Interface - Modern Research Hub</title><script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { colors: { "primary": "#1e293b", "accent": "#3b82f6", "background-light": "#f8fafc", "surface": "#ffffff", "border": "#e2e8f0", "text-main": "#334155", "text-muted": "#64748b" }, fontFamily: { "sans": ["Arial", "sans-serif"], "display": ["Arial", "sans-serif"], "header": ["Arial", "sans-serif"], "mono": ["monospace"], "serif": ["Arial", "sans-serif"] }, borderRadius: { "DEFAULT": "6px", "md": "8px", "lg": "12px" } } } }</script><style> body { font-family: 'Arial', sans-serif; overflow: hidden; } ::-webkit-scrollbar { width: 6px; } ::-webkit-scrollbar-track { background: #f1f5f9; } ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; } .sync-highlight { background-color: #eff6ff; border-left: 3px solid #3b82f6; } </style></head>
+<body class="bg-background-light text-text-main font-display h-screen flex flex-col overflow-hidden text-sm" style="font-family: 'Arial', sans-serif;">
+<!-- Top Navigation / Control Bar -->
+<header class="h-header bg-surface border-b border-border flex items-center justify-between px-4 shrink-0 z-20">
+<div class="flex items-center gap-4"><button class="flex items-center gap-2 text-text-muted hover:text-primary transition-colors group"><span class="material-symbols-outlined text-[20px]">arrow_back</span><span class="font-medium text-xs tracking-normal group-hover:underline">Registry</span></button><div class="h-4 w-px bg-border mx-2"></div><div class="flex items-center gap-1.5"><button class="px-2 py-1 text-[11px] font-bold bg-primary text-white rounded">VN</button><button class="px-2 py-1 text-[11px] font-medium text-text-muted hover:bg-slate-100 rounded">EN</button><button class="px-2 py-1 text-[11px] font-medium text-text-muted hover:bg-slate-100 rounded">JP</button><div class="w-px h-3 bg-border mx-1"></div><button class="px-2 py-1 text-[11px] font-medium text-text-muted hover:bg-slate-100 rounded">Source</button><button class="px-2 py-1 text-[11px] font-medium text-accent bg-blue-50 border border-blue-100 rounded">Split View</button></div></div>
+<div class="flex items-center gap-2">
+<button class="h-8 px-3 flex items-center gap-2 text-xs font-medium text-red-600 hover:bg-red-50 border border-red-100 rounded-md transition-all mr-2"><span class="material-symbols-outlined text-[18px]">close_fullscreen</span>Exit Split View</button><button class="h-7 px-2 flex items-center gap-1.5 text-xs font-medium text-text-main hover:bg-slate-50 border border-transparent hover:border-border rounded transition-all">
+<span class="material-symbols-outlined text-[16px] text-text-muted">share</span>
+                Share
+            </button>
+<button class="h-7 px-2 flex items-center gap-1.5 text-xs font-medium text-text-main hover:bg-slate-50 border border-transparent hover:border-border rounded transition-all">
+<span class="material-symbols-outlined text-[16px] text-text-muted">download</span>
+                Export
+            </button>
+<button class="h-7 w-7 flex items-center justify-center text-text-main hover:bg-slate-50 border border-transparent hover:border-border rounded transition-all">
+<span class="material-symbols-outlined text-[18px] text-text-muted">settings</span>
+</button>
+</div>
+</header>
+<!-- Main Split Interface -->
+<main class="flex-1 flex overflow-hidden relative"><aside class="w-64 flex-shrink-0 border-r border-border bg-slate-50 flex flex-col z-20">
+<div class="h-[48px] border-b border-border flex items-center justify-between px-4 bg-white">
+<span class="text-xs font-bold text-primary flex items-center gap-2"><span class="material-symbols-outlined text-sm">menu_book</span>On this page</span>
+<button class="p-1 hover:bg-slate-100 rounded text-text-muted">
+<span class="material-symbols-outlined text-[18px]">side_navigation</span>
+</button>
+</div>
+<nav class="flex-1 overflow-y-auto p-4 space-y-1">
+<div class="text-[11px] font-bold text-text-muted uppercase tracking-wider mb-2 mt-2 px-2">Navigation</div>
+<a class="block px-2 py-2 text-xs font-medium text-accent bg-blue-50 rounded-md border-l-2 border-accent" href="#">General provisions</a>
+<a class="block px-2 py-2 text-xs text-text-main hover:bg-white hover:shadow-sm rounded-md transition-all" href="#">Tuition fee structure</a>
+<a class="block px-2 py-2 text-xs text-text-main hover:bg-white hover:shadow-sm rounded-md transition-all" href="#">Principles of determination</a>
+<a class="block px-2 py-2 text-xs text-text-main hover:bg-white hover:shadow-sm rounded-md transition-all" href="#">Exemptions and reductions</a>
+<a class="block px-2 py-2 text-xs text-text-main hover:bg-white hover:shadow-sm rounded-md transition-all" href="#">Payment methods</a>
+<a class="block px-2 py-2 text-xs text-text-main hover:bg-white hover:shadow-sm rounded-md transition-all" href="#">Implementation provisions</a>
+</nav>
+</aside>
+<!-- Left Pane (Vietnamese) -->
+<section class="flex-1 flex flex-col border-r border-border min-w-[300px] bg-white relative group/pane-left">
+<!-- Pane Header -->
+<div class="h-[48px] border-b border-border bg-slate-50/50 flex items-center justify-between px-4 shrink-0">
+<div class="flex items-center gap-2">
+<div class="relative">
+<button class="flex items-center gap-2 pl-2 pr-1 py-1 bg-white border border-border rounded shadow-sm hover:border-accent/50 transition-colors">
+<span class="w-4 h-3 bg-red-600 relative overflow-hidden inline-block shadow-sm">
+<span class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[4px] text-yellow-400 font-bold">★</span>
+</span>
+<span class="text-xs font-medium text-primary">Vietnamese (Original)</span>
+<span class="material-symbols-outlined text-[16px] text-text-muted">expand_more</span>
+</button>
+</div>
+<span class="text-[10px] text-text-muted uppercase font-bold tracking-wider ml-2">Source</span>
+</div>
+<div class="flex items-center gap-1">
+<button class="p-1 hover:bg-slate-200 rounded text-text-muted hover:text-primary transition-colors" title="Search in document">
+<span class="material-symbols-outlined text-[18px]">search</span>
+</button>
+<button class="p-1 hover:bg-slate-200 rounded text-text-muted hover:text-primary transition-colors" title="Text Settings">
+<span class="material-symbols-outlined text-[18px]">text_fields</span>
+</button>
+</div>
+</div>
+<!-- Pane Content -->
+<div class="flex-1 overflow-y-auto p-8 relative custom-scrollbar">
+<div class="max-w-[680px] mx-auto">
+<!-- Title in Doc -->
+<div class="mb-8 text-center border-b border-border pb-6">
+<p class="font-header font-bold text-xs uppercase text-text-muted mb-2 tracking-widest">Vietnam National University, Hanoi</p>
+<h2 class="font-bold text-2xl text-primary leading-tight mb-4 font-sans">Quy định<br/>Về mức thu học phí năm học 2024-2025</h2>
+<div class="flex justify-center gap-4 text-xs font-mono text-text-muted">
+<span>Số: 89/QĐ-ĐHQGHN</span>
+<span>•</span>
+<span>Hà Nội, ngày 15 tháng 01 năm 2024</span>
+</div>
+</div>
+<!-- Paragraph 1 -->
+<div class="relative pl-8 mb-6 group/para">
+<span class="absolute left-0 top-1 text-[10px] font-mono text-slate-300 select-none group-hover/para:text-accent">01</span>
+<p class="font-serif text-base leading-relaxed text-slate-800 paragraph-hover p-2 -ml-2 rounded transition-colors duration-150">
+<strong>Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng</strong><br/>
+                            1. Văn bản này quy định mức thu học phí đối với các chương trình đào tạo đại học chính quy, bằng kép, liên kết đào tạo quốc tế tại Đại học Quốc gia Hà Nội (ĐHQGHN).
+                        </p>
+</div>
+<!-- Paragraph 2 -->
+<div class="relative pl-8 mb-6 group/para">
+<span class="absolute left-0 top-1 text-[10px] font-mono text-slate-300 select-none group-hover/para:text-accent">02</span>
+<p class="font-serif text-base leading-relaxed text-slate-800 paragraph-hover p-2 -ml-2 rounded transition-colors duration-150">
+                            2. Đối tượng áp dụng là sinh viên, học viên đang theo học tại các đơn vị đào tạo thuộc và trực thuộc ĐHQGHN; các đơn vị, tổ chức và cá nhân có liên quan.
+                        </p>
+</div>
+<!-- Paragraph 3 (Active Sync Highlight) -->
+<div class="relative pl-8 mb-6 group/para">
+<span class="absolute left-0 top-1 text-[10px] font-mono text-accent select-none font-bold">03</span>
+<!-- Highlighted State Simulation -->
+<div class="absolute -left-4 top-0 bottom-0 w-1 bg-accent rounded-full opacity-100"></div>
+<p class="font-serif text-base leading-relaxed text-slate-900 sync-highlight p-2 -ml-2 rounded transition-colors duration-150 border border-yellow-200/50 shadow-sm relative">
+<strong>Điều 2. Nguyên tắc xác định học phí</strong><br/>
+                            1. Mức thu học phí được xác định trên cơ sở định mức kinh tế - kỹ thuật, lộ trình tính đủ chi phí đào tạo theo quy định của Chính phủ và ĐHQGHN.
+                            <!-- Selection Tooltip -->
+<span class="absolute -top-10 left-1/2 -translate-x-1/2 bg-primary text-white text-xs py-1.5 px-3 rounded shadow-xl flex items-center gap-2 z-50 whitespace-nowrap animate-in fade-in zoom-in duration-200">
+<span class="material-symbols-outlined text-[14px]">content_copy</span>
+                                Copy with Reference
+                                <span class="bg-white/20 px-1 rounded text-[10px] font-mono">⌘C</span>
+<span class="absolute bottom-[-4px] left-1/2 -translate-x-1/2 w-2 h-2 bg-primary rotate-45"></span>
+</span>
+</p>
+</div>
+<!-- Paragraph 4 -->
+<div class="relative pl-8 mb-6 group/para">
+<span class="absolute left-0 top-1 text-[10px] font-mono text-slate-300 select-none group-hover/para:text-accent">04</span>
+<p class="font-serif text-base leading-relaxed text-slate-800 paragraph-hover p-2 -ml-2 rounded transition-colors duration-150">
+                            2. Học phí được thu theo tín chỉ hoặc theo tháng/năm học tùy thuộc vào đặc thù của từng chương trình đào tạo nhưng đảm bảo không vượt quá mức trần quy định.
+                        </p>
+</div>
+<!-- Paragraph 5 -->
+<div class="relative pl-8 mb-12 group/para">
+<span class="absolute left-0 top-1 text-[10px] font-mono text-slate-300 select-none group-hover/para:text-accent">05</span>
+<p class="font-serif text-base leading-relaxed text-slate-800 paragraph-hover p-2 -ml-2 rounded transition-colors duration-150">
+                            3. Đảm bảo công khai, minh bạch về mức thu, lộ trình tăng học phí cho người học và xã hội giám sát.
+                        </p>
+</div>
+</div>
+</div>
+</section>
+<!-- Drag Handle -->
+<div class="w-[1px] hover:w-[4px] bg-border hover:bg-accent cursor-col-resize transition-all duration-200 z-10 flex flex-col justify-center items-center group relative -ml-[0.5px]">
+<div class="h-8 w-1 bg-slate-300 rounded-full group-hover:bg-white absolute top-1/2 -translate-y-1/2"></div>
+</div>
+<!-- Right Pane (English) -->
+<section class="flex-1 flex flex-col min-w-[300px] bg-white relative group/pane-right">
+<!-- Pane Header -->
+<div class="h-[48px] border-b border-border bg-slate-50/50 flex items-center justify-between px-4 shrink-0">
+<div class="flex items-center gap-2">
+<div class="relative">
+<button class="flex items-center gap-2 pl-2 pr-1 py-1 bg-white border border-border rounded shadow-sm hover:border-accent/50 transition-colors">
+<span class="w-4 h-3 bg-blue-800 relative overflow-hidden inline-block shadow-sm flex items-center justify-center">
+<span class="block w-full h-[1px] bg-white absolute top-0 left-0"></span>
+<span class="block w-[1px] h-full bg-white absolute top-0 left-1/2 -translate-x-1/2"></span>
+<span class="block w-full h-[1px] bg-red-600 absolute top-0 left-0 rotate-12 origin-center scale-150 opacity-80"></span>
+<span class="block w-[1px] h-full bg-red-600 absolute top-0 left-1/2 -translate-x-1/2 rotate-12 origin-center scale-150 opacity-80"></span>
+</span>
+<span class="text-xs font-medium text-primary">English (Translated)</span>
+<span class="material-symbols-outlined text-[16px] text-text-muted">expand_more</span>
+</button>
+</div>
+<span class="text-[10px] text-emerald-600 bg-emerald-50 border border-emerald-100 px-1 rounded uppercase font-bold tracking-wider ml-2">Verified</span>
+</div>
+<div class="flex items-center gap-1">
+<button class="p-1 hover:bg-slate-200 rounded text-text-muted hover:text-primary transition-colors" title="View Source PDF">
+<span class="material-symbols-outlined text-[18px]">picture_as_pdf</span>
+</button>
+<button class="p-1 hover:bg-slate-200 rounded text-text-muted hover:text-primary transition-colors" title="Search in document">
+<span class="material-symbols-outlined text-[18px]">search</span>
+</button>
+<button class="p-1 hover:bg-slate-200 rounded text-text-muted hover:text-primary transition-colors" title="Text Settings">
+<span class="material-symbols-outlined text-[18px]">text_fields</span>
+</button>
+</div>
+</div>
+<!-- Pane Content -->
+<div class="flex-1 overflow-y-auto p-8 relative custom-scrollbar">
+<div class="max-w-[680px] mx-auto">
+<!-- Title in Doc -->
+<div class="mb-8 text-center border-b border-border pb-6 opacity-80">
+<p class="font-header font-bold text-xs uppercase text-text-muted mb-2 tracking-widest">Vietnam National University, Hanoi</p>
+<h2 class="font-bold text-2xl text-primary leading-tight mb-4 font-sans">Regulation<br/>On Undergraduate Tuition Fees for Academic Year 2024-2025</h2>
+<div class="flex justify-center gap-4 text-xs font-mono text-text-muted">
+<span>Ref: 89/QĐ-ĐHQGHN</span>
+<span>•</span>
+<span>Hanoi, January 15, 2024</span>
+</div>
+</div>
+<!-- Paragraph 1 -->
+<div class="relative pl-8 mb-6 group/para">
+<span class="absolute left-0 top-1 text-[10px] font-mono text-slate-300 select-none group-hover/para:text-accent">01</span>
+<p class="font-serif text-base leading-relaxed text-slate-800 paragraph-hover p-2 -ml-2 rounded transition-colors duration-150">
+<strong>Article 1. Scope and Subjects of Application</strong><br/>
+                            1. This document regulates tuition fees for full-time undergraduate, double degree, and international joint training programs at Vietnam National University, Hanoi (VNU).
+                        </p>
+</div>
+<!-- Paragraph 2 -->
+<div class="relative pl-8 mb-6 group/para">
+<span class="absolute left-0 top-1 text-[10px] font-mono text-slate-300 select-none group-hover/para:text-accent">02</span>
+<p class="font-serif text-base leading-relaxed text-slate-800 paragraph-hover p-2 -ml-2 rounded transition-colors duration-150">
+                            2. The subjects of application are students and learners studying at training units under and affiliated with VNU; related units, organizations, and individuals.
+                        </p>
+</div>
+<!-- Paragraph 3 (Sync Highlight Match) -->
+<div class="relative pl-8 mb-6 group/para">
+<span class="absolute left-0 top-1 text-[10px] font-mono text-accent select-none font-bold">03</span>
+<!-- Highlighted State Simulation -->
+<div class="absolute -left-4 top-0 bottom-0 w-1 bg-accent/30 rounded-full opacity-100 border-l border-white"></div>
+<p class="font-serif text-base leading-relaxed text-slate-900 sync-highlight p-2 -ml-2 rounded transition-colors duration-150 border border-yellow-200/50 shadow-sm">
+<strong>Article 2. Principles of Tuition Determination</strong><br/>
+                            1. Tuition fees are determined based on economic-technical norms and a roadmap for full cost calculation as prescribed by the Government and VNU.
+                        </p>
+</div>
+<!-- Paragraph 4 -->
+<div class="relative pl-8 mb-6 group/para">
+<span class="absolute left-0 top-1 text-[10px] font-mono text-slate-300 select-none group-hover/para:text-accent">04</span>
+<p class="font-serif text-base leading-relaxed text-slate-800 paragraph-hover p-2 -ml-2 rounded transition-colors duration-150">
+                            2. Tuition fees are collected by credit or by month/academic year depending on the specifics of each training program but ensuring they do not exceed the prescribed ceiling level.
+                        </p>
+</div>
+<!-- Paragraph 5 -->
+<div class="relative pl-8 mb-12 group/para">
+<span class="absolute left-0 top-1 text-[10px] font-mono text-slate-300 select-none group-hover/para:text-accent">05</span>
+<p class="font-serif text-base leading-relaxed text-slate-800 paragraph-hover p-2 -ml-2 rounded transition-colors duration-150">
+                            3. Ensure publicity and transparency regarding tuition rates and the roadmap for tuition increases for learners and society to supervise.
+                        </p>
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- Floating Helper / Toast Area (Bottom Right) -->
+<div class="absolute bottom-6 right-6 z-50 flex flex-col gap-2">
+<div class="bg-primary text-white text-xs px-4 py-3 rounded shadow-lg border border-slate-700 flex items-center gap-3 animate-pulse">
+<span class="material-symbols-outlined text-[16px] text-accent">sync</span>
+<div class="flex flex-col">
+<span class="font-semibold">Scroll Sync Active</span>
+<span class="text-slate-400 text-[10px]">Paragraphs aligned by index</span>
+</div>
+</div>
+</div>
+</body></html>

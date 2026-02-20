@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>VNU Research Hub - Discovery</title>
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=JetBrains+Mono:wght@400;500&amp;family=Space+Grotesk:wght@500;600;700&amp;display=swap" rel="stylesheet"/>
+<!-- Material Symbols -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "vnu-blue": "#0054A6",
+                        "bg-canvas": "#F4F6F8",
+                        "surface-white": "#FFFFFF",
+                        "text-main": "#111827",
+                        "text-muted": "#6B7280",
+                        "accent-urgent": "#DC2626",
+                        "accent-new": "#10B981",
+                    },
+                    fontFamily: {
+                        "display": ["Space Grotesk", "sans-serif"],
+                        "body": ["Inter", "sans-serif"],
+                        "mono": ["JetBrains Mono", "monospace"],
+                    },
+                    boxShadow: {
+                        'soft': '0 1px 3px rgba(0,0,0,0.05), 0 10px 25px -5px rgba(0,0,0,0.05)',
+                        'hover': '0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)',
+                    }
+                },
+            },
+        }
+    </script>
+<style>
+        /* Custom Utilities */
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+<body class="bg-bg-canvas text-text-main font-body min-h-screen flex flex-col antialiased selection:bg-vnu-blue/20 selection:text-vnu-blue">
+<!-- Navigation -->
+<nav class="sticky top-0 z-50 w-full bg-white/80 backdrop-blur-md border-b border-gray-200">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="flex justify-between items-center h-16">
+<!-- Logo Area -->
+<div class="flex items-center gap-3">
+<div class="w-8 h-8 rounded bg-vnu-blue flex items-center justify-center text-white font-display font-bold text-lg">
+                        V
+                    </div>
+<span class="font-display font-bold text-lg tracking-tight text-vnu-blue">VNU Research Hub</span>
+</div>
+<!-- Right Actions -->
+<div class="flex items-center gap-4">
+<button class="p-2 text-text-muted hover:text-vnu-blue transition-colors rounded-full hover:bg-gray-100">
+<span class="material-symbols-outlined">notifications</span>
+</button>
+<div class="h-8 w-8 rounded-full bg-gray-200 overflow-hidden border border-gray-200 cursor-pointer">
+<img alt="User profile avatar showing a smiling man" class="h-full w-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBkZ19mRmeM6nFHTqM4UtadZ5HxDl1Jgmh09scIIuxoxc7P5aefMv6FUCFNVpFzL9KttOR3AaiRSTl98DE2MxXuzLCeqn8rQvHnu5XyVNKYEe9yUWtDVcHkvMrSiScNpZ7pBTf2gfAROGMzVH_lleemeDsQ_6oqvKfo-Tc1vipwDce0h7Rceax4ZmGddNFjj6X5ptnHIXbEgG7UMqX_CusWu4TbrAblgYGHz08Lz5iKAcZnRHJcop-XJ9e5Au6__mb_uSh1cvIV-mvw"/>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<!-- Main Content -->
+<main class="flex-grow flex flex-col">
+<!-- Hero Section -->
+<section class="relative pt-16 pb-12 px-4 sm:px-6 lg:px-8 flex flex-col items-center justify-center text-center bg-gradient-to-b from-white to-bg-canvas border-b border-gray-200/50">
+<!-- Hero Content -->
+<div class="w-full max-w-4xl mx-auto space-y-8 relative z-10">
+<!-- Headline -->
+<div class="space-y-4 animate-fade-in-up">
+<div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-vnu-blue/5 text-vnu-blue text-xs font-semibold uppercase tracking-wider border border-vnu-blue/10">
+<span class="w-2 h-2 rounded-full bg-vnu-blue animate-pulse"></span>
+                        Administrative Intelligence
+                    </div>
+<h1 class="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-text-main tracking-tight leading-[1.1]">
+                        Search the VNU<br/>Administrative Archive
+                    </h1>
+<p class="text-lg text-text-muted max-w-2xl mx-auto font-light">
+                        Instant clarity on regulations, circulars, and academic decrees.
+                    </p>
+</div>
+<!-- Search Component -->
+<div class="relative max-w-[600px] w-full mx-auto group">
+<div class="absolute -inset-1 bg-gradient-to-r from-vnu-blue/20 to-cyan-500/20 rounded-[24px] blur opacity-25 group-hover:opacity-50 transition duration-500"></div>
+<div class="relative bg-white rounded-[20px] shadow-soft flex items-center p-2 focus-within:shadow-xl focus-within:ring-2 focus-within:ring-vnu-blue/20 transition-all duration-300 transform group-hover:-translate-y-0.5">
+<div class="pl-4 text-text-muted">
+<span class="material-symbols-outlined text-[28px]">search</span>
+</div>
+<input class="w-full h-12 px-4 bg-transparent border-none text-lg text-text-main placeholder-text-muted focus:ring-0 font-body" placeholder="Search by ID, keyword, or department..." type="text"/>
+<div class="hidden sm:flex items-center pr-2 gap-2 text-xs text-gray-400 font-mono">
+<span class="border border-gray-200 rounded px-1.5 py-0.5 bg-gray-50">⌘K</span>
+</div>
+<button class="bg-vnu-blue hover:bg-blue-700 text-white p-3 rounded-2xl transition-colors duration-200 flex items-center justify-center shadow-lg shadow-vnu-blue/20">
+<span class="material-symbols-outlined text-[20px]">arrow_forward</span>
+</button>
+</div>
+</div>
+<!-- Quick Filters -->
+<div class="flex flex-wrap justify-center gap-2 pt-2">
+<span class="text-sm text-text-muted py-1.5">Trending:</span>
+<button class="px-3 py-1.5 bg-white border border-gray-200 hover:border-vnu-blue/30 hover:bg-vnu-blue/5 text-sm font-medium text-text-muted hover:text-vnu-blue rounded-full transition-all duration-200 shadow-sm">
+                        Academic Affairs
+                    </button>
+<button class="px-3 py-1.5 bg-white border border-gray-200 hover:border-vnu-blue/30 hover:bg-vnu-blue/5 text-sm font-medium text-text-muted hover:text-vnu-blue rounded-full transition-all duration-200 shadow-sm">
+                        Scholarships 2024
+                    </button>
+<button class="px-3 py-1.5 bg-white border border-gray-200 hover:border-vnu-blue/30 hover:bg-vnu-blue/5 text-sm font-medium text-text-muted hover:text-vnu-blue rounded-full transition-all duration-200 shadow-sm">
+                        Dormitory Rules
+                    </button>
+<button class="px-3 py-1.5 bg-white border border-gray-200 hover:border-vnu-blue/30 hover:bg-vnu-blue/5 text-sm font-medium text-text-muted hover:text-vnu-blue rounded-full transition-all duration-200 shadow-sm">
+                        Tuition Fees
+                    </button>
+</div>
+</div>
+<!-- Decorative abstract background -->
+<div class="absolute top-0 inset-x-0 h-full overflow-hidden -z-10 pointer-events-none opacity-40">
+<div class="absolute left-[calc(50%-15rem)] top-10 h-[40rem] w-[50rem] origin-top-left -rotate-12 rounded-full bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-10 blur-3xl sm:left-[calc(50%-30rem)]"></div>
+<div class="absolute right-[calc(50%-20rem)] top-20 h-[30rem] w-[40rem] origin-top-right rotate-12 rounded-full bg-gradient-to-tr from-[#0054A6] to-[#00C2FF] opacity-10 blur-3xl"></div>
+</div>
+</section>
+<!-- Recent Updates Grid -->
+<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full">
+<div class="flex items-center justify-between mb-8">
+<h2 class="font-display text-2xl font-bold text-text-main flex items-center gap-2">
+<span class="material-symbols-outlined text-vnu-blue">history_edu</span>
+                    Recent Circulars
+                </h2>
+<a class="group flex items-center gap-1 text-sm font-semibold text-vnu-blue hover:text-blue-700 transition-colors" href="#">
+                    View all archive
+                    <span class="material-symbols-outlined text-[16px] group-hover:translate-x-0.5 transition-transform">arrow_forward</span>
+</a>
+</div>
+<!-- Masonry Grid Layout -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+<!-- Card 1: Urgent -->
+<article class="group bg-white rounded-xl border border-gray-200 p-6 shadow-soft hover:shadow-hover hover:-translate-y-1 transition-all duration-300 flex flex-col h-full relative overflow-hidden">
+<div class="absolute top-0 left-0 w-1 h-full bg-accent-urgent"></div>
+<div class="flex justify-between items-start mb-4">
+<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-bold bg-red-50 text-accent-urgent border border-red-100">
+                            URGENT
+                        </span>
+<time class="text-xs text-text-muted font-mono bg-gray-50 px-2 py-1 rounded">OCT 24, 2024</time>
+</div>
+<h3 class="font-display text-lg font-bold text-text-main mb-2 group-hover:text-vnu-blue transition-colors">
+                        Tuition Fee Adjustment &amp; Waiver Policy 2024-2025
+                    </h3>
+<p class="text-text-muted text-sm leading-relaxed mb-6 line-clamp-2">
+                        Official decree regarding the new tuition framework for undergraduate programs and updated waiver criteria for remote provinces.
+                    </p>
+<div class="mt-auto pt-4 border-t border-gray-100 flex items-center justify-between">
+<div class="flex items-center gap-2">
+<div class="w-6 h-6 rounded-full bg-blue-50 flex items-center justify-center text-vnu-blue">
+<span class="material-symbols-outlined text-[14px]">account_balance</span>
+</div>
+<span class="text-xs font-medium text-text-main">Financial Affairs</span>
+</div>
+<span class="text-[10px] font-mono text-gray-400">DOC-2024-882</span>
+</div>
+</article>
+<!-- Card 2: Standard -->
+<article class="group bg-white rounded-xl border border-gray-200 p-6 shadow-soft hover:shadow-hover hover:-translate-y-1 transition-all duration-300 flex flex-col h-full">
+<div class="flex justify-between items-start mb-4">
+<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-50 text-vnu-blue border border-blue-100">
+                            Regulation
+                        </span>
+<time class="text-xs text-text-muted font-mono bg-gray-50 px-2 py-1 rounded">OCT 22, 2024</time>
+</div>
+<h3 class="font-display text-lg font-bold text-text-main mb-2 group-hover:text-vnu-blue transition-colors">
+                        Circular 04: Guidelines for Scientific Research Grants
+                    </h3>
+<p class="text-text-muted text-sm leading-relaxed mb-6 line-clamp-2">
+                        Updated protocols for faculty grant applications, including new budget allocation limits and submission deadlines for Q4.
+                    </p>
+<div class="mt-auto pt-4 border-t border-gray-100 flex items-center justify-between">
+<div class="flex items-center gap-2">
+<div class="w-6 h-6 rounded-full bg-purple-50 flex items-center justify-center text-purple-600">
+<span class="material-symbols-outlined text-[14px]">science</span>
+</div>
+<span class="text-xs font-medium text-text-main">Science Dept.</span>
+</div>
+<span class="text-[10px] font-mono text-gray-400">RES-04-2024</span>
+</div>
+</article>
+<!-- Card 3: New -->
+<article class="group bg-white rounded-xl border border-gray-200 p-6 shadow-soft hover:shadow-hover hover:-translate-y-1 transition-all duration-300 flex flex-col h-full">
+<div class="flex justify-between items-start mb-4">
+<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-emerald-50 text-accent-new border border-emerald-100">
+                            New Announcement
+                        </span>
+<time class="text-xs text-text-muted font-mono bg-gray-50 px-2 py-1 rounded">OCT 20, 2024</time>
+</div>
+<h3 class="font-display text-lg font-bold text-text-main mb-2 group-hover:text-vnu-blue transition-colors">
+                        Holiday Schedule: Lunar New Year 2025
+                    </h3>
+<p class="text-text-muted text-sm leading-relaxed mb-6 line-clamp-2">
+                        Administrative closing dates and campus facility access hours during the upcoming Tet holiday period.
+                    </p>
+<div class="mt-auto pt-4 border-t border-gray-100 flex items-center justify-between">
+<div class="flex items-center gap-2">
+<div class="w-6 h-6 rounded-full bg-gray-100 flex items-center justify-center text-gray-600">
+<span class="material-symbols-outlined text-[14px]">calendar_month</span>
+</div>
+<span class="text-xs font-medium text-text-main">Admin Office</span>
+</div>
+<span class="text-[10px] font-mono text-gray-400">ADM-HOL-25</span>
+</div>
+</article>
+<!-- Card 4: Standard -->
+<article class="group bg-white rounded-xl border border-gray-200 p-6 shadow-soft hover:shadow-hover hover:-translate-y-1 transition-all duration-300 flex flex-col h-full">
+<div class="flex justify-between items-start mb-4">
+<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-orange-50 text-orange-600 border border-orange-100">
+                            Opportunity
+                        </span>
+<time class="text-xs text-text-muted font-mono bg-gray-50 px-2 py-1 rounded">OCT 18, 2024</time>
+</div>
+<h3 class="font-display text-lg font-bold text-text-main mb-2 group-hover:text-vnu-blue transition-colors">
+                        Exchange Program Opportunities: Japan &amp; Korea
+                    </h3>
+<p class="text-text-muted text-sm leading-relaxed mb-6 line-clamp-2">
+                        Open call for student applications for the Spring 2025 semester exchange programs with partner universities in Tokyo and Seoul.
+                    </p>
+<div class="mt-auto pt-4 border-t border-gray-100 flex items-center justify-between">
+<div class="flex items-center gap-2">
+<div class="w-6 h-6 rounded-full bg-orange-50 flex items-center justify-center text-orange-600">
+<span class="material-symbols-outlined text-[14px]">public</span>
+</div>
+<span class="text-xs font-medium text-text-main">Intl. Relations</span>
+</div>
+<span class="text-[10px] font-mono text-gray-400">EXC-JP-KR</span>
+</div>
+</article>
+<!-- Card 5: Standard -->
+<article class="group bg-white rounded-xl border border-gray-200 p-6 shadow-soft hover:shadow-hover hover:-translate-y-1 transition-all duration-300 flex flex-col h-full">
+<div class="flex justify-between items-start mb-4">
+<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-50 text-vnu-blue border border-blue-100">
+                            Directive
+                        </span>
+<time class="text-xs text-text-muted font-mono bg-gray-50 px-2 py-1 rounded">OCT 15, 2024</time>
+</div>
+<h3 class="font-display text-lg font-bold text-text-main mb-2 group-hover:text-vnu-blue transition-colors">
+                        Implementation of Digital Student ID Cards
+                    </h3>
+<p class="text-text-muted text-sm leading-relaxed mb-6 line-clamp-2">
+                        Instructions for all students to update their profile photos and verify personal data for the rollout of the new digital ID system.
+                    </p>
+<div class="mt-auto pt-4 border-t border-gray-100 flex items-center justify-between">
+<div class="flex items-center gap-2">
+<div class="w-6 h-6 rounded-full bg-teal-50 flex items-center justify-center text-teal-600">
+<span class="material-symbols-outlined text-[14px]">badge</span>
+</div>
+<span class="text-xs font-medium text-text-main">Student Affairs</span>
+</div>
+<span class="text-[10px] font-mono text-gray-400">STU-ID-24</span>
+</div>
+</article>
+<!-- Card 6: Standard -->
+<article class="group bg-white rounded-xl border border-gray-200 p-6 shadow-soft hover:shadow-hover hover:-translate-y-1 transition-all duration-300 flex flex-col h-full">
+<div class="flex justify-between items-start mb-4">
+<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-600 border border-gray-200">
+                            Archive
+                        </span>
+<time class="text-xs text-text-muted font-mono bg-gray-50 px-2 py-1 rounded">OCT 12, 2024</time>
+</div>
+<h3 class="font-display text-lg font-bold text-text-main mb-2 group-hover:text-vnu-blue transition-colors">
+                        Dormitory Safety Regulations 2024
+                    </h3>
+<p class="text-text-muted text-sm leading-relaxed mb-6 line-clamp-2">
+                        Comprehensive safety guidelines for all dormitory residents, covering fire safety, visitor policies, and curfew enforcement.
+                    </p>
+<div class="mt-auto pt-4 border-t border-gray-100 flex items-center justify-between">
+<div class="flex items-center gap-2">
+<div class="w-6 h-6 rounded-full bg-yellow-50 flex items-center justify-center text-yellow-600">
+<span class="material-symbols-outlined text-[14px]">apartment</span>
+</div>
+<span class="text-xs font-medium text-text-main">Housing Board</span>
+</div>
+<span class="text-[10px] font-mono text-gray-400">HSG-REG-24</span>
+</div>
+</article>
+</div>
+</section>
+</main>
+<!-- Simple Footer -->
+<footer class="bg-white border-t border-gray-200 mt-auto">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex flex-col md:flex-row items-center justify-between gap-4">
+<div class="flex items-center gap-2 opacity-60">
+<div class="w-6 h-6 rounded bg-gray-800 flex items-center justify-center text-white font-display font-bold text-xs">
+                    V
+                </div>
+<span class="font-body text-sm text-text-muted">© 2024 Vietnam National University</span>
+</div>
+<div class="flex gap-6 text-sm text-text-muted font-medium">
+<a class="hover:text-vnu-blue transition-colors" href="#">Privacy Policy</a>
+<a class="hover:text-vnu-blue transition-colors" href="#">Terms of Service</a>
+<a class="hover:text-vnu-blue transition-colors" href="#">Help Center</a>
+</div>
+</div>
+</footer>
+</body></html>

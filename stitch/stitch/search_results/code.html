@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Modern Research Hub - Search Results</title>
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet"/>
+<!-- Material Symbols -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<!-- Theme Config -->
+<script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#0054A6", // VNU Blue
+                        "background-light": "#F4F6F8", // Cool grey
+                        "surface": "#FFFFFF",
+                        "text-main": "#111827",
+                        "muted": "#6B7280",
+                        "accent": "#DC2626", // Urgent
+                        "success": "#10B981", // New
+                    },
+                    fontFamily: {
+                        "sans": ["Inter", "sans-serif"],
+                        "display": ["Space Grotesk", "sans-serif"],
+                        "mono": ["JetBrains Mono", "monospace"],
+                    },
+                    boxShadow: {
+                        'subtle': '0 1px 3px rgba(0,0,0,0.05), 0 10px 25px -5px rgba(0,0,0,0.05)',
+                    }
+                },
+            },
+        }
+    </script>
+</head>
+<body class="bg-background-light text-text-main font-sans min-h-screen flex flex-col">
+<!-- Header -->
+<header class="sticky top-0 z-50 bg-white border-b border-gray-200">
+<div class="max-w-[1440px] mx-auto px-6 h-16 flex items-center justify-between">
+<div class="flex items-center gap-4">
+<a class="flex items-center gap-3 group" href="#">
+<div class="size-8 text-primary">
+<svg class="w-full h-full" fill="none" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M24 18.4228L42 11.475V34.3663C42 34.7796 41.7457 35.1504 41.3601 35.2992L24 42V18.4228Z" fill="currentColor" fill-rule="evenodd"></path>
+<path clip-rule="evenodd" d="M24 8.18819L33.4123 11.574L24 15.2071L14.5877 11.574L24 8.18819ZM9 15.8487L21 20.4805V37.6263L9 32.9945V15.8487ZM27 37.6263V20.4805L39 15.8487V32.9945L27 37.6263ZM25.354 2.29885C24.4788 1.98402 23.5212 1.98402 22.646 2.29885L4.98454 8.65208C3.7939 9.08038 3 10.2097 3 11.475V34.3663C3 36.0196 4.01719 37.5026 5.55962 38.098L22.9197 44.7987C23.6149 45.0671 24.3851 45.0671 25.0803 44.7987L42.4404 38.098C43.9828 37.5026 45 36.0196 45 34.3663V11.475C45 10.2097 44.2061 9.08038 43.0155 8.65208L25.354 2.29885Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg>
+</div>
+<span class="font-display font-bold text-lg tracking-tight text-gray-900 group-hover:text-primary transition-colors">Modern Research Hub</span>
+</a>
+</div>
+<div class="flex items-center gap-4">
+<button class="p-2 text-gray-500 hover:text-primary transition-colors rounded-full hover:bg-gray-50">
+<span class="material-symbols-outlined text-[24px]">notifications</span>
+</button>
+<div class="h-8 w-px bg-gray-200"></div>
+<button class="flex items-center gap-3 hover:bg-gray-50 p-1 pr-3 rounded-full transition-colors">
+<div class="size-8 rounded-full bg-gray-200 bg-center bg-cover border border-gray-200" data-alt="User profile avatar placeholder" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDfmi884xhBfVVY7tAN5xl1Zt3MxlJCUc_nBWTh9YVWGBAY9DRXOkbIPYHdkftOWcAJZhDlzu3JJp5Pfr3Kg-WKceQe-TO1iH3O8DwntyHZ2LuXcABhFJ3Y8oN-3F8YFdGSGlkCO75ue6xriCRKGFYKjax6W2ceIOfkmlmwPvitMTi0ozlbah00VxiSRU6w2emYz9tRaWEqwH1SdjVq4r5I6r9Rzqo9Atf1LQjRNAhCZ1ND828om_FIXacTCyX2ThoisiUYV8TS2pSa');"></div>
+<span class="text-sm font-medium text-gray-700 hidden sm:block">Dr. Nguyen</span>
+<span class="material-symbols-outlined text-[18px] text-gray-400">expand_more</span>
+</button>
+</div>
+</div>
+</header>
+<main class="flex-1 max-w-[1440px] mx-auto w-full px-6 py-8 flex flex-col lg:flex-row gap-8">
+<!-- Sidebar Filters -->
+<aside class="w-full lg:w-[280px] shrink-0 space-y-8">
+<div class="flex items-center justify-between lg:hidden mb-4">
+<h2 class="font-display font-semibold text-xl">Filters</h2>
+<button class="text-primary font-medium text-sm">Reset</button>
+</div>
+<!-- Department Filter -->
+<div class="bg-white rounded-xl shadow-subtle p-5 border border-gray-200">
+<div class="flex items-center justify-between mb-4">
+<h3 class="font-display font-semibold text-base text-gray-900">Department</h3>
+<span class="material-symbols-outlined text-gray-400 text-[20px]">apartment</span>
+</div>
+<div class="space-y-3">
+<label class="flex items-center gap-3 cursor-pointer group">
+<input checked="" class="size-4 rounded border-gray-300 text-primary focus:ring-primary/20" type="checkbox"/>
+<span class="text-sm text-gray-700 group-hover:text-primary transition-colors">Financial Affairs</span>
+<span class="ml-auto text-xs text-gray-400 font-mono">12</span>
+</label>
+<label class="flex items-center gap-3 cursor-pointer group">
+<input class="size-4 rounded border-gray-300 text-primary focus:ring-primary/20" type="checkbox"/>
+<span class="text-sm text-gray-700 group-hover:text-primary transition-colors">Student Support</span>
+<span class="ml-auto text-xs text-gray-400 font-mono">8</span>
+</label>
+<label class="flex items-center gap-3 cursor-pointer group">
+<input class="size-4 rounded border-gray-300 text-primary focus:ring-primary/20" type="checkbox"/>
+<span class="text-sm text-gray-700 group-hover:text-primary transition-colors">Academic Affairs</span>
+<span class="ml-auto text-xs text-gray-400 font-mono">24</span>
+</label>
+<label class="flex items-center gap-3 cursor-pointer group">
+<input class="size-4 rounded border-gray-300 text-primary focus:ring-primary/20" type="checkbox"/>
+<span class="text-sm text-gray-700 group-hover:text-primary transition-colors">International Relations</span>
+<span class="ml-auto text-xs text-gray-400 font-mono">5</span>
+</label>
+<button class="text-primary text-sm font-medium mt-2 hover:underline">+ Show more</button>
+</div>
+</div>
+<!-- Document Type Filter -->
+<div class="bg-white rounded-xl shadow-subtle p-5 border border-gray-200">
+<div class="flex items-center justify-between mb-4">
+<h3 class="font-display font-semibold text-base text-gray-900">Document Type</h3>
+<span class="material-symbols-outlined text-gray-400 text-[20px]">description</span>
+</div>
+<div class="space-y-3">
+<label class="flex items-center gap-3 cursor-pointer group">
+<input checked="" class="size-4 rounded border-gray-300 text-primary focus:ring-primary/20" type="checkbox"/>
+<span class="text-sm text-gray-700 group-hover:text-primary transition-colors">Regulations</span>
+</label>
+<label class="flex items-center gap-3 cursor-pointer group">
+<input class="size-4 rounded border-gray-300 text-primary focus:ring-primary/20" type="checkbox"/>
+<span class="text-sm text-gray-700 group-hover:text-primary transition-colors">Circulars</span>
+</label>
+<label class="flex items-center gap-3 cursor-pointer group">
+<input class="size-4 rounded border-gray-300 text-primary focus:ring-primary/20" type="checkbox"/>
+<span class="text-sm text-gray-700 group-hover:text-primary transition-colors">Announcements</span>
+</label>
+<label class="flex items-center gap-3 cursor-pointer group">
+<input class="size-4 rounded border-gray-300 text-primary focus:ring-primary/20" type="checkbox"/>
+<span class="text-sm text-gray-700 group-hover:text-primary transition-colors">Forms</span>
+</label>
+</div>
+</div>
+<!-- Date Range Filter -->
+<div class="bg-white rounded-xl shadow-subtle p-5 border border-gray-200">
+<div class="flex items-center justify-between mb-4">
+<h3 class="font-display font-semibold text-base text-gray-900">Date Range</h3>
+<span class="material-symbols-outlined text-gray-400 text-[20px]">calendar_today</span>
+</div>
+<div class="space-y-3">
+<div class="grid grid-cols-2 gap-2">
+<div>
+<label class="text-xs text-gray-500 mb-1 block">From</label>
+<input class="w-full text-sm border-gray-300 rounded-lg focus:ring-primary focus:border-primary text-gray-700" type="date"/>
+</div>
+<div>
+<label class="text-xs text-gray-500 mb-1 block">To</label>
+<input class="w-full text-sm border-gray-300 rounded-lg focus:ring-primary focus:border-primary text-gray-700" type="date"/>
+</div>
+</div>
+<div class="pt-2 flex flex-wrap gap-2">
+<button class="px-3 py-1 bg-gray-100 hover:bg-gray-200 text-xs font-medium rounded-full text-gray-600 transition-colors">2024</button>
+<button class="px-3 py-1 bg-gray-100 hover:bg-gray-200 text-xs font-medium rounded-full text-gray-600 transition-colors">Last 30 days</button>
+</div>
+</div>
+</div>
+</aside>
+<!-- Main Results Area -->
+<div class="flex-1 min-w-0">
+<!-- Top Bar: Search & Meta -->
+<div class="sticky top-20 z-30 bg-background-light/95 backdrop-blur-sm pb-4 pt-2">
+<div class="flex flex-col sm:flex-row gap-4 mb-6">
+<div class="relative flex-1">
+<div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+<span class="material-symbols-outlined text-gray-400 text-[24px]">search</span>
+</div>
+<input class="block w-full pl-12 pr-4 py-3 border-gray-200 rounded-xl bg-white shadow-sm focus:ring-2 focus:ring-primary/20 focus:border-primary text-base placeholder-gray-400" placeholder="Search by ID, keyword, or department..." type="text" value="Tuition Regulations"/>
+</div>
+<div class="flex items-center gap-2">
+<select class="form-select border-gray-200 rounded-xl bg-white shadow-sm py-3 pl-4 pr-10 text-sm focus:ring-primary/20 focus:border-primary cursor-pointer">
+<option>Relevance</option>
+<option>Newest first</option>
+<option>Oldest first</option>
+</select>
+<button class="p-3 bg-white border border-gray-200 rounded-xl shadow-sm text-gray-600 hover:text-primary hover:border-primary transition-colors lg:hidden">
+<span class="material-symbols-outlined text-[24px]">filter_list</span>
+</button>
+</div>
+</div>
+<!-- Active Filters & Count -->
+<div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-gray-200 pb-4">
+<div class="flex flex-wrap items-center gap-2">
+<span class="text-sm font-medium text-gray-500 mr-2">Showing 24 results</span>
+<div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-primary/10 text-primary border border-primary/20 text-sm font-medium">
+                            Financial Affairs
+                            <button class="hover:bg-primary/20 rounded-full p-0.5 transition-colors">
+<span class="material-symbols-outlined text-[16px]">close</span>
+</button>
+</div>
+<div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-primary/10 text-primary border border-primary/20 text-sm font-medium">
+                            Regulations
+                            <button class="hover:bg-primary/20 rounded-full p-0.5 transition-colors">
+<span class="material-symbols-outlined text-[16px]">close</span>
+</button>
+</div>
+<button class="text-sm text-gray-500 hover:text-primary font-medium ml-1">Clear all</button>
+</div>
+</div>
+</div>
+<!-- Results List -->
+<div class="space-y-4 pb-12">
+<!-- Result Item 1 -->
+<article class="bg-white rounded-xl p-5 shadow-subtle border border-gray-200 hover:shadow-md hover:border-primary/30 transition-all cursor-pointer group flex flex-col sm:flex-row gap-5">
+<!-- Left: ID -->
+<div class="shrink-0 flex sm:flex-col items-center sm:items-start gap-3 sm:w-32">
+<span class="inline-flex items-center px-2.5 py-1 rounded bg-gray-100 text-gray-600 font-mono text-xs font-medium border border-gray-200 group-hover:bg-primary/5 group-hover:text-primary group-hover:border-primary/20 transition-colors">
+                            FIN-2024-01
+                        </span>
+<div class="flex items-center gap-1.5 text-xs text-gray-500">
+<span class="material-symbols-outlined text-[16px]">calendar_month</span>
+<span>Oct 24, 2024</span>
+</div>
+</div>
+<!-- Center: Content -->
+<div class="flex-1 space-y-2">
+<div class="flex items-start justify-between gap-4">
+<h3 class="text-lg font-display font-semibold text-gray-900 group-hover:text-primary transition-colors leading-tight">
+                                Regulation on 2024-2025 Academic Year <span class="bg-yellow-100 text-gray-900 px-1 rounded">Tuition</span> Adjustment
+                            </h3>
+<!-- Mobile-only badges move here or stay hidden -->
+</div>
+<p class="text-sm text-gray-600 leading-relaxed line-clamp-2">
+                            ...regarding the adjustment of undergraduate <span class="font-semibold text-gray-900">tuition</span> fees for the 2024-2025 academic year. This regulation applies to all full-time students enrolled in VNU member universities...
+                        </p>
+<div class="flex items-center flex-wrap gap-4 pt-2">
+<div class="flex items-center gap-1.5 text-xs font-medium text-gray-500">
+<span class="material-symbols-outlined text-[18px] text-gray-400">account_balance</span>
+                                Financial Affairs Dept.
+                             </div>
+<!-- Tags -->
+<div class="flex items-center gap-2 ml-auto">
+<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-blue-50 text-blue-700 border border-blue-100">VN</span>
+<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-emerald-50 text-emerald-700 border border-emerald-100">EN</span>
+</div>
+</div>
+</div>
+</article>
+<!-- Result Item 2 (Urgent) -->
+<article class="bg-white rounded-xl p-5 shadow-subtle border border-l-4 border-gray-200 border-l-accent hover:shadow-md transition-all cursor-pointer group flex flex-col sm:flex-row gap-5 relative overflow-hidden">
+<!-- Urgent Indicator Background (Subtle) -->
+<div class="absolute top-0 right-0 p-2 opacity-5">
+<span class="material-symbols-outlined text-[80px] text-accent">warning</span>
+</div>
+<div class="shrink-0 flex sm:flex-col items-center sm:items-start gap-3 sm:w-32">
+<span class="inline-flex items-center px-2.5 py-1 rounded bg-red-50 text-accent font-mono text-xs font-medium border border-red-100">
+                            STU-2024-99
+                        </span>
+<div class="flex items-center gap-1.5 text-xs text-gray-500">
+<span class="material-symbols-outlined text-[16px]">calendar_month</span>
+<span>Oct 22, 2024</span>
+</div>
+</div>
+<div class="flex-1 space-y-2 relative z-10">
+<div class="flex items-start justify-between gap-4">
+<div class="flex items-center gap-3">
+<h3 class="text-lg font-display font-semibold text-gray-900 group-hover:text-primary transition-colors leading-tight">
+                                    Deadline Extension for Scholarship Applications
+                                </h3>
+<span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-red-100 text-red-700 text-[10px] font-bold uppercase tracking-wider">
+                                    Urgent
+                                </span>
+</div>
+</div>
+<p class="text-sm text-gray-600 leading-relaxed line-clamp-2">
+                            Due to technical maintenance on the portal, the deadline for merit-based scholarship applications has been extended. <span class="font-semibold text-gray-900">Tuition</span> waiver requests must be submitted separately.
+                        </p>
+<div class="flex items-center flex-wrap gap-4 pt-2">
+<div class="flex items-center gap-1.5 text-xs font-medium text-gray-500">
+<span class="material-symbols-outlined text-[18px] text-gray-400">school</span>
+                                Student Affairs
+                             </div>
+<div class="flex items-center gap-2 ml-auto">
+<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-blue-50 text-blue-700 border border-blue-100">VN</span>
+</div>
+</div>
+</div>
+</article>
+<!-- Result Item 3 -->
+<article class="bg-white rounded-xl p-5 shadow-subtle border border-gray-200 hover:shadow-md hover:border-primary/30 transition-all cursor-pointer group flex flex-col sm:flex-row gap-5">
+<div class="shrink-0 flex sm:flex-col items-center sm:items-start gap-3 sm:w-32">
+<span class="inline-flex items-center px-2.5 py-1 rounded bg-gray-100 text-gray-600 font-mono text-xs font-medium border border-gray-200 group-hover:bg-primary/5 group-hover:text-primary group-hover:border-primary/20 transition-colors">
+                            FAC-2023-12
+                        </span>
+<div class="flex items-center gap-1.5 text-xs text-gray-500">
+<span class="material-symbols-outlined text-[16px]">calendar_month</span>
+<span>Dec 15, 2023</span>
+</div>
+</div>
+<div class="flex-1 space-y-2">
+<h3 class="text-lg font-display font-semibold text-gray-900 group-hover:text-primary transition-colors leading-tight">
+                            Campus Safety Protocols during Construction
+                        </h3>
+<p class="text-sm text-gray-600 leading-relaxed line-clamp-2">
+                            Guidelines for navigating Building C during the renovation period. Includes updated map for accessible routes and emergency exits.
+                        </p>
+<div class="flex items-center flex-wrap gap-4 pt-2">
+<div class="flex items-center gap-1.5 text-xs font-medium text-gray-500">
+<span class="material-symbols-outlined text-[18px] text-gray-400">engineering</span>
+                                Facilities
+                             </div>
+<div class="flex items-center gap-2 ml-auto">
+<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-blue-50 text-blue-700 border border-blue-100">VN</span>
+<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-emerald-50 text-emerald-700 border border-emerald-100">EN</span>
+<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-purple-50 text-purple-700 border border-purple-100">JP</span>
+</div>
+</div>
+</div>
+</article>
+<!-- Result Item 4 -->
+<article class="bg-white rounded-xl p-5 shadow-subtle border border-gray-200 hover:shadow-md hover:border-primary/30 transition-all cursor-pointer group flex flex-col sm:flex-row gap-5">
+<div class="shrink-0 flex sm:flex-col items-center sm:items-start gap-3 sm:w-32">
+<span class="inline-flex items-center px-2.5 py-1 rounded bg-gray-100 text-gray-600 font-mono text-xs font-medium border border-gray-200 group-hover:bg-primary/5 group-hover:text-primary group-hover:border-primary/20 transition-colors">
+                            FIN-2023-88
+                        </span>
+<div class="flex items-center gap-1.5 text-xs text-gray-500">
+<span class="material-symbols-outlined text-[16px]">calendar_month</span>
+<span>Nov 02, 2023</span>
+</div>
+</div>
+<div class="flex-1 space-y-2">
+<h3 class="text-lg font-display font-semibold text-gray-900 group-hover:text-primary transition-colors leading-tight">
+                            Request for <span class="bg-yellow-100 text-gray-900 px-1 rounded">Tuition</span> Refund Form (Type B)
+                        </h3>
+<p class="text-sm text-gray-600 leading-relaxed line-clamp-2">
+                            Standard form for students requesting refunds due to leave of absence or withdrawal. Must be signed by the department head.
+                        </p>
+<div class="flex items-center flex-wrap gap-4 pt-2">
+<div class="flex items-center gap-1.5 text-xs font-medium text-gray-500">
+<span class="material-symbols-outlined text-[18px] text-gray-400">account_balance</span>
+                                Financial Affairs Dept.
+                             </div>
+<div class="flex items-center gap-2 ml-auto">
+<span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-blue-50 text-blue-700 border border-blue-100">VN</span>
+</div>
+</div>
+</div>
+</article>
+</div>
+<!-- Pagination -->
+<div class="flex items-center justify-between border-t border-gray-200 pt-6 mb-12">
+<button class="flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors disabled:opacity-50 disabled:cursor-not-allowed">
+<span class="material-symbols-outlined text-[18px]">arrow_back</span>
+                    Previous
+                </button>
+<div class="hidden sm:flex items-center gap-1">
+<button class="px-3 py-1 text-sm font-medium text-white bg-primary rounded-md">1</button>
+<button class="px-3 py-1 text-sm font-medium text-gray-600 hover:bg-gray-100 rounded-md transition-colors">2</button>
+<button class="px-3 py-1 text-sm font-medium text-gray-600 hover:bg-gray-100 rounded-md transition-colors">3</button>
+<span class="px-2 text-gray-400">...</span>
+<button class="px-3 py-1 text-sm font-medium text-gray-600 hover:bg-gray-100 rounded-md transition-colors">8</button>
+</div>
+<button class="flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors">
+                    Next
+                    <span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+</button>
+</div>
+<!-- Empty State Illustration (Hidden by default, shown if no results) -->
+<div class="hidden flex-col items-center justify-center py-20 text-center">
+<div class="size-48 bg-gray-100 rounded-full flex items-center justify-center mb-6 bg-cover bg-center" data-alt="Empty file cabinet illustration" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBLz81hNG6Q5LOHxvmJi32YAvRJEi5ZR-zEax5uBLdWX7P2wSvfJTGo5LXvMYZcgICG8-R3jWzphSkjuDVU2-AKgPvjkbu3KcMkp_jySv01h_oI03eiuAd7DDR20MAIX0W41clsNDACL9ZKMNjfw-BBBJNiHBdS3QJlKM6SkuOXhWivZOLhsuKohhcVA4yrrT9Gpq1lj-di2TBmfbLz8UxWBVxCkOAnY8wJu7xBlxAZgMDPmcugL1D5oK8WQ4orLgmvOayrQQq9tyvg');"></div>
+<h3 class="text-xl font-display font-bold text-gray-900 mb-2">No documents found</h3>
+<p class="text-gray-500 mb-6 max-w-md mx-auto">We couldn't find any documents matching your filters. Try adjusting your search keywords or removing some filters.</p>
+<button class="px-6 py-2.5 bg-white border border-gray-300 text-gray-700 font-medium rounded-lg hover:bg-gray-50 transition-colors shadow-sm">
+                    Clear all filters
+                </button>
+</div>
+</div>
+</main>
+</body></html>

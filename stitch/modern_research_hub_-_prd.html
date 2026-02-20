@@ -1,0 +1,208 @@
+# Modern Research Hub
+
+## Product Overview
+
+**The Pitch:** A unified digital gateway for Vietnam National University (VNU) administrative intelligence. Transforms dense bureaucratic archives into an accessible, searchable, and readable knowledge base for the modern academic era.
+
+**For:** Students, faculty, and administrative staff who need instant clarity on regulations, circulars, and academic decrees without wading through dense PDF lists.
+
+**Device:** Desktop (Primary), Responsive Web
+
+**Design Direction:** "Digital Government 4.0" – Clinical precision meets editorial warmth. A stark departure from cluttered government portals; utilizes high-contrast typography, rigorous alignment, and institutional color-coding.
+
+**Inspired by:** GOV.UK (Design System), Notion (Cleanliness), Stripe Docs (Readability)
+
+---
+
+## Screens
+
+- **Home / Discovery:** Central search hub and curated "Latest Updates" feed.
+- **Search Results:** Dynamic filtering interface with instant preview capabilities.
+- **Document Reader:** Distraction-free reading environment with side-by-side language toggle.
+- **Department Archive:** Organizational view grouping documents by issuing body.
+
+---
+
+## Key Flows
+
+**Search & Translation:**
+
+1. User lands on **Home** -> Types "Tuition Regulations 2024" into the central Smart Search.
+2. User sees **Search Results** -> Clicks a card tagged "Financial Affairs".
+3. User enters **Document Reader** -> Default view is Vietnamese.
+4. User clicks "EN" toggle in sticky header -> Text instantly swaps to English translation while maintaining layout.
+
+**Filtering by Urgency:**
+
+1. User lands on **Home** -> Sees "Urgent" tag on a notification card.
+2. User clicks "Urgent" tag -> Redirects to **Search Results** pre-filtered for high-priority announcements.
+
+---
+
+<details>
+<summary>Design System</summary>
+
+## Color Palette
+
+- **Primary:** `#0054A6` - VNU Blue (Deep, authoritative)
+- **Background:** `#F4F6F8` - Cool grey (Digital Government standard)
+- **Surface:** `#FFFFFF` - Card and modal backgrounds
+- **Text:** `#111827` - Near-black for primary readability
+- **Muted:** `#6B7280` - Metadata, timestamps, footer text
+- **Accent:** `#DC2626` - "Urgent" tags, critical alerts
+- **Secondary:** `#10B981` - "New" tags, success states
+
+## Typography
+
+**Font Family:** *Space Grotesk* (Headings) + *Inter* (Body). *Space Grotesk* adds a technical, modern "data" feel; *Inter* ensures perfect legibility for dense text.
+
+- **Display:** Space Grotesk, 700, 48px, -1% spacing (Hero text)
+- **H1:** Space Grotesk, 600, 32px
+- **H2:** Space Grotesk, 600, 24px
+- **H3:** Inter, 600, 18px (Card titles)
+- **Body:** Inter, 400, 16px, 1.6 line-height (Optimal readability)
+- **Mono:** JetBrains Mono, 400, 13px (Document IDs/Reference numbers)
+
+**Style Notes:**
+- **Shadows:** `0 1px 3px rgba(0,0,0,0.05), 0 10px 25px -5px rgba(0,0,0,0.05)` (Soft, elevated float)
+- **Borders:** `1px solid #E5E7EB` on all cards. No borderless cards.
+- **Radius:** `12px` strictly for all cards and inputs.
+
+## Design Tokens
+
+```css
+:root {
+  --color-vnu-blue: #0054A6;
+  --color-bg-canvas: #F4F6F8;
+  --color-surface-white: #FFFFFF;
+  --color-text-main: #111827;
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --radius-card: 12px;
+  --shadow-subtle: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+```
+
+</details>
+
+---
+
+<details>
+<summary>Screen Specifications</summary>
+
+### 1. Home / Discovery
+
+**Purpose:** The single entry point. Eliminates navigation friction by focusing entirely on search and critical updates.
+
+**Layout:**
+- **Hero (Top 40%):** Centered content. Large Logo, massive search bar.
+- **Grid (Bottom 60%):** 3-column masonry grid of "Recent Circulars".
+
+**Key Elements:**
+- **Global Header:** Minimal. Left: VNU Logo + "Research Hub". Right: User Profile.
+- **Smart Search Input:**
+  - Height: `64px`
+  - Width: `600px` (max-width 100%)
+  - Style: White background, deep shadow, `20px` radius.
+  - Placeholder: "Search by ID, keyword, or department..."
+  - Icon: Large search loupe on the right (`#0054A6`).
+- **Quick Filters:** Row of chips below search: "Academic Affairs", "Scholarships", "Regulations".
+- **Document Cards:**
+  - Top: Badge (Type), Date (Right aligned).
+  - Middle: Title (H3), 2-line excerpt.
+  - Bottom: Department Icon + Name.
+
+**States:**
+- **Empty:** N/A (Always shows recent).
+- **Loading:** Skeleton pulse on grid cards.
+
+**Interactions:**
+- **Focus Search:** Background dims slightly (`backdrop-blur-sm`).
+- **Hover Card:** Transform Y -4px, shadow intensifies.
+
+---
+
+### 2. Search Results
+
+**Purpose:** Detailed filtering and scanning of the archive.
+
+**Layout:**
+- **Sidebar (Left 250px):** Faceted search filters (Date range, Department, Type).
+- **Main (Right):** List/Grid hybrid view of results.
+
+**Key Elements:**
+- **Active Filters Bar:** Row of dismissible tags showing current criteria.
+- **Result Row Component:**
+  - Layout: Horizontal flex.
+  - Left: Document ID in Mono font (e.g., `DOC-2024-882`).
+  - Center: Title and Snippet with highlighted keywords.
+  - Right: Language badges (VN | EN | JP) indicating availability.
+- **Pagination:** Simple "Previous / Next" buttons, no infinite scroll (preserves footer access).
+
+**States:**
+- **No Results:** Illustration of an empty file cabinet. Suggest removing filters.
+
+**Interactions:**
+- **Click Filter:** updates URL params, refreshes list via AJAX.
+- **Click Language Badge:** Opens document directly in that language.
+
+---
+
+### 3. Document Reader
+
+**Purpose:** The core consumption experience. Optimized for long-form reading and translation.
+
+**Layout:**
+- **Sticky Header:** Document Title + Language Switcher + Download PDF.
+- **Content Well:** Centered, `700px` max-width text column.
+
+**Key Elements:**
+- **Language Switcher (Sticky):** Segmented control: `[ VN ] [ EN ] [ JP ] [ Source PDF ]`.
+- **Meta Block:** Light gray box at top. Contains: Effective Date, Signed By, Reference Number.
+- **Typography Engine:**
+  - Text is parsed from PDF to HTML (not an image).
+  - High contrast (`#111827` on `#FFFFFF`).
+  - Generous padding (`80px` top/bottom).
+- **Source Overlay:** If "Source PDF" is clicked, overlay the original scanned PDF in a modal.
+
+**Interactions:**
+- **Toggle Language:** Instant swap of text content. No page reload.
+- **Scroll:** Header gains bottom border and shadow when scrolling down.
+
+---
+
+### 4. Department Archive
+
+**Purpose:** Browse documents specific to a functional unit (e.g., Office of Student Affairs).
+
+**Layout:**
+- **Header:** Department Logo + Description + Contact Info card.
+- **Body:** Tabbed interface: "Announcements", "Forms", "Regulations".
+
+**Key Elements:**
+- **Department Hero:** Branding color specific to the department (e.g., Maroon for International Relations).
+- **Pinned Documents:** "Top 3" most accessed docs for this department at the top.
+- **Staff Contacts:** Small sidebar card with email/phone for the department secretary.
+
+**States:**
+- **Loading:** Spinner with department color.
+
+</details>
+
+---
+
+<details>
+<summary>Build Guide</summary>
+
+**Stack:** HTML5, Tailwind CSS v3, Vanilla JS (for interactions).
+
+**Build Order:**
+1. **Design System Setup:** Configure `tailwind.config.js` with VNU colors, Space Grotesk/Inter fonts, and shadow tokens.
+2. **Component Library:** Build the `DocumentCard` and `LanguageToggle` components in isolation.
+3. **Screen 1 (Home):** Implement the hero layout and grid responsiveness.
+4. **Screen 3 (Reader):** Focus on typography and the sticky header/language switching logic.
+5. **Screen 2 (Search):** Implement the sidebar layout and list view styles.
+6. **Screen 4 (Department):** Re-use the card grid, add department branding headers.
+
+</details>
