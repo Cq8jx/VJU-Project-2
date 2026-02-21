@@ -1174,14 +1174,39 @@
     }
   });
 
+  // Strip YAML front matter (--- ... ---) from markdown text
+  function stripFrontMatter(md) {
+    return md.replace(/^---\n[\s\S]*?\n---\n*/, '');
+  }
+
+  // Parse YAML front matter into a plain object (simple key: value pairs)
+  function parseFrontMatter(md) {
+    const match = md.match(/^---\n([\s\S]*?)\n---/);
+    if (!match) return {};
+    const meta = {};
+    match[1].split('\n').forEach(line => {
+      const m = line.match(/^(\w+):\s*(.*)$/);
+      if (m) {
+        let val = m[2].trim();
+        if (val === 'true') val = true;
+        else if (val === 'false') val = false;
+        else if (/^".*"$/.test(val)) val = val.slice(1, -1);
+        meta[m[1]] = val;
+      }
+    });
+    return meta;
+  }
+
   // Load document content (public via fetch, restricted via Firestore)
   async function loadPublicDoc(docId) {
-    const [viMd, enMd, jaMd] = await Promise.all([
+    const [viRaw, enRaw, jaRaw] = await Promise.all([
       fetch('data/' + docId + '_vi.md').then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); }),
       fetch('data/' + docId + '_en.md').then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); }),
       fetch('data/' + docId + '_ja.md').then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
     ]);
-    return { vi: viMd, en: enMd, ja: jaMd };
+    // Parse metadata from the Vietnamese source (canonical), strip front matter from all
+    const meta = parseFrontMatter(viRaw);
+    return { vi: stripFrontMatter(viRaw), en: stripFrontMatter(enRaw), ja: stripFrontMatter(jaRaw), meta };
   }
 
   async function loadRestrictedDoc(docId) {
