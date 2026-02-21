@@ -23,6 +23,7 @@ relations:
   - "references:3349/NQ-HD"
   - "references:5115/QD-DHQGHN"
 original_language: "vi"
+last_updated: "2026-02-21"
 ---
 
 > **[免責事項]** この文書はAIにより生成されたものであり、参考用です。法的効力はありません。重要な判断を行う際は、必ず公式文書を参照するか、発行機関であるベトナム国家大学ハノイ校（__https://vnu.edu.vn__）に問い合わせてください。
