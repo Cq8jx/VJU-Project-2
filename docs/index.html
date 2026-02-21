@@ -1008,9 +1008,14 @@
           const en = document.getElementById('en-sec-' + idx);
           const vi = document.getElementById('vi-sec-' + idx);
           const ja = document.getElementById('ja-sec-' + idx);
-          if (vi) vi.scrollIntoView({ behavior: 'smooth', block: 'start' });
-          if (rightLang === 'ja' && ja) ja.scrollIntoView({ behavior: 'smooth', block: 'start' });
-          else if (en) en.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          // Temporarily disable sync so both panes scroll independently
+          isSyncing = true;
+          if (vi) contentLeft.scrollTo({ top: vi.offsetTop - 20, behavior: 'smooth' });
+          const ar = getActiveRight();
+          const target = rightLang === 'ja' ? ja : en;
+          if (target) ar.scrollTo({ top: target.offsetTop - 20, behavior: 'smooth' });
+          // Re-enable sync after animation completes
+          setTimeout(() => { isSyncing = false; }, 800);
         });
         item.appendChild(a);
         tocEl.appendChild(item);
@@ -1018,23 +1023,84 @@
     });
   }
 
+  // Heading-based scroll sync: find which heading is at the top of the
+  // source pane, compute fractional progress between it and the next heading,
+  // then scroll the target pane to the same fractional position between the
+  // corresponding pair of headings.
+  function getHeadingOffsets(container, prefix) {
+    const els = container.querySelectorAll('[id^="' + prefix + '"]');
+    const arr = [];
+    for (const el of els) {
+      arr.push({ id: el.id, top: el.offsetTop });
+    }
+    return arr;
+  }
+
+  function syncScroll(source, target, sourcePrefix, targetPrefix) {
+    const srcHeadings = getHeadingOffsets(source, sourcePrefix);
+    const tgtHeadings = getHeadingOffsets(target, targetPrefix);
+    if (srcHeadings.length < 2 || tgtHeadings.length < 2) return;
+
+    const scrollTop = source.scrollTop;
+    const count = Math.min(srcHeadings.length, tgtHeadings.length);
+
+    // Find which source heading interval we're in
+    let idx = 0;
+    for (let i = count - 1; i >= 0; i--) {
+      if (scrollTop >= srcHeadings[i].top - 60) { idx = i; break; }
+    }
+
+    // Fraction between heading[idx] and heading[idx+1] in source
+    let frac = 0;
+    if (idx < count - 1) {
+      const gap = srcHeadings[idx + 1].top - srcHeadings[idx].top;
+      if (gap > 0) frac = Math.min(1, Math.max(0, (scrollTop - srcHeadings[idx].top + 60) / gap));
+    } else {
+      // Past last heading: use remaining scroll distance
+      const remaining = source.scrollHeight - source.clientHeight - srcHeadings[idx].top;
+      if (remaining > 0) frac = Math.min(1, (scrollTop - srcHeadings[idx].top + 60) / remaining);
+    }
+
+    // Map to target position
+    let targetTop;
+    if (idx < count - 1) {
+      targetTop = tgtHeadings[idx].top + frac * (tgtHeadings[idx + 1].top - tgtHeadings[idx].top) - 60;
+    } else {
+      const tgtRemaining = target.scrollHeight - target.clientHeight - tgtHeadings[idx].top;
+      targetTop = tgtHeadings[idx].top + frac * tgtRemaining - 60;
+    }
+
+    target.scrollTop = Math.max(0, targetTop);
+  }
+
   function setupScrollSync() {
+    // Throttle sync to ~60fps
+    let rafLeft = null, rafRight = null;
+
     contentLeft.addEventListener('scroll', () => {
       if (!syncEnabled || isSyncing) return;
-      isSyncing = true;
-      const pct = contentLeft.scrollTop / (contentLeft.scrollHeight - contentLeft.clientHeight || 1);
-      const ar = getActiveRight();
-      ar.scrollTop = pct * (ar.scrollHeight - ar.clientHeight);
-      requestAnimationFrame(() => { isSyncing = false; });
+      if (rafLeft) return;
+      rafLeft = requestAnimationFrame(() => {
+        isSyncing = true;
+        const ar = getActiveRight();
+        const tgtPrefix = rightLang === 'ja' ? 'ja-sec-' : 'en-sec-';
+        syncScroll(contentLeft, ar, 'vi-sec-', tgtPrefix);
+        requestAnimationFrame(() => { isSyncing = false; });
+        rafLeft = null;
+      });
     });
-    // Sync from both EN and JA panes
+
     [contentRightEn, contentRightJa].forEach(cr => {
       cr.addEventListener('scroll', () => {
         if (!syncEnabled || isSyncing) return;
-        isSyncing = true;
-        const pct = cr.scrollTop / (cr.scrollHeight - cr.clientHeight || 1);
-        contentLeft.scrollTop = pct * (contentLeft.scrollHeight - contentLeft.clientHeight);
-        requestAnimationFrame(() => { isSyncing = false; });
+        if (rafRight) return;
+        rafRight = requestAnimationFrame(() => {
+          isSyncing = true;
+          const srcPrefix = cr === contentRightJa ? 'ja-sec-' : 'en-sec-';
+          syncScroll(cr, contentLeft, srcPrefix, 'vi-sec-');
+          requestAnimationFrame(() => { isSyncing = false; });
+          rafRight = null;
+        });
       });
     });
   }
