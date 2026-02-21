@@ -1,7 +1,6 @@
 ---
-doc_id: "3638-QD-DHQGHN"
+doc_id: "3638/QĐ-ĐHQGHN"
 title: "Quy chế đào tạo tiến sĩ tại ĐHQGHN"
-doc_number: "3638/QĐ-ĐHQGHN"
 date: 2022-10-21
 department: "Academic Affairs"
 type: "Regulation"

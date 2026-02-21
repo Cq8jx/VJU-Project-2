@@ -1,7 +1,6 @@
 ---
-doc_id: "3636-QD-DHQGHN"
+doc_id: "3636/QĐ-ĐHQGHN"
 title: "Regulation on Master's Training at VNU, Hanoi"
-doc_number: "3636/QĐ-ĐHQGHN"
 date: 2022-10-21
 department: "Academic Affairs"
 type: "Regulation"

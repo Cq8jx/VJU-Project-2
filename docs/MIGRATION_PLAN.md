@@ -138,9 +138,8 @@ Sub-documents (annexes): `{base}_Annex {N} {Short Title}_*`
 
 ```yaml
 ---
-doc_id: "{id}"
+doc_id: "3626/QĐ-ĐHQGHN"        # 公式文書番号（正式表記）
 title: "..."
-doc_number: "..."
 date: YYYY-MM-DD
 department: "Academic Affairs|Financial Affairs|Quality Assurance|..."
 type: "Regulation|Circular|Guideline|Notification|Decree|Decision|Report"
@@ -148,6 +147,9 @@ restricted: false
 last_updated: 2026-02-21
 ---
 ```
+
+- `doc_id` = 公式文書番号そのまま（スラッシュ・ダイアクリティカル付き）
+- ファイル名・HTML属性・JSキーではサニタイズ版を使用（`/` → `-`、ダイアクリティカル除去）
 
 ## Processing Steps (per document)
 
