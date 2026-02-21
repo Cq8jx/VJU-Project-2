@@ -147,6 +147,21 @@
             <span class="material-symbols-outlined text-[28px]">search</span>
           </div>
           <input id="home-search" type="text" class="w-full h-12 px-4 bg-transparent border-none text-lg text-text-main placeholder-text-muted focus:ring-0" placeholder="Search by ID, keyword, or department...">
+          <script>
+          (function(){
+            const ph = [
+              'Search by ID, keyword, or department...',
+              'Tìm kiếm theo số hiệu, từ khóa...',
+              '学費、奨学金、規程などを検索...',
+              'e.g. 3626/QĐ-ĐHQGHN',
+              'Quy chế đào tạo đại học',
+              'Undergraduate training regulation',
+            ];
+            let pi = 0;
+            const el = document.getElementById('home-search');
+            setInterval(() => { if (el.value === '') { pi = (pi + 1) % ph.length; el.placeholder = ph[pi]; } }, 3000);
+          })();
+          </script>
           <button id="home-search-btn" class="bg-vnu-blue hover:bg-blue-700 text-white p-3 rounded-2xl transition-colors flex items-center justify-center shadow-lg shadow-vnu-blue/20">
             <span class="material-symbols-outlined text-[20px]">arrow_forward</span>
           </button>
