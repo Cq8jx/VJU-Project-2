@@ -59,17 +59,17 @@ Theo đề nghị của Trưởng Ban Đào tạo.
 **Đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội**
 *(Ban hành kèm theo Quyết định số 3636/QĐ-ĐHQGHN, ngày 21 tháng 10 năm 2022 của Giám đốc Đại học Quốc gia Hà Nội)*
 
-## Chương I: NHỮNG QUY ĐỊNH CHUNG
+# Chương I: NHỮNG QUY ĐỊNH CHUNG
 
-### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+## Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 1. Quy chế này quy định về đào tạo trình độ thạc sĩ tại Đại học Quốc gia Hà Nội, bao gồm: tuyển sinh; tổ chức đào tạo; công nhận học vị và cấp bằng; trách nhiệm của đơn vị đào tạo, nghĩa vụ, quyền lợi của giảng viên và học viên; tài chính cho đào tạo; thanh tra kiểm tra, giải quyết và xử lý vi phạm.
 2. Quy chế này áp dụng đối với các đơn vị, cá nhân tham gia đào tạo trình độ thạc sĩ tại Đại học Quốc gia Hà Nội.
 3. Quy chế này không áp dụng đối với chương trình đào tạo thạc sĩ liên kết với cơ sở giáo dục nước ngoài, do cơ sở giáo dục nước ngoài cấp bằng.
 
-### Điều 2. Mục tiêu đào tạo
+## Điều 2. Mục tiêu đào tạo
 Đào tạo trình độ thạc sĩ để học viên có kiến thức khoa học nền tảng, có kỹ năng chuyên sâu cho nghiên cứu về một lĩnh vực khoa học hoặc hoạt động nghề nghiệp hiệu quả, có khả năng làm việc độc lập, sáng tạo và có năng lực phát hiện, giải quyết những vấn đề thuộc chuyên ngành được đào tạo.
 
-### Điều 3. Đơn vị đào tạo thạc sĩ
+## Điều 3. Đơn vị đào tạo thạc sĩ
 1. Đơn vị đào tạo thạc sĩ ở Đại học Quốc gia Hà Nội gồm có:
     a) Trường đại học thành viên (sau đây gọi tắt là trường đại học);
     b) Khoa trực thuộc, trường trực thuộc, viện nghiên cứu khoa học.
@@ -88,7 +88,7 @@ Theo đề nghị của Trưởng Ban Đào tạo.
     m) Bồi hoàn học phí cho học viên nếu đơn vị đào tạo vi phạm Quy chế này, vi phạm các quy định khác của pháp luật, dẫn đến người học (không vi phạm) không được cấp bằng;
     n) Thực hiện các trách nhiệm khác theo quy định của pháp luật và của Đại học Quốc gia Hà Nội.
 
-### Điều 4. Cơ chế quản lý và tổ chức đào tạo
+## Điều 4. Cơ chế quản lý và tổ chức đào tạo
 1. Đại học Quốc gia Hà Nội chỉ đạo, điều hành thống nhất công tác tổ chức và quản lý đào tạo theo cơ chế liên thông, liên kết và hợp tác giữa các đơn vị đào tạo; phát huy lợi thế chuyên môn hóa, phân cấp quản lý theo hướng tăng quyền tự chủ, tự chịu trách nhiệm cho các đơn vị đào tạo; phối hợp sử dụng hiệu quả các nguồn lực chung phục vụ đào tạo trong toàn Đại học Quốc gia Hà Nội; quản lý trực tiếp công tác đào tạo của các đơn vị đào tạo do Giám đốc cấp bằng.
 2. Các đơn vị đào tạo có nhiệm vụ tổ chức và quản lý đào tạo các ngành theo danh mục ngành đào tạo của Nhà nước và thí điểm đào tạo các ngành mới nhằm cung cấp nguồn nhân lực chất lượng cao, bồi dưỡng nhân tài cho đất nước. Các đơn vị đào tạo thực hiện liên thông, liên kết trong việc xây dựng và triển khai các chương trình đào tạo, đặc biệt là các chương trình đào tạo mới có tính liên ngành cao.
 3. Căn cứ yêu cầu phát triển khoa học, công nghệ và nhu cầu về nguồn nhân lực phục vụ phát triển kinh tế - xã hội, dựa vào quy hoạch ngành đã được phê duyệt, trên cơ sở các điều kiện đảm bảo chất lượng, đơn vị đào tạo chủ động hoặc phối hợp với các đơn vị đào tạo khác trong Đại học Quốc gia Hà Nội điều chỉnh nội dung chương trình đào tạo các ngành hiện có, xây dựng những ngành mới, đề nghị Giám đốc Đại học Quốc gia Hà Nội xem xét, phê duyệt ban hành chương trình và giao nhiệm vụ tổ chức đào tạo.
@@ -97,20 +97,20 @@ Theo đề nghị của Trưởng Ban Đào tạo.
 5. Hàng năm, các đơn vị đào tạo báo cáo Đại học Quốc gia Hà Nội về tình hình tổ chức, quản lý và kết quả đào tạo.
 6. Các đơn vị đào tạo trong toàn Đại học Quốc gia Hà Nội sử dụng thống nhất phần mềm và cơ sở dữ liệu quản lý đào tạo, quản lý người học.
 
-### Điều 5. Nguyên tắc đảm bảo chất lượng đào tạo
+## Điều 5. Nguyên tắc đảm bảo chất lượng đào tạo
 1. Nội dung đào tạo, phương pháp dạy - học, kiểm tra đánh giá và phương thức quản lý phải phù hợp và hướng tới chuẩn đầu ra của chương trình đào tạo, nâng cao chất lượng, hiệu quả, đáp ứng nhu cầu xã hội và khả năng thu hút các nguồn lực.
 2. Ưu tiên đầu tư các điều kiện đảm bảo chất lượng giáo dục trước khi mở rộng quy mô đào tạo.
 3. Đào tạo nguồn nhân lực chất lượng cao trên cơ sở gắn đào tạo với nghiên cứu khoa học và phát triển công nghệ.
 4. Kiểm định chất lượng giáo dục là yêu cầu bắt buộc trong đào tạo của Đại học Quốc gia Hà Nội.
 
-### Điều 6. Hình thức, ngôn ngữ và thời gian đào tạo
+## Điều 6. Hình thức, ngôn ngữ và thời gian đào tạo
 1. Đào tạo trình độ thạc sĩ ở Đại học Quốc gia Hà Nội được thực hiện theo hình thức chính quy.
 2. Ngôn ngữ chính thức dùng trong đào tạo trình độ thạc sĩ là tiếng Việt. Việc đào tạo thạc sĩ bằng ngôn ngữ nước ngoài do Giám đốc Đại học Quốc gia Hà Nội quyết định.
 3. Thời gian đào tạo trình độ thạc sĩ từ một đến hai năm học, được quy định cụ thể trong từng chương trình đào tạo, bảo đảm đa số học viên hoàn thành chương trình đào tạo và không vượt quá thời gian quy định trong Khung cơ cấu hệ thống giáo dục quốc dân.
 Thời gian tối đa để học viên hoàn thành khóa học không vượt quá 2 lần thời gian theo kế hoạch học tập chuẩn toàn khóa. Hết thời gian đào tạo kể cả thời gian được kéo dài, học viên không hoàn thành chương trình đào tạo sẽ bị buộc thôi học.
 4. Thời gian tổ chức hoạt động giảng dạy thực hiện theo Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội.
 
-### Điều 7. Chương trình đào tạo trình độ thạc sĩ
+## Điều 7. Chương trình đào tạo trình độ thạc sĩ
 1. Đơn vị đào tạo tổ chức xây dựng đề án mở ngành đào tạo trình độ thạc sĩ, trình Giám đốc Đại học Quốc gia Hà Nội thẩm định, ban hành chương trình và giao nhiệm vụ đào tạo. Đối với ngành mở mới chưa có trong danh mục ngành quy hoạch được phê duyệt, đơn vị đào tạo trình Giám đốc Đại học Quốc gia Hà Nội phê duyệt chủ trương trước khi xây dựng đề án.
 2. Chương trình đào tạo được thiết kế để cấp bằng thạc sĩ theo quy định của Quy chế này; không cấp thêm một văn bằng giáo dục đại học khác.
 3. Chương trình đào tạo thạc sĩ trong Đại học Quốc gia Hà Nội, gồm 2 loại: Chương trình đào tạo thạc sĩ định hướng nghiên cứu và Chương trình đào tạo thạc sĩ định hướng ứng dụng.
@@ -120,7 +120,7 @@ Thời gian tối đa để học viên hoàn thành khóa học không vượt 
 5. Chương trình đào tạo phải bao gồm những nội dung bắt buộc theo quy định của Bộ Giáo dục và Đào tạo.
 6. Những thay đổi, điều chỉnh liên quan đến chương trình đào tạo được thực hiện theo quy định hiện hành của Đại học Quốc gia Hà Nội và công bố cho học viên trước khi áp dụng.
 
-### Điều 8. Công nhận kết quả học tập và chuyển đổi tín chỉ
+## Điều 8. Công nhận kết quả học tập và chuyển đổi tín chỉ
 1. Người học được xem xét công nhận và chuyển đổi tín chỉ của một số học phần khi đã học chương trình đào tạo trình độ thạc sĩ khác hoặc đã tốt nghiệp một chương trình đào tạo chuyên sâu đặc thù theo quy định tại Điều 14 Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học. Số tín chỉ được công nhận và chuyển đổi không vượt quá 30 tín chỉ.
 2. Sinh viên đang học chương trình đào tạo đại học chính quy (hoặc trình độ tương đương trở lên) có học lực tính theo điểm trung bình chung tích lũy xếp loại khá trở lên có thể được đăng ký học trước một số học phần của chương trình đào tạo thạc sĩ tại cùng đơn vị đào tạo. Số tín chỉ được công nhận không vượt quá 15 tín chỉ.
 3. Chỉ công nhận kết quả học tập và chuyển đổi tín chỉ đối với những học phần được đánh giá từ điểm C (hoặc quy đổi tương đương) trở lên và trong thời gian không quá 05 năm tính tới thời điểm xét công nhận, chuyển đổi.
@@ -130,29 +130,29 @@ Thời gian tối đa để học viên hoàn thành khóa học không vượt 
     c) Thời gian hiệu lực của kết quả học tập để xem xét công nhận và chuyển đổi tín chỉ không trái với khoản 3 Điều này;
     d) Các học phần (hoặc nhóm học phần) và số tín chỉ được công nhận, chuyển đổi theo đối tượng người học và ngành đào tạo thạc sĩ ở Đại học Quốc gia Hà Nội được xác định trên cơ sở ngành đào tạo trình độ đại học hoặc ngành phù hợp trong điều kiện đầu vào của chương trình đào tạo.
 
-## Chương II: TUYỂN SINH
+# Chương II: TUYỂN SINH
 
-### Điều 9. Phương thức, số lần và địa điểm tổ chức tuyển sinh
+## Điều 9. Phương thức, số lần và địa điểm tổ chức tuyển sinh
 1. Phương thức tuyển sinh bao gồm thi tuyển, xét tuyển hoặc kết hợp giữa thi tuyển và xét tuyển. Đơn vị đào tạo được tổ chức tuyển sinh trực tuyến khi đáp ứng những điều kiện bảo đảm chất lượng để kết quả đánh giá tin cậy và công bằng như đối với tuyển sinh trực tiếp.
 2. Việc tuyển sinh đào tạo trình độ thạc sĩ được tổ chức tối đa 2 lần mỗi năm theo lịch trình chung của Đại học Quốc gia Hà Nội.
 3. Việc tổ chức thi tuyển sinh được tổ chức tại đơn vị đào tạo. Việc tổ chức thi và xét tuyển ngoài đơn vị đào tạo phải được Giám đốc Đại học Quốc gia Hà Nội cho phép.
 4. Các quy định của đơn vị đào tạo về phương thức tuyển sinh, số lần tuyển sinh, thời điểm tuyển sinh trong năm và địa điểm tổ chức tuyển sinh phải được đăng trên website của đơn vị đào tạo và Đại học Quốc gia Hà Nội.
 
-### Điều 10. Chỉ tiêu tuyển sinh
+## Điều 10. Chỉ tiêu tuyển sinh
 1. Trước ngày 31 tháng 12 hàng năm, căn cứ vào năng lực đào tạo của đơn vị và nhu cầu của xã hội, đơn vị đào tạo xây dựng kế hoạch, chỉ tiêu tuyển sinh của từng ngành với chương trình đào tạo tương ứng cho năm học tiếp theo, báo cáo và đề nghị Giám đốc Đại học Quốc gia Hà Nội phê duyệt.
 2. Đại học Quốc gia Hà Nội giao chỉ tiêu tuyển sinh cho từng đơn vị đào tạo. Dựa trên chỉ tiêu tuyển sinh được giao, đơn vị đào tạo phân bổ chỉ tiêu cho các ngành đào tạo của đơn vị mình và báo cáo Đại học Quốc gia Hà Nội.
 3. Chỉ tiêu tuyển sinh của năm nào được thực hiện trong năm đó, không chuyển sang năm sau.
 
-### Điều 11. Các môn thi tuyển sinh
+## Điều 11. Các môn thi tuyển sinh
 1. Thi tuyển sinh bao gồm 2 môn thi, do thủ trưởng đơn vị đào tạo xác định và được Đại học Quốc gia Hà Nội phê duyệt, trong đó có một môn chủ chốt của ngành đào tạo, được xác định theo yêu cầu của ngành đào tạo trình độ thạc sĩ. Mỗi môn thi có thể kiểm tra kiến thức một môn học hoặc tích hợp kiểm tra kiến thức một số môn học của trình độ đại học.
 Đơn vị đào tạo có thể thay một môn thi quy định tại Khoản này bằng đánh giá năng lực khác phù hợp với yêu cầu của ngành, chương trình đào tạo. Việc thay thế này (nếu có) phải được thực hiện đối với tất cả các thí sinh dự thi vào ngành đào tạo.
 2. Các môn thi tuyển sinh, phương thức đánh giá năng lực thí sinh quy định tại khoản 1, Điều này phải được xác định trong đề án mở ngành đào tạo trình độ thạc sĩ. Việc thay đổi môn thi tuyển sinh hoặc phương thức đánh giá năng lực thí sinh do thủ trưởng đơn vị đào tạo lựa chọn theo đề nghị của hội đồng khoa học đào tạo và báo cáo Đại học Quốc gia Hà Nội phê duyệt trước khi thông báo tuyển sinh.
 3. Đối với các chương trình đào tạo chỉ tổ chức xét tuyển, hoặc thi tuyển kết hợp với xét tuyển, các đơn vị xây dựng phương thức tuyển sinh và công bố trong đề án tuyển sinh hàng năm của đơn vị, báo cáo Đại học Quốc gia Hà Nội xem xét phê duyệt trước khi ban hành.
 
-### Điều 12. Ngành phù hợp
+## Điều 12. Ngành phù hợp
 Ngành phù hợp là ngành đào tạo ở trình độ đại học (hoặc trình độ tương đương trở lên) trang bị cho người học nền tảng chuyên môn cần thiết để học tiếp chương trình đào tạo thạc sĩ của ngành tương ứng, được quy định cụ thể trong chuẩn đầu vào của chương trình đào tạo thạc sĩ; đơn vị đào tạo quy định những trường hợp phải hoàn thành yêu cầu học bổ sung trước khi dự tuyển. Đối với các ngành quản trị và quản lý, đào tạo theo chương trình thạc sĩ định hướng ứng dụng, ngành phù hợp ở trình độ đại học bao gồm những ngành liên quan trực tiếp tới chuyên môn, nghề nghiệp của lĩnh vực quản lý.
 
-### Điều 13. Yêu cầu đối với ứng viên dự tuyển
+## Điều 13. Yêu cầu đối với ứng viên dự tuyển
 1. Đã tốt nghiệp đại học (hoặc trình độ tương đương trở lên) ngành phù hợp; đối với chương trình đào tạo thạc sĩ định hướng nghiên cứu yêu cầu hạng tốt nghiệp từ khá trở lên hoặc có công bố khoa học liên quan đến lĩnh vực sẽ học tập, nghiên cứu.
 2. Có năng lực ngoại ngữ đúng với yêu cầu của chương trình đào tạo từ Bậc 3 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam. Năng lực ngoại ngữ được minh chứng qua một trong các văn bằng, chứng chỉ sau:
     a) Bằng tốt nghiệp trình độ đại học trở lên ngành ngôn ngữ nước ngoài; hoặc bằng tốt nghiệp trình độ đại học trở lên mà chương trình được thực hiện chủ yếu bằng ngôn ngữ nước ngoài;
@@ -164,13 +164,13 @@ Ngành phù hợp là ngành đào tạo ở trình độ đại học (hoặc t
     b) Một trong các văn bằng hoặc chứng chỉ của ngôn ngữ sử dụng trong giảng dạy đạt trình độ tương đương Bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc các chứng chỉ tương đương khác do Đại học Quốc gia Hà Nội công bố, còn hiệu lực tính đến ngày đăng ký dự tuyển.
 5. Đáp ứng các yêu cầu khác của chuẩn chương trình đào tạo do Bộ Giáo dục và Đào tạo ban hành và theo quy định của chương trình đào tạo.
 
-### Điều 14. Tổ chức học bổ sung kiến thức
+## Điều 14. Tổ chức học bổ sung kiến thức
 1. Người có bằng tốt nghiệp đại học ngành phù hợp với ngành đào tạo thạc sĩ nhưng phải học bổ sung kiến thức của chương trình đại học thì phải hoàn thành các học phần bổ sung trước khi dự thi. Người học phải đóng học phí các học phần bổ sung kiến thức theo mức học phí quy định đối với trình độ đại học.
 2. Danh mục các học phần bổ sung kiến thức được ghi rõ trong hồ sơ đăng ký mở ngành đào tạo.
 3. Việc tổ chức bổ sung kiến thức và cấp giấy chứng nhận kèm theo bảng điểm cho các thí sinh đã hoàn thành chương trình bổ sung kiến thức do các đơn vị đào tạo có ngành đào tạo đại học tương ứng thực hiện.
 4. Lịch tổ chức học bổ sung kiến thức và các quy định về chương trình bổ sung kiến thức được thông báo công khai trên website của đơn vị tổ chức bổ sung kiến thức ít nhất 15 ngày trước khi tổ chức bổ sung kiến thức.
 
-### Điều 15. Đối tượng và điều kiện dự thi
+## Điều 15. Đối tượng và điều kiện dự thi
 Đối tượng dự thi đào tạo trình độ thạc sĩ là công dân nước Cộng hòa Xã hội Chủ nghĩa Việt Nam đáp ứng những điều kiện sau:
 1. Về văn bằng
     a) Tốt nghiệp đại học ngành phù hợp với ngành đăng ký dự thi đào tạo trình độ thạc sĩ theo quy định tại Điều 12, Quy chế này; đối với chương trình đào tạo thạc sĩ định hướng nghiên cứu yêu cầu hạng tốt nghiệp từ khá trở lên hoặc có công bố khoa học liên quan đến lĩnh vực sẽ học tập, nghiên cứu;
@@ -181,7 +181,7 @@ Ngành phù hợp là ngành đào tạo ở trình độ đại học (hoặc t
 4. Có đủ sức khoẻ để học tập. Đối với con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hoá học theo quy định tại điểm e, khoản 1, Điều 16, Quy chế này, thủ trưởng đơn vị đào tạo xem xét, quyết định cho dự thi tuyển sinh tuỳ tình trạng sức khoẻ và yêu cầu của ngành học.
 5. Nộp hồ sơ đầy đủ, đúng thời hạn theo quy định của đơn vị đào tạo.
 
-### Điều 16. Đối tượng và chính sách ưu tiên
+## Điều 16. Đối tượng và chính sách ưu tiên
 1. Đối tượng ưu tiên
     a) Người có thời gian công tác liên tục từ 2 năm trở lên (tính đến ngày hết hạn nộp hồ sơ đăng ký dự thi) tại các địa phương được quy định là Khu vực 1 trong Quy chế tuyển sinh đại học, cao đẳng hệ chính quy hiện hành. Trong trường hợp này, thí sinh phải có quyết định tiếp nhận công tác hoặc điều động, biệt phái công tác của cơ quan, tổ chức có thẩm quyền;
     b) Thương binh, người hưởng chính sách như thương binh;
@@ -192,15 +192,15 @@ Ngành phù hợp là ngành đào tạo ở trình độ đại học (hoặc t
 2. Mức ưu tiên
 Người dự thi thuộc đối tượng ưu tiên quy định tại khoản 1 Điều này (bao gồm cả người thuộc nhiều đối tượng ưu tiên) được cộng 01 điểm (thang điểm 10) cho môn thi không chủ chốt hoặc 15 điểm (thang điểm 150) cho bài thi đánh giá năng lực quy định tại khoản 1, Điều 11, Quy chế này.
 
-### Điều 17. Thông báo tuyển sinh
+## Điều 17. Thông báo tuyển sinh
 1. Chậm nhất 45 ngày tính đến ngày kết thúc nhận hồ sơ dự tuyển, đơn vị đào tạo ra thông báo tuyển sinh. Thông báo tuyển sinh phải được niêm yết tại bảng tin và đăng trên website của đơn vị đào tạo.
 2. Nội dung thông báo tuyển sinh gồm: đối tượng và điều kiện dự tuyển; danh mục ngành phù hợp của từng chương trình đào tạo và quy định những trường hợp phải hoàn thành học bổ sung kiến thức; chỉ tiêu tuyển sinh của từng ngành đào tạo; các môn thi tuyển sinh, nội dung thi và dạng thức đề thi hoặc yêu cầu và thang điểm đánh giá năng lực quy định tại khoản 1, Điều 11, Quy chế này (nếu có); môn thi được cộng điểm ưu tiên; hồ sơ đăng ký dự thi; Kế hoạch và phương thức tuyển sinh, thời gian khai giảng khóa học và thời gian đào tạo; Chi phí đào tạo, mức thu học phí, mức thu dịch vụ tuyển sinh và khoản thu dịch vụ khác cho lộ trình cả khóa học, từng năm học; các thông tin cần thiết khác đối với thí sinh trong kỳ thi tuyển sinh.
 
-### Điều 18. Đăng ký dự thi, gửi giấy báo thi
+## Điều 18. Đăng ký dự thi, gửi giấy báo thi
 1. Hồ sơ, thủ tục đăng ký, xét duyệt hồ sơ đăng ký dự thi; việc lập danh sách thí sinh dự thi, làm thẻ dự thi, gửi giấy báo thi cho thí sinh thực hiện theo quy định của thủ trưởng đơn vị đào tạo.
 2. Danh sách thí sinh đủ điều kiện dự thi phải được công bố công khai trên website của đơn vị đào tạo chậm nhất 02 tuần trước khi thi môn thi đầu tiên.
 
-### Điều 19. Hội đồng tuyển sinh và các ban giúp việc
+## Điều 19. Hội đồng tuyển sinh và các ban giúp việc
 1. Việc tổ chức thi tuyển sinh đào tạo thạc sĩ được tổ chức thống nhất đối với các chương trình đào tạo do Đại học Quốc gia Hà Nội cấp bằng hoặc cùng cấp bằng.
 Hàng năm, Giám đốc Đại học Quốc gia Hà Nội quyết định thành lập Ban chỉ đạo tuyển sinh thạc sĩ của Đại học Quốc gia Hà Nội (gọi tắt là Ban chỉ đạo tuyển sinh). Ban Đào tạo là đơn vị thường trực của Ban chỉ đạo tuyển sinh, là đầu mối để thực thi việc chỉ đạo, giám sát, kiểm tra của Đại học Quốc gia Hà Nội về công tác tuyển sinh và giải quyết các vấn đề phát sinh.
 2. Hội đồng tuyển sinh
@@ -222,7 +222,7 @@ Hội đồng tuyển sinh của các đơn vị có nhiệm vụ điều hành 
 5. Nhiệm vụ, quyền hạn của chủ tịch hội đồng, phó chủ tịch hội đồng, uỷ viên thường trực và các ủy viên; tổ chức, tiêu chuẩn tham gia, nhiệm vụ, quyền hạn của các ban giúp việc cho hội đồng thực hiện theo quy định của thủ trưởng đơn vị đào tạo.
 6. Người mà bản thân tham dự thi một trong hai đợt của năm hoặc có bố, mẹ, vợ, chồng, con, anh chị em ruột dự thi không được tham gia hội đồng tuyển sinh hoặc các ban giúp việc cho hội đồng.
 
-### Điều 20. Đề thi tuyển sinh
+## Điều 20. Đề thi tuyển sinh
 1. Nội dung đề thi tuyển sinh đào tạo trình độ thạc sĩ phải đảm bảo các yêu cầu:
     a) Phù hợp với chương trình đào tạo trình độ đại học, đánh giá và phân loại được trình độ của thí sinh;
     b) Đảm bảo tính khoa học, chính xác, rõ ràng, chặt chẽ, bám sát và bao quát nội dung thi đã được công bố trong thông báo tuyển sinh của đơn vị đào tạo, trong phạm vi chương trình đào tạo trình độ đại học;
@@ -240,18 +240,18 @@ Hội đồng tuyển sinh của các đơn vị có nhiệm vụ điều hành 
 7. Thủ trưởng đơn vị đào tạo quy định cụ thể về các vấn đề liên quan đến đề thi tuyển sinh theo yêu cầu của đơn vị đào tạo và yêu cầu của ngành đào tạo.
 8. Chủ tịch hội đồng tuyển sinh chịu trách nhiệm về công tác tổ chức ra đề thi theo đúng quy định của Quy chế này và quy định của đơn vị đào tạo; quyết định và chịu trách nhiệm về việc xử lý các sự cố bất thường phát sinh trong công tác đề thi.
 
-### Điều 21. Tổ chức thi tuyển sinh
+## Điều 21. Tổ chức thi tuyển sinh
 1. Chủ tịch hội đồng tuyển sinh chịu trách nhiệm tổ chức kỳ thi tuyển sinh theo quy định của Quy chế này và Hướng dẫn tuyển sinh sau đại học hàng năm của Đại học Quốc gia Hà Nội.
 2. Các môn thi được tổ chức trong các ngày thi liên tục. Lịch thi cụ thể của kỳ thi phải đưa vào nội dung thông báo tuyển sinh.
 3. Giám đốc Đại học Quốc gia Hà Nội quy định cụ thể việc tổ chức thi tuyển sinh để đảm bảo minh bạch, an toàn, nghiêm túc, chất lượng; quy định thời gian làm bài của từng môn thi, nội quy phòng thi, tiêu chuẩn giám thị và các vấn đề khác theo yêu cầu của việc tổ chức kỳ thi tuyển sinh.
 
-### Điều 22. Chấm thi tuyển sinh
+## Điều 22. Chấm thi tuyển sinh
 1. Chủ tịch Hội đồng tuyển sinh quy định cụ thể về quy trình xây dựng đáp án, tiêu chuẩn cán bộ chấm thi, xử lý kết quả chấm thi, phúc khảo điểm thi và các vấn đề cần thiết khác theo yêu cầu của việc chấm thi tuyển sinh. Không thực hiện việc làm tròn điểm trong kỳ thi tuyển sinh đào tạo trình độ thạc sĩ.
 2. Trưởng ban chấm thi, Trưởng ban chấm phúc khảo, Trưởng ban chấm kiểm tra chịu trách nhiệm về công tác tổ chức chấm thi tuyển sinh theo đúng quy định của Quy chế này, Quy chế thi tốt nghiệp Trung học phổ thông của Bộ Giáo dục và Đào tạo, các hướng dẫn tuyển sinh sau đại học hàng năm của Đại học Quốc gia Hà Nội và phải kịp thời báo cáo với chủ tịch hội đồng tuyển sinh của đơn vị và Ban chỉ đạo tuyển sinh của Đại học Quốc gia Hà Nội về các sự cố bất thường, chưa được quy định, phát sinh trong công tác chấm thi để được chỉ đạo giải quyết.
 3. Cán bộ chấm thi chịu trách nhiệm thực hiện các quy định về chấm thi; đảm bảo việc chấm thi công bằng, khách quan, theo đúng đáp án; chịu trách nhiệm về kết quả chấm thi và bị xử lý kỷ luật nếu chấm sai dẫn đến thay đổi kết quả trúng tuyển của thí sinh.
 4. Trong trường hợp cần thiết, Giám đốc Đại học Quốc gia Hà Nội quyết định thành lập hoặc uỷ quyền cho một đơn vị đào tạo hoặc một đơn vị chuyên môn đúng ngành thành lập hội đồng chấm thẩm định một phần hoặc toàn bộ số bài thi tuyển sinh. Hội đồng này có tối thiểu 3 người, làm việc theo nguyên tắc nhất trí, có thẩm quyền quyết định cuối cùng về điểm chính thức của bài thi. Việc tổ chức đối thoại giữa hội đồng chấm thẩm định bài thi tuyển sinh với các cán bộ chấm thi, chấm phúc khảo hoặc yêu cầu giải trình trước khi kết luận điểm thi do chủ tịch hội đồng chấm thẩm định quyết định.
 
-### Điều 23. Điều kiện trúng tuyển, xét tuyển
+## Điều 23. Điều kiện trúng tuyển, xét tuyển
 1. Thí sinh thuộc diện xét trúng tuyển phải đạt tối thiểu 50% của thang điểm mỗi môn thi, đánh giá năng lực (sau khi đã cộng điểm ưu tiên, nếu có).
 2. Căn cứ chỉ tiêu đã được thông báo và tổng điểm các môn thi hoặc các nội dung đánh giá năng lực của từng thí sinh, hội đồng tuyển sinh đề nghị điểm trúng tuyển cho từng ngành. Đại học Quốc gia Hà Nội phê duyệt điểm trúng tuyển cho từng ngành đào tạo.
 3. Trường hợp có nhiều thí sinh cùng tổng điểm hai môn thi, kiểm tra nêu trên (đã cộng cả điểm ưu tiên, nếu có) thì xác định người trúng tuyển theo thứ tự ưu tiên sau:
@@ -260,28 +260,28 @@ Hội đồng tuyển sinh của các đơn vị có nhiệm vụ điều hành 
     c) Người có bằng tốt nghiệp đại học chương trình đào tạo tài năng, chương trình đào tạo chuẩn quốc tế, chương trình đào tạo chất lượng cao.
 4. Công dân nước ngoài có nguyện vọng học thạc sĩ tại Việt Nam được thủ trưởng đơn vị đào tạo căn cứ vào ngành đào tạo, kết quả học tập ở trình độ đại học, trình độ ngôn ngữ theo yêu cầu của chương trình đào tạo và trình độ tiếng Việt để xét tuyển theo Điều 26 Quy chế này; trường hợp có điều ước quốc tế hoặc thỏa thuận hợp tác giữa Chính phủ Việt Nam với chính phủ nước ngoài hoặc tổ chức quốc tế về việc tiếp nhận công dân nước ngoài đến Việt Nam học tập ở trình độ thạc sĩ thì áp dụng quy định của điều ước quốc tế hoặc thỏa thuận hợp tác đó.
 
-### Điều 24. Quyết định trúng tuyển và công nhận học viên
+## Điều 24. Quyết định trúng tuyển và công nhận học viên
 1. Chủ tịch hội đồng tuyển sinh báo cáo thủ trưởng đơn vị đào tạo kết quả thi tuyển, xét tuyển; trên cơ sở chỉ tiêu đã xác định thủ trưởng đơn vị đào tạo dự kiến phương án xác định điểm trúng tuyển đề nghị Đại học Quốc gia Hà Nội phê duyệt. Căn cứ điểm trúng tuyển đã được phê duyệt, Thủ trưởng đơn vị kí duyệt danh sách thí sinh trúng tuyển của đơn vị mình. Danh sách thí sinh trúng tuyển phải được thông báo công khai trên website của đơn vị đào tạo.
 2. Đơn vị đào tạo gửi thông báo nhập học đến các thí sinh trong danh sách trúng tuyển trước ngày nhập học tối thiểu 15 ngày. Thí sinh đến nhập học chậm sau 15 ngày trở lên kể từ ngày nhập học ghi trong thông báo nhập học, nếu không có lý do chính đáng thì coi như bỏ học.
 3. Chậm nhất một tuần sau khi nhập học, học viên phải khai báo đầy đủ thông tin cá nhân theo quy định của Đại học Quốc gia Hà Nội (theo hệ thống thông tin tích hợp trong phần mềm quản lý đào tạo) và của đơn vị đào tạo.
 4. Hiệu trưởng trường đại học ra quyết định công nhận học viên của khóa đào tạo trình độ thạc sĩ cho những thí sinh trúng tuyển đã đăng ký nhập học, báo cáo Đại học Quốc gia Hà Nội. Chủ nhiệm khoa trực thuộc, Hiệu trưởng trường trực thuộc, Viện trưởng viện nghiên cứu khoa học đề nghị Giám đốc Đại học Quốc gia Hà Nội ra quyết định công nhận học viên của khóa đào tạo trình độ thạc sĩ cho những thí sinh trúng tuyển đã đăng ký nhập học tại đơn vị mình.
 
-### Điều 25. Hoạt động thanh tra, kiểm tra, giám sát tuyển sinh
+## Điều 25. Hoạt động thanh tra, kiểm tra, giám sát tuyển sinh
 1. Đại học Quốc gia Hà Nội (Ban Đào tạo là bộ phận thường trực) kiểm tra, giám sát công tác tuyển sinh của các hội đồng tuyển sinh theo các quy định hiện hành.
 2. Hoạt động thanh tra tuyển sinh thực hiện theo quy định hiện hành về tổ chức và hoạt động thanh tra các kỳ thi của Đại học Quốc gia Hà Nội. Hoạt động kiểm tra công tác tuyển sinh thực hiện theo quy định về chức năng, nhiệm vụ của các đơn vị, cơ quan quản lý có thẩm quyền.
 3. Thủ trưởng đơn vị đào tạo có trách nhiệm tổ chức thanh tra, kiểm tra, giám sát nội bộ các khâu trong công tác tuyển sinh tại đơn vị mình theo quy định của Đại học Quốc gia Hà Nội.
 4. Những người bản thân tham gia dự thi một trong hai đợt của năm hoặc có bố, mẹ, vợ, chồng, con, anh, chị, em ruột dự thi tuyển sinh đào tạo trình độ thạc sĩ trong cùng năm không được tham gia công tác thanh tra, kiểm tra, giám sát tuyển sinh.
 
-### Điều 26. Xét tuyển người nước ngoài
+## Điều 26. Xét tuyển người nước ngoài
 Việc xét tuyển người nước ngoài hoặc người Việt Nam có quốc tịch nước ngoài vào học thạc sĩ tại Đại học Quốc gia Hà Nội được thực hiện theo quy định riêng.
 
-## Chương III: TỔ CHỨC ĐÀO TẠO
+# Chương III: TỔ CHỨC ĐÀO TẠO
 
-### Điều 27. Phân công giảng dạy các học phần tại Đại học Quốc gia Hà Nội
+## Điều 27. Phân công giảng dạy các học phần tại Đại học Quốc gia Hà Nội
 1. Các học phần thuộc phần kiến thức chung được tổ chức giảng dạy chung trong toàn Đại học Quốc gia Hà Nội. Trường Đại học Ngoại ngữ chịu trách nhiệm giảng dạy học phần Ngoại ngữ; Trường Đại học Khoa học Xã hội và Nhân văn chịu trách nhiệm giảng dạy học phần Triết học.
 2. Các học phần thuộc phần kiến thức cơ sở và chuyên ngành được tổ chức giảng dạy chung trong đơn vị đào tạo. Trường hợp nhiều đơn vị đào tạo có cùng một học phần, đơn vị đào tạo nào quản lý học phần sẽ chịu trách nhiệm giảng dạy học phần đó.
 
-### Điều 28. Tổ chức đào tạo
+## Điều 28. Tổ chức đào tạo
 1. Địa điểm đào tạo là trụ sở chính hoặc phân hiệu của đơn vị đào tạo, riêng các hoạt động thực hành, thực tập, nghiên cứu và trải nghiệm thực tế có thể được tổ chức ở ngoài đơn vị đào tạo nhưng không vượt quá 20% khối lượng chương trình đào tạo. Đối với các ngành thuộc lĩnh vực sức khỏe, việc tổ chức đào tạo tại các cơ sở thực hành thực hiện theo quy định của Chính phủ, đáp ứng yêu cầu của chương trình đào tạo và phải được thể hiện rõ trong kế hoạch giảng dạy.
 2. Tổ chức giảng dạy các nội dung trong chương trình đào tạo thạc sĩ phải được thực hiện bằng cách phối hợp học tập ở trên lớp với tự học, tự nghiên cứu; coi trọng năng lực phát hiện, giải quyết vấn đề thuộc lĩnh vực ngành đào tạo và năng lực độc lập nghiên cứu khoa học, xử lý các vấn đề thực tiễn của học viên. Đơn vị đào tạo được tổ chức các lớp học trực tuyến với khối lượng học tập không vượt quá 30% tổng khối lượng của chương trình đào tạo khi đáp ứng các quy định hiện hành về ứng dụng công nghệ thông tin trong quản lý và tổ chức đào tạo qua mạng; bảo đảm chất lượng không thấp hơn so với các lớp học trực tiếp.
 3. Thời khoá biểu thể hiện thời gian, địa điểm, hoạt động dạy và học của từng lớp học thuộc các khoá học, hình thức và chương trình đào tạo. Trong trường hợp cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng đối với một học phần không vượt quá 15 giờ trong một tuần và 04 giờ trong một ngày. Mỗi giảng viên không dạy quá 03 học phần trong một chương trình đào tạo.
@@ -290,7 +290,7 @@ Việc xét tuyển người nước ngoài hoặc người Việt Nam có quố
 5. Đơn vị đào tạo không bắt buộc học viên phải đăng ký học phần ngoại ngữ tại đơn vị mình. Nếu học viên có nhu cầu học ngoại ngữ, đơn vị đào tạo phải tổ chức lớp học phần và phối hợp với Trường Đại học Ngoại ngữ tổ chức giảng dạy.
 6. Thủ trưởng đơn vị đào tạo có trách nhiệm đầu tư xây dựng cơ sở vật chất, phòng thí nghiệm, trang thiết bị thực hành hoặc hợp đồng với các cơ quan, tổ chức, đơn vị kinh tế,... để đảm bảo điều kiện nghiên cứu, thử nghiệm, thực hành, ứng dụng thực tế cho người học phù hợp với yêu cầu của ngành và loại chương trình đào tạo.
 
-### Điều 29. Tổ chức lớp học
+## Điều 29. Tổ chức lớp học
 1. Lớp khóa học
     a) Lớp khóa học được tổ chức cho những học viên cùng một chương trình đào tạo trong cùng một khóa học và ổn định từ đầu đến cuối mỗi khóa học. Trường hợp học viên được phép nghỉ học tạm thời, khi trở lại học tập được bố trí vào lớp khóa học phù hợp với khối lượng kiến thức đã tích lũy nhưng giữ nguyên mã học viên đã được cấp;
     b) Đơn vị đào tạo bố trí cán bộ phụ trách để quản lý lớp khóa học;
@@ -301,7 +301,7 @@ Việc xét tuyển người nước ngoài hoặc người Việt Nam có quố
     c) Giảng viên của học phần trực tiếp phụ trách lớp học phần;
     d) Tên lớp học phần được gọi theo mã số học phần. Trường hợp một học phần có nhiều lớp học phần, tên lớp học phần bổ sung số thứ tự lớp học phần. Trường hợp một học phần có nhiều đơn vị đào tạo tổ chức giảng dạy, tên lớp học phần bổ sung mã số đơn vị.
 
-### Điều 30. Đăng ký học tập
+## Điều 30. Đăng ký học tập
 1. Số tín chỉ tối đa đăng ký học trong mỗi năm học là 45 tín chỉ;
 2. Đăng ký học các học phần
     a) Việc tổ chức đăng ký học các học phần trong chương trình đào tạo do thủ trưởng đơn vị đào tạo quy định. Học viên được đăng ký học và thi các học phần trong chương trình đào tạo do bất kì một đơn vị đào tạo nào thuộc Đại học Quốc gia Hà Nội tổ chức giảng dạy. Kết quả các học phần này được chuyển đổi và được thừa nhận ở tất cả các đơn vị đào tạo trong Đại học Quốc gia Hà Nội;
@@ -322,7 +322,7 @@ Việc xét tuyển người nước ngoài hoặc người Việt Nam có quố
     b) Kết quả đăng ký học phần chỉ được chấp nhận sau khi học viên đã hoàn thành các khoản kinh phí cần nộp theo quy định.
 7. Thời hạn bảo lưu kết quả học phần do đơn vị đào tạo quản lý học phần quy định nhưng không quá 05 năm tính từ ngày thi kết thúc học phần.
 
-### Điều 31. Thi, kiểm tra, đánh giá
+## Điều 31. Thi, kiểm tra, đánh giá
 1. Việc đánh giá học phần phải đảm bảo các yêu cầu sau:
     a) Khách quan, chính xác, công bằng, phân loại được năng lực của người học; công khai, minh bạch các quy định về đánh giá và kết quả đánh giá học phần;
     b) Đề thi, kiểm tra học phần phải phù hợp với nội dung và đảm bảo mục tiêu học phần đã xác định trong đề cương chi tiết;
@@ -339,10 +339,10 @@ Việc xét tuyển người nước ngoài hoặc người Việt Nam có quố
 5. Điểm kiểm tra, điểm thi kết thúc học phần và điểm học phần phải được thông báo cho học viên chậm nhất 15 ngày làm việc kể từ ngày thi kết thúc học phần, trên website của đơn vị. Điểm học phần phải được ghi vào phụ lục văn bằng của học viên theo mẫu thống nhất do đơn vị đào tạo quy định, phù hợp với quy định của Đại học Quốc gia Hà Nội. Điểm học phần của học viên phải được lưu trong sổ điểm chung của đơn vị đào tạo.
 6. Thủ trưởng đơn vị đào tạo quy định việc bảo quản và lưu giữ bài thi và các hồ sơ liên quan đến bài thi.
 
-### Điều 32. Điểm trung bình chung
+## Điều 32. Điểm trung bình chung
 Điểm trung bình chung được tính theo Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội.
 
-### Điều 33. Xử lý học vụ
+## Điều 33. Xử lý học vụ
 Sau mỗi học kỳ, đơn vị đào tạo thực hiện xử lý học vụ.
 1. Cảnh báo học vụ
 Đầu mỗi học kỳ (từ học kỳ thứ 2 trở đi), đơn vị đào tạo cảnh báo cho những học viên có điểm trung bình chung học kỳ đạt từ 0,8 đến dưới 0,85 đối với học kỳ đầu của khóa học; đạt từ 1,0 đến dưới 1,1 trong các học kỳ tiếp theo hoặc đạt từ 1,1 đến dưới 1,2 trong 2 học kỳ liên tiếp.
@@ -365,9 +365,9 @@ Sau mỗi học kỳ, đơn vị đào tạo thực hiện xử lý học vụ.
 4. Hiệu trưởng trường đại học quyết định và báo cáo Đại học Quốc gia Hà Nội việc cho chuyển đi hoặc tiếp nhận học viên chuyển đến đơn vị mình. Giám đốc Đại học Quốc gia Hà Nội quyết định việc cho chuyển đi hoặc tiếp nhận học viên của khoa trực thuộc, trường trực thuộc, viện nghiên cứu khoa học.
 5. Quy chế của đơn vị đào tạo quy định chi tiết về điều kiện, quy trình thực hiện trao đổi học viên; công nhận tín chỉ học viên đã tích lũy khi thực hiện chương trình đào tạo ở đơn vị đào tạo phối hợp và công khai trên trang thông tin điện tử của đơn vị đào tạo.
 
-## Chương IV: LUẬN VĂN VÀ ĐÁNH GIÁ LUẬN VĂN
+# Chương IV: LUẬN VĂN VÀ ĐÁNH GIÁ LUẬN VĂN
 
-### Điều 34. Yêu cầu đối với luận văn
+## Điều 34. Yêu cầu đối với luận văn
 1. Học viên theo học chương trình định hướng nghiên cứu phải thực hiện một đề tài nghiên cứu có khối lượng từ 12 đến 15 tín chỉ, kết quả được thể hiện bằng luận văn. Học viên thực hiện luận văn trong thời gian ít nhất 06 tháng.
 2. Luận văn là một báo cáo khoa học, tổng hợp các kết quả nghiên cứu chính của học viên, đáp ứng các yêu cầu sau:
     a) Có đóng góp về lý luận, học thuật hoặc phát triển công nghệ, đổi mới sáng tạo; thể hiện năng lực nghiên cứu của học viên;
@@ -377,7 +377,7 @@ Sau mỗi học kỳ, đơn vị đào tạo thực hiện xử lý học vụ.
     đ) Học viên phải trình bày nội dung, kế hoạch nghiên cứu đề tài luận văn trước đơn vị chuyên môn chậm nhất 02 tháng sau khi nhận đề tài luận văn. Kết quả đánh giá báo cáo là điều kiện để xem xét việc đề nghị cho bảo vệ luận văn.
 3. Thủ trưởng đơn vị đào tạo quy định cụ thể cách thức trình bày luận văn theo yêu cầu của từng ngành đào tạo và các vấn đề khác liên quan đến luận văn.
 
-### Điều 35. Hướng dẫn luận văn và điều kiện đánh giá luận văn
+## Điều 35. Hướng dẫn luận văn và điều kiện đánh giá luận văn
 1. Hướng dẫn luận văn
     a) Mỗi học viên có một hoặc hai người hướng dẫn luận văn, trong đó phải có một người là giảng viên cơ hữu của Đại học Quốc gia Hà Nội;
     b) Tại một thời điểm, một người hướng dẫn độc lập không quá 05 học viên, kể cả học viên của cơ sở đào tạo khác (tính cả số học viên thực hiện học phần tốt nghiệp của chương trình định hướng ứng dụng); trường hợp đồng hướng dẫn 02 học viên được tính tương đương hướng dẫn độc lập 01 học viên;
@@ -396,7 +396,7 @@ Sau mỗi học kỳ, đơn vị đào tạo thực hiện xử lý học vụ.
     d) Không bị truy cứu trách nhiệm hình sự và không trong thời gian bị kỷ luật đình chỉ học tập;
     đ) Luận văn đã được kiểm tra việc sao chép trùng lặp, bảo đảm liêm chính học thuật đối với luận văn; Không bị tố cáo theo quy định của pháp luật về nội dung khoa học trong luận văn.
 
-### Điều 36. Hội đồng đánh giá luận văn
+## Điều 36. Hội đồng đánh giá luận văn
 1. Hiệu trưởng trường đại học quyết định thành lập hội đồng đánh giá luận văn cho học viên được đào tạo tại đơn vị mình trên cơ sở đề nghị của chủ nhiệm khoa chuyên môn và trưởng phòng quản lý đào tạo sau đại học. Khoa/phòng chuyên môn của các đơn vị này tổ chức cho học viên bảo vệ luận văn. Giám đốc Đại học Quốc gia Hà Nội quyết định thành lập hội đồng đánh giá luận văn cho học viên được đào tạo tại khoa trực thuộc, trường trực thuộc, viện nghiên cứu khoa học trên cơ sở đề nghị của Trưởng ban Đào tạo; các khoa trực thuộc, trường trực thuộc, viện nghiên cứu khoa học tổ chức cho học viên bảo vệ luận văn.
 Việc thành lập hội đồng đánh giá luận văn được thực hiện trong thời hạn tối đa 30 ngày làm việc, tính từ ngày học viên nộp luận văn và đủ điều kiện bảo vệ và được cấp có thẩm quyền ra quyết định thành lập hội đồng theo quy định tại Điều 34, Điều 35, Quy chế này.
 2. Hội đồng đánh giá luận văn có năm thành viên, gồm: chủ tịch, thư ký, hai phản biện và uỷ viên. Hội đồng có tối thiểu hai thành viên ở ngoài đơn vị đào tạo, thuộc hai đơn vị khác nhau; trong đó, ít nhất có một người là phản biện.
@@ -409,13 +409,13 @@ Việc thành lập hội đồng đánh giá luận văn được thực hiện
 4. Hội đồng họp để đánh giá luận văn trong thời hạn tối đa 30 ngày làm việc, kể từ ngày ra quyết định thành lập hội đồng. Hội đồng không tổ chức họp đánh giá luận văn nếu xảy ra một trong những trường hợp sau: luận văn chuyển tới các thành viên hội đồng tính đến ngày họp dưới 5 ngày; vắng mặt chủ tịch hoặc thư ký hội đồng; vắng mặt thành viên hội đồng có ý kiến không tán thành luận văn; vắng mặt từ hai thành viên hội đồng trở lên.
 Trong trường hợp có lý do khách quan, Hiệu trưởng trường đại học hoặc Giám đốc Đại học Quốc gia Hà Nội quyết định việc thay đổi, bổ sung thành viên hội đồng nhưng vẫn phải đảm bảo các yêu cầu quy định tại Khoản 3, Điều này và thời hạn tổ chức họp hội đồng đánh giá luận văn được tính từ ngày ký quyết định cuối cùng về việc thay đổi, bổ sung thành viên hội đồng.
 
-### Điều 37. Đánh giá luận văn
+## Điều 37. Đánh giá luận văn
 1. Luận văn được đánh giá công khai tại phiên họp của hội đồng (trừ một số đề tài thuộc lĩnh vực bảo mật theo quy định của cơ quan có thẩm quyền). Hội đồng tập trung chủ yếu vào đánh giá việc thực hiện mục tiêu nghiên cứu, nội dung và chất lượng của luận văn, mức độ đáp ứng yêu cầu đối với luận văn theo quy định tại Điều 34 Quy chế này, đảm bảo đánh giá đúng kiến thức của học viên và khả năng vận dụng kiến thức vào giải quyết những vấn đề mà đề tài luận văn đặt ra. Hình thức bảo vệ trực tuyến có thể được thực hiện khi có sự đồng thuận của các thành viên hội đồng và học viên; toàn bộ diễn biến của buổi bảo vệ trực tuyến được ghi hình, ghi âm và lưu trữ.
 2. Điểm chấm luận văn của từng thành viên hội đồng theo thang điểm 10, có thể lẻ đến một chữ số thập phân, gồm: điểm nội dung luận văn tối đa 9 điểm, do thủ trưởng đơn vị đào tạo quy định cụ thể và điểm thành tích nghiên cứu tối đa 1 điểm cho những luận văn mà học viên đã có bài báo khoa học liên quan công bố trên danh mục tạp chí khoa học chuyên ngành do thủ trưởng đơn vị đào tạo quy định hoặc có kết quả ứng dụng đã được nơi ứng dụng đồng ý bằng văn bản về việc chuyển giao, triển khai kết quả nghiên cứu. Điểm luận văn là trung bình cộng điểm chấm của các thành viên có mặt trong buổi đánh giá luận văn, làm tròn đến một chữ số thập phân. Luận văn đạt yêu cầu khi điểm trung bình của hội đồng chấm chuyển đổi sang hệ điểm chữ đạt từ điểm C trở lên.
 3. Trong trường hợp luận văn không đạt yêu cầu, học viên được chỉnh sửa, bổ sung luận văn để đánh giá lần thứ hai trong thời hạn 03 tháng kể từ ngày họp hội đồng đánh giá luận văn lần thứ nhất. Không tổ chức đánh giá luận văn lần thứ ba. Nếu học viên có nguyện vọng thì thủ trưởng đơn vị đào tạo có thể giao đề tài mới. Trong trường hợp này, không tổ chức đánh giá lại luận văn nếu luận văn (với đề tài mới) vẫn không đạt yêu cầu. Thời gian tối đa để hoàn thành chương trình đào tạo phải theo đúng quy định tại Khoản 3, Điều 6, Quy chế này. Kinh phí cho việc chỉnh sửa, bổ sung luận văn, tổ chức đánh giá lại, thực hiện và đánh giá đề tài mới do học viên tự chi trả theo quy định của đơn vị đào tạo.
 4. Thủ trưởng đơn vị đào tạo quy định chi tiết việc đánh giá luận văn, hồ sơ, thủ tục buổi đánh giá luận văn, yêu cầu đối với bản nhận xét luận văn, phiếu chấm điểm của thành viên hội đồng, biên bản buổi bảo vệ và hướng dẫn các thành viên trong hội đồng thực hiện.
 
-### Điều 38. Thẩm định luận văn
+## Điều 38. Thẩm định luận văn
 1. Hội đồng thẩm định
 Khi có đơn tố cáo đúng quy định của Luật Tố cáo, có căn cứ rõ ràng cho thấy luận văn không đảm bảo các yêu cầu theo quy định tại Điều 34, Quy chế này hoặc khi thấy cần thiết, Hiệu trưởng trường đại học hoặc Giám đốc Đại học Quốc gia Hà Nội thành lập hội đồng thẩm định luận văn. Số lượng, yêu cầu đối với thành viên hội đồng thẩm định luận văn theo quy định tại Khoản 2, 3, Điều 36 Quy chế này; trong đó, nếu có thành viên thuộc đơn vị đào tạo thì không quá hai người. Thành viên hội đồng đánh giá luận văn không tham gia hội đồng thẩm định.
 2. Thẩm định luận văn
@@ -428,7 +428,7 @@ Nếu hội đồng thẩm định kết luận luận văn không đạt yêu c
     b) Nếu đã bảo vệ lại luận văn hoặc đề tài không cần thiết tiếp tục nghiên cứu, nhưng học viên có nguyện vọng, thì thủ trưởng đơn vị đào tạo giao đề tài mới. Trường hợp đã hết thời gian tối đa để hoàn thành chương trình đào tạo theo quy định tại Khoản 3, Điều 6, Quy chế này thì học viên được thực hiện đề tài mới trong thời gian tối đa 6 tháng. Thủ trưởng đơn vị đào tạo tổ chức đánh giá luận văn theo các quy định tại Khoản 2, Điều 35; Điều 36 và Khoản 1, 2, 4, Điều 37 Quy chế này;
     c) Kinh phí cho việc chỉnh sửa, bổ sung luận văn, bảo vệ lại luận văn, thực hiện và bảo vệ luận văn nghiên cứu đề tài mới, do học viên tự chi trả.
 
-### Điều 39. Hướng dẫn, đánh giá và thẩm định học phần tốt nghiệp chương trình định hướng ứng dụng
+## Điều 39. Hướng dẫn, đánh giá và thẩm định học phần tốt nghiệp chương trình định hướng ứng dụng
 1. Học viên theo học chương trình định hướng ứng dụng phải thực hiện một học phần tốt nghiệp từ 6 đến 9 tín chỉ dưới hình thức đề án, đồ án hoặc dự án (sau đây gọi chung là đề án). Học viên thực hiện đề án trong thời gian ít nhất 03 tháng.
 2. Đề án được tổ chức đánh giá bằng hình thức bảo vệ trước hội đồng. Buổi bảo vệ được tổ chức công khai trừ một số đề tài thuộc các lĩnh vực cần bảo mật thực hiện theo quy định của nhà nước.
 3. Báo cáo đề án là một bản thuyết minh quá trình xây dựng, triển khai và kết quả triển khai đề án; đáp ứng các yêu cầu sau:
@@ -441,25 +441,25 @@ Nếu hội đồng thẩm định kết luận luận văn không đạt yêu c
 7. Trong trường hợp đề án không đạt yêu cầu, học viên được chỉnh sửa, bổ sung đề án để đánh giá lần thứ hai trong thời hạn 45 ngày tính từ ngày họp hội đồng đánh giá lần thứ nhất; không tổ chức đánh giá đề án lần thứ ba.
 8. Đơn vị đào tạo căn cứ quy định tại Điều 35, Điều 36, Điều 37, Điều 38 của Quy chế này và quy định tại Điều này để quy định chi tiết về hướng dẫn, đánh giá và thẩm định đề án.
 
-## Chương V: CÔNG NHẬN HỌC VỊ VÀ CẤP BẰNG THẠC SĨ
+# Chương V: CÔNG NHẬN HỌC VỊ VÀ CẤP BẰNG THẠC SĨ
 
-### Điều 40. Quản lý phôi bằng
+## Điều 40. Quản lý phôi bằng
 Giám đốc Đại học Quốc gia Hà Nội ban hành mẫu phôi bằng, in phôi bằng, quản lý và cấp phôi bằng thạc sĩ cho các đơn vị đào tạo.
 
-### Điều 41. Điều kiện tốt nghiệp
+## Điều 41. Điều kiện tốt nghiệp
 1. Học viên được xét công nhận tốt nghiệp chương trình đào tạo thạc sĩ nếu có đủ các điều kiện sau:
     a) Điểm luận văn/đề án tốt nghiệp đạt yêu cầu;
     b) Sau khi đánh giá thành công, toàn văn luận văn/đề án tốt nghiệp (có xác nhận của người hướng dẫn và chủ tịch hội đồng về việc luận văn/đề án tốt nghiệp đã được chỉnh sửa theo kết luận của hội đồng nếu có, đóng kèm bản sao kết luận của hội đồng đánh giá luận văn/đề án tốt nghiệp và nhận xét của các phản biện cho đơn vị đào tạo để sử dụng làm tài liệu tham khảo tại thư viện) được công bố trên trang thông tin điện tử của đơn vị đào tạo trong thời gian ít nhất 30 ngày, trừ một số đề tài thuộc các lĩnh vực cần bảo mật thực hiện theo quy định của nhà nước. Đối với trường hợp học viên không chỉnh sửa luận văn/đề án tốt nghiệp theo kết luận hội đồng trong thời gian 01 tháng kể từ ngày đánh giá thành công luận văn/đề án tốt nghiệp, tùy theo mức độ, thủ trưởng đơn vị quyết định hình thức xử lý kỷ luật tạm dừng xét tốt nghiệp từ 06 tháng đến 12 tháng;
     c) Điều kiện khác do đơn vị đào tạo quy định.
 2. Hội đồng xét tốt nghiệp do thủ trưởng đơn vị đào tạo quyết định thành lập, trên cơ sở đề nghị của trưởng đơn vị quản lý đào tạo sau đại học. Hội đồng do thủ trưởng đơn vị đào tạo hoặc cấp phó được ủy quyền của thủ trưởng đơn vị đào tạo làm chủ tịch, trưởng đơn vị quản lý đào tạo sau đại học làm uỷ viên thường trực, các uỷ viên là trưởng đơn vị chuyên môn có học viên tốt nghiệp, đại diện thanh tra đào tạo và đại diện lãnh đạo đơn vị có liên quan đến quá trình đào tạo (nếu có). Hội đồng căn cứ vào điều kiện tốt nghiệp để xét, lập danh sách những học viên đủ điều kiện, đề nghị cấp có thẩm quyền công nhận tốt nghiệp.
 
-### Điều 42. Công nhận học vị và cấp bằng thạc sĩ
+## Điều 42. Công nhận học vị và cấp bằng thạc sĩ
 1. Đơn vị đào tạo hoàn chỉnh hồ sơ đề nghị công nhận học vị và cấp bằng thạc sĩ cho các học viên đáp ứng các điều kiện quy định tại Khoản 1, Điều 41, Quy chế này, trong 02 tháng kể từ ngày học viên bảo vệ thành công luận văn/đề án tốt nghiệp; tối đa thêm 03 tháng trong trường hợp phải tổ chức thẩm định luận văn/đề án.
 2. Giám đốc Đại học Quốc gia Hà Nội quyết định công nhận học vị và cấp bằng thạc sĩ cho học viên đã hoàn thành chương trình đào tạo thạc sĩ tại các khoa trực thuộc, trường trực thuộc, viện nghiên cứu khoa học theo đề nghị của hội đồng xét tốt nghiệp và Trưởng ban Đào tạo.
 Hiệu trưởng trường đại học quyết định công nhận học vị và cấp bằng thạc sĩ cho học viên theo đề nghị của hội đồng xét tốt nghiệp và trưởng phòng/khoa đào tạo sau đại học.
 3. Phụ lục văn bằng cấp cho học viên phải ghi rõ: ngành đào tạo, loại chương trình đào tạo (định hướng nghiên cứu hoặc định hướng ứng dụng, hình thức đào tạo), tên các học phần trong chương trình đào tạo, thời lượng của mỗi học phần, điểm học phần, điểm trung bình chung các học phần, tên đề tài luận văn/đề án, điểm luận văn/đề án và danh sách thành viên hội đồng đánh giá luận văn/đề án.
 
-### Điều 43. Chế độ báo cáo, lưu trữ
+## Điều 43. Chế độ báo cáo, lưu trữ
 1. Chế độ báo cáo
     a) Tháng 12 hàng năm, thủ trưởng đơn vị đào tạo báo cáo Đại học Quốc gia Hà Nội về công tác đào tạo trình độ thạc sĩ của năm đó, bao gồm: số giảng viên cơ hữu có trình độ tiến sĩ trở lên của đơn vị đào tạo và số liệu thực hiện kế hoạch tuyển sinh theo từng ngành đào tạo; số học viên hiện có và số dự kiến tốt nghiệp năm sau; dự kiến số lần tuyển sinh, thời điểm tuyển sinh và chỉ tiêu tuyển sinh cho năm sau;
     b) Thủ trưởng đơn vị đào tạo chịu trách nhiệm về thời gian báo cáo, tính chính xác và chất lượng của báo cáo.
@@ -470,9 +470,9 @@ Hiệu trưởng trường đại học quyết định công nhận học vị 
     d) Tài liệu khác liên quan đến tuyển sinh, đào tạo trình độ thạc sĩ được lưu trữ, bảo quản tối thiểu 05 năm, kể từ khi người học tốt nghiệp;
     đ) Việc tiêu hủy tài liệu hết thời gian lưu trữ được thực hiện theo quy định hiện hành của nhà nước.
 
-## Chương VI: NGHĨA VỤ, QUYỀN LỢI CỦA GIẢNG VIÊN VÀ HỌC VIÊN
+# Chương VI: NGHĨA VỤ, QUYỀN LỢI CỦA GIẢNG VIÊN VÀ HỌC VIÊN
 
-### Điều 44. Tiêu chuẩn, trách nhiệm và quyền lợi của giảng viên
+## Điều 44. Tiêu chuẩn, trách nhiệm và quyền lợi của giảng viên
 1. Giảng viên đào tạo trình độ thạc sĩ bao gồm giảng viên cơ hữu và giảng viên thỉnh giảng, được phân công nhiệm vụ giảng dạy các học phần trong chương trình đào tạo trình độ thạc sĩ hoặc hướng dẫn học viên thực hành, thực tập, thực hiện đề tài luận văn/đề án thạc sĩ.
 2. Tiêu chuẩn đối với giảng viên
 Ngoài các yêu cầu chung của giảng viên, giảng viên giảng dạy chương trình đào tạo thạc sĩ phải có bằng tiến sĩ, tiến sĩ khoa học hoặc chức danh phó giáo sư, giáo sư. Người có bằng thạc sĩ có thể tham gia phụ giảng một số học phần thực hành trong các chương trình định hướng ứng dụng và được Thủ trưởng đơn vị đào tạo phê duyệt.
@@ -492,10 +492,10 @@ Ngoài các yêu cầu chung của giảng viên, giảng viên giảng dạy ch
     c) Được hưởng thù lao trong đào tạo tiến sĩ theo quy định của nhà nước, của Đại học Quốc gia Hà Nội và của đơn vị đào tạo;
     d) Được bảo hộ quyền sở hữu trí tuệ và bản quyền tác giả theo quy định hiện hành.
 
-### Điều 45. Kỷ luật đối với cán bộ coi thi, tổ chức thi, chấm thi
+## Điều 45. Kỷ luật đối với cán bộ coi thi, tổ chức thi, chấm thi
 Người tham gia công tác coi thi, tổ chức thi, chấm thi vi phạm quy định (bị phát hiện trong hoặc sau khi thực hiện nhiệm vụ), tùy theo mức độ sẽ bị kiểm điểm và thi hành kỷ luật theo Quy chế thi tốt nghiệp Trung học phổ thông hiện hành.
 
-### Điều 46. Nghĩa vụ của học viên
+## Điều 46. Nghĩa vụ của học viên
 1. Thực hiện nghĩa vụ của công dân theo quy định của pháp luật. Học viên là người nước ngoài phải tuân thủ pháp luật Việt Nam, tôn trọng phong tục, tập quán của Việt Nam.
 2. Thực hiện nghiêm túc quy chế và nội quy của Đại học Quốc gia Hà Nội và của đơn vị đào tạo.
 3. Có trách nhiệm khai báo các thông tin liên quan đến cá nhân, cập nhật dữ liệu khi có những thay đổi trong quá trình học tập và sau khi tốt nghiệp theo quy định của Đại học Quốc gia Hà Nội.
@@ -511,7 +511,7 @@ Học viên không trung thực và có hành vi gian lận trong nghiên cứu 
 10. Học viên có trách nhiệm thực hiện đúng các quy định về kỷ luật phòng thi, nếu vi phạm sẽ bị kiểm điểm và thi hành kỷ luật theo Quy chế thi tốt nghiệp Trung học phổ thông hiện hành. Học viên thi hộ hoặc nhờ người thi hộ bị kỷ luật ở mức đình chỉ học tập 1 năm nếu vi phạm lần thứ nhất và buộc thôi học nếu vi phạm lần thứ hai.
 11. Nộp đủ, đúng các khoản kinh phí theo quy định.
 
-### Điều 47. Quyền lợi của học viên
+## Điều 47. Quyền lợi của học viên
 1. Được nhận vào học đúng ngành đã đăng ký dự tuyển khi trúng tuyển.
 2. Được tham gia hoạt động của các đoàn thể, tổ chức xã hội trong đơn vị đào tạo.
 3. Được tạo điều kiện sử dụng thư viện, tài liệu khoa học, phòng thí nghiệm, các trang thiết bị và cơ sở vật chất khác của đơn vị đào tạo và cơ sở phối hợp để phục vụ cho việc thực hiện kế hoạch học tập, nghiên cứu đã được thông qua.
@@ -522,9 +522,9 @@ Học viên không trung thực và có hành vi gian lận trong nghiên cứu 
 8. Được tôn trọng, đối xử bình đẳng và được cung cấp đầy đủ các thông tin liên quan đến việc học tập của mình.
 9. Các quyền khác theo quy định của pháp luật.
 
-## Chương VII: TÀI CHÍNH CHO ĐÀO TẠO
+# Chương VII: TÀI CHÍNH CHO ĐÀO TẠO
 
-### Điều 48. Nguồn tài chính cho đào tạo
+## Điều 48. Nguồn tài chính cho đào tạo
 1. Nguồn tài chính cho đào tạo bao gồm kinh phí từ ngân sách nhà nước, học phí của học viên, kinh phí của các đề tài nghiên cứu khoa học, kinh phí từ hoạt động hợp tác và chuyển giao công nghệ và các nguồn tài trợ khác.
     a) Kinh phí từ ngân sách nhà nước
     Đại học Quốc gia Hà Nội phân bổ kinh phí từ ngân sách nhà nước theo định mức và chỉ tiêu đào tạo hàng năm cho các ngành có chương trình đào tạo tương ứng.
@@ -540,23 +540,23 @@ Học viên không trung thực và có hành vi gian lận trong nghiên cứu 
 3. Hiệu quả sử dụng kinh phí đào tạo
 Đơn vị đào tạo xác định tỉ lệ các nguồn kinh phí đào tạo cho từng ngành cụ thể. Sau mỗi khóa học, đơn vị đào tạo đánh giá tổng kết tính hiệu quả kinh tế về kinh phí đào tạo của từng ngành và báo cáo Đại học Quốc gia Hà Nội. Hiệu quả sử dụng kinh phí đào tạo là một trong những căn cứ quan trọng để Giám đốc Đại học Quốc gia Hà Nội cho phép tiếp tục đào tạo hay dừng đào tạo một ngành.
 
-### Điều 49. Chế độ tài chính đối với học viên người nước ngoài
+## Điều 49. Chế độ tài chính đối với học viên người nước ngoài
 1. Đối với học viên người nước ngoài học tập theo Hiệp định do Chính phủ Việt Nam kí với Chính phủ nước ngoài, chế độ tài chính áp dụng theo quy định chung của Nhà nước.
 2. Học viên người nước ngoài học tập theo chương trình hợp tác, trao đổi giữa Đại học Quốc gia Hà Nội và đại học đối tác nước ngoài thực hiện theo thỏa thuận kí kết giữa hai bên.
 3. Đối với học viên người nước ngoài học tập theo chế độ tự túc, tuỳ theo ngành đào tạo, mức chi trả kinh phí đào tạo cụ thể do thủ trưởng đơn vị đào tạo xem xét, phê duyệt.
 
-## Chương VIII: THANH TRA, KIỂM TRA, GIẢI QUYẾT VÀ XỬ LÝ VI PHẠM
+# Chương VIII: THANH TRA, KIỂM TRA, GIẢI QUYẾT VÀ XỬ LÝ VI PHẠM
 
-### Điều 50. Thanh tra, kiểm tra
+## Điều 50. Thanh tra, kiểm tra
 1. Đơn vị đào tạo có trách nhiệm tự kiểm tra, thanh tra nội bộ việc tuyển sinh, thực hiện kế hoạch, chương trình, quy chế đào tạo và các vấn đề khác liên quan đến đào tạo; chịu sự kiểm tra, thanh tra, giám sát của Đại học Quốc gia Hà Nội và các cơ quan có thẩm quyền theo các quy định hiện hành.
 2. Đại học Quốc gia Hà Nội thanh tra, kiểm tra việc thực hiện các quy định về tuyển sinh, đào tạo, cấp bằng thạc sĩ của đơn vị đào tạo theo các quy định của pháp luật.
 3. Đại học Quốc gia Hà Nội chịu sự kiểm tra, thanh tra của Bộ Giáo dục và Đào tạo theo phạm vi thẩm quyền quản lý nhà nước được giao.
 
-### Điều 51. Khiếu nại, tố cáo
+## Điều 51. Khiếu nại, tố cáo
 1. Cơ quan, tổ chức, cá nhân có quyền khiếu nại, tố cáo về hành vi vi phạm quy chế của đơn vị đào tạo, của giảng viên, cán bộ quản lý và học viên.
 2. Việc khiếu nại, tố cáo, giải quyết khiếu nại, tố cáo được thực hiện theo quy định hiện hành của pháp luật khiếu nại, tố cáo.
 
-### Điều 52. Xử lý vi phạm
+## Điều 52. Xử lý vi phạm
 1. Xử lý vi phạm trong tuyển sinh
 Người tham gia công tác tuyển sinh, thí sinh dự thi trong kỳ thi tuyển sinh có hành vi vi phạm quy chế, tùy theo mức độ vi phạm sẽ bị xử phạt vi phạm hành chính, xử lý kỷ luật theo quy định tại Quy chế thi Trung học phổ thông hiện hành.
 2. Xử lý vi phạm trong tổ chức, quản lý đào tạo
@@ -566,12 +566,12 @@ Người tham gia công tác tuyển sinh, thí sinh dự thi trong kỳ thi tuy
     c) Đơn vị đào tạo vi phạm Quy chế này thì tùy theo tính chất, mức độ, sẽ bị xử phạt vi phạm hành chính và áp dụng các trách nhiệm pháp lý khác đã được quy định. Trong trường hợp này, thủ trưởng đơn vị đào tạo và những người trực tiếp vi phạm bị xử lý kỷ luật; người vi phạm gây thiệt hại phải bồi thường theo quy định của pháp luật.
 3. Thủ trưởng đơn vị đào tạo có trách nhiệm thông báo về việc xử lý vi phạm của thí sinh, học viên, cán bộ, giảng viên tới cơ quan, đơn vị hoặc tới địa phương, nơi người đó đang làm việc, cư trú. Cơ quan có thẩm quyền xử lý đơn vị đào tạo vi phạm thông báo cho cơ quan chủ quản và thông báo công khai trên phương tiện thông tin đại chúng.
 
-## Chương IX: ĐIỀU KHOẢN THI HÀNH
+# Chương IX: ĐIỀU KHOẢN THI HÀNH
 
-### Điều 53. Hiệu lực thi hành
+## Điều 53. Hiệu lực thi hành
 Quy chế này có hiệu lực thi hành kể từ ngày ký và áp dụng cho các khóa tuyển sinh từ năm 2022 trở đi.
 
-### Điều 54. Tổ chức thực hiện
+## Điều 54. Tổ chức thực hiện
 1. Căn cứ Quy chế này, các đơn vị đào tạo có thể ban hành các văn bản chi tiết cho phù hợp với điều kiện thực tế của đơn vị, nhưng không trái với Quy chế này.
 2. Các đơn vị đào tạo có trách nhiệm tổ chức kiểm tra, giám sát việc thực hiện quy chế đào tạo ở đơn vị. Đại học Quốc gia Hà Nội thực hiện thanh tra, kiểm tra việc thực hiện quy chế đào tạo của các đơn vị đào tạo.
 3. Trường hợp đặc biệt, đơn vị đào tạo báo cáo Giám đốc Đại học Quốc gia Hà Nội xem xét quyết định./.

@@ -37,9 +37,9 @@ Universities and member higher education institutions; Pursuant to
 Circular No. 18/2021/TT-BGDDT dated June 28, 2021 of the Minister of
 Education and Training on promulgating the Regulations on admission and
 training for doctoral degrees; Pursuant to Resolution No. 3349/NQ-HD
-dated October 4, 2022 of the Council of Hanoi National University for
+dated October 4, 2022 of the Council of Vietnam National University, Hanoi for
 the 2018-2023 term on approving the Regulations on doctoral training at
-Hanoi National University; At the request of the Head of the Training
+Vietnam National University, Hanoi; At the request of the Head of the Training
 Department.
 
 **DECISION:**
@@ -55,7 +55,7 @@ June 10, 2019 and Decision No. 2311/QD-VNU dated August 11, 2020 of the
 Director of Vietnam National University, Hanoi.
 
 **Article 3.** Chief of Office, Head of functional departments, Heads of
-units under Hanoi National University and relevant organizations and
+units under Vietnam National University, Hanoi and relevant organizations and
 individuals are responsible for implementing this Decision./.
 
 **Recipients:** - As Article 3; - Ministry of Education and Training
@@ -71,9 +71,9 @@ Communications (post on website); - File: VT, Training Department, H50.
 *(Attached to Decision No. 3638/QD-VNU dated October 21, 2022 of the
 Director of Vietnam National University, Hanoi)*
 
-## Chapter I: GENERAL PROVISIONS
+# Chapter I: GENERAL PROVISIONS
 
-### Article 1. Scope of regulation and applicable subjects
+## Article 1. Scope of regulation and applicable subjects
 
 1.  This Regulation regulates doctoral training at Vietnam National
     University, Hanoi, including: general regulations; admission;
@@ -93,7 +93,7 @@ Director of Vietnam National University, Hanoi)*
     training programs at Vietnam National University, Hanoi, awarded by
     foreign educational institutions.
 
-### Article 2. Training objectives
+## Article 2. Training objectives
 
 Training PhDs with high level of theory and application, with the
 ability to conduct independent and creative research, develop new
@@ -101,7 +101,7 @@ knowledge, discover principles and laws of nature and society, and solve
 new problems in science and technology, guide scientific research and
 organize and implement professional activities.
 
-### Article 3. Doctoral training units and professional units
+## Article 3. Doctoral training units and professional units
 
 1.  The doctoral training unit at Vietnam National University, Hanoi
     (hereinafter referred to as the training unit) includes:
@@ -120,15 +120,15 @@ organize and implement professional activities.
     their doctoral theses according to their training
     major/specialization.
 
-### Article 4. Management and training organization mechanism in Hanoi National University
+## Article 4. Management and training organization mechanism in Vietnam National University, Hanoi
 
-1.  Hanoi National University directs and operates the unified
+1.  Vietnam National University, Hanoi directs and operates the unified
     organization and management of training according to the mechanism
     of connection, association and cooperation between training units;
     decentralizes management in the direction of promoting the autonomy
     and self-responsibility of training units; promotes the professional
     advantages of training units and coordinates the effective use of
-    common resources for training throughout Hanoi National University;
+    common resources for training throughout Vietnam National University, Hanoi;
     directly and comprehensively manages the training work of affiliated
     training units.
 2.  Training units are responsible for organizing and managing training
@@ -142,14 +142,14 @@ organize and implement professional activities.
     assurance conditions, requirements for science and technology
     development and human resource needs for socio-economic development,
     the training unit proactively coordinates with other training units
-    in Hanoi National University to participate in adjusting the
+    in Vietnam National University, Hanoi to participate in adjusting the
     training program content of existing majors/specializations,
     developing new majors/specializations, requesting the Director of
-    Hanoi National University to consider, promulgate the program and
+    Vietnam National University, Hanoi to consider, promulgate the program and
     assign training organization tasks. For majors/specializations that
     are organized for pilot training, the training unit summarizes and
     evaluates the implementation results after two training courses and
-    reports to the Director of Hanoi National University. Based on the
+    reports to the Director of Vietnam National University, Hanoi. Based on the
     results of the pilot implementation, the Director of Hanoi National
     University will consider and request the Ministry of Education and
     Training to include them in the list of official post-graduate
@@ -160,13 +160,13 @@ organize and implement professional activities.
     and effectiveness of training, scientific research, develop teaching
     staff and facilities, and link training with research - production -
     practice to meet social requirements.
-5.  Every year, training units report to Hanoi National University on
+5.  Every year, training units report to Vietnam National University, Hanoi on
     the organization, management and results of doctoral training.
-6.  Units within the entire Hanoi National University use unified
+6.  Units within the entire Vietnam National University, Hanoi use unified
     enrollment software, training management software, and learner
     management software.
 
-### Article 5. Principles of quality assurance
+## Article 5. Principles of quality assurance
 
 1.  The criteria for assessing thesis quality must gradually approach
     international standards, especially publishing the main results of
@@ -182,9 +182,9 @@ organize and implement professional activities.
     of specialized units.
 5.  Fully implement regulations on education quality assessment.
 
-## Chapter II: ADMISSION
+# Chapter II: ADMISSION
 
-### Article 6. Form and time of admission
+## Article 6. Form and time of admission
 
 1.  Admission form: Examination.
 2.  Admission time: Based on the needs and enrollment targets, the
@@ -192,21 +192,21 @@ organize and implement professional activities.
     according to the annual enrollment plan of Hanoi National
     University.
 
-### Article 7. Enrollment quota
+## Article 7. Enrollment quota
 
 1.  Before December 31 of each year, based on social needs and
     scientific research and training capacity, training units shall
     develop plans and propose enrollment targets for each
     major/specialization for the following school year, report and
-    request the Director of Hanoi National University for approval.
-2.  The Director of Hanoi National University approves the enrollment
+    request the Director of Vietnam National University, Hanoi for approval.
+2.  The Director of Vietnam National University, Hanoi approves the enrollment
     quota for each unit. Based on the assigned enrollment quota, the
     training unit allocates quotas to training majors/specializations
-    and reports to Hanoi National University.
+    and reports to Vietnam National University, Hanoi.
 3.  Admission quotas for each year are implemented in that year and do
     not carry over to the following year.
 
-### Article 8. Suitable industry/major
+## Article 8. Suitable industry/major
 
 A suitable major/specialization is a major at the undergraduate or
 master's level (or equivalent level or higher) that equips learners
@@ -216,7 +216,7 @@ specifically specified in the entrance standards of the doctoral
 training program; the training unit stipulates cases where additional
 knowledge requirements must be completed before applying.
 
-### Article 9. Conditions for admission
+## Article 9. Conditions for admission
 
 Candidates applying for the doctoral training program must meet the
 following conditions:
@@ -233,13 +233,13 @@ following conditions:
 8.  Applicants who are Vietnamese citizens must meet the foreign language proficiency requirements in accordance with the foreign language output standards of the training program as evidenced by one of the following diplomas or certificates:
     a) A university degree or higher issued by a foreign training institution, a branch of a foreign training institution in Vietnam or a Vietnamese training institution to full-time students in a foreign language;
     b) A university degree in foreign languages or foreign language pedagogy issued by a Vietnamese training institution;
-    c) Have a foreign language certificate equivalent to level 4 according to the 6-level foreign language proficiency framework for Vietnam within 2 years from the date of taking the foreign language certificate exam to the date of registration for admission, issued by institutions accepted by the Ministry of Education and Training and Hanoi National University;
+    c) Have a foreign language certificate equivalent to level 4 according to the 6-level foreign language proficiency framework for Vietnam within 2 years from the date of taking the foreign language certificate exam to the date of registration for admission, issued by institutions accepted by the Ministry of Education and Training and Vietnam National University, Hanoi;
     d) Applicants for foreign language or foreign language pedagogy must have proficiency in another foreign language at an equivalent level as prescribed in points a, b, c above.
 9.  Applicants who are foreign citizens and register for a doctoral training program in Vietnamese must have a Vietnamese language certificate of at least level 4 according to the Vietnamese language proficiency framework for foreigners or have graduated from a university (or equivalent level or higher) where the training program is taught in Vietnamese and must meet the requirements for a second foreign language as prescribed by the training program (if any), except in the case of being a native speaker of the language used in the doctoral training program.
 10. Meet the requirements of professional experience and seniority according to the specific requirements of each training sector/specialization.
 11. Commit to fulfilling financial obligations during the training process according to the regulations of the training unit.
 
-### Article 10. Organization of supplementary knowledge learning
+## Article 10. Organization of supplementary knowledge learning
 
 1.  Students taking additional courses must pay tuition fees for
     additional courses according to the tuition fees prescribed for the
@@ -256,7 +256,7 @@ following conditions:
     of the unit organizing the knowledge supplement at least 15 days
     before organizing the knowledge supplement.
 
-### Article 11. Admission announcement
+## Article 11. Admission announcement
 
 1.  At least 45 working days before each admission period, the training
     unit must announce the admission notice and report to Hanoi National
@@ -288,14 +288,14 @@ following conditions:
         during the admission period;
     i)  Information about contact, support, consultation,\...
 
-### Article 12. Organization of enrollment
+## Article 12. Organization of enrollment
 
 1.  The organization of doctoral training admission is organized
     uniformly for postgraduate training programs with degrees awarded or
     jointly awarded by Vietnam National University, Hanoi.
-2.  Every year, the Director of Hanoi National University decides to
+2.  Every year, the Director of Vietnam National University, Hanoi decides to
     establish the Postgraduate Admission Steering Committee (common for
-    both master's and doctoral levels) of Hanoi National University
+    both master's and doctoral levels) of Vietnam National University, Hanoi
     (abbreviated as Admission Steering Committee). The Training
     Department is the standing unit of the Admission Steering Committee,
     the focal point for directing, inspecting, and supervising Hanoi
@@ -303,7 +303,7 @@ following conditions:
 3.  The head of the training unit decides to establish the Postgraduate
     Admissions Council of his/her unit (common for both master's and
     doctoral levels for units that enroll/train for both levels) and
-    reports to Hanoi National University (through the Training
+    reports to Vietnam National University, Hanoi (through the Training
     Department). The composition of the Admissions Council includes:
     a)  Chairman: The head or deputy head authorized by the head of the
         training unit;
@@ -337,7 +337,7 @@ following conditions:
 7.  During the enrollment process, the training unit conducts internal
     inspections and supervision according to current regulations.
 
-### Article 13. Admission process for postgraduate students
+## Article 13. Admission process for postgraduate students
 
 1.  Based on the application documents, major/specialization and
     research direction of the candidates, the head of the professional
@@ -383,11 +383,11 @@ following conditions:
 5.  The professional subcommittee is responsible for organizing the
     review and evaluation of application documents and research
     proposals, and giving evaluation scores according to the 5. Guidelines
-    of Hanoi National University with a maximum score of 100. Candidates
+    of Vietnam National University, Hanoi with a maximum score of 100. Candidates
     who meet the requirements for admission must have a minimum score of
     60/100 for application documents and research proposals, in which
     the minimum score for the research proposal must be 25/40.
-6.  In case of necessity, the Director of Hanoi National University or
+6.  In case of necessity, the Director of Vietnam National University, Hanoi or
     the head of the training unit decides to defend the thesis in a
     foreign language to test the candidate's ability to present and
     express expertise in a foreign language.
@@ -404,34 +404,34 @@ following conditions:
     National University for each training major/specialization and the
     results of the candidates' classification, submits to the head of
     the training unit for consideration and reports to the Postgraduate
-    Admissions Steering Committee of Hanoi National University for
+    Admissions Steering Committee of Vietnam National University, Hanoi for
     approval.
 
-### Article 14. Summoning of successful candidates
+## Article 14. Summoning of successful candidates
 
-1.  Based on the admission scores approved by Hanoi National University,
+1.  Based on the admission scores approved by Vietnam National University, Hanoi,
     the head of the training unit announces the list of admitted
     candidates, sends admission notices and admission decisions to
     selected candidates.
 2.  After the candidate is officially enrolled, the head of the member
     training unit decides to recognize the doctoral student of his/her
-    unit and reports to Hanoi National University. The Director of Hanoi
+    unit and reports to Vietnam National University, Hanoi. The Director of Hanoi
     National University decides to recognize the doctoral student of the
     affiliated training units. The decision to recognize the doctoral
     student must clearly state the study period and the training
     major/specialization.
 
-### Article 15. Admission of foreign postgraduate students
+## Article 15. Admission of foreign postgraduate students
 
 The selection of foreigners or Vietnamese people residing abroad to do
 research at Vietnam National University, Hanoi is carried out according
 to separate regulations.
 
-## Chapter III: TRAINING PROGRAM
+# Chapter III: TRAINING PROGRAM
 
-### Article 16. Structure of the doctoral training program
+## Article 16. Structure of the doctoral training program
 
-1.  The doctoral training program of Hanoi National University includes
+1.  The doctoral training program of Vietnam National University, Hanoi includes
     a minimum of 90 credits for doctoral students with a master's
     degree and 120 credits for doctoral students with a bachelor's
     degree, including the following parts:
@@ -517,8 +517,8 @@ to separate regulations.
       duration.
 2.  International joint doctoral training program
     a)  The international joint doctoral training program with degrees
-        granted by Hanoi National University is designed as the doctoral
-        training program of Hanoi National University as prescribed in
+        granted by Vietnam National University, Hanoi is designed as the doctoral
+        training program of Vietnam National University, Hanoi as prescribed in
         Clause 1 of this Article;
     b)  The international joint doctoral training program jointly
         awarded by Vietnam National University, Hanoi and foreign
@@ -529,7 +529,7 @@ to separate regulations.
         prescribed by Vietnam National University, Hanoi in Clause 1 of
         this Article.
 
-### Article 17. Input standards of training programs
+## Article 17. Input standards of training programs
 
 1.  The entry standards (or entry requirements) of a training program
     are the minimum requirements for qualifications, abilities, and
@@ -548,7 +548,7 @@ to separate regulations.
     6-level foreign language proficiency framework for Vietnam (or
     equivalent level or higher); have research capacity and experience.
 
-### Article 18. Output standards of training programs
+## Article 18. Output standards of training programs
 
 1.  Output standards stipulate the quality of the thesis, knowledge
     content, skills, qualities, and capacities of the doctoral student
@@ -619,9 +619,9 @@ to separate regulations.
     publish the output standards of each training program, but not lower
     than the requirements specified in this Regulation.
 
-## Chapter IV: TRAINING ORGANIZATION AND MANAGEMENT
+# Chapter IV: TRAINING ORGANIZATION AND MANAGEMENT
 
-### Article 19. Form, language and duration of training
+## Article 19. Form, language and duration of training
 
 1.  Doctoral training is organized in a formal, centralized form;
     doctoral students must spend enough time studying and researching at
@@ -630,7 +630,7 @@ to separate regulations.
     is determined as full-time.
 2.  The official language used in doctoral training is Vietnamese.
     Doctoral training in foreign languages is decided by the Director of
-    Hanoi National University on the basis of the approved training
+    Vietnam National University, Hanoi on the basis of the approved training
     program and current regulations.
 3.  The standard training time for doctoral level (calculated from the
     effective date of the decision to recognize the doctoral student to
@@ -647,7 +647,7 @@ to separate regulations.
     program, he/she may be allowed to defend his/her thesis earlier than
     the standard training period by no more than 01 year (12 months).
 
-### Article 20. Training organization
+## Article 20. Training organization
 
 1.  Teaching time for doctoral level is regulated by the training unit,
     with the service of the library and related units.
@@ -684,7 +684,7 @@ to separate regulations.
     application for graduate students in accordance with the
     requirements of the industry, major, and type of training program.
 
-### Article 21. Registration for study
+## Article 21. Registration for study
 
 1.  PhD students must register to study and complete additional courses
     within a maximum period of 12 months from the date of the decision
@@ -730,7 +730,7 @@ to separate regulations.
     learning and research results of graduate students are regulated by
     the training unit.
 
-### Article 22. Examination, testing and assessment
+## Article 22. Examination, testing and assessment
 
 1.  Exams, tests, and course evaluations
     a)  The organization of the examination, assessment of the
@@ -745,7 +745,7 @@ to separate regulations.
     b)  The organization of testing, evaluation, grading scale, minimum
         required score, and calculation of cumulative average score for
         additional credits are carried out according to the Master's
-        training regulations at Hanoi National University.
+        training regulations at Vietnam National University, Hanoi.
 2.  PhD thesis and overview essay reviews
     a)  Evaluation of the doctoral theses and review essays is done by
         scoring the doctoral student's presentation to the evaluation
@@ -770,7 +770,7 @@ to separate regulations.
         score for the doctoral thesis and overview essay is C+ or
         higher.
 
-### Article 23. Changes in the training process
+## Article 23. Changes in the training process
 
 1.  The doctoral student and supervisor may propose to the training unit
     to change the thesis topic, add or change the supervisor and
@@ -779,9 +779,9 @@ to separate regulations.
     ensure that the training time complies with the provisions of
     Article 19 of this Regulation.
 2.  Conditions for transferring training units
-    a)  Postgraduate students of Hanoi National University may apply to
+    a)  Postgraduate students of Vietnam National University, Hanoi may apply to
         transfer to another unit or training unit (collectively referred
-        to as training unit) within or outside Hanoi National University
+        to as training unit) within or outside Vietnam National University, Hanoi
         if they meet the following conditions:
 
     - The major/field of study the graduate student is studying is the
@@ -794,7 +794,7 @@ to separate regulations.
       results is up to the training unit to which the graduate student
       transfers.
     b)  Postgraduate students studying at a training unit outside of
-        Hanoi National University can transfer to study at Hanoi
+        Vietnam National University, Hanoi can transfer to study at Hanoi
         National University if they meet the following conditions:
 
     - The major/field of study the graduate student is studying is the
@@ -822,7 +822,7 @@ to separate regulations.
         application when completing the transfer procedure. The
         conditions on Vietnamese or related foreign language proficiency
         apply as the admission regulations for foreigners studying at
-        Hanoi National University.
+        Vietnam National University, Hanoi.
     d)  Graduate students transferring training units are allowed to
         retain their scores and credits of the course according to
         regulations in Clause 2, Article 24 of this Regulation.
@@ -872,19 +872,19 @@ to separate regulations.
     train for the doctoral level.
 9.  The head of the member training unit shall issue detailed
     regulations on procedures and order for handling changes in the
-    doctoral training process and report to Hanoi National University
+    doctoral training process and report to Vietnam National University, Hanoi
     for comments before making a decision; the head of the affiliated
     training unit shall develop detailed regulations on procedures and
     order for handling changes in the doctoral training process and
-    report to Hanoi National University for consideration and decision.
+    report to Vietnam National University, Hanoi for consideration and decision.
     The training units shall consider and decide on changes in the
-    doctoral training process and report to Hanoi National University no
+    doctoral training process and report to Vietnam National University, Hanoi no
     later than 01 month after receiving the request of the doctoral
     student.
-10. The Director of Hanoi National University decides on the acceptance
+10. The Director of Vietnam National University, Hanoi decides on the acceptance
     of postgraduate students transferred to affiliated training units.
 
-### Article 24. Recognition and conversion of learning and research results
+## Article 24. Recognition and conversion of learning and research results
 
 1.  The learning and research results of doctoral students accumulated
     in the doctoral training program are reserved, considered for
@@ -909,9 +909,9 @@ to separate regulations.
     recognizing and converting the learning and research results of
     graduate students.
 
-## Chapter V: THESIS AND THESIS EVALUATION
+# Chapter V: THESIS AND THESIS EVALUATION
 
-### Article 25. Requirements for dissertations
+## Article 25. Requirements for dissertations
 
 1.  The doctoral dissertation must meet the following requirements:
     a)  A doctoral thesis is the result of a doctoral student's
@@ -990,16 +990,16 @@ to separate regulations.
     foreign partner must satisfy the requirements in the written
     agreement with the foreign partner.
 
-### Article 26. Thesis evaluation process
+## Article 26. Thesis evaluation process
 
 Doctoral theses of training programs awarded by or with the same degree
-by Hanoi National University are evaluated according to the following
+by Vietnam National University, Hanoi are evaluated according to the following
 process: 1. Overall evaluation of the thesis at the professional unit
 (also known as overall thesis seminar); 2. Independent review of the
 thesis; 3. Evaluation of the thesis before the Thesis Evaluation
 Council.
 
-### Article 27. Overall assessment of the thesis at the professional unit
+## Article 27. Overall assessment of the thesis at the professional unit
 
 1.  Conditions for overall thesis evaluation at professional unit:
     a)  Have accumulated enough credits, topics, and overview essays as
@@ -1082,7 +1082,7 @@ Council.
         unit to continue the thesis evaluation process for doctoral
         students.
 
-### Article 28. Independent review of thesis
+## Article 28. Independent review of thesis
 
 1.  Within no more than 03 months from the date the thesis is approved
     at the professional unit level, the doctoral student completes the
@@ -1113,7 +1113,7 @@ Council.
     - Not participating in the thesis evaluation session at the
       professional unit. The independent reviewer's opinion has
       advisory value for the head of the member training unit and the
-      Director of Hanoi National University to consider and decide to
+      Director of Vietnam National University, Hanoi to consider and decide to
       establish a doctoral thesis evaluation council for graduate
       students.
 3.  The training unit and the unit that receives the thesis evaluation
@@ -1202,10 +1202,10 @@ Council.
     topic as well as the request for exemption from the independent
     review process is carried out by the professional subcommittee
     during the thesis evaluation session at the professional unit. The
-    training unit reports to Hanoi National University for consideration
+    training unit reports to Vietnam National University, Hanoi for consideration
     and approval.
 
-### Article 29. Thesis evaluation
+## Article 29. Thesis evaluation
 
 1.  The organization of thesis evaluation before the Thesis Evaluation
     Council is assigned to be implemented as follows:
@@ -1216,11 +1216,11 @@ Council.
         degrees to graduate students;
     b)  The Training Department receives the thesis evaluation request
         dossiers from affiliated training units; invites independent
-        reviewers; reports to the Director of Hanoi National University
+        reviewers; reports to the Director of Vietnam National University, Hanoi
         to decide to establish a Thesis Evaluation Council and
         authorizes affiliated training units to organize a Thesis
         Evaluation Council meeting for doctoral students, submits the
-        dossier to request the Director of Hanoi National University to
+        dossier to request the Director of Vietnam National University, Hanoi to
         recognize the degree and grant doctoral degrees to doctoral
         students.
 2.  Conditions for establishing a Thesis Evaluation Council
@@ -1357,7 +1357,7 @@ Council.
         establishment, the head of the member training unit shall decide
         to establish a second Thesis Evaluation Council; the affiliated
         training unit shall request the Training Board to submit to the
-        Director of Hanoi National University to decide to establish a
+        Director of Vietnam National University, Hanoi to decide to establish a
         second Thesis Evaluation Council. In case of force majeure, the
         head of the member training unit or the Director of Hanoi
         National University shall consider and decide to extend the
@@ -1391,7 +1391,7 @@ Council.
         members who disagree with the thesis. The third thesis
         evaluation will not be organized.
 
-### Article 30. Evaluation of theses under confidential regime
+## Article 30. Evaluation of theses under confidential regime
 
 1.  The thesis is a scientific work that is a state secret and will be
     evaluated and protected under a confidential regime. The
@@ -1399,7 +1399,7 @@ Council.
     under a confidential regime is conducted before the seminar to
     evaluate the overall thesis. The head of the training unit shall
     have a document stating the reasons for keeping it confidential for
-    the Director of Hanoi National University to consider and decide.
+    the Director of Vietnam National University, Hanoi to consider and decide.
 2.  The application file for permission to evaluate the thesis under
     confidential mode includes:
     a)  Request letter from training unit;
@@ -1433,12 +1433,12 @@ Council.
     practical value in the research field confirmed by the training
     unit.
 
-### Article 31. Checking training records and assessing thesis quality
+## Article 31. Checking training records and assessing thesis quality
 
 1.  On the last working day of every even-numbered month of the year,
-    training units report to Hanoi National University the list and
+    training units report to Vietnam National University, Hanoi the list and
     biographical information of doctoral students who defended their
-    theses in the previous 2 months. Hanoi National University reviews,
+    theses in the previous 2 months. Vietnam National University, Hanoi reviews,
     selects, checks the training records and assesses the quality of the
     doctoral students' theses.
 2.  Checking training records and assessing thesis quality is carried
@@ -1454,14 +1454,14 @@ Council.
       Education and Training.
 3.  Inspection and appraisal process:
     a)  Within 15 working days from the date of receiving the report
-        from the training unit, Hanoi National University shall review
+        from the training unit, Vietnam National University, Hanoi shall review
         and notify the training unit in writing of the list of cases
         requiring inspection of training records or assessment of thesis
         quality;
     b)  The training unit is responsible for submitting all
         documents/theses according to the inspection and assessment
-        requirements of Hanoi National University;
-    c)  Hanoi National University shall examine the training records
+        requirements of Vietnam National University, Hanoi;
+    c)  Vietnam National University, Hanoi shall examine the training records
         within a maximum of 30 working days and assess the quality of
         the thesis within a maximum of 90 working days from the date of
         receipt of the complete records as prescribed in Point a, Clause
@@ -1484,7 +1484,7 @@ Council.
     c)  In cases where the training process inspection records do not
         meet the requirements, the training unit is responsible for
         explaining related issues, supplementing evidence and proposing
-        a handling direction to Hanoi National University according to
+        a handling direction to Vietnam National University, Hanoi according to
         current regulations.
 5.  Thesis quality assessment
     a)  Thesis quality assessment profile
@@ -1508,11 +1508,11 @@ Council.
     c)  The thesis quality meets the appraisal requirements if there are
         at least 02 appraisal opinions agreeing on the expertise;
     d)  In case the quality of the thesis does not meet the
-        requirements, Hanoi National University shall decide to
+        requirements, Vietnam National University, Hanoi shall decide to
         establish a Thesis Appraisal Council and authorize the head of
         the training unit to organize a Thesis Appraisal Council meeting
         under the direct supervision of a representative of the Training
-        Department, Hanoi National University;
+        Department, Vietnam National University, Hanoi;
     đ) Thesis Appraisal
         Council
 
@@ -1555,7 +1555,7 @@ Council.
     - The head of the training unit organizes a dialogue meeting between
       the Thesis Appraisal Council and the Thesis Evaluation Council
       under the direct supervision of a representative of the Training
-      Department, Hanoi National University. The number of members of
+      Department, Vietnam National University, Hanoi. The number of members of
       the two Councils attending the meeting is at least 12 people, of
       which the Chairman, Reviewer, Secretary and members with
       dissenting opinions of the two Councils must be present;
@@ -1611,7 +1611,7 @@ Council.
     - The doctoral student's thesis is not approved according to the
       provisions in Point e, Clause 5 of this Article.
 8.  Within a maximum of 60 working days from the date of receipt of the
-    notification from Hanoi National University on the final results of
+    notification from Vietnam National University, Hanoi on the final results of
     the inspection and assessment or the date of the dialogue meeting
     results, the training unit shall send a written report to Hanoi
     National University on the handling of the inspection and assessment
@@ -1624,21 +1624,21 @@ Council.
     Evaluation Council and the awarding of doctoral degrees will be
     suspended for at least the next year. The suspension of these
     activities will be publicly announced on the electronic information
-    page of the training unit and of Hanoi National University. During
+    page of the training unit and of Vietnam National University, Hanoi. During
     the suspension of the establishment of the Thesis Evaluation Council
     and the awarding of doctoral degrees, the organization of thesis
     evaluation for doctoral students of member training units will be
-    carried out by Hanoi National University as for affiliated training
+    carried out by Vietnam National University, Hanoi as for affiliated training
     units. Training units must have solutions to overcome the problems
-    and report to Hanoi National University the results of implementing
-    those solutions. The Director of Hanoi National University considers
+    and report to Vietnam National University, Hanoi the results of implementing
+    those solutions. The Director of Vietnam National University, Hanoi considers
     and decides to allow the training unit to continue enrolling
     students, organize the thesis evaluation council and award doctoral
     degrees.
 
-## Chapter VI: RECOGNITION OF DEGREES AND AWARDING OF DOCTORAL DEGREE
+# Chapter VI: RECOGNITION OF DEGREES AND AWARDING OF DOCTORAL DEGREE
 
-### Article 32. Conditions for recognition of academic degrees and granting of doctoral degrees
+## Article 32. Conditions for recognition of academic degrees and granting of doctoral degrees
 
 1.  Doctoral students are considered for recognition of their academic
     degrees and are awarded doctoral degrees if they meet the following
@@ -1683,7 +1683,7 @@ Council.
         requirements specified in Article 31 of this Regulation;
     đ)  There is proof that all information about the doctoral student
         has been fully updated on the doctoral training management
-        software of Hanoi National University;
+        software of Vietnam National University, Hanoi;
     e)  Up to the time of graduation consideration, the graduate student
         is not under criminal prosecution or disciplinary action at the
         warning level or higher.
@@ -1724,7 +1724,7 @@ Council.
     granted a certificate by the head of the training unit on the
     results of the modules and topics completed in the training program.
 
-### Article 33. Recognition of academic degrees and granting of doctoral degrees
+## Article 33. Recognition of academic degrees and granting of doctoral degrees
 
 1.  After meeting the requirements specified in Article 32 of this
     Regulation, the head of the member training unit decides to
@@ -1747,7 +1747,7 @@ Council.
     related to the learning process of the doctoral student and updates
     information about the doctoral student on the doctoral training
     management software at the unit.
-4.  The PhD degree of Hanoi National University is signed by the
+4.  The PhD degree of Vietnam National University, Hanoi is signed by the
     Director and the head of the training unit. Hanoi National
     University prints, manages and issues PhD degree blanks to training
     units.
@@ -1755,9 +1755,9 @@ Council.
     within 30 working days from the effective date of the decision to
     recognize the degree and award the doctoral degree.
 
-## Chapter VII: STANDARDS, RESPONSIBILITIES, AND RIGHTS OF INDIVIDUALS AND UNITS PARTICIPATING IN THE TRAINING OF PHD STUDENTS
+# Chapter VII: STANDARDS, RESPONSIBILITIES, AND RIGHTS OF INDIVIDUALS AND UNITS PARTICIPATING IN THE TRAINING OF PHD STUDENTS
 
-### Article 34. Requirements, responsibilities and powers of lecturers
+## Article 34. Requirements, responsibilities and powers of lecturers
 
 1.  Standards for lecturers Lecturers teaching at the doctoral level
     must meet the following requirements:
@@ -1771,7 +1771,7 @@ Council.
         instructors of practice or teaching assistants of subjects in
         specific fields with a master's degree, the head of the
         training unit must consider, propose and submit to the Director
-        of Hanoi National University for approval. For lecturers with a
+        of Vietnam National University, Hanoi for approval. For lecturers with a
         doctorate (without the title of professor or associate
         professor), they must have at least 01 year (12 months) of
         teaching time at the university or master's level since
@@ -1822,18 +1822,18 @@ Council.
         the training unit.
 3.  Instructor's authority
     a)  Enjoy benefits according to current regulations of the State and
-        of Hanoi National University;
+        of Vietnam National University, Hanoi;
     b)  Be guaranteed material conditions and equipment for teaching and
         scientific research activities; be provided with information and
         use training, science and technology services of the training
         unit;
     c)  Receive remuneration for doctoral training according to
-        regulations of the State, of Hanoi National University and of
+        regulations of the State, of Vietnam National University, Hanoi and of
         the training unit;
     d)  Protected by intellectual property rights and copyright under
         current regulations.
 
-### Article 35. Standards, responsibilities and powers of guidance officers
+## Article 35. Standards, responsibilities and powers of guidance officers
 
 1.  Research supervisor standards:
     a)  The main supervisor, assistant supervisor and independent
@@ -1875,7 +1875,7 @@ Council.
         or associate professor but have excellent research results (with
         at least 01 scientific publication in the WoS/Scopus list/year
         continuously in the last 3 years), the training unit can request
-        the Director of Hanoi National University to consider allowing
+        the Director of Vietnam National University, Hanoi to consider allowing
         them to be the main supervisor or independent supervisor of up
         to 03 doctoral students;
     d)  Each doctoral student has a maximum of 02 supervisors, of which
@@ -1913,7 +1913,7 @@ Council.
         publications in the WoS/Scopus list/year, continuously for the
         last 3 years) or has a large enough topic to provide
         scholarships to support the doctoral students, the training unit
-        can request the Director of Hanoi National University to
+        can request the Director of Vietnam National University, Hanoi to
         consider allowing an increase in the number of doctoral students
         allowed to supervise;
     c)  Thesis supervisors have the right to refuse to supervise
@@ -1956,17 +1956,17 @@ Council.
     g)  Perform other tasks as prescribed by law and as prescribed by
         the head of the training unit.
 
-### Article 36. Responsibilities of graduate students
+## Article 36. Responsibilities of graduate students
 
 1.  Fulfill the obligations of citizens as prescribed by law. Foreign
     PhD students must comply with Vietnamese law and respect Vietnamese
     customs and practices.
-2.  Strictly comply with the regulations of Hanoi National University
+2.  Strictly comply with the regulations of Vietnam National University, Hanoi
     and the rules and regulations of the training unit.
 3.  Fully, accurately and promptly declare and update information
     related to the individual, the training process, and changes in the
     learning process of the graduate student (if any) according to the
-    regulations of the training unit and of Hanoi National University.
+    regulations of the training unit and of Vietnam National University, Hanoi.
 4.  Implement study and scientific research plans within the prescribed
     time limit according to the training unit's program and plan;
     report fully and on time on study, research, training results and
@@ -1990,15 +1990,15 @@ Council.
     professional unit. The completion rate of this work is determined by
     the head of the training unit.
 8.  Be aware of building, preserving, protecting and promoting the brand
-    of Hanoi National University and training units.
-9.  Respect lecturers, staff and employees of Hanoi National University.
+    of Vietnam National University, Hanoi and training units.
+9.  Respect lecturers, staff and employees of Vietnam National University, Hanoi.
     Unite, help and support each other in studying, researching and
     training; practice a civilized lifestyle. Actively participate in
     movements and campaigns on politics, ideology and ethics of the
-    education sector and Hanoi National University.
+    education sector and Vietnam National University, Hanoi.
 10. Pay all required fees on time.
 
-### Article 37. Rights of graduate students
+## Article 37. Rights of graduate students
 
 1.  Be admitted to the correct major/specialization that you registered
     for when you passed the entrance exam.
@@ -2026,14 +2026,14 @@ Council.
 9.  Be respected and treated equally.
 10. Other rights as prescribed by law.
 
-### Article 38. Responsibilities and powers of training units
+## Article 38. Responsibilities and powers of training units
 
 1.  There is a specialized department to organize and manage doctoral
     training activities.
 2.  Issue detailed regulations and instructions for the contents of this
     Regulation (which may include regulations to ensure higher quality
     than the regulations of this Regulation), in accordance with the
-    characteristics of the unit, and report to Hanoi National University
+    characteristics of the unit, and report to Vietnam National University, Hanoi
     for approval before implementation.
 3.  Develop plans and propose annual enrollment targets for each
     major/specialty assigned to training; organize or participate in
@@ -2056,7 +2056,7 @@ Council.
 8.  Manage graduate student records from the time of admission,
     enrollment and update regularly, fully and promptly during the
     graduate student training process according to the regulations of
-    Hanoi National University.
+    Vietnam National University, Hanoi.
 9.  Ensure adequate human resources and facilities for lecturers,
     supervisors, graduate students and the Thesis Evaluation Council
     (including the task of using information technology tools to check
@@ -2068,7 +2068,7 @@ Council.
     regulations.
 11. Cooperate in research and doctoral training with domestic and
     foreign scientific and training institutions in accordance with the
-    regulations of the State and of Hanoi National University.
+    regulations of the State and of Vietnam National University, Hanoi.
 12. Publicly announce on the training unit's website: Documents
     specifying admission, training programs, curriculum, teaching plans,
     training organization; annual admission plans and quotas for
@@ -2093,15 +2093,15 @@ Council.
 
     - No later than 30 days from the date the Postgraduate Admissions
       Steering Committee approves the admission results, the training
-      unit shall report to Hanoi National University on the admission
+      unit shall report to Vietnam National University, Hanoi on the admission
       situation and results, and decisions to recognize admitted
       graduate students (according to the form in Appendix I);
     - On the last day of every even-numbered month of the year, the
-      training unit shall report to Hanoi National University the list
+      training unit shall report to Vietnam National University, Hanoi the list
       of doctoral students who have defended their theses in the
       previous 2 months (according to the form in Appendix III);
     - On the last working day in December each year, the training unit
-      reports to Hanoi National University on the doctoral training of
+      reports to Vietnam National University, Hanoi on the doctoral training of
       that year (according to the form in Appendix II), including:
       Current scale of doctoral students; number of newly recruited
       doctoral students by each field/specialty and those who have
@@ -2116,7 +2116,7 @@ Council.
       lecturers with doctoral degrees or higher of the training unit;
       expected enrollment quota for each field/specialty for the
       following year;
-    - Report to Hanoi National University (attached with annual report)
+    - Report to Vietnam National University, Hanoi (attached with annual report)
       on the doctoral degree granting situation of the training unit,
       including: General report on the doctoral degree granting
       situation in the period since the previous report; list of
@@ -2135,11 +2135,11 @@ Council.
         from the time of admission until the recognition of degrees and
         granting of doctoral degrees of the unit fully, accurately and
         promptly on the doctoral training management software according
-        to the regulations of Hanoi National University.
+        to the regulations of Vietnam National University, Hanoi.
 17. Perform other responsibilities and powers as prescribed by law and
     by Vietnam National University, Hanoi.
 
-### Article 39. Responsibilities and powers of professional units
+## Article 39. Responsibilities and powers of professional units
 
 1.  Introduce the personnel of the professional subcommittee for
     recruiting graduate students and create conditions for the
@@ -2177,15 +2177,15 @@ Council.
 9.  Every 6 months, report to the head of the training unit on the study
     and research situation of the graduate student.
 
-## Chapter VIII: FINANCE DURING DOCTORAL TRAINING
+# Chapter VIII: FINANCE DURING DOCTORAL TRAINING
 
-### Article 40. Financial resources for doctoral training
+## Article 40. Financial resources for doctoral training
 
 1.  Financial sources for doctoral training include state budget funds,
     tuition fees for doctoral students, funding for scientific research
     projects, funding from cooperation and technology transfer
     activities, and other funding sources.
-    a)  State budget funding Hanoi National University allocates state
+    a)  State budget funding Vietnam National University, Hanoi allocates state
         budget funding according to annual training norms and targets
         for majors/specializations with corresponding training programs
         according to current regulations.
@@ -2195,8 +2195,8 @@ Council.
         and the tuition fee coefficient for each subject, doctoral
         thesis, and overview thesis for all majors/specializations in
         accordance with the general regulations of the State and of
-        Hanoi National University; the affiliated units report to the
-        Director of Hanoi National University for approval before
+        Vietnam National University, Hanoi; the affiliated units report to the
+        Director of Vietnam National University, Hanoi for approval before
         implementation.
 
     - The above tuition calculation method is applied to all courses,
@@ -2214,20 +2214,20 @@ Council.
     b)  The unit managing the training funding source is responsible for
         paying the funding to the unit performing the training
         coordination tasks according to the rates and norms prescribed
-        by Hanoi National University;
+        by Vietnam National University, Hanoi;
     c)  The unit assigned to manage the facilities is allowed to use a
         part of the training budget to maintain, repair and upgrade the
-        training facilities of Hanoi National University.
+        training facilities of Vietnam National University, Hanoi.
 3.  Effective use of training funds The training unit determines the
     proportion of training funding sources for each specific
     major/specialty. After each course, the training unit evaluates and
     summarizes the economic efficiency of training funds for each
-    major/specialty and reports to Hanoi National University. Effective
+    major/specialty and reports to Vietnam National University, Hanoi. Effective
     use of training funds is one of the important bases for the Director
-    of Hanoi National University to allow continued training or to stop
+    of Vietnam National University, Hanoi to allow continued training or to stop
     training of a major/specialty.
 
-### Article 41. Financial regime for foreign students studying abroad
+## Article 41. Financial regime for foreign students studying abroad
 
 1.  For foreign graduate students studying under an Agreement signed by
     the Vietnamese Government with a foreign Government, the financial
@@ -2240,9 +2240,9 @@ Council.
     the training sector/specialization, the specific training cost will
     be considered and approved by the head of the training unit.
 
-## Chapter IX: INSPECTION, EXAMINATION, RESOLUTION AND HANDLING OF VIOLATIONS
+# Chapter IX: INSPECTION, EXAMINATION, RESOLUTION AND HANDLING OF VIOLATIONS
 
-### Article 42. Complaints and denunciations
+## Article 42. Complaints and denunciations
 
 1.  Agencies, organizations and individuals have the right to complain
     and denounce violations of regulations by training units, lecturers
@@ -2251,15 +2251,15 @@ Council.
     denunciations are carried out in accordance with current regulations
     of the Law on Complaints and the Law on Denunciations.
 
-### Article 43. Inspection and examination
+## Article 43. Inspection and examination
 
 1.  The head of the training unit is responsible for internal inspection
     and supervision of the unit; subject to inspection and supervision
-    by Hanoi National University and competent authorities according to
+    by Vietnam National University, Hanoi and competent authorities according to
     current regulations.
-2.  Hanoi National University monitors, inspects and examines training
+2.  Vietnam National University, Hanoi monitors, inspects and examines training
     units according to current regulations.
-3.  Hanoi National University is subject to inspection and supervision
+3.  Vietnam National University, Hanoi is subject to inspection and supervision
     by the Ministry of Education and Training within the scope of
     assigned state management authority.
 4.  The inspection and examination contents include: Admission
@@ -2269,11 +2269,11 @@ Council.
     instructions of the unit and other issues related to doctoral
     training.
 
-### Article 44. Handling of violations
+## Article 44. Handling of violations
 
 1.  In case of detecting any violations or errors in the process of
     enrollment, training, thesis evaluation, or doctoral degree
-    granting, Hanoi National University shall issue a written request to
+    granting, Vietnam National University, Hanoi shall issue a written request to
     the training unit to handle or directly handle according to its
     authority.
 2.  Handling of cases of late submission of applications
@@ -2294,7 +2294,7 @@ Council.
       doctoral student to continue to carry out the independent review
       process or defend the thesis is only considered in cases with
       objective reasons, force majeure and the training unit requests
-      the Director of Hanoi National University to consider and decide;
+      the Director of Vietnam National University, Hanoi to consider and decide;
     - If the completion of the thesis and submission of documents after
       the thesis defense before the Council is 03 months or more late,
       the training unit will not consider recognizing the degree and
@@ -2317,18 +2317,18 @@ Council.
     be subject to disciplinary action ranging from reprimand, warning,
     suspension, expulsion to criminal prosecution.
 
-### Article 45. Transitional provisions
+## Article 45. Transitional provisions
 
 1.  This regulation takes effect from the date of signing and applies to
     admission courses from 2022 onwards.
 2.  For courses enrolled before the effective date of this Regulation:
     - Enrollment courses from 2018: Apply the regulations in Decision
       No. 4555/QD-DHQGHN dated November 24, 2017 of the Director of
-      Hanoi National University on promulgating the Regulations on
-      doctoral training at Hanoi National University, amended and
+      Vietnam National University, Hanoi on promulgating the Regulations on
+      doctoral training at Vietnam National University, Hanoi, amended and
       supplemented by Decision No. 1787/QD-DHQGHN dated June 10, 2019
       and Decision No. 2311/QD-DHQGHN dated August 11, 2020 of the
-      Director of Hanoi National University (referred to as Regulation
+      Director of Vietnam National University, Hanoi (referred to as Regulation
       4555); requirements on output standards apply the regulations in
       Clause 3, Article 24 of Regulation 4555 or in Clause 3, Article 18
       of this Regulation;
@@ -2352,13 +2352,13 @@ Council.
     - The signing of doctoral degrees applies to Article 33, Clause 4 of
       these Regulations.
 
-### Article 46. Implementation
+## Article 46. Implementation
 
 1.  Training units may issue detailed regulations and instructions
     suitable to the actual conditions of the unit, but not contrary to
     this Regulation.
 2.  In special cases, the reporting unit shall request the Director of
-    Hanoi National University to consider and decide./.
+    Vietnam National University, Hanoi to consider and decide./.
 
   --------------------
   ### Appendix I:
@@ -2524,7 +2524,7 @@ Council.
   sealed)*
   --------------------
 
-### Appendix III: REPORT ON THE LIST OF DOCTORAL STUDENTS WHO SUCCESSFULLY DEFENDED THEIR THESIS IN EVERY MONTHS OF THE YEAR
+## Appendix III: REPORT ON THE LIST OF DOCTORAL STUDENTS WHO SUCCESSFULLY DEFENDED THEIR THESIS IN EVERY MONTHS OF THE YEAR
 
 (for thesis appraisal) (Attached to Decision No. 3638/QD-VNU dated
 October 21, 2022 of the Director of Vietnam National University, Hanoi)
@@ -2648,7 +2648,7 @@ THESIS** **(May ....)**
   recorded on the thesis, thesis summary to be sent back to the PhD student.
   ----------------------------------------------------------------------------
 
-### Appendix V: THESIS EVALUATION FORM BY COUNCIL MEMBERS
+## Appendix V: THESIS EVALUATION FORM BY COUNCIL MEMBERS
 
 (Attached to Decision No. 3638/QD-VNU dated October 21, 2022 of the
 Director of Vietnam National University, Hanoi) Form 5.1

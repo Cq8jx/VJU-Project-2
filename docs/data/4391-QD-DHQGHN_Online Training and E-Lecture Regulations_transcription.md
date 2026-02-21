@@ -1,0 +1,784 @@
+---
+doc_id: "4391/QĐ-ĐHQGHN"
+title: "Quy định về tổ chức, quản lý đào tạo trực tuyến và xây dựng bài giảng điện tử"
+date: 2021-12-29
+department: "Academic Affairs"
+type: "Regulation"
+restricted: false
+last_updated: 2026-02-21
+---
+
+Tệp này được tạo dựa trên nội dung công khai.  
+Do hạn chế kỹ thuật, việc tái tạo bố cục và nội dung có thể không chính xác.  
+Để có thông tin chính xác, vui lòng tìm kiếm theo số thông tư và tham khảo cơ quan ban hành.  
+Cơ quan ban hành có thể công bố chính thức các phiên bản ngôn ngữ khác.</div>
+
+
+**ĐẠI HỌC QUỐC GIA HÀ NỘI**
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
+**Độc lập - Tự do - Hạnh phúc**
+
+---
+
+### QUY ĐỊNH
+**Về tổ chức, quản lý đào tạo trực tuyến và xây dựng bài giảng điện tử ở Đại học Quốc gia Hà Nội**
+*(ban hành kèm theo Quyết định số 4391/QĐ-ĐHQGHN ngày 29 tháng 12 năm 2021 của Giám đốc Đại học Quốc gia Hà Nội)*
+
+---
+
+# Chương I
+### NHỮNG QUY ĐỊNH CHUNG
+
+## Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Văn bản này quy định về đào tạo trực tuyến bao gồm: công tác tổ chức, quản lý và công nhận kết quả đào tạo trực tuyến; xây dựng học liệu điện tử; quyền và trách nghiệm của các bên liên quan; công tác thanh tra, kiểm tra và báo cáo; xử lý vi phạm và tổ chức thực hiện.
+2. Đối tượng áp dụng là các đơn vị đào tạo bậc đại học và sau đại học thuộc Đại học Quốc gia Hà Nội (ĐHQGHN) gồm: trường đại học thành viên, khoa trực thuộc, các đơn vị đào tạo cấp chứng chỉ, chứng nhận kết quả học tập các học phần thuộc các chương trình đào tạo của ĐHQGHN.
+3. Quy định này không áp dụng đối với bậc đào tạo trung học cơ sở, trung học phổ thông.
+
+## Điều 2. Mục tiêu và mục đích của đào tạo trực tuyến
+1. Hoàn thành mục tiêu chuyển đổi số trong bộ tiêu chí năng lực số hóa tại Đại hội Đảng bộ ĐHQGHN lần thứ VI; tiếp nhận sinh viên ngoài ĐHQGHN đến trao đổi học tập một hoặc một số học phần giảng dạy chính quy trực tuyến.
+2. Đáp ứng xu thế tất yếu của thời đại công nghiệp 4.0 với việc ứng dụng công nghệ thông tin và truyền thông trong dạy - học; tổ chức và quản lý đào tạo; ứng dụng các công cụ khảo thí trong kiểm tra, đánh giá.
+3. Phát triển năng lực tự học, tự nghiên cứu và đáp ứng nhu cầu học tập theo phương thức đào tạo cá thể hóa đối với người học; cung cấp không gian học thuật số trên nền tảng ứng dụng công nghệ giáo dục tiên tiến.
+4. Xây dựng hệ thống bài giảng điện tử theo quy chuẩn để sử dụng cho hệ thống quản lý học tập chính quy (Learning Management System - LMS) hoặc cung cấp cho hệ thống học liệu mở (Massive Open Online Courses – MOOC); bổ sung nguồn học liệu phong phú, chất lượng, thường xuyên được nâng cấp, cập nhật phù hợp với nhu cầu của thị trường lao động và đảm bảo yêu cầu về nội dung giảng dạy theo quy định.
+5. Phát triển phương pháp truyền tải kiến thức, tăng cường khả năng truy cập của người học (có thể sử dụng bài giảng điện tử một cách thuận tiện, dễ dàng trên máy tính và các thiết bị, thuận lợi cho việc tự học mọi lúc mọi nơi). Bài giảng điện tử ngoài đảm bảo yêu cầu nội dung chuyên môn còn phải được thiết kế, xây dựng với phương pháp sư phạm giúp người học dễ hiểu, dễ tiếp thu.
+6. Mở rộng đối tượng người học trên phạm vi toàn cầu (như các tổ chức, doanh nghiệp, hiệp hội, người học nước ngoài…); từng bước giúp đơn vị triển khai ứng dụng đào tạo trực tuyến e-learning đảm bảo chất lượng.
+
+## Điều 3. Giải thích các thuật ngữ
+1. **Học tập điện tử (e-Learning):** là hình thức học tập mà người học có thể tự học mọi lúc, mọi nơi thông qua các học liệu điện tử đa phương tiện (bài giảng, lời thuyết minh, âm thanh, hình ảnh, video, audio, đồ họa,…). Các hình thức học tập như m-Learning (học thông qua thiết bị di động: điện thoại thông minh, máy tính bảng, màn hình tương tác…), u-Learning (học thông qua các phương thức tương tác thực tế ảo), hay smart-Learning (phương tiện học tập thông minh) đều là các hình thái của học tập điện tử e-Learning.
+2. **Học liệu điện tử (Course-ware):** là các tài liệu học tập được số hóa theo cấu trúc, định dạng, kịch bản nhất định, nội dung đáp ứng chuẩn đầu ra của chương trình đào tạo, cho phép người học truy cập, tra cứu trong phạm vi do giảng viên, đơn vị đào tạo quy định. Học liệu điện tử bao gồm: học liệu văn bản và học liệu đa phương tiện.
+    *   2.1. Học liệu văn bản: là học liệu gồm các tệp tin bản mềm: văn bản, slide (bản trình chiếu), bảng dữ liệu, giáo trình, sách chuyên khảo, tạp chí khoa học…;
+    *   2.2. Học liệu đa phương tiện: học liệu đa phương tiện có thể gồm những loại sau đây:
+        *   Các tệp tin video, audio, đồ hoạ (infographic), hoạt hình (animation);
+        *   Các định dạng tích hợp một hoặc nhiều định dạng video, audio, văn bản, hình ảnh, đồ hoạ tương tác theo một kịch bản sư phạm nhất định.
+    
+    Các học liệu đa phương tiện tương tác được hiểu theo nghĩa người sử dụng có thể tác động trực tiếp để thay đổi kịch bản trình diễn ngay trong quá trình trình diễn.
+    
+    Về kiểu tương tác cũng có hai mức độ:
+    *   Tương tác thông qua kịch bản trình diễn để khởi động một kịch bản trình diễn tiếp theo sẵn có.
+    *   Tương tác qua dữ liệu được nhập trực tiếp trong quá trình trình diễn. Trong trường hợp này bắt buộc phải xây dựng phần mềm riêng xử lý dữ liệu để tạo tự động các kịch bản phù hợp với dữ liệu đưa vào. Tương tác kiểu này còn gọi là các thí nghiệm ảo.
+3. **Đào tạo kết hợp (Blended learning):** gồm một phần hoạt động giảng dạy trực tuyến kết hợp với hoạt động giảng dạy truyền thống trên cơ sở áp dụng các hợp phần công nghệ thông tin ứng dụng trong giảng dạy - học tập (hệ thống đào tạo trực tuyến quy định tại khoản 1, Điều 4 hoặc hệ thống hỗ trợ đào tạo trực tuyến quy định tại khoản 2, Điều 4 của Quy định này). Số giờ tín chỉ giảng dạy theo phương thức giảng dạy truyền thống không thấp hơn 1/3 tổng số giờ tín chỉ của học phần áp dụng đào tạo kết hợp.
+4. **Bài giảng điện tử:** là một tập hợp các học liệu điện tử được tổ chức lại theo một kết cấu sư phạm để có thể cung cấp kiến thức và kỹ năng cho người học một cách hiệu quả thông qua sự trợ giúp của các phần mềm quản lý học tập (Learning Management System - LMS) hoặc hệ thống cung cấp học liệu mở (Massive Open Online Courses - MOOC). Một bài giảng điện tử hoàn chỉnh tương ứng với một học phần trong chương trình đào tạo.
+5. **Mô đun (Module) bài giảng điện tử:** là một phần của bài giảng điện tử tương ứng với một đơn vị kiến thức trong học phần. Việc xác định đơn vị kiến thức thường được tính theo một nội dung trọn vẹn cần cung cấp cho người học. Một mô đun bài giảng điện tử tương ứng với các chương/mục trong đề cương học phần hoặc theo đơn vị một số tiết học nhất định.
+6. **Giáo trình điện tử:** là một hoặc một tập hợp các bài giảng điện tử có mức độ hoàn thiện cao, được thẩm định chuyên môn ở cấp Khoa/Trường hoặc cấp ĐHQGHN theo nội dung học phần được phê duyệt và các học liệu bắt buộc kèm theo.
+7. **Khoá học điện tử (e-Course):** là một hoặc nhiều bài giảng điện tử cung cấp kiến thức, kỹ năng cho một tập hợp người học xác định để đạt chuẩn đầu ra của một học phần hay một chương trình đào tạo. Việc giảng dạy bởi bài giảng điện tử có thể có hoặc không có giảng viên hỗ trợ.
+    Khóa học điện tử được tổ chức giảng dạy trọn vẹn một hoặc một vài học phần hoặc một chương trình đào tạo.
+8. **Hệ thống quản lý nội dung học tập (Learning content management system - LCMS):** phần mềm giúp quản lý các bài giảng điện tử và cấu trúc hoá bài giảng dưới một số định dạng nào đó.
+9. **Hệ thống quản lý học tập (Learning management system - LMS):** là hệ thống phần mềm giúp quản lý các khoá học và quá trình thực hiện các khóa học. Phần mềm cho phép tương tác giữa người học và giáo viên trợ giúp, giữa người học và các bài giảng điện tử, ghi nhận quá trình và kết quả học tập của người học, quá trình hỗ trợ của giảng viên.
+10. **Chuẩn SCORM (Sharable Content Object Reference Model):** là một tập hợp các tiêu chuẩn và các mô tả yêu cầu kỹ thuật của bài giảng điện tử tương tác qua web được quy định bởi tổ chức Advanced Distributed Learning - Bộ Quốc phòng Hoa Kỳ.
+11. **Câu hỏi trắc nghiệm:** là các hình thức thể hiện câu hỏi cho phép người học trả lời khi tham gia vào các khoá học điện tử. Các hình thức như sau: trắc nghiệm chọn một đáp án, trắc nghiệm chọn nhiều đáp án, câu hỏi lựa chọn đúng/sai.
+12. **Bài kiểm tra trực tuyến:** là một tập hợp các câu hỏi trắc nghiệm được soạn thảo nhằm kiểm tra đo lường, chứng thực kiến thức của người học hay nhằm kiểm tra nhanh kiến thức, kĩ năng của người học thông qua kết quả trả lời các câu hỏi. Khi người học thực hiện xong, hệ thống sẽ phản hồi kết quả tổng thể và có thể thông báo đáp án từng câu hỏi hoặc không thông báo tuỳ theo thiết lập của người tổ chức. Người học buộc phải nghiên cứu kỹ lưỡng bài giảng để cải thiện kết quả trong những lần kiểm tra sau đó.
+13. **Thí nghiệm ảo hoặc mô phỏng:** là thí nghiệm được thực hiện bằng mô phỏng trên máy tính. Người làm thí nghiệm có thể quan sát, tính toán thử nghiệm. Mỗi thí nghiệm ảo hoặc mô phỏng có thể là một hoặc một số phần mềm ứng dụng, người làm thí nghiệm tương tác với phần mềm qua việc nhập số liệu cho thí nghiệm và chọn lựa các phương án do máy tính gợi ý.
+
+---
+
+# Chương II
+### HỆ THỐNG ĐÀO TẠO TRỰC TUYẾN VÀ QUẢN LÝ HỌC TẬP
+
+## Điều 4. Hệ thống đào tạo và hỗ trợ đào tạo trực tuyến
+1. Hệ thống đào tạo trực tuyến là hệ thống hỗ trợ học tập, phục vụ cho công tác giảng dạy và học tập, được xây dựng gồm các hợp phần chính: cổng đào tạo trực tuyến; hệ thống quản lý học tập (LMS); hệ thống quản lý nội dung học tập (LCMS); học liệu điện tử; các phương thức tương tác (diễn đàn trao đổi chung, thảo luận trực tuyến,…); hệ thống kiểm tra - đánh giá người học và giảng viên; quản lý hoạt động của giảng viên; quản trị hệ thống.
+2. Hệ thống hỗ trợ đào tạo trực tuyến là một hoặc nhiều hợp phần công nghệ thông tin có các chức năng thực hiện hoạt động giảng dạy - học tập, tương tác giữa giảng viên và người học, kiểm tra đánh giá người học.
+3. Hệ thống hỗ trợ đào tạo trực tuyến có chức năng đồng bộ với phần mềm quản lý đào tạo để liên thông dữ liệu giữa hai hệ thống: Thông tin về lịch học, danh sách sinh viên, giảng viên được hệ thống đào tạo trực tuyến đồng bộ từ phần mềm quản lý đào tạo; Thông tin về kết quả học tập và quá trình giảng dạy của giảng viên được phần mềm quản lý đào tạo đồng bộ từ hệ thống đào tạo trực tuyến.
+4. Hệ thống cung cấp học liệu mở (Massive Open Online Courses – MOOC) là các khoá học thông qua internet nhằm hỗ trợ người học tự học, tự hoàn thành chương trình đào tạo từ xa (không áp dụng cho đào tạo chính quy).
+
+## Điều 5. Hệ thống quản lý học tập
+1. Hệ thống quản lý học tập (LMS) gồm các khoá học điện tử, bài giảng điện tử, bài kiểm tra trực tuyến với đầy đủ các tính năng tương tác phù hợp, hệ thống kiểm tra, đánh giá người học, phân tích thống kê dữ liệu kết quả học tập của sinh viên, quản lý giảng viên, quản trị hệ thống, các bảng điều khiển (dashboard) và khả năng tự động đồng bộ kết quả học tập của người học sang phần mềm đào tạo.
+2. Phân phối các học liệu điện tử, học liệu số tới số lượng lớn người học; đồng thời hỗ trợ đơn vị quản lý dễ dàng theo dõi, điều chỉnh và đánh giá quá trình đào tạo một cách hiệu quả.
+3. Tạo hệ thống tài khoản đăng nhập cho người học.
+4. Tạo diễn đàn trao đổi và các công cụ hỗ trợ khác để trao đổi về học tập, giải đáp thắc mắc của người học có sự tham gia của các giảng viên.
+5. Hệ thống máy chủ phục vụ học tập và hạ tầng kết nối mạng internet phải có đủ băng thông, năng lực đáp ứng nhu cầu truy cập của người dùng, không để xảy ra hiện tượng nghẽn mạng hay quá tải.
+
+## Điều 6. Hệ thống quản lý nội dung học tập
+1. Hệ thống quản lý nội dung học tập cho phép tổ chức đồng bộ với thư viện số của ĐHQGHN và của đơn vị; cung cấp các nội dung học tập tới người học trực tuyến.
+2. Tích hợp công cụ soạn bài dành cho giảng viên; liên thông dữ liệu với kho học liệu số, thư viện số.
+3. Tùy điều kiện thực tế, các đơn vị có thể tích hợp hệ thống quản lý học tập và hệ thống quản lý nội dung học tập.
+
+## Điều 7. Cấu trúc nội dung khóa học điện tử
+1. Việc tổ chức dạy học chính quy theo hình thức trực tuyến không vượt quá 30% số giờ tín chỉ của chương trình đào tạo. Trong trường hợp dịch bệnh, thiên tai, địch họa và các trường hợp đặc biệt khác, ĐHQGHN có văn bản chỉ đạo riêng phù hợp các quy định hiện hành và tình hình thực tiễn.
+2. Cấu trúc của khóa học điện tử được phân bổ theo từng phần gồm có: tên khóa học, đối tượng học, định hướng khóa học; thời gian, bài giảng điện tử, giáo trình; diễn đàn trao đổi chung, thảo luận trực tuyến; bài kiểm tra trực tuyến, bài tập lớn/tiểu luận; phiếu khảo sát ý kiến phản hồi của người học.
+3. Tùy theo điều kiện công nghệ thông tin, đơn vị tổ chức đào tạo trực tuyến hoặc đào tạo kết hợp:
+    a) Với hệ thống đào tạo trực tuyến được quy định tại khoản 1 Điều 4, đơn vị có thể tổ chức đào tạo trực tuyến toàn bộ học phần hoặc đào tạo kết hợp (Blended learning).
+    b) Với hệ thống hỗ trợ đào tạo trực tuyến được quy định tại khoản 2 Điều 4, đơn vị tổ chức đào tạo kết hợp (Blended learning).
+    c) Với hệ thống cung cấp học liệu mở được quy định tại khoản 4 Điều 4, đơn vị có thể ứng dụng nền tảng công nghệ thông tin phục vụ đào tạo từ xa (không áp dụng cho đào tạo chính quy).
+4. Bài giảng điện tử phải có nội dung bám sát mục tiêu đào tạo và chuẩn đầu ra của học phần; có tính sư phạm cao, dễ sử dụng; đáp ứng được nhu cầu tự học của người học có trình độ tin học cơ bản.
+5. Bài kiểm tra trực tuyến (bài thi giữa kỳ hay bài thi cuối kỳ) được lấy từ ngân hàng câu hỏi thi và có tối thiểu 20 câu hỏi. Thời gian làm bài thi trắc nghiệm kết thúc học phần tối thiểu 30 phút và không kéo dài quá 120 phút.
+    Trường hợp các học phần đặc thù riêng do Thủ trưởng đơn vị phê duyệt dưa trên đề cương chi tiết và chuẩn đầu ra học phần.
+6. Nội dung học tập đưa lên hệ thống phải tuân thủ Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Thủ tướng Chính phủ, được sửa đổi bổ sung theo Nghị định số 27/2018/NĐ-CP ngày 01 tháng 3 năm 2018 của Thủ tướng Chính phủ quy định về việc quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng.
+
+## Điều 8. Phương thức tương tác trong khóa học điện tử
+Tùy thuộc vào nội dung, thời lượng và số lượng người học mà giảng viên có thể lựa chọn các phương thức tương tác phù hợp: diễn đàn trao đổi, trao đổi riêng, thảo luận trực tuyến, bài giảng điện tử.
+1. Diễn đàn trao đổi là nơi giảng viên – người học, người học – người học có thể trao đổi, thảo luận trực tuyến và chia sẻ về nội dung học tập.
+2. Trao đổi riêng là hình thức tương tác giữa giảng viên – người học, người học – người học sử dụng các công cụ trao đổi (chat, email, texting messenger, duo meeting), thảo luận và chia sẻ về nội dung học tập.
+3. Thảo luận trực tuyến là hình thức trao đổi giữa người học – giảng viên, người học – người học sử dụng các công cụ của hệ thống đào tạo trực tuyến qua các thiết bị điện thoại, máy tính hay các thiết bị điện tử có kết nối internet. Khi lựa chọn hình thức này, giảng viên cần đăng ký hoặc thông báo nội dung, chủ đề và thời gian thực hiện.
+4. Trước khi trao đổi, giảng viên và người học cần xác định chủ đề, nội dung cần thảo luận phù hợp với quy định sử dụng hệ thống e-Learning.
+5. Nội dung bài viết trao đổi cần rõ ràng, ngôn từ trong sáng, thể hiện sự tôn trọng và có thái độ đúng mực đối với người tham gia diễn đàn.
+6. Quản trị hệ thống không chịu trách nhiệm về bản quyền của các nội dung được chia sẻ trên diễn đàn trao đổi.
+
+## Điều 9. Học phần giảng dạy trực tuyến
+1. Căn cứ vào lịch trình đào tạo, Thủ trưởng đơn vị đào tạo phê duyệt danh mục các học phần đào tạo trực tuyến và công khai trên website của đơn vị hoặc cổng thông tin đào tạo. Đơn vị đào tạo ưu tiên, khuyến khích tổ chức dạy trực tuyến đối với học phần thuộc khối kiến thức chung (M1, M2) và các học phần bổ trợ thuộc khối kiến thức ngành (M4) trong trường hợp có nhiều học phần giảng dạy trực tuyến trong 1 học kỳ.
+2. Nội dung và thời lượng giảng dạy trực tuyến của các học phần do giảng viên xây dựng, được thể hiện trong đề cương học phần.
+3. Phòng Đào tạo hoặc Bộ phận quản lý đào tạo chịu trách nhiệm lập kế hoạch, tập hợp và quản lý nội dung giảng dạy theo đúng đối tượng phụ trách, công khai trong thời khóa biểu học kỳ và giám sát quá trình giảng dạy.
+4. Hệ thống học liệu điện tử phục vụ khóa học trực tuyến phải cung cấp cho người học trước khi khóa học bắt đầu bao gồm học liệu bắt buộc sử dụng trong quá trình học trực tuyến và các tài liệu tự học khác (nếu có).
+5. Định kỳ, rà soát cập nhật bổ sung, chỉnh lí về mặt hình thức và nội dung bài giảng (tối thiểu 2 lần/năm).
+
+## Điều 10. Kế hoạch giảng dạy
+1. Kế hoạch giảng dạy cần được cung cấp cho người học từ đầu khóa học (trước khi khóa học bắt đầu), học kỳ bao gồm: định hướng đầu khóa học; tài liệu học tập; công cụ, phương thức tương tác; nhiệm vụ của người học; hình thức kiểm tra, đánh giá; thời hạn hoàn thành các nội dung học tập.
+2. Đơn vị đào tạo công khai thời khóa biểu học kỳ trên website đơn vị để giảng viên, người học và các bộ phận chức năng thanh tra, kiểm tra, giám sát.
+3. Thời gian hoạt động giảng dạy chính quy và học tập: Thời gian hoạt động giảng dạy và học tập của đơn vị đào tạo từ 7 giờ đến 20 giờ các ngày trong tuần từ thứ 2 đến thứ 7, thống nhất trong toàn ĐHQGHN. Một giờ học chuẩn quy đổi theo khung chương trình đào tạo tương ứng là 50 phút giảng dạy trực tuyến hoặc kết hợp cả thời gian giảng dạy và thảo luận trực tuyến.
+4. Đối với những học phần có nhiều giảng viên cùng tham gia giảng dạy thì phải có 01 giảng viên được phân công là giảng viên chịu trách nhiệm chính trong kế hoạch giảng dạy học phần.
+
+## Điều 11. Đánh giá kết quả học tập
+1. Việc đánh giá kết quả học tập của người học phải được thực hiện nghiêm túc, đầy đủ. Nội dung đánh giá và trọng số của từng loại điểm được quy định tại đề cương học phần và Quy chế đào tạo hiện hành của ĐHQGHN.
+2. Kết quả đánh giá gồm: *điểm thường xuyên* (người học phải tham gia học ít nhất 80% giờ tín chỉ học phần; tham gia trao đổi trên diễn đàn; kết quả kiểm tra đánh giá, bài tập, seminar,…); *điểm đánh giá giữa kỳ* (trả lời câu hỏi trắc nghiệm; điểm bài tập lớn/tiểu luận, các bài kiểm tra giữa kỳ,...); *điểm thi cuối kỳ* (bài thi trực tuyến hoặc tổ chức thi theo phương thức truyền thống, bài tập lớn, dự án) được quy định chi tiết tại đề cương học phần.
+3. Với hệ thống đào tạo trực tuyến quy định tại khoản 1, Điều 4 của Quy định này, đơn vị đào tạo có thể tổ chức thi cuối kỳ bằng hình thức trực tuyến hoặc theo phương thức truyền thống do Thủ trưởng đơn vị quyết định. Tổ chức thi trực tuyến (nếu có) phải có ngân hàng câu hỏi đủ lớn để xây dựng đề thi trắc nghiệm và đảm bảo tạo ra ít nhất 4 đề thi độc lập và không trùng nhau. Thủ trưởng đơn vị ban hành văn bản hướng dẫn quy trình thực hiện tổ chức thi trực tuyến; bảo đảm đề thi, đáp án, hướng dẫn chấm thi phải được bảo mật (trước, trong và sau khi thi).
+4. Với hệ thống hỗ trợ đào tạo trực tuyến mô tả tại khoản 2, Điều 4 của Quy định này, đơn vị đào tạo tổ chức thi kết thúc học phần theo hình thức trực tuyến hay truyền thống được quy định tại Quy định hiện hành của ĐHQGHN.
+5. Với hệ thống cung cấp học liệu mở quy định tại khoản 4 Điều 4 của quy định này, đơn vị có thể cấp chứng nhận kết quả đào tạo từ xa và không áp dụng cho các chương trình đào tạo chính quy cấp bằng ở ĐHQGHN.
+6. Không tổ chức thi cuối kỳ bằng hình thức trực tuyến với các học phần thực hành/thực tập đánh giá kỹ năng thực hành (thi tay nghề, nghiệp vụ, thao tác kỹ thuật,..). Trường hợp đặc biệt do Thủ trưởng đơn vị quyết định dựa trên mô tả chi tiết tại đề cương học phần và chuẩn đầu ra của chương trình đào tạo.
+7. Trong trường hợp thiên tai, địch họa, dịch bệnh và các trường hợp bất khả kháng, đơn vị đào tạo không thể tổ chức cho người học bảo vệ trực tiếp thì có thể tổ chức bảo vệ trực tuyến: khóa luận, luận văn thạc sĩ, seminar luận án tiến sĩ. Các trường hợp đặc biệt do Giám đốc ĐHQGHN quyết định.
+
+---
+
+# Chương III
+### QUY TRÌNH TỔ CHỨC XÂY DỰNG BÀI GIẢNG ĐIỆN TỬ
+
+## Điều 12: Các mức độ của bài giảng điện tử
+Bài giảng điện tử số hóa các nội dung và hoạt động dạy học thông qua môi trường multimedia (môi trường đa phương tiện) dưới sự trợ giúp của công nghệ thông tin. Thông tin được truyền dưới các dạng: văn bản, đồ hoạ, hoạt ảnh, ảnh chụp, âm thanh, video, thí nghiệm ảo, hình ảnh 3D, thực tại ảo (virtual reality), thực tại tăng cường (augmented reality),… Các mức độ của bài giảng điện tử như sau:
+*   **Bài giảng điện tử mức 1 (Cấp độ S - Substitution):** Bài giảng được xây dựng dưới dạng trình bày, trình diễn hình ảnh kết hợp âm thanh (slide điện tử, hoạt ảnh, file âm thanh, video clip,…) để trình bày, minh họa, thể hiện nội dung dạy học nhằm thay thế, hỗ trợ cho hoạt động thuyết giảng trong dạy học.
+*   **Bài giảng điện tử mức 2 (Cấp độ A - Augmentation):** Bài giảng được xây dựng dưới dạng bổ sung thông tin trong hình ảnh, mô tả, mô phỏng,… có thể tương tác với các đối tượng trên màn hình như các thí nghiệm ảo, các phần mềm kiểm tra, hỗ trợ các hoạt động nêu trên và thu hút, kích thích tính tích cực, tự lực của sinh viên trong giải quyết vấn đề và khám phá tri thức.
+*   **Bài giảng điện tử mức 3 (Cấp độ M - Modification):** Bài giảng được xây dựng dưới dạng một tập hợp các học liệu điện tử (video, hình ảnh động và âm thanh kết hợp với trình diễn slide với các học liệu đa phương tiện,…) được kết cấu sư phạm để sinh viên có thể tự học thông qua lựa chọn các nội dung học tập, luyện tập, vận dụng, tự kiểm tra - đánh giá.
+*   **Bài giảng điện tử mức 4 (Cấp độ R - Redefinition):** Bài giảng được xây dựng dưới dạng môi trường ảo, hình ảnh 3D, video 360°, mô phỏng tương tác ảo, thực tại ảo, thực tại tăng cường, thực tại hỗn hợp giúp tạo ra các hoạt động dạy học mới với chức năng mới.
+
+Bài giảng điện tử từ mức 3 trở lên giúp người học có thể tự học và có thể xem như là giáo trình điện tử.
+
+## Điều 13. Các tiêu chí đánh giá bài giảng điện tử
+Bài giảng điện tử phải đảm bảo được các yêu cầu sau:
+**1. Về nội dung**
+*   Trang bị kiến thức, kỹ năng, thái độ, phẩm chất đạo đức để đạt được chuẩn đầu ra của học phần và ma trận chuẩn đầu ra của chương trình đào tạo;
+*   Thể hiện rõ nội dung trọng tâm, liên hệ thực tế có tính giáo dục cao;
+*   Đảm bảo nội dung dạy học chính xác, có hệ thống, đáp ứng mục tiêu dạy học phù hợp với đề cương học phần đã được phê duyệt;
+*   Không chứa các nội dung trái với quan điểm, đường lối, chính sách, nghị quyết, chỉ thị, quy định, quyết định, quy chế, kết luận của Đảng và pháp luật của Nhà nước;
+*   Tư liệu sử dụng phải rõ ràng trong trích dẫn nguồn tài liệu, học liệu tham khảo.
+
+**2. Tính sư phạm và phương pháp truyền đạt**
+*   Thể hiện được đầy đủ các giai đoạn của quá trình dạy học như: đặt vấn đề - hình thành tri thức mới – luyện tập – tổng kết – hệ thống hóa tri thức – kiểm tra đánh giá kiến thức;
+*   Phù hợp với đối tượng sinh viên, hấp dẫn, lôi cuốn, dễ hiểu, dễ tiếp nhận;
+*   Tạo tình huống học tập, định hướng người học, nêu và giải quyết vấn đề, đảm bảo sinh viên có thể đào sâu khai thác kiến thức và giải quyết vấn đề.
+
+**3. Về công nghệ và kĩ thuật**
+*   Đảm bảo yêu cầu về kỹ thuật như tính hợp lý, ổn định, dễ sử dụng, khả năng tương thích cao với các loại thiết bị công nghệ khác nhau;
+*   Các nội dung số hóa tuân theo quy định trong phụ lục và đóng gói theo chuẩn SCORM đảm bảo chạy tốt trên các hệ quản lý học tập (LMS) và internet;
+*   Hình ảnh, âm thanh phải sắc nét, kết hợp tốt giữa các yếu tố như âm thanh, hình ảnh, hiệu ứng, nghe, nhìn, thao tác, tương tác.
+
+## Điều 14. Nguyên tắc và điều kiện đăng kí xây dựng bài giảng điện tử
+**1. Nguyên tắc chung**
+Bài giảng điện tử được xây dựng phải đảm bảo các nguyên tắc sau:
+*   Có thương hiệu và bản quyền của ĐHQGHN (đối với bài giảng điện tử do ĐHQGHN cấp kinh phí xây dựng);
+*   Chính xác về nội dung khoa học và đảm bảo chất lượng kiến thức, kỹ năng cho người học theo chuẩn đầu ra của học phần và chương trình đào tạo tương ứng;
+*   Có khả năng tương thích cao với các nền tảng kỹ thuật số và hệ thống quản lý đào tạo của ĐHQGHN;
+*   Được cập nhật thường xuyên theo yêu cầu phát triển của khoa học công nghệ và chương trình đào tạo;
+*   Có khả năng tương tác, thu hút sự tập trung của người học.
+
+**2. Điều kiện đăng ký xây dựng bài giảng điện tử từ mức 3 trở lên**
+*   Học phần đã được dạy cho tối thiểu 01 khóa học và tiếp tục được sử dụng trong những năm tiếp theo;
+*   Về mặt kỹ thuật, đơn vị đào tạo phải có phòng máy tính cho sinh viên tham gia học điện tử hoặc đủ trang thiết bị để tổ chức đào tạo trực tuyến;
+*   Giảng viên nắm được quy trình, phương pháp xây dựng bài giảng điện tử hoặc kết hợp với một đơn vị có khả năng hỗ trợ kỹ thuật làm bài giảng điện tử;
+*   Đề cương đăng ký làm bài giảng điện tử được chuẩn bị theo đúng mẫu và được Hội đồng thẩm định bài giảng điện tử của ĐHQGHN thông qua.
+
+**3. Chuẩn bị tư liệu**
+3.1. Bài giảng text (dạng văn bản) thông thường cần nêu rõ:
+*   Thời lượng học phần (số tín chỉ);
+*   Mục tiêu người học cần đạt về kiến thức, kỹ năng và thái độ;
+*   Điều kiện tiên quyết: những kiến thức cần phải có để tiếp thu bài giảng này.
+Bài giảng text (dạng văn bản) được quy định viết ở một trong 4 định dạng sau:
+*   Định dạng Word của Microsoft.
+*   Định dạng Pdf.
+*   Định dạng Text.
+*   Định dạng Write của Open Office.
+Trang được tính theo khổ A4, cỡ chữ 13, font Times New Roman, sử dụng bộ gõ tiếng Việt TCVN 6909 (Unicode), giãn cách dòng, lề trái 3cm, lề phải 2cm, lề trên 2cm, lề dưới 2,5cm.
+
+3.2. Giáo trình tham khảo chính và các tài liệu tham khảo
+*   Tài liệu tiếng Việt
+*   Tài liệu tiếng nước ngoài.
+
+3.3. Các tư liệu và cơ sở dữ liệu sử dụng để xây dựng bài giảng điện tử
+*   Hiện vật, mẫu vật;
+*   Tư liệu giấy, ảnh (tranh, ảnh, hình vẽ, bản đồ, biểu đồ,…);
+*   Tư liệu số (các trang web, các đĩa CD, các băng video, các tư liệu được tải từ mạng internet, các bài giảng điện tử liên quan đã có,…).
+*   Những yêu cầu phải có để xây dựng bài giảng điện tử:
+    + Xây dựng bài thử nghiệm;
+    + Quay phim hiện trường;
+    + Khai thác kho tư liệu trong và ngoài nước.
+*   Hệ thống những bài tập, câu hỏi, bài thi trắc nghiệm của bài giảng và đáp án trả lời hoặc hướng dẫn trả lời. Câu hỏi trắc nghiệm có thể là những câu độc lập có thể phản hồi trực tiếp, cũng có thể tồn tại trong một nhóm câu của một bài kiểm tra.
+*   Bản tóm tắt những khối kiến thức cơ bản của bài giảng.
+*   Danh sách tư liệu được xây dựng chi tiết như sau:
+
+| STT | Mô tả | Loại | Định dạng phổ biến | Tên tệp | Ở đâu | Dự kiến |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Giải thích rõ mô đun tư liệu này minh họa điều gì. | Video/Audio/Text/…<br>Tự dựng hay sưu tầm (bản quyền) | Avi hay mov hay mp3, mp4,… | Viết rõ tên tệp | Viết rõ thư mục lưu trữ trong CD báo cáo | Dùng cho những mô đun bài giảng nào? |
+| 2 | … | | | | | |
+
+Mỗi tư liệu điện tử là một mô đun tương đối độc lập, có thể tái sử dụng trong những bài giảng khác một cách dễ dàng.
+Tư liệu điện tử có thể có do sưu tầm (đảm bảo thực hiện đúng các quy định về bản quyền) hay tự dàn dựng.
+Tư liệu điện tử có thể là phim, video, ảnh, hình vẽ, bản đồ, hoạt hình, âm thanh, văn bản (plaintext) và các câu hỏi trắc nghiệm, bài tập, …
+
+3.4. Kịch bản và lời bình khi lồng ghép các tư liệu
+Xây dựng kịch bản chi tiết, trong đó nêu rõ:
+*   Mở bài (giới thiệu giảng viên/địa chỉ liên hệ/ thông tin cần thiết);
+*   Các mô đun chính;
+*   Các trường cảnh và liên kết cần thiết;
+*   Các kết luận chủ yếu.
+
+Kịch bản và lời bình cho mỗi mô đun bài giảng là văn bản mô tả việc trình diễn các tư liệu theo trình tự, hình thức xác định, hiệu ứng màu sắc, âm thanh và các yếu tố khác. Kịch bản cần mô tả chi tiết các lời thuyết minh, phần nội dung hiển thị trên màn hình, hình thức thể hiện mong muốn,...
+
+3.5. Tập hard copy (bản cứng) các powerpoint để trình bày bài giảng
+*   Cần nêu rõ tổng số powerpoint cần phải xây dựng, trong đó có bao nhiêu slide hình ảnh/text/biểu bảng.
+*   Slide có thể làm trên Powerpoint hoặc Impress (một phần mềm của bộ phần mềm mã nguồn mở Open Office có tính năng tương tự như Powerpoint).
+
+## Điều 15. Xây dựng bài giảng điện tử
+**1. Xây dựng powerpoint đạt yêu cầu kỹ thuật cao**
+Xây dựng powerpoint cần đạt một số yêu cầu sau:
+*   Có tính thống nhất trong hình thức trình bày nội dung;
+*   Các thành phần của khoá học phải được thiết kế ngắn gọn nhưng đảm bảo đầy đủ các nội dung cần truyền đạt;
+*   Cấu trúc: rõ ràng, phục vụ tối đa cho mục đích muốn truyền tải.
+
+**2. Xây dựng video bài giảng**
+Xây dựng video bài giảng cần đạt các yêu cầu sau:
+*   Độ phân giải video: 360p, 480p phù hợp xem trên điện thoại thông minh (smartphone), máy tính bảng (tablet);
+*   Chất lượng video: 480p, 720p phù hợp xem trên máy tính xách tay, máy tính để bàn hoặc các thiết bị cầm tay khác;
+*   Định dạng video: mp4 (không dùng file flash);
+*   Dung lượng video:
+    + Chất lượng 360p: 5 MB/phút.
+    + Chất lượng 480p: 7 MB/phút.
+    + Chất lượng 720p: 11 MB/phút.
+
+**3. Xây dựng bài thí nghiệm**
+*   Quay phim bài thí nghiệm thực trong phòng thí nghiệm, tại hiện trường.
+*   Thiết kế và xây dựng bài thí nghiệm ảo hoặc mô phỏng. Thí nghiệm ảo là một loại học liệu đặc biệt được thiết kế mô phỏng thí nghiệm thực dựa trên ứng dụng công nghệ thông tin. Thí nghiệm ảo có thể thể hiện qua các trình diễn đa phương tiện.
+
+**4. Sưu tầm tư liệu**
+*   Liệt kê những sản phẩm/tư liệu phải mua.
+*   Liệt kê những sản phẩm/tư liệu phải tìm kiếm hoặc tương đương.
+
+**5. Khâu hoàn thiện bài giảng**
+Sử dụng các nguồn tư liệu để hoàn thiện bài giảng theo chuẩn SCORM. ĐHQGHN đã xây dựng phần mềm tổ chức bài giảng - VNUCE giúp cho việc soạn thảo, tổ chức bài giảng và đóng gói theo chuẩn SCORM được thuận tiện.
+
+**6. Tổ chức nghiệm thu**
+*   Đối với bài giảng điện tử cấp độ 1 và 2: đơn vị đào tạo tổ chức nghiệm thu cấp Trường và báo cáo ĐHQGHN trước khi sử dụng.
+*   Đối với bài giảng điện tử cấp độ 3 và 4:
+    + Đơn vị tổ chức nghiệm thu cấp Trường và báo cáo ĐHQGHN.
+    + ĐHQGHN tổ chức nghiệm thu đánh giá sản phẩm trước khi sử dụng.
+
+**7. Hướng dẫn sử dụng**
+Tài liệu hướng dẫn cho người học và đơn vị tổ chức đào tạo:
+*   Hướng dẫn cho người học là những hướng dẫn chi tiết về cách học theo bài giảng, hướng dẫn về đọc thêm, về cách tìm kiếm thêm thông tin tư liệu liên quan, về việc tự trắc nghiệm kiến thức, làm bài tập, tham dự các bài kiểm tra đánh giá mà giáo trình quy định, tham gia các diễn đàn trao đổi, lớp học ảo, trao đổi trực tuyến (nếu có);
+*   Hướng dẫn cho đơn vị tổ chức đào tạo là những hướng dẫn chi tiết về cách thức tổ chức đào tạo với giáo trình này sao cho có thể đạt được hiệu quả cao nhất.
+
+---
+
+# Chương IV
+### ĐẢM BẢO CHẤT LƯỢNG TRONG ĐÀO TẠO TRỰC TUYẾN
+
+## Điều 16: Các điều kiện đảm bảo chất lượng trong đào tạo trực tuyến
+1. Đảm bảo đội ngũ cán bộ quản lý, giảng viên nắm chắc quy trình tổ chức giảng dạy trực tuyến, có đủ kiến thức, kỹ năng và làm chủ việc sử dụng, khai thác các thiết bị, phần mềm được cung cấp, trang bị.
+2. Có cơ sở vật chất đáp ứng các yêu cầu của giảng dạy trực tuyến về điều kiện thiết bị phần cứng, hệ thống phần mềm như: thiết bị đầu cuối của các đơn vị, trung tâm dữ liệu, các hệ thống kết nối LAN/WAN và internet tốc độ cao, các phòng học/hướng dẫn học trực tuyến, các hệ thống website, diễn đàn và phần mềm quản lý chuyên dụng. Cơ sở vật chất phục vụ tổ chức giảng dạy trực tuyến phải đủ điều kiện hoạt động liên tục, thông suốt, an toàn và đảm bảo sự thuận tiện cho việc quản lý và cung cấp thông tin của các bộ phận quản lý, việc giảng dạy của giáo viên và việc học tập của sinh viên trong quá trình đào tạo.
+3. Xây dựng hệ thống ngân hàng câu hỏi thi trắc nghiệm chất lượng, đáp ứng yêu cầu khảo thí hiện đại.
+4. Có hệ thống học liệu số giáo trình dạng Text, Ebook, PDF, bài giảng Rich Media, bài giảng Video, bài giảng Audio dạng 2D, 3D. Học liệu điện tử phải có nội dung bám sát mục tiêu đào tạo, có tính sư phạm cao, dễ dùng; thường xuyên nâng cấp, cập nhật, phát triển học liệu.
+
+## Điều 17: Yêu cầu đảm bảo chất lượng một số nội dung dạy học trực tuyến
+1. Nội dung dạy học trực tuyến cần được thiết kế có tính sư phạm cao dễ tiếp cận từ cơ bản đến phức tạp với sự hỗ trợ của phương tiện giảng dạy, công cụ học tập, số hóa.
+2. Nội dung dạy học trực tuyến cần có phần mềm chuyển hóa nội dung từ trực tiếp sang trực tuyến để đảm bảo đầy đủ kiến thức, kĩ năng theo chuẩn đầu ra của học phần.
+3. Hệ thống các phần mềm cần minh họa được nội dung học, hướng dẫn học, đánh giá chẩn đoán, đánh giá quá trình học cũng như tăng sự tương tác trong học tập, giúp học tập linh hoạt theo không gian và thời gian.
+
+## Điều 18: Yêu cầu kĩ thuật trong dạy học trực tuyến
+1. Đảm bảo cơ sở vật chất, hạ tầng thiết bị và đường truyền internet; phần mềm học tập được đảm bảo trang bị, hỗ trợ đầy đủ, ổn định.
+2. Giảng viên cần được tập huấn về dạy học trực tuyến, xây dựng bài giảng điện tử, tích hợp các tài nguyên trên mạng internet trên phần mềm dạy học.
+3. Hệ thống phần mềm quản lý tích hợp với phần mềm học tập để có thể đánh giá quá trình học tập, quản lý giảng dạy, giúp việc học có thể được triển khai theo nhiều cấp độ: học với máy, học có hướng dẫn của giảng viên,…
+
+## Điều 19: Kiểm tra, đánh giá trong dạy học trực tuyến
+1. Thủ trưởng đơn vị đào tạo ban hành quy định, cách thức tổ chức, đánh giá người học với mục tiêu đảm bảo chất lượng đào tạo của Nhà trường (chuẩn bị thi, hình thức thi, đề thi, đáp án, chuẩn bị phòng thi, cán bộ coi thi, chấm thi,…); mọi đơn vị và cá nhân thuộc quyền quản lý của Nhà trường đều có trách nhiệm chấp hành và thực hiện nghiêm túc để đảm bảo và cải tiến chất lượng đào tạo.
+2. Kiểm tra, đánh giá thường xuyên kết quả học tập trực tuyến của sinh viên được thực hiện trong quá trình dạy học. Các hình thức kiểm tra, đánh giá thường xuyên trong dạy học trực tuyến được thực hiện theo quy định hiện hành về kiểm tra, đánh giá của ĐHQGHN.
+
+---
+
+# Chương V
+### QUYỀN VÀ TRÁCH NHIỆM CỦA CÁC BÊN LIÊN QUAN
+
+## Điều 20. Quyền hạn và trách nhiệm của đơn vị đào tạo
+1. Xác định các yêu cầu của từng học phần đào tạo trực tuyến và các học kỳ phù hợp với nhiệm vụ của đơn vị đào tạo.
+2. Công bố công khai các yêu cầu, quy định liên quan đến đào tạo trực tuyến (hạ tầng công nghệ thông tin, đường truyền mạng, thiết bị điện tử phục vụ dạy và học trực tuyến…), văn bản hướng dẫn giảng viên, người học sử dụng các công cụ giảng dạy - học tập trực tuyến, hình thức kiểm tra, đánh giá công nhận kết quả học tập.
+3. Khuyến khích cán bộ giảng viên xây dựng bài giảng điện tử; tổ chức nghiệm thu bài giảng điện tử cấp Khoa/Trường.
+4. Xây dựng và thực hiện theo các quy trình, hướng dẫn để xem xét các quy định về công nhận chuyển đổi kết quả học tập theo đề nghị của người học và công bố công khai cho người học.
+5. Công bố công khai các quy định đào tạo trực tuyến của đơn vị: chuẩn đầu ra của chương trình/học phần đào tạo; các học phần đào tạo trực tuyến; đề cương học phần; kế hoạch đào tạo; phương thức đào tạo trực tuyến; hoạt động kiểm tra, đánh giá sinh viên; học phí; quy định về quyền và trách nhiệm người học khi tham gia học trực tuyến.
+6. Triển khai tự đánh giá và đăng ký tham gia kiểm định chất lượng đối với các chương trình đào tạo có học phần đào tạo trực tuyến.
+7. Tổ chức đào tạo về phương pháp và kỹ năng cần thiết cho các giảng viên, trợ giảng để có thể giảng dạy và hướng dẫn đào tạo trực tuyến; hướng dẫn sinh viên sử dụng phần mềm, các ứng dụng công nghệ thông tin để học tập, nghiên cứu.
+8. Cấp giấy chứng nhận kết quả học tập cho người học nếu có yêu cầu.
+9. Phát triển hệ thống đào tạo trực tuyến áp dụng công nghệ giáo dục hiện đại nhằm nâng cao chất lượng đào tạo và hội nhập quốc tế.
+10. Tổ chức tập huấn định kỳ cho cán bộ, giảng viên và người học để cập nhật những quy định, công nghệ mới; đề xuất để cải tiến để nâng cấp hệ thống đáp ứng nhu cầu quản lý và tổ chức đào tạo.
+
+## Điều 21. Quyền và trách nhiệm của giảng viên
+1. Giảng viên được hỗ trợ kinh phí xây dựng bài giảng điện tử (e-Learning) và các sản phẩm khác theo quy định của đơn vị đào tạo.
+2. Giảng viên được bồi dưỡng nâng cao năng lực biên soạn bài giảng điện tử; kỹ năng dạy học qua mạng; kỹ năng quản lý, theo dõi, định hướng, hướng dẫn và giải đáp người học qua mạng; kỹ năng sử dụng thành thạo hệ thống quản lý học tập qua mạng và các phương tiện công nghệ thông tin phục vụ cho giảng dạy; khảo thí và đo lường chất lượng giáo dục hiện đại.
+3. Giảng viên tham gia giảng dạy:
+    a) Giảng viên giảng chính được tính giờ giảng dạy như sau: 01 tiết giảng dạy trực tuyến cho tối đa 40 sinh viên được tính bằng 01 giờ tín chỉ. Đối với lớp trên 40 sinh viên, tùy điều kiện và đặc thù của mỗi đơn vị, có thể quy đổi nhưng không quá 1,50. Trường hợp đặc biệt do Thủ trưởng đơn vị xem xét quyết định.
+    b) Giảng viên giảng chính có trách nhiệm tạo diễn đàn trao đổi, tạo chủ đề thảo luận (diễn đàn trao đổi, trao đổi riêng), trả lời câu hỏi và giải đáp các thắc mắc đối với những vấn đề chung của khóa học.
+    c) Giảng viên hỗ trợ (trợ giảng) giảng dạy trực tuyến (nếu có) được tính giờ giảng dạy như sau: 01 tiết thảo luận trực tuyến bằng 0,5 giờ tín chỉ. Trợ giảng có trách nhiệm tạo diễn đàn trao đổi, tham gia thảo luận, trả lời câu hỏi, giải đáp các thắc mắc đối với những vấn đề cụ thể ở từng chuyên ngành đào tạo và nhắc nhở người học hoàn thành tiến độ của khóa học.
+    d) Thủ trưởng đơn vị đào tạo quy định cụ thể việc quy đổi hoạt động giảng dạy ra giờ chuẩn giảng dạy.
+4. Giảng viên thực hiện đúng các quy định về dạy học trực tuyến đảm bảo hoạt động kiểm tra đánh giá người học theo các văn bản hướng dẫn hiện hành của ĐHQGHN.
+5. Giảng viên tham gia xây dựng đề cương học phần; xây dựng bài giảng điện tử; có thể tham gia quy trình sản xuất học liệu điện tử (ghi hình, thu âm) tại phòng thu hoặc ứng dụng các công cụ, công nghệ thông tin phục vụ giảng dạy qua mạng trong quá trình xây dựng bài giảng; thiết kế các bài tập tình huống (case study); thiết kế hệ thống câu hỏi trắc nghiệm, ngân hàng câu hỏi kiểm tra, đánh giá.
+6. Giảng viên chịu trách nhiệm về nội dung bài giảng và các chủ đề thảo luận đưa lên hệ thống đào tạo trực tuyến, các diễn đàn trao đổi, thảo luận.
+7. Phản hồi kịp thời trước những thắc mắc của người học trong quá trình học, thi, kiểm tra, đánh giá; tham gia trả lời các câu hỏi trên diễn đàn thảo luận trong 48 giờ kể từ khi người học đưa ra câu hỏi; hỗ trợ người học giải quyết những khó khăn nảy sinh trong quá trình thông tin liên lạc gặp sự cố và đảm bảo tiến độ học tập của người học.
+8. Giảng viên có thể giao cho trợ giảng (giảng viên trợ giảng, cố vấn học tập, nghiên cứu sinh) tham gia trả lời câu hỏi và giải đáp thắc mắc của người học trên diễn đàn trao đổi.
+
+## Điều 22. Quyền và trách nhiệm của trợ giảng
+1. Được hưởng các quyền lợi và ưu đãi do Nhà nước quy định đối với trợ giảng, các chế độ bồi dưỡng, tính giờ giảng dạy chuẩn theo năm học, thù lao theo quy chế chi tiêu nội bộ của đơn vị đào tạo.
+2. Được ưu tiên tạo điều kiện thực tập, bồi dưỡng nâng cao trình độ chuyên môn và kỹ năng nghề nghiệp đặc thù của hình thức đào tạo trực tuyến.
+3. Được ưu tiên sử dụng trang thiết bị, cơ sở vật chất kỹ thuật phục vụ công tác đào tạo trực tuyến; được hỗ trợ tạo điều kiện áp dụng các phương pháp và công nghệ dạy học tiên tiến trong điều kiện của đơn vị đào tạo và phù hợp với hình thức đào tạo trực tuyến.
+4. Thực hiện nghiêm túc, đầy đủ các quy chế, quy định của đơn vị đào tạo, các hướng dẫn đảm bảo chất lượng đào tạo hiện hành của ĐHQGHN.
+5. Tự bảo vệ tài khoản cá nhân và chịu trách nhiệm về các thông tin đưa lên hệ thống (nội dung, kiến thức, bản quyền…).
+6. Hỗ trợ giảng viên thực hiện các nhiệm vụ giảng dạy: hỗ trợ, tư vấn cho người học, cung cấp các thông tin liên quan đến khóa học, giải đáp thắc mắc của người học liên quan đến vấn đề kỹ thuật, nhắc nhở người học các thời hạn hoàn thành nhiệm vụ và kiểm soát các thông tin người học đưa lên hệ thống đào tạo trực tuyến.
+7. Kiểm tra, giám sát, khuyến khích việc tham gia học tập của người học; đánh giá kết quả học tập sinh viên.
+
+## Điều 23. Quyền và trách nhiệm của quản trị khóa học
+1. Quản trị khóa học (nếu có) có trách nhiệm tạo lập khóa học, phân quyền cho giảng viên, trợ giảng, người học và phối hợp với giảng viên để hướng dẫn người học đăng ký học tại hệ thống đào tạo trực tuyến ngay trong tuần đầu tiên của học kỳ; bố trí phòng máy cho người học học tập trong thời gian diễn ra khoá học khi người học không có máy tính; theo dõi, giám sát khóa học trực tuyến.
+2. Quản trị khóa học có quyền đưa ra khỏi hệ thống các nội dung, thông tin trái quy định và không phù hợp với mục đích của hệ thống đào tạo trực tuyến mà không cần thông báo trước cho các thành viên liên quan.
+
+## Điều 24. Quyền và trách nhiệm của quản trị hệ thống
+1. Quản trị hệ thống phải am hiểu các hệ thống ứng dụng công nghệ thông tin liên quan đến đào tạo trực tuyến; được hướng dẫn, chuyển giao công nghệ để quản trị, vận hành hệ thống công nghệ thông tin đảm bảo hoạt động ổn định.
+2. Quản trị hệ thống có nhiệm vụ xây dựng quy trình lưu trữ, bảo mật cơ sở dữ liệu và nội dung bài giảng của giảng viên, kết quả kiểm tra đánh giá của người học.
+3. Quản trị hệ thống chịu trách nhiệm lưu trữ toàn bộ quá trình tổ chức dạy học và xác nhận thông tin khoá học khi có yêu cầu.
+4. Quản trị hệ thống tạo và cấp phát/thu hồi tài khoản người dùng trên hệ thống, hỗ trợ kỹ thuật cho giảng viên – người học trong quá trình giảng dạy – học tập; cung cấp/thu hồi tài khoản và hỗ trợ bộ phận chức năng thực hiện nhiệm vụ thanh tra, kiểm tra, giám sát hoạt động giảng dạy trực tuyến.
+
+## Điều 25. Quyền và trách nhiệm của người học
+1. Người học được cung cấp, tiếp cận các nguồn tài liệu học tập của khóa học, được giải đáp những thắc mắc trên diễn đàn trao đổi.
+2. Mỗi thành viên có quyền bổ sung các thông tin khác trong hồ sơ cá nhân như: hình đại diện và chữ ký thuộc quyền sở hữu riêng của thành viên (nếu có). Hình ảnh đại diện phải nghiêm túc, có văn hóa, nghiêm cấm sử dụng hình ảnh không phù hợp với thuần phong mỹ tục của dân tộc.
+3. Người học phải tự bảo vệ tài khoản, phải tự chịu trách nhiệm về các thông tin đưa lên hệ thống và phải chịu trách nhiệm về việc để người khác sử dụng tài khoản của mình sai mục đích, không đúng với quy định.
+4. Người học phải hoàn thành các nhiệm vụ do giảng viên giao trên hệ thống đào tạo trực tuyến theo đúng thời hạn quy định.
+5. Thực hiện đúng các quy chế, quy định của ĐHQGHN và của đơn vị đào tạo. Trong trường hợp vi phạm sẽ tùy mức độ, xử lý theo quy định hiện hành.
+6. Tham gia các hoạt động lấy ý kiến phản hồi của người học về các học phần, phương pháp giảng dạy, môi trường giáo dục (nếu có).
+
+---
+
+# Chương VI
+### THANH TRA, KIỂM TRA VÀ BÁO CÁO
+
+## Điều 26. Thanh tra, kiểm tra
+ĐHQGHN thực hiện thanh tra, kiểm tra việc thực hiện quy định về đào tạo trực tuyến của các đơn vị.
+Thủ trưởng đơn vị tổ chức thanh tra, kiểm tra, giám sát việc thực hiện theo kế hoạch hàng năm, hàng kỳ của đơn vị.
+
+## Điều 27. Chế độ báo cáo
+1. Trước khi học kỳ bắt đầu 02 tuần, các đơn vị/phòng/bộ phận liên quan, các bộ môn tham gia thực hiện đào tạo trực tuyến gửi kế hoạch dự kiến đào tạo năm học mới cho đơn vị tổ chức giám sát đào tạo.
+2. Các đơn vị, bộ môn phải đánh giá hệ thống đào tạo trực tuyến, mức độ triển khai, những khó khăn, thuận lợi khi triển khai, tổ chức đào tạo trực tuyến.
+3. Quản trị hệ thống, quản trị khóa học báo cáo về cập nhật phát triển công nghệ, những khó khăn, vướng mắc khi triển khai tổ chức đào tạo trực tuyến và đề xuất giải pháp khắc phục.
+
+---
+
+# Chương VII
+### XỬ LÝ VI PHẠM VÀ TỔ CHỨC THỰC HIỆN
+
+## Điều 28. Xử lý vi phạm
+1. Nghiêm cấm các hành vi lợi dụng khóa học trực tuyến để cung cấp thông tin trên mạng nhằm mục đích:
+    a) Chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; gây phương hại đến an ninh quốc gia, trật tự an toàn xã hội; phá hoại khối đại đoàn kết dân tộc; tuyên truyền chiến tranh, khủng bố; gây hận thù, mâu thuẫn giữa các dân tộc, sắc tộc, tôn giáo;
+    b) Tuyên truyền, kích động bạo lực, dâm ô, đồi trụy, tội ác, tệ nạn xã hội, mê tín dị đoan, phá hoại thuần phong, mỹ tục của dân tộc;
+    c) Tiết lộ bí mật nhà nước, bí mật quân sự, an ninh, kinh tế, đối ngoại và những bí mật khác do pháp luật quy định;
+    d) Đưa thông tin xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân;
+    đ) Quảng cáo, tuyên truyền, mua bán hàng hóa, dịch vụ bị cấm; truyền bá tác phẩm báo chí, văn học, nghệ thuật, xuất bản phẩm bị cấm;
+    e) Giả mạo tổ chức, cá nhân và phát tán thông tin giả mạo, thông tin sai sự thật xâm hại đến quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+2. Nghiêm cấm các hành vi tạo đường dẫn trái phép đối với tên miền hợp pháp của tổ chức, cá nhân; tạo, cài đặt, phát tán phần mềm độc hại, vi-rút máy tính; xâm nhập trái phép, chiếm quyền điều khiển hệ thống thông tin, tạo lập công cụ tấn công trên mạng.
+3. Nghiêm cấm các đối tượng có hành vi lưu trữ, sao chép, cắt ghép làm thay đổi nội dung bài giảng điện tử, ghi hình và chỉnh sửa bài giảng trực tiếp, phát tán bài giảng có trong hệ thống đào tạo trực tuyến dưới mọi hình thức khi chưa được sự đồng ý của giảng viên hoặc Thủ trưởng đơn vị đào tạo.
+4. Các vi phạm, tùy theo mức độ, sẽ bị Quản trị hệ thống nhắc nhở, tước quyền đăng bài, tước quyền truy cập hệ thống, cảnh cáo trên toàn hệ thống hoặc bị cơ quan có thẩm quyền xử lý kỷ luật, xử lý hình sự theo quy định.
+
+## Điều 29. Tổ chức thực hiện
+1. Đơn vị đào tạo lập kế hoạch và triển khai áp dụng phù hợp với điều kiện thực tế.
+2. Căn cứ quy định này, Thủ trưởng đơn vị đào tạo ban hành các văn bản hướng dẫn tổ chức đào tạo trực tuyến; chuẩn bị học liệu điện tử; thẩm định học liệu điện tử trước khi đưa vào sử dụng; chịu trách nhiệm về nội dung, chất lượng đào tạo trực tuyến; tập huấn nâng cao năng lực cho giảng viên; tư vấn và hỗ trợ người học; quản lý và giám sát quá trình dạy – học trực tuyến đối với các học phần đơn vị quản lý chuyên môn; tổ chức đánh giá hiệu quả việc ứng dụng công nghệ trong trực tuyến thông qua kênh phản hồi của giảng viên, người học, cán bộ hỗ trợ để điều chỉnh phù hợp.
+3. Quy định này được áp dụng kể từ ngày ký. Trong quá trình thực hiện, nếu có vướng mắc các đơn vị đào tạo báo cáo bằng văn bản về ĐHQGHN (qua Ban Đào tạo) để trình Giám đốc xem xét, sửa đổi, bổ sung cho phù hợp với tình hình thực tế./
+
+*(Ký tên)*
+
+---
+
+# Phụ lục I
+### CÁC CHUẨN VỀ BÀI GIẢNG ĐIỆN TỬ
+*(ban hành kèm theo Quyết định số 4391/QĐ-ĐHQGHN ngày 29 tháng 12 năm 2021 của Giám đốc Đại học Quốc gia Hà Nội)*
+
+## I. Yêu cầu đối với đơn vị đào tạo
+Đơn vị đào tạo chịu trách nhiệm về:
+- Học phần số hoá;
+- Chương trình giảng dạy;
+- Nội dung bài giảng điện tử;
+- Chọn lựa các hệ thống quản lý học tập (LMS);
+- Chọn lựa các công cụ sản xuất nội dung;
+- Phát triển LMS và hệ thống quản lý nội dung (LCMS).
+
+## II. Các chuẩn e-Learning hiện hành
+Hệ thống e-Learning đã áp dụng các chuẩn tương ứng để thống nhất cho tất cả quá trình sản xuất, học tập, quản lý hoặc tương tác với các thành phần trong hệ thống. Các nhóm chuẩn gồm:
+- **Nhóm thứ nhất:** cho phép ghép các học liệu tạo bởi các công cụ khác nhau bởi các nhà sản xuất khác nhau thành các gói (packages) nội dung. Nhóm chuẩn này được gọi là các chuẩn đóng gói (packaging standards). Nhờ có hệ thống này mà các hệ thống quản lý học tập có thể nhập và sử dụng được các học liệu khác nhau.
+- **Nhóm thứ hai:** cho phép các hệ thống quản lý học tập hiển thị được từng bài học và có thể theo dõi kết quả kiểm tra và quá trình học tập của từng học viên. Nhóm chuẩn này được gọi là các chuẩn trao đổi thông tin (communication standards).
+- **Nhóm thứ ba:** cho phép mô tả nội dung học liệu để các hệ thống quản lý học tập có thể tìm kiếm và phân loại khi cần thiết. Nhóm chuẩn này được gọi là các chuẩn siêu dữ liệu (metadata standards).
+- **Nhóm thứ tư:** cho phép soát toàn bộ quá trình thiết kế học liệu cũng như khả năng hỗ trợ của học liệu đối với người học và phụ trợ người tàn tật. Nhóm chuẩn này là chuẩn chất lượng (quality standards).
+
+**1. Chuẩn đóng gói**
+Nhóm chuẩn đóng gói mô tả cách thức ghép các đối tượng học tập riêng rẽ để tạo ra một giáo trình điện tử hay các đơn vị nội dung độc lập, sau đó có thể chuyển tải và tái sử dụng được chúng trong nhiều hệ thống LMS/LCMS khác nhau.
+Sau đây là một số bộ chuẩn đóng gói nội dung bài giảng:
+
+| Các bộ chuẩn | Nhận xét |
+| :--- | :--- |
+| **AICC**<br>(Aviation Industry CBT Committee) | - Để đảm bảo các học liệu có thể tương tác, đặc tả AICC đòi hỏi phải có nhiều tập tin, tuỳ thuộc vào mức độ phức tạp. Cụ thể là bao gồm tập tin mô tả học liệu, các đơn vị nội dung khác, các tập tin mô tả, tập tin cấu trúc học liệu, các tập tin điều kiện,...<br>- Đặc tả cho phép thiết kế các cấu trúc phức tạp của nội dung. |
+| **IMS Global Consortium** | - Đặc tả IMS Content and Packaging đơn giản hơn AICC và được cộng đồng e-Learning chấp nhận và áp dụng nhiều. Một số phần mềm công cụ như Microsoft LRN Toolkit có hỗ trợ thực thi đặc tả này. |
+| **SCORM**<br>(Sharable Content Object Reference Model) | - SCORM kết hợp nhiều đặc tả khác nhau trong đó có IMS Content and Packaging.<br>- Trong SCORM 2004 có bổ sung đặc tả Simple Sequencing 1.0 của IMS. Hiện nay đa số các sản phẩm e-Learning đều hỗ trợ SCORM nên đó là đặc tả đáng được chú ý nhất. |
+
+**2. Chuẩn trao đổi thông tin**
+Chuẩn trao đổi thông tin xác định giao thức hoặc ngôn ngữ con người hoặc máy tính sử dụng để trao đổi thông tin với nhau. Một thí dụ về chuẩn trao đổi thông tin là từ điển định nghĩa các từ thông dụng. Trong e-Learning, các chuẩn trao đổi thông tin xác định một ngôn ngữ mà hệ thống quản lý học tập có thể trao đổi thông tin được với các đơn thể nội dung.
+
+Nội dung thông tin trao đổi giữa hệ thống quản lý học tập và đối tượng học tập bao gồm một vài chủ đề như sau:
+- Hệ thống quản lý cần biết khi nào đối tượng học tập bắt đầu hoạt động. Đối tượng cần biết tên học viên là gì.
+- Đối tượng thông báo ngược lại cho hệ thống quản lý biết học viên đã hoàn thành được bao nhiều phần trăm việc học đối tượng.
+- Hệ thống quản lý cần biết thông tin về điểm số đạt được của học viên để lưu trữ vào một cơ sở dữ liệu.
+- Hệ thống quản lý cần biết khi nào học viên chấm dứt học tập và đóng đối tượng học tập.
+
+Chuẩn trao đổi thông tin bao gồm 2 phần chủ yếu là giao thức và mô hình dữ liệu. Giao thức xác định quy trình mà hệ thống quản lý và các đối tượng học tập trao đổi thông tin với nhau. Mô hình dữ liệu xác định cấu trúc dữ liệu dùng trong quy trình trao đổi như điểm số của bài kiểm tra, tên của học viên và mức độ hoàn thành bài học của học viên.
+
+**3. Chuẩn siêu dữ liệu**
+Chuẩn siêu dữ liệu (metadata) trong e-Learning là những dữ liệu mô tả về các học liệu và đối tượng học. Các chuẩn metadata cung cấp cách thức mô tả các loại hình e-Learning khác nhau.
+
+*3.1. Vai trò của chuẩn metadata:*
+- Chuẩn metadata cho phép thực hiện tìm kiếm các cụm từ phức tạp và không bị giới hạn. Có thể tìm kiếm các học liệu bằng các ngôn ngữ khác về chủ đề nào đó và thậm chí tìm kiếm bất cứ tài liệu gì mà không phải duyệt xem toàn bộ nội dung của các tài liệu bằng ngôn ngữ đó.
+- Metadata còn cho phép phân loại các học liệu, bài học và các thành phần khác; giúp người soạn bài tìm nội dung cần và sử dụng.
+
+*3.2. Một số chuẩn metadata hiện hành:*
+Có 3 đặc tả về chuẩn siêu dữ liệu được chuẩn hoá áp dụng trong thực tế:
+- Learning Technology Standards Committee of IEEE: Learning Object Metadata Standard IEEE 1484.12.
+- MS Global Learning Consortium: Learing Resources Metadata Specification.
+- ADL: SCORM Metadata standards.
+
+*3.3. Các thành phần cơ bản của metadata:*
+Chuẩn IEEE 1484.12 (tức LOM) được coi là tiêu chuẩn chung vì được mọi tổ chức chuẩn hoá thừa nhận và sử dụng. Dưới đây là danh sách các thành phần (chủ yếu) thuộc chuẩn IEEE 1484.12:
+- **Title:** là tên chính thức của học liệu.
+- **Language:** xác định ngôn ngữ được sử dụng bên trong học liệu và có thể có thông tin bổ sung.
+- **Description:** là mô tả về học liệu.
+- **Keyword:** bao gồm các từ khoá hỗ trợ cho việc tìm kiếm.
+- **Structure:** mô tả cấu trúc bên trong của học liệu như trình tự, phân cấp.
+- **Aggregation Level:** xác định các mức gắn kết của đơn vị: 4 – học liệu, 3 – bài, 2 – đề mục.
+- **Version:** xác định phiên bản của học liệu.
+- **Format:** quy định các định dạng tệp được dùng trong học liệu, tương hợp với các định dạng của chuẩn MIME.
+- **Size:** là kích thước tổng cộng của toàn bộ các tệp có trong học liệu.
+- **Location:** là địa chỉ web để có thể truy cập học liệu.
+- **Requirement:** liệt kê các điều kiện như trình duyệt và hệ điều hành cần thiết để có thể chạy được học liệu.
+- **Duration:** xác định thời gian trung bình để học một học liệu.
+- **Cost:** cho biết học liệu là miễn phí hay có phí,….
+- Một số công cụ tuân thủ chuẩn metadata: phải sử dụng định dạng XML để đảm bảo tính tương tác giữa các hệ thống thông tin.
+
+**4. Chuẩn chất lượng**
+Các chuẩn chất lượng liên quan tới việc thiết kế học liệu và người học, cũng như khả năng truy cập được vào học liệu đối với những người tàn tật.
+Chuẩn chất lượng đảm bảo nội dung tạo ra và học viên dễ dàng tiếp nhận nội dung đó.
+Các chuẩn chất lượng đảm bảo học liệu không chỉ tái sử dụng được mà sử dụng được ngay từ những lần học đầu tiên.
+
+Các chuẩn thiết kế e-Learning: Chuẩn chất lượng thiết kế chủ yếu cho e-Learning là e-Learning Courseware Certification Standards của tổ chức ECI (E-Learning Certification Institute). Viện ECI chứng nhận rằng các học liệu e-Learning tuân thủ một số chuẩn nhất định như thiết kế giao diện, tương thích với các hệ điều hành và các công cụ chuẩn, cũng như chất lượng sản xuất và thiết kế học liệu.
+
+Tính dễ truy cập: liên quan tới việc làm như thế nào để sản phẩm công nghệ thông tin có thể giúp những người tàn tật truy cập được, chẳng hạn giúp những người bị hỏng mắt, nghe kém hoặc không có sự kết hợp tốt giữa mắt và tay.
+
+**5. Các chuẩn E-Learning khác**
+*5.1. Các chuẩn e-Learning của IMS*
+Các chuẩn e-Learning do tổ chức IMS biên soạn và phổ biến trong thực tiễn. Một số chuẩn của IMS:
+- **IMS Question and Test Interoperabililty** là chuẩn về “Tính tương tác của các câu hỏi và bài kiểm tra”. Đặc tả này được IMS đưa ra nhằm tìm cách sao cho các câu hỏi và bài kiểm tra có thể dùng được với nhiều hệ thống thông tin hoặc phần mềm khác nhau.
+- **IMS Enterprise Information Model:** các hệ thống quản lý học tập, quản lý nội dung học hoặc trường học ảo cần có khả năng trao đổi thông tin với các hệ thống khác của một tổ chức, cơ quan hoặc doanh nghiệp. Đặc tả “Mô hình thông tin doanh nghiệp” được IMS đưa ra nhằm xác định một định dạng chung cho phép trao đổi dữ liệu quản lý giữa các hệ thống thông tin hoặc phần mềm khác nhau.
+- **IMS Learner Information Packaging:** đặc tả “Đóng gói thông tin về học viên” của IMS được đưa ra nhằm xác định một định dạng chung về thông tin học viên. Các mô tả tuân thủ đặc tả này có thể được trao đổi dễ dàng giữa các hệ thống thông tin hoặc phần mềm khác nhau.
+- **IMS Digital Repositories:** đặc tả của IMS về các cơ sở dữ liệu chứa những cấu kiện thuộc e-Learning.
+- **IMS Simple Sequencing:** đặc tả của IMS, hiện nay đã được đưa vào bộ chuẩn SCORM 2004, có mục đích giúp người sử dụng tạo ra những “Trình tự đơn giản” cho phép.
+- **IMS ePortfolio:** đặc tả về một định dạng “Lý lịch” mẫu của IMS.
+
+*5.2. Các chuẩn viễn thông*
+Các chuẩn viễn thông được áp dụng trên mạng internet và cũng áp dụng với e-Learning. Những chuẩn như vậy là cần thiết khi kết hợp các công cụ khác nhau phục vụ cho mục đích liên kết và trao đổi thông tin từ xa. Một số chuẩn viễn thông hiện hành:
+- **H.323:** dùng cho các hệ thống trao đổi thông tin đa phương tiện dựa trên cơ sở các gói tin. Nó tăng cường sự tương thích trong việc truyền hội nghị từ xa bằng video thông qua các mạng Internet Protocol – giao thức internet.
+- **T.120:** dùng cho các giao thức dữ liệu phục vụ cho hội nghị đa phương tiện. Nó bao gồm tài liệu giao thức về hội họp và chia sẻ ứng dụng của các cuộc gặp mặt trực tuyến (online-meetings).
+
+*5.3. Các chuẩn về phương tiện*
+Các chuẩn về phương tiện quy định các định dạng tệp chuẩn của phương tiện thông tin. Đa số những chuẩn loại này có nguồn gốc từ World Wide Web Consortium (Tổ chức W3C). Dưới đây là một số chuẩn về các phương tiện thông dụng trong e-Learning:
+- **CSS (Cascading Style Sheet):** “thẻ định mẫu”, dùng để kiểm soát giao diện bên ngoài của các trang HTML và XML.
+- **DOM (Document Object Model):** “mô hình đối tượng tài liệu”, dùng để lập trình cho các trình duyệt và các trang web.
+- **HTML (Hypertext Markup Language):** “ngôn ngữ đánh dấu siêu văn bản”, dùng để tạo các trang web.
+- **HTTP (Hypertext Transfer Language)** để gửi dữ liệu giữa server và trình duyệt.
+- **MathML (Mathematics Markup Language):** “ngôn ngữ đánh dấu toán học”, dùng để hiển thị các phương trình toán học.
+- **PNG (Portable Network Graphics):** định dạng đồ hoạ dùng để lưu thông trên mạng.
+- **SMIL (Synchronized Multimedia Integration Language):** “ngôn ngữ tích hợp đa phương tiện đồng bộ”, dùng để tạo các bài trình diễn multimedia.
+- **XML (eXtensible Markup Language):** “ngôn ngữ đánh dấu mở rộng được”, dùng để liên tác giữa những hệ thống thông tin khác nhau.
+
+Còn có một số chuẩn về phương tiện của các tổ chức khác như sau:
+- **GIF (Graphics Interchange Format):** định dạng đồ hoạ vectơ (của công ty CompuServe).
+- **JPEG (Joint Photographic Expert Group):** định dạng đồ hoạ bitmap, dùng cho các ảnh chụp.
+- **MPEG (Moving Picture Experts Group):** định dạng tệp ảnh động dùng cho phim video.
+- **vCard:** định dạng tệp dùng cho các thẻ thương mại điện tử.
+- **MIME (Multipurpose Internet Mail Extensions):** một khuyến nghị mở rộng của Internet Engineering Task Force, quy định các định dạng tệp đa mục đích và việc gửi chúng qua e-mail.
+
+*(Ký tên)*
+
+---
+
+# Phụ lục II
+### MẪU ĐỀ CƯƠNG ĐĂNG KÍ XÂY DỰNG BÀI GIẢNG ĐIỆN TỬ
+*(ban hành kèm theo Quyết định số 4391/QĐ-ĐHQGHN ngày 29 tháng 12 năm 2021 của Giám đốc Đại học Quốc gia Hà Nội)*
+
+**ĐẠI HỌC QUỐC GIA HÀ NỘI**
+**Tên: đơn vị đào tạo**
+
+---
+
+### ĐỀ CƯƠNG ĐĂNG KÝ XÂY DỰNG BÀI GIẢNG ĐIỆN TỬ
+
+**Mức đăng ký:**
+
+**Học phần:** ........................................................................... **Thời lượng:** ........................................
+
+**Giảng viên chủ trì:** ............................................................................................................................
+
+## I. Các thông tin chung về học phần
+1. Tên học phần:
+2. Thời lượng:
+3. Giảng viên thực hiện (và nhóm giảng viên tham gia):
+4. Thời gian học phần đã được giảng dạy tại khoa/trường:
+5. Học phần đã có giáo trình chưa? Nếu đã có giáo trình thì giáo trình đã được nghiệm thu ở cấp nào?
+6. Đối tượng và số lượng người sử dụng học phần trong mỗi khóa học:
+7. Mục tiêu học phần:
+8. Học phần tiên quyết:
+9. Trang thiết bị và điều kiện kỹ thuật:
+    - Đơn vị đào tạo có phòng máy tính cho sinh viên và có kết nối vào mạng chung của ĐHQGHN hay không?
+    - Giảng viên thực hiện có nắm được quy trình, phương pháp làm bài giảng điện tử hay không?
+    - Giảng viên thực hiện có kỹ năng sử dụng các phần mềm hỗ trợ việc soạn và đóng gói bài giảng điện tử hay không?
+    - Nhóm chuyên gia CNTT và Multimedia (đa phương tiện) hỗ trợ (dự kiến):
+
+## II. Tóm tắt nội dung bài giảng điện tử
+1. Thông báo về khóa học: mục đích, yêu cầu, lịch trình (phụ thuộc vào từng khóa học cụ thể), phương thức kiểm tra đánh giá.
+2. Các mô đun: một bài giảng điện tử được chia làm nhiều mô đun và có thể có nhiều cấp độ. Mỗi mô đun cần có thông tin tóm tắt nội dung, thời lượng giảng dạy.
+3. Phương thức kiểm tra đánh giá. Các câu hỏi, bài tập và câu hỏi trắc nghiệm để sinh viên tự kiểm tra.
+4. Các học liệu điện tử: hình ảnh, âm thanh, video clip, các phần mềm (bao gồm cả thí nghiệm ảo hoặc mô phỏng) trợ giúp sinh viên trong quá trình học.
+
+## III. Giáo trình, tài liệu tham khảo chính và các tài liệu tham khảo
+1. Tài liệu tiếng Việt.
+2. Tài liệu tiếng nước ngoài.
+
+## IV. Các tư liệu và cơ sở dữ liệu để sử dụng xây dựng bài giảng điện tử
+*(Cần thuyết minh chi tiết về vai trò đối với việc xây dựng bài giảng điện tử)*
+1. Hiện vật, mẫu vật (dùng làm thí nghiệm, quay phim, chụp ảnh)
+    - Hiện vật, mẫu vật đang có.
+    - Hiện vật, mẫu vật cần thiết nhưng chưa có:
+        + Địa chỉ để tìm kiếm.
+        + Thông tin liên quan
+2. Tư liệu giấy, ảnh (tranh, ảnh, hình vẽ, bản đồ, biểu đồ,…)
+    - Tư liệu giấy, ảnh đã và đang có.
+    - Tư liệu giấy, ảnh cần thiết nhưng chưa có.
+3. Tư liệu số (các đĩa CD/VIDEO/DVD, các băng video, các tư liệu từ Internet, các bài giảng điện tử liên quan đã có, …)
+    - Tư liệu số đã có.
+    - Tư liệu số cần phải bổ sung (nêu rõ yêu cầu nội dung, kỹ thuật..).
+4. Những yêu cầu đòi hỏi phải có để xây dựng bài giảng điện tử
+    - Xây dựng bài thử nghiệm;
+    - Ghi âm, ghi hình tại hiện trường;
+    - Khai thác kho tư liệu trong và ngoài nước;
+
+## V. Dự kiến kinh phí
+Kinh phí xây dựng bài giảng điện tử đơn vị thực hiện theo quy định hiện hành của Nhà nước và của ĐHQGHN.
+
+<br>
+
+| **Xác nhận của đơn vị đào tạo** | **Giảng viên đăng kí** |
+| :--- | :--- |
+| | |
+| | *(Ký tên)* |
+
+---
+
+# Phụ lục III
+### CẤU TRÚC NỘI DUNG CỦA HỌC LIỆU ĐIỆN TỬ
+*(ban hành kèm theo Quyết định số 4391/QĐ-ĐHQGHN ngày 29 tháng 12 năm 2021 của Giám đốc Đại học Quốc gia Hà Nội)*
+
+## I. Thành phần của học liệu
+Có 8 thành phần hợp thành một học liệu đầy đủ, bao gồm:
+1. Tổ chức (hình thức) của học phần.
+2. Thông tin chung.
+3. Các câu hỏi.
+4. Bài tự kiểm tra (self - test).
+5. Kiến thức lý thuyết.
+6. Thuật ngữ, từ khoá.
+7. Các bài tập.
+8. Dàn bài, đề cương.
+
+Trong thực tiễn, tuỳ theo từng học phần cụ thể mà sẽ có thể không cần đến một số thành phần phụ như bài tự kiểm tra, thuật ngữ, từ khoá và các bài tập (4, 6, 7), những thành phần còn lại (1, 2, 3, 5, 8) được coi là tối thiểu và bắt buộc phải có mặt trong học liệu.
+
+## II. Yêu cầu chung của một học liệu
+**1. Chuẩn bị kịch bản**
+- Chuẩn bị nội dung: Tập N
+- Chia nhỏ kiến thức theo kiểu chương trình hóa: Các tập N1, N2,..., Nk và các câu hỏi tương ứng Q1, Q2, . . ., Qk.
+- Xây dựng tập hoạt động của giáo viên và học viên: Tập T1, T2, . . ., Tk và H1, H2, . . ., Hk.
+- Kết quả có kịch bản {Mi}i=1..k
+
+**2. Xây dựng kịch bản**
+
+**Bảng 1. Xây dựng kịch bản học liệu**
+
+| Tên chương bài (số hiệu trang, tài liệu cần tham khảo) |
+| :--- |
+| **Chủ đề, đề mục diễn giảng:** |
+| **STT trang màn hình trong chương bài:** |
+
+| TT | Nội dung hình ảnh | Lời giảng | Thời gian dự tính | Hiệu ứng hình ảnh | Mô tả màn hình |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | | |
+
+**3. Tiêu chí cần thiết của một học liệu**
+- Thể hiện rõ ràng mục tiêu học tập;
+- Thể hiện những điều kiện tiên quyết khi tham gia khóa học;
+- Có những thông tin mô tả tóm tắt về nội dung một học liệu;
+- Cấu trúc rõ ràng, logic;
+- Có nội dung chính xác, phù hợp với mục tiêu học tập;
+- Hướng dẫn học viên bắt đầu học từ đâu, tiến hành học tập bằng cách như thế nào và được học trong điều kiện nào;
+- Học viên được học tập thông qua các hoạt động cụ thể;
+- Đảm bảo tính tương tác giữa nội dung kiến thức và học viên, cho phép học viên hình thành một số kỹ năng điển hình;
+- Có tài liệu tham khảo, bài tập củng cố kiến thức và bài tập nâng cao kỹ năng cho từng nội dung kiến thức;
+- Tài nguyên học tập đa dạng, phong phú, hợp lý.
+
+**4. Tiêu chí đánh giá học liệu điện tử**
+- Giao diện thân thiện, dễ sử dụng, dễ dàng khi duyệt qua nội dung học tập;
+- Thể hiện được mối quan hệ học tập giữa một học liệu điện tử với các hình thức học tập truyền thống khác;
+- Cải thiện phương pháp dạy học bằng cách tích hợp nhiều phương pháp dạy học tích cực, hiện đại nhằm phát huy tối đa tính tích cực, chủ động, sáng tạo của người tham gia khóa học;
+- Qua đó, học viên có thể tự đánh giá mức độ tiến bộ của mình trong quá trình học tập;
+- Giúp cho các học viên sau khi hoàn thành việc tiếp nhận nội dung kiến thức hoàn thành được những bài tập vận dụng, bài tập nâng cao.
+
+## III. Cấu trúc một học liệu
+Có nhiều cách để thể hiện cấu trúc của một học liệu, nhưng chúng ta có thể hình dung cấu trúc của một học liệu gồm các phần sau đây:
+
+**1. Thông tin chung về khóa học:**
+Thể hiện những thông tin cơ bản về khóa học. Những thông tin này được học viên tham khảo đầu tiên khi bắt đầu khóa học, họ có thể lược bớt những kiến thức đã biết và tập trung vào những nội dung kiến thức mới của bài học. Bao gồm:
+- Tên khóa học;
+- Người xây dựng;
+- Số tín chỉ;
+- Mục tiêu;
+- Nội dung tóm tắt;
+- Điều kiện tiên quyết;
+- Đánh giá học phần;
+- Cấu trúc học liệu;
+- Hoạt động học tập.
+
+**2. Tài liệu hướng dẫn học tập**
+Đảm bảo tính tự học của học viên, nội dung phần hướng dẫn học tập gồm:
+- Giới thiệu, cách thức di chuyển qua từng nội dung học tập;
+- Hướng dẫn cụ thể một số hoạt động học tập;
+- Thông tin về kế hoạch học tập.
+
+**3. Nội dung khóa học**
+Đây là nội dung chính của một học liệu điện tử. Thường được thể hiện dưới dạng cây thư mục từng nội dung kiến thức theo từng đề mục.
+
+**4. Tài liệu tham khảo chung**
+- Tài liệu in ấn.
+- Tài liệu trên mạng.
+
+*(Ký tên)*
+
+---
+
+# Phụ lục IV
+### QUY TRÌNH XÂY DỰNG HỌC LIỆU ĐIỆN TỬ
+*(ban hành kèm theo Quyết định số 4391/QĐ-ĐHQGHN ngày 29 tháng 12 năm 2021 của Giám đốc Đại học Quốc gia Hà Nội)*
+
+| TT | Hoạt động | Mô tả nội dung thực hiện | Triển khai | Trách nhiệm thực hiện | Tài liệu |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Đăng ký xây dựng bài giảng điện tử | - Rà soát học liệu đào tạo trực tuyến;<br>- Phân tích các ý kiến phản hồi của người học về học liệu;<br>- Tiếp nhận, cập nhật các nội dung giảng dạy mới theo chương trình đào tạo và thực tế;<br>- Khảo sát thực tế nhu cầu sử dụng học liệu trên các phương tiện học tập. | Đơn vị đào tạo thông báo xây dựng bài giảng điện tử theo tiêu chí, tiêu chuẩn.<br>Trường hợp nhiều bài giảng đăng ký ưu tiên các học phần thuộc nhóm M1-M2. | Đơn vị đào tạo | Các học phần của chương trình đào tạo; các khoá học điện tử của đơn vị. |
+| 2 | Xác định nội dung cần điều chỉnh, cập nhật, bổ sung, nâng cấp học liệu đào tạo trực tuyến, lên kế hoạch thực hiện. | Kiểm tra (chuyên môn, kỹ thuật) và xác định nội dung cần được điều chỉnh, cập nhật, nâng cấp, bổ sung học liệu đào tạo trực tuyến; Lên kế hoạch thực hiện. | - Cập nhật kỹ thuật mới phù hợp với các trình duyệt hiện hành;<br>- Thực hiện các tiêu chí nâng cao chất lượng tương tác của học liệu điện tử;<br>- Học liệu gồm: bài giảng điện tử tích hợp, bài giảng text, bộ ngân hàng câu hỏi luyện tập.<br>Đơn vị đào tạo giao nhiệm vụ xây dựng bài giảng điện tử. | Đơn vị đào tạo | - Kết quả rà soát và thông báo;<br>- Kế hoạch thực hiện. |
+| 3 | Tổ chức xây dựng kịch bản sư phạm bài giảng điện tử. | Phân công, theo dõi giảng viên kết hợp với chuyên gia thiết kế bài giảng để thống nhất xây dựng kịch bản bài giảng đáp ứng kế hoạch và yêu cầu đặt ra, đảm bảo tính sư phạm cho người tự học. | Dựa trên giáo trình, phân tách thành các mô đun, xác định hình thức, phương pháp diễn đạt đáp ứng tiêu chí đặt ra. | Giảng viên, chuyên gia thiết kế bài giảng | Kịch bản sư phạm của học liệu |
+| 4 | Tổ chức xây dựng kịch bản tổng thể học liệu (về sư phạm, kỹ thuật). | Phân công, theo dõi giảng viên kết hợp chuyên gia thiết kế bài giảng và chuyên gia kỹ thuật học liệu để thống nhất xây dựng kịch bản bài giảng, học liệu trên cơ sở kịch bản được thông qua về nội dung chuyên môn. | Kết hợp với yếu tố kỹ thuật đưa ra nội dung chi tiết cho từng mô đun giảng, xây dựng lời giảng chi tiết. | Giảng viên, chuyên gia thiết kế bài giảng, chuyên gia kỹ thuật học liệu | Kịch bản tổng thể học liệu |
+| 5 | Thiết kế nội dung chi tiết bài giảng điện tử. | Phân công, theo dõi chuyên gia kỹ thuật thực hiện ứng dụng các hiệu ứng kỹ thuật xây dựng bài giảng theo kịch bản đã thống nhất ở trên. | - Xây dựng thành các slide bài giảng, tích hợp hình ảnh, video, ghi hình giảng viên.<br>- Đóng gói thành học liệu hoàn chỉnh. | Chuyên gia thiết kế bài giảng, chuyên gia kỹ thuật học liệu, giảng viên. | Các bài giảng đã được điện tử hóa theo kịch bản đã thiết kế. |
+| 6 | Tiếp thu các ý kiến từ chuyên gia, người học về kịch bản và nội dung bài giảng điện tử. | Tiếp nhận ý kiến đánh giá, thẩm định của chuyên gia, ý kiến khảo sát người học thử để chỉnh sửa theo các ý kiến và hoàn thiện. | | Đơn vị đào tạo, chuyên gia thẩm định. | - Biên bản thẩm định học liệu;<br>- Lấy ý kiến khảo sát học liệu từ nhóm sinh viên học thử. |
+| 7 | Hội đồng nghiệm thu. | Đơn vị đào tạo thành lập Hội đồng nghiệm thu | - Các Trường/Khoa nghiệm thu và ban hành bài giảng điện tử cấp độ 1,2;<br>- Bài giảng điện tử cấp độ 3, 4 nghiệm thu cấp Trường/Khoa và cấp ĐHQGHN. | Hội đồng nghiệm thu của đơn vị đào tạo. | Biên bản họp Hội đồng nghiệm thu. |
+| 8 | Nghiệm thu cấp ĐHQGHN với bài giảng điện tử cấp độ 3 và 4. | ĐHQGHN thành lập Hội đồng nghiệm thu bài giảng điện tử cấp độ 3 và 4 sau khi đã nghiệm thu cấp Trường. | - Bước 1: Nghiệm thu cấp Trường;<br>- Bước 2: Nghiệm thu cấp ĐHQGHN. | - Các đơn vị đào tạo;<br>- ĐHQGHN. | Bài giảng điện tử |
+| 9 | Hoàn thiện bài giảng điện tử. | Chỉnh sửa các nội dung theo ý kiến trong biên bản họp Hội đồng nghiệm thu. | | Giảng viên, nhóm thiết kế bài giảng, nhóm kỹ thuật. | Bài giảng điện tử hoàn thiện |
+| 10 | Nghiệm thu và đưa vào sử dụng. | - Hội đồng nghiệm thu cấp Trường ký nghiệm thu bài giảng điện tử cấp độ 1,2;<br>- ĐHQGHN nghiệm thu cấp ĐHQGHN bài giảng điện tử cấp độ 3, 4 trước khi đưa vào sử dụng. | | Hội đồng nghiệm thu. | Bài giảng điện tử hoàn thiện được đưa lên hệ thống đào tạo |
+
+*(Ký tên)*
+
+---
+
+# Phụ lục V
+### DANH SÁCH PHẦN MỀM MỞ NGUỒN CÓ THỂ ÁP DỤNG ĐÀO TẠO TRỰC TUYẾN
+*(ban hành kèm theo Quyết định số 4391/QĐ-ĐHQGHN ngày 29 tháng 12 năm 2021 của Giám đốc Đại học Quốc gia Hà Nội)*
+
+| STT | Tên phần mềm | Địa chỉ cung cấp |
+| :--- | :--- | :--- |
+| **Danh sách LMS, LCMS** | | |
+| 1 | Moodle | [https://moodle.org](https://moodle.org) |
+| 2 | .LRN | [http://www.dotlrn.org](http://www.dotlrn.org) |
+| 3 | eFront | [http://www.efrontlearning.net](http://www.efrontlearning.net) |
+| 4 | Sakai | [https://www.sakaiproject.org](https://www.sakaiproject.org) |
+| 5 | Atutor | [http://atutor.ca](http://atutor.ca) |
+| 6 | Schoology | [https://www.schoology.com](https://www.schoology.com) |
+| 7 | Edmodo | [https://www.edmodo.com](https://www.edmodo.com) |
+| **Danh sách Authoring tools** | | |
+| 1 | Exe | [http://exelearning.org](http://exelearning.org) |
+| 2 | LAMS | [http://lamsfoundation.org](http://lamsfoundation.org) |
+| 3 | iSpring | [http://www.ispringsolutions.com/free-elearning-suite](http://www.ispringsolutions.com/free-elearning-suite) |
+| 4 | RELOAD | [http://www.reload.ac.uk](http://www.reload.ac.uk) |
+| 5 | CourseLab | [http://www.courselab.com](http://www.courselab.com) |
+| 6 | Udutu | [http://www.udutu.com](http://www.udutu.com) |
+| 7 | authorPoint | [http://www.authorgen.com](http://www.authorgen.com) |
+
+*(Ký tên)*
+
+---
+
+# Phụ lục VI
+### QUY ĐỊNH VỀ HỌC LIỆU ĐIỆN TỬ
+*(ban hành kèm theo Quyết định số 4391/QĐ-ĐHQGHN ngày 29 tháng 12 năm 2021 của Giám đốc Đại học Quốc gia Hà Nội)*
+
+## I. Cấu trúc của học liệu điện tử
+Học liệu điện tử bao gồm 04 thành phần và thời lượng tương ứng như sau:
+1. **Text:** hướng dẫn học phần khoảng 10 -15 trang (quy đổi tương ứng 45 phút tự học), là nội dung của bài giảng được viết theo giáo trình sau khi đã chia bài theo yêu cầu. *Yêu cầu chung:* font chữ Times New Roman, cỡ 13, giãn dòng 1.2.
+2. **Các bài tập phục vụ bài học:** tự luận, bài tập tình huống, yêu cầu thực hành (phần này yêu cầu có hướng dẫn để học viên tự hoàn thành), quy đổi 90 phút tự học. Bài tập cần có hướng dẫn chi tiết giúp người học thực hiện được bài tập và nắm được kiến thức của học phần. Số lượng tối thiểu là 5 bài tập cho mỗi bài giảng.
+3. **Rich Media:** bao gồm cả video, audio, slide (bản trình chiếu), câu hỏi trắc nghiệm của bài học có đánh giá tự động, danh mục tài liệu tham khảo, ghi chú cho các slide. Sản phẩm bài giảng phải được xuất bản theo chuẩn SCORM.
+    *Yêu cầu chung:*
+    - Mỗi bài giảng phải có phần giới thiệu bài giảng, mục tiêu của bài, các nhiệm vụ học tập, nghiên cứu mà người học cần thực hiện để học tốt bài học.
+    - Trong phần Presenter của bài giảng có thể chỉ là 01 bức ảnh của giảng viên, tuy nhiên khuyến khích sử dụng video để tăng tính sinh động, tránh gây nhàm chán cho học viên.
+    - Yêu cầu mỗi bài giảng phải có tối thiểu 20 câu hỏi trắc nghiệm. Số câu hỏi về sau có thể được bổ sung thêm.
+    - Các slides sử dụng một template (định dạng) thống nhất cho tất cả các bài giảng, để đảm bảo các học liệu thể hiện trên mạng là giống nhau về hình thức, gồm có:
+        + Tên của bài.
+        + Giới thiệu mục tiêu của bài học; kiến thức cần có để học tốt bài học này (nếu cần thiết).
+        + Giới thiệu các tài liệu tham khảo cần thiết.
+        + Giới thiệu những nội dung chính của bài.
+        + Nội dung của bài học.
+    
+    Mỗi slide nêu những ý chính hoặc sơ đồ hóa những nội dung bài giảng, bài thực tập, thực hành dạng 2D, 3D được số hóa để người học thấy được cấu trúc logic của những nội dung sẽ được trình bày. Từ đó giáo viên sẽ giảng bài để người học hiểu và tiếp thu được kiến thức.
+    
+    + Slides cuối cùng (tóm lược cuối bài): Tóm lược ngắn gọn nêu được nội dung chính của toàn bài. Thông qua tóm lược này học viên có thể tự ôn tập, hệ thống hóa lại toàn bộ kiến thức đã đề cập trong bài học.
+
+4. **Audio:** Âm thanh của bài giảng
+    *Yêu cầu:*
+    - Không sử dụng lại âm thanh trong phần slide mà phải thu âm lại, vì việc dạy học có slide và không có slide là khác nhau;
+    - Nếu là giọng đọc: cần truyền cảm, rõ ràng, diễn cảm, tốc độ phù hợp;
+    - Nếu là nhạc nền: cần chọn nhạc nền có âm lượng nhỏ/vừa, dễ chịu để người học không mất tập trung khi đọc nội dung;
+    - Chất lượng âm thanh: 160 kbps hoặc 320 kbps;
+    - Định dạng audio: mp3.
+
+## II. Kí hợp đồng sản xuất học liệu điện tử
+Căn cứ vào nhiệm vụ được giao, đơn vị đào tạo ký hợp đồng sản xuất học liệu điện tử với lãnh đạo đơn vị hoặc cán bộ, giảng viên có đủ trình độ, năng lực tổ chức sản xuất học liệu điện tử. Người ký hợp đồng chịu trách nhiệm tổ chức xây dựng học liệu theo đúng kế hoạch.
+
+## III. Thẩm định về nội dung của học liệu
+Người ký hợp đồng xây dựng học liệu điện tử triển khai mời các giảng viên, chuyên gia xây dựng kịch bản sản xuất học liệu; soạn bài giảng dạng text, slide bài giảng, câu hỏi trắc nghiệm có đáp án, câu hỏi tự luận, bài tập có hướng dẫn. Trưởng đơn vị thành lập hội đồng thẩm định nội dung của học liệu. Trên cơ sở biên bản thẩm định nội dung của hội đồng, người ký hợp đồng xây dựng học liệu điện tử tổ chức sản xuất học liệu theo đúng kịch bản.
+
+## IV. Thẩm định về kỹ thuật
+Sau khi học liệu hoàn thành, người ký hợp đồng xây dựng học liệu điện tử chuyển toàn bộ sản phẩm và hồ sơ kèm theo về đơn vị đào tạo để tổ chức thẩm định về kỹ thuật của học liệu. Hồ sơ gồm:
+- Biên bản thẩm định về nội dung học liệu cùng với các bản nhận xét của các phản biện;
+- Tờ trình đề nghị nghiệm thu học liệu điện tử.
+Đơn vị đào tạo có trách nhiệm thẩm định về kỹ thuật học liệu, thẩm định về cơ cấu và các tiêu chuẩn kỹ thuật của học liệu theo quy định.
+
+*(Ký tên)*
+
+---
+
+# Phụ lục VII
+### ĐĂNG KÍ XÂY DỰNG BÀI GIẢNG ĐIỆN TỬ
+*(ban hành kèm theo Quyết định số 4391/QĐ-ĐHQGHN ngày 29 tháng 12 năm 2021 của Giám đốc Đại học Quốc gia Hà Nội)*
+
+**1. Bài giảng điện tử mức 1 và 2**
+- Viết đề cương đăng ký xây dựng bài giảng điện tử (theo mẫu).
+- Xây dựng bài giảng điện tử mức 1 và 2 hoàn chỉnh.
+Bài giảng điện tử mức 1 và 2 là bài giảng điện tử ở mức độ đơn giản nên đơn vị đào tạo có trách nhiệm thẩm định, nghiệm thu và báo cáo ĐHQGHN (qua ban Đào tạo) kết quả nghiệm thu và sản phẩm bài giảng điện tử hoàn chỉnh.
+
+**2. Bài giảng điện tử mức 3 trở lên**
+- Viết đề cương đăng ký xây dựng bài giảng điện tử (theo mẫu).
+- Xây dựng bài giảng điện tử mức 3 và 4 hoàn chỉnh.
+Đối với bài giảng điện tử định mức 3 trở lên, đơn vị đào tạo có trách nhiệm thẩm định, nghiệm thu cấp Trường trước khi gửi hồ sơ trình ĐHQGHN thành lập Hội đồng nghiệm thu cấp ĐHQGHN trước khi đưa vào sử dụng.
+
+*(Ký tên)*

@@ -45,9 +45,9 @@ Sub-documents (annexes): `{base}_Annex {N} {Short Title}_*`
 | 1 | DHQGHN-QD-3626 | `3626-QD-DHQGHN_Regulation on Undergraduate Training` | Regulation on Undergraduate Training | Y | Y | Y | Y | done | |
 | 2 | DHQGHN-QD-3636 | `3636-QD-DHQGHN_Regulation on Masters Training` | Regulation on Master's Training | Y | Y | Y | Y | done | |
 | 3 | DHQGHN-QD-3638 | `3638-QD-DHQGHN_Regulation on Doctoral Training` | Regulation on Doctoral Training | Y | Y | Y | Y | done | |
-| 4 | DHQGHN-QD-2459 | `2459-QD-DHQGHN_Amendment to Masters Training Regulation` | Amendment to Master's Training Reg (3636) | Y | Y | Y | Y | pending | Amends #2 |
-| 5 | DHQGHN-QD-2486 | `2486-QD-DHQGHN_Amendment to Undergraduate Admission Regulation` | Amendment to Undergrad Admission Reg | Y | Y | Y | Y | pending | |
-| 6 | DHQGHN-QD-4391 | `4391-QD-DHQGHN_Online Training and E-Lecture Regulations` | Online Training & E-Lecture Regulations | Y | Y | Y | Y | pending | |
+| 4 | DHQGHN-QD-2459 | `2459-QD-DHQGHN_Amendment to Masters Training Regulation` | Amendment to Master's Training Reg (3636) | Y | Y | Y | Y | done | Amends #2 |
+| 5 | DHQGHN-QD-2486 | `2486-QD-DHQGHN_Amendment to Undergraduate Admission Regulation` | Amendment to Undergrad Admission Reg | Y | Y | Y | Y | done | |
+| 6 | DHQGHN-QD-4391 | `4391-QD-DHQGHN_Online Training and E-Lecture Regulations` | Online Training & E-Lecture Regulations | Y | Y | Y | Y | done | |
 | 7 | DHQGHN-QD-4455 | `4455-QD-DHQGHN_Diploma and Certificate Management` | Diploma & Certificate Management | Y | Y | Y | Y | pending | |
 | 8 | DHQGHN-QD-4618 | `4618-QD-DHQGHN_Scholarship Management and Use` | Scholarship Management & Use | Y | Y | Y | Y | pending | |
 | 9 | DHQGHN-QD-5115 | `5115-QD-DHQGHN_Superseded Undergraduate Training` | [Superseded] Undergraduate Training | Y | Y | Y | Y | pending | Replaced by #1 |
@@ -126,13 +126,13 @@ Sub-documents (annexes): `{base}_Annex {N} {Short Title}_*`
 
 | Group | Total | Done | Pending | Est. Files |
 |-------|:-----:|:----:|:-------:|:----------:|
-| A: VNU Regulations (DHQGHN) | 10 | 3 | 7 | ~28 MD + 7 PDF |
+| A: VNU Regulations (DHQGHN) | 10 | 6 | 4 | ~28 MD + 7 PDF |
 | B: VJU Guidelines (DHVN) | 19 | 0 | 19 | ~57 MD + ~17 PDF |
 | C: Ministry of Education (BGDDT) | 12 | 0 | 12 | ~36 MD + 12 PDF |
 | D: Other Government | 5 | 0 | 5 | ~15 MD + 5 PDF |
 | E: Education Testing | 3 | 0 | 3 | ~9 MD + 3 PDF |
 | F: Public Reports | 3 | 0 | 3 | ~9 MD + 3 PDF |
-| **Total** | **52** | **3** | **49** | **~154 MD + ~47 PDF** |
+| **Total** | **52** | **6** | **46** | **~154 MD + ~47 PDF** |
 
 ## YAML Front Matter Template
 

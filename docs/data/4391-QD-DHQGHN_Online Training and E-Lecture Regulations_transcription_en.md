@@ -1,0 +1,769 @@
+---
+doc_id: "4391/QĐ-ĐHQGHN"
+title: "Regulations on Online Training and E-Lecture Development"
+date: 2021-12-29
+department: "Academic Affairs"
+type: "Regulation"
+restricted: false
+last_updated: 2026-02-21
+---
+
+This file is created with reference to publicly available content.  
+Due to technical limitations, the layout and content reproduction may not be accurate.  
+For accurate information, please search by regulation number and refer to the issuing authority.  
+Other language versions may be officially published by the issuing authority.</div>
+
+
+**HANOI NATIONAL UNIVERSITY**
+**SOCIALIST REPUBLIC OF VIETNAM**
+**Independence - Freedom - Happiness**
+
+---
+
+### REGULATIONS
+**About organizing and managing online training and building electronic lectures at Vietnam National University, Hanoi**
+*(issued together with Decision No. 4391/QD-DHQGHN dated December 29, 2021 of the Director of Vietnam National University, Hanoi)*
+
+---
+
+# Chapter I
+### GENERAL PROVISIONS
+
+## Article 1. Scope of regulation and subjects of application
+1. This document regulates online training including: organization, management and recognition of online training results; building electronic learning materials; rights and responsibilities of relevant parties; inspection, testing and reporting; Handle violations and organize implementation.
+2. Subjects of application are undergraduate and postgraduate training units of Vietnam National University, Hanoi (VNU), including: member universities, affiliated faculties, training units that issue certificates and certify learning results of modules in VNU's training programs.
+3. This regulation does not apply to middle and high school education levels.
+
+## Article 2. Objectives and purposes of online training
+1. Complete the digital transformation goal in the set of digitalization capacity criteria at the 6th VNU Party Congress; accepting students from outside VNU to exchange and study one or several regular online teaching modules.
+2. Meet the inevitable trend of the 4.0 industrial era with the application of information and communication technology in teaching and learning; training organization and management; Apply testing tools in testing and assessment.
+3. Develop self-study and self-research capacity and meet learning needs by individualized training methods for learners; provides a digital learning space based on advanced educational technology applications.
+4. Build an electronic lecture system according to standards to use for the formal learning management system (LMS) or provide for the open learning materials system (Massive Open Online Courses - MOOC); Supplement rich, quality learning resources, regularly upgraded and updated to suit the needs of the labor market and ensure requirements for teaching content according to regulations.
+5. Develop methods of transmitting knowledge, enhancing learners' access (electronic lectures can be used conveniently and easily on computers and devices, convenient for self-study anytime, anywhere). Electronic lectures, in addition to ensuring professional content requirements, must also be designed and built with pedagogical methods that make it easy for learners to understand and absorb.
+6. Expanding the audience of learners globally (such as organizations, businesses, associations, foreign learners...); Step by step help units deploy e-learning online training applications to ensure quality.
+
+## Article 3. Explanation of terms
+1. **Electronic learning (e-Learning):** is a form of learning in which learners can self-study anytime, anywhere through multimedia electronic learning materials (lectures, explanations, sounds, images, videos, audio, graphics, ...). Forms of learning such as m-Learning (learning through mobile devices: smartphones, tablets, interactive screens...), u-Learning (learning through interactive virtual reality methods), or smart-Learning (smart learning media) are all forms of e-Learning.
+2. **Electronic learning materials (Course-ware):** are learning materials that are digitized according to a certain structure, format, script, and content that meets the output standards of the training program, allowing learners to access and look up within the scope prescribed by instructors and training units. Electronic learning materials include: text learning materials and multimedia learning materials.
+* 2.1. Text learning materials: are learning materials including soft copy files: text, slides (presentations), data tables, textbooks, monographs, scientific journals... ;
+* 2.2. Multimedia learning materials: multimedia learning materials can include the following types:
+* Video, audio, graphic (infographic) and animation files;
+* Formats that integrate one or more formats of video, audio, text, images, and interactive graphics according to a certain pedagogical scenario.
+
+Interactive multimedia learning materials are understood in the sense that users can directly influence to change the performance scenario right during the performance process.
+
+Regarding the type of interaction, there are also two levels:
+* Interact through the demo script to launch the next available demo script.
+* Interact through data entered directly during the demonstration. In this case, it is required to build separate data processing software to automatically create scenarios suitable for the input data. This type of interaction is also called virtual experiments.
+3. **Blended learning:** includes a part of online teaching activities combined with traditional teaching activities on the basis of applying information technology components in teaching - learning (online training system specified in Clause 1, Article 4 or online training support system specified in Clause 2, Article 4 of this Regulation). The number of credit hours taught using the traditional teaching method is not less than 1/3 of the total credit hours of the combined training course.
+4. **Electronic lectures:** are a collection of electronic learning materials organized according to a pedagogical structure to effectively provide knowledge and skills to learners through the help of learning management software (Learning Management System - LMS) or open learning materials delivery system (Massive Open Online Courses - MOOC). A complete electronic lecture corresponds to a module in the training program.
+5. **Electronic lecture module:** is a part of the electronic lecture corresponding to a unit of knowledge in the course. Determining units of knowledge is often calculated according to the complete content that needs to be provided to learners. An electronic lecture module corresponds to chapters/sections in the course outline or to units of certain classes.
+6. **Electronic textbook:** is one or a set of electronic lectures with a high level of completion, professionally appraised at the Faculty/School or VNU level according to the approved course content and accompanying mandatory learning materials.
+7. **Electronic course (e-Course):** is one or more electronic lectures that provide knowledge and skills to a defined group of learners to achieve the output standards of a module or training program. Teaching by electronic lectures may or may not be supported by instructors.
+Electronic courses are organized to teach one or more complete modules or a training program.
+8. **Learning content management system (LCMS):** software that helps manage electronic lectures and structure lectures in certain formats.
+9. **Learning management system (LMS):** is a software system that helps manage courses and the course implementation process. The software allows interaction between learners and assistant teachers, between learners and electronic lectures, records the learning process and results of learners, and the support process of lecturers.
+10. **SCORM standard (Sharable Content Object Reference Model):** is a set of standards and descriptions of technical requirements of interactive electronic lectures via the web regulated by the Advanced Distributed Learning organization - US Department of Defense.
+11. **Multiple choice questions:** are forms of expressing questions that allow learners to answer when participating in electronic courses. The forms are as follows: single-choice multiple choice, multiple-choice multiple choice, true/false multiple choice questions.
+12. **Online test:** is a set of multiple-choice questions designed to test, measure, validate the learner's knowledge or to quickly test the learner's knowledge and skills through the results of answering the questions. When the learner finishes, the system will respond to the overall results and can announce the answer to each question or not, depending on the organizer's settings. Learners are forced to carefully study the lecture to improve their results in subsequent tests.
+13. **Virtual experiment or simulation:** is an experiment performed using computer simulation. The experimenter can observe and calculate the experiment. Each virtual experiment or simulation can be one or several application software, the experimenter interacts with the software by entering data for the experiment and selecting options suggested by the computer.
+
+---
+
+# Chapter II
+### ONLINE TRAINING SYSTEM AND LEARNING MANAGEMENT
+## Article 4. Online training and training support system
+1. The online training system is a learning support system, serving teaching and learning, built with main components: online training portal; learning management system (LMS); learning content management system (LCMS); electronic learning materials; interactive methods (common exchange forums, online discussions, etc.); system of testing and evaluating learners and lecturers; manage lecturers' activities; system administration.
+2. An online training support system is one or more information technology components that have the functions of performing teaching - learning activities, interaction between lecturers and learners, and testing and evaluating learners.
+3. The online training support system has the function of synchronizing with the training management software to connect data between the two systems: Information about class schedules, lists of students and lecturers are synchronized by the online training system from the training management software; Information about the lecturers' learning results and teaching process is synchronized by the training management software from the online training system.
+4. Massive Open Online Courses (MOOC) are courses via the internet to support learners to self-study and complete distance learning programs (not applicable to formal training).
+
+## Article 5. Learning management system
+1. Learning management system (LMS) includes electronic courses, electronic lectures, online tests with full appropriate interactive features, testing system, learner assessment, statistical analysis of student learning results data, lecturer management, system administration, dashboards and the ability to automatically synchronize learners' learning results to training software.
+2. Distribute electronic learning materials and digital learning materials to a large number of learners; At the same time, it helps management units easily monitor, adjust and evaluate the training process effectively.
+3. Create a login account system for learners.
+4. Create a discussion forum and other support tools to discuss learning and answer learners' questions with the participation of lecturers.
+5. The server system serving learning and the internet connection infrastructure must have enough bandwidth and capacity to meet the access needs of users, without causing network congestion or overload.
+## Article 6. Learning content management system
+1. The learning content management system allows synchronization with the digital library of VNU and the unit; Provide learning content to online learners.
+2. Integrate lesson preparation tools for lecturers; Connect data with digital learning resources and digital libraries.
+3. Depending on actual conditions, units can integrate learning management systems and learning content management systems.
+
+## Article 7. Structure of electronic course content
+1. Organizing formal online teaching must not exceed 30% of the credit hours of the training program. In the case of epidemics, natural disasters, enemy sabotage and other special cases, VNU has its own written guidance in accordance with current regulations and practical situations.
+2. The structure of the electronic course is divided into sections including: course name, learning objects, course orientation; time, electronic lectures, textbooks; general exchange forum, online discussion; online tests, assignments/essays; Student feedback survey form.
+3. Depending on information technology conditions, the unit organizes online training or combined training:
+a) With the online training system specified in Clause 1, Article 4, the unit can organize online training for the entire module or combined training (Blended learning).
+b) With the online training support system specified in Clause 2, Article 4, the unit organizes blended learning.
+c) With the open learning material supply system specified in Clause 4, Article 4, units can apply information technology platforms to serve distance training (not applicable to formal training).
+4. Electronic lectures must have content that closely follows the training objectives and outcome standards of the course; Highly pedagogical, easy to use; Meets the self-study needs of learners with basic computer skills.
+5. The online test (midterm exam or final exam) is taken from the exam question bank and has a minimum of 20 questions. The time to take the multiple-choice test at the end of the module is at least 30 minutes and does not last more than 120 minutes.
+In the case of specific modules, the Head of the unit will approve them based on the detailed outline and learning outcomes of the module.
+6. Learning content uploaded to the system must comply with Decree No. 72/2013/ND-CP dated July 15, 2013 of the Prime Minister, amended and supplemented by Decree No. 27/2018/ND-CP dated March 1, 2018 of the Prime Minister regulating the management, provision and use of internet services and online information.
+
+## Article 8. Interactive methods in electronic courses
+Depending on the content, duration and number of learners, lecturers can choose appropriate interaction methods: discussion forums, private discussions, online discussions, electronic lectures.
+1. The exchange forum is where lecturers - learners, learners - learners can exchange, discuss online and share learning content.
+2. Private exchange is a form of interaction between lecturers - learners, learners - learners using exchange tools (chat, email, texting messenger, duo meeting), discussing and sharing learning content.
+3. Online discussion is a form of exchange between learners - lecturers, learners - learners using the tools of the online training system via telephone devices, computers or electronic devices connected to the internet. When choosing this form, lecturers need to register or notify the content, topic and implementation time.
+4. Before exchanging, lecturers and learners need to determine the topic and content to discuss in accordance with the regulations for using the e-Learning system.
+5. The content of the exchange articles must be clear, with clear language, showing respect and a proper attitude towards forum participants.
+6. The system administrator is not responsible for the copyright of the content shared on the exchange forum.
+
+## Article 9. Online teaching module
+1. Based on the training schedule, the Head of the training unit approves the list of online training modules and publishes them on the unit's website or training portal. Training units prioritize and encourage the organization of online teaching for modules belonging to the general knowledge block (M1, M2) and supplementary modules belonging to the industry knowledge block (M4) in case there are many online teaching modules in 1 semester.
+2. The content and online teaching duration of the modules are developed by the lecturer and shown in the module syllabus.
+3. The Training Department or Training Management Department is responsible for planning, gathering and managing teaching content according to the right subjects, publicizing it in the semester timetable and supervising the teaching process.
+4. The electronic learning materials system serving online courses must be provided to learners before the course begins, including mandatory learning materials used during the online learning process and other self-study materials (if any).
+5. Periodically, review, update, supplement, and adjust the form and content of lectures (at least twice a year).
+
+## Article 10. Teaching plan
+1. The teaching plan needs to be provided to learners from the beginning of the course (before the course starts), the semester includes: orientation at the beginning of the course; learning materials; tools and methods of interaction; learner's tasks; forms of inspection and evaluation; deadline for completing learning content.
+2. The training unit publicizes the semester schedule on the unit's website for lecturers, learners and functional departments to inspect, examine and supervise.
+3. Hours of formal teaching and learning activities: Hours of teaching and learning activities of the training unit are from 7: 00 a. m. to 8: 00 p. m. on weekdays from Monday to Saturday, uniform throughout VNU. A standard class hour converted according to the corresponding training program framework is 50 minutes of online teaching or a combination of both online teaching and discussion time.
+4. For courses with many lecturers participating in teaching, there must be 01 lecturer assigned as the main responsible lecturer in the course teaching plan.
+
+## Article 11. Evaluation of learning results
+1. The assessment of learners' learning results must be done seriously and completely. The evaluation content and weight of each type of score are specified in the course syllabus and current training regulations of VNU.
+2. Assessment results include: *regular scores* (learners must attend at least 80% of the course credit hours; participate in discussions on the forum; results of assessment tests, exercises, seminars, ...); *mid-term assessment score* (answering multiple-choice questions; major assignment/essay scores, mid-term tests, ...); *final exam scores* (online exams or traditional exams, major assignments, projects) are specified in detail in the course syllabus.
+3. With the online training system specified in Clause 1, Article 4 of this Regulation, the training unit can organize the final exam online or in the traditional method decided by the Head of the unit. Online exam organizers (if any) must have a question bank large enough to create multiple-choice exams and ensure the creation of at least 4 independent and non-overlapping exam questions. Heads of units issue documents guiding the process of organizing online exams; Ensure exam questions, answers, and marking instructions must be kept confidential (before, during and after the exam).
+4. With the online training support system described in Clause 2, Article 4 of this Regulation, the training unit organizes the final exam in the online or traditional form as prescribed in the current Regulations of VNU.
+5. With the open learning material supply system specified in Clause 4, Article 4 of this regulation, the unit can issue certificates of distance learning results and does not apply to formal degree-granting training programs at VNU.
+6. Do not organize final exams in online form with practical/internship modules assessing practical skills (skills, professional tests, technical operations, etc.). Special cases are decided by the Head of the unit based on detailed descriptions in the course outline and output standards of the training program.
+7. In case of natural disasters, enemy sabotage, epidemics and force majeure cases, the training unit cannot organize for students to defend in person, they can organize online defense: thesis, master's thesis, seminar for doctoral thesis. Special cases are decided by the Director of VNU.
+
+---
+
+# Chapter III
+### ORGANIZATION PROCESS FOR BUILDING ELECTRONIC LECTURES
+
+## Article 12: Levels of electronic lectures
+Electronic lectures digitize teaching content and activities through a multimedia environment with the help of information technology. Information is transmitted in the following forms: text, graphics, animation, photos, sound, video, virtual experiments, 3D images, virtual reality, augmented reality, etc. The levels of electronic lectures are as follows:
+* **Level 1 electronic lecture (Level S - Substitution):** The lecture is built in the form of presentation, image demonstration combined with sound (electronic slides, animations, audio files, video clips, ...) to present, illustrate, and demonstrate teaching content to replace and support lecture activities in teaching.
+* **Level 2 electronic lecture (Level A - Augmentation):** The lecture is built in the form of additional information in images, descriptions, simulations, ... that can interact with objects on the screen such as virtual experiments, testing software, supporting the above activities and attracting and stimulating students' positivity and self-reliance in solving problems and discovering knowledge.
+* **Level 3 electronic lecture (Level M - Modification):** The lecture is built as a set of electronic learning materials (videos, animations and sounds combined with slide presentations with multimedia materials, etc.) with a pedagogical structure so that students can self-study through choosing learning content, practicing, applying, self-testing and evaluating.
+* **Level 4 electronic lectures (Level R - Redefinition):** Lectures are built in the form of virtual environments, 3D images, 360° videos, virtual interactive simulations, virtual reality, augmented reality, mixed reality to help create new teaching activities with new functions.
+Electronic lectures from level 3 and above help learners to self-study and can be considered as electronic textbooks.
+
+## Article 13. Criteria for evaluating electronic lectures
+Electronic lectures must meet the following requirements:
+**1. About content**
+* Equip yourself with knowledge, skills, attitudes, and moral qualities to achieve the learning outcomes of the course and the learning outcomes matrix of the training program;
+* Clearly demonstrate key content and highly educational practical links;
+* Ensure teaching content is accurate, systematic, and meets teaching objectives in accordance with the approved course outline;
+* Does not contain content contrary to the Party's viewpoints, guidelines, policies, resolutions, directives, regulations, decisions, regulations, and conclusions of the Party and the State's laws;
+* Materials used must be clear in citing sources and reference materials.
+
+**2. Pedagogy and communication methods**
+* Fully demonstrate the stages of the teaching process such as: posing problems - forming new knowledge - practicing - summarizing - systematizing knowledge - testing and evaluating knowledge;
+* Suitable for students, attractive, appealing, easy to understand, easy to receive;
+* Create learning situations, orient learners, raise and solve problems, ensure students can deepen their knowledge and solve problems.
+
+**3. About technology and techniques**
+* Ensure technical requirements such as reasonableness, stability, ease of use, high compatibility with different types of technological equipment;
+* Digital content complies with the regulations in the appendix and is packaged according to SCORM standards to ensure good performance on learning management systems (LMS) and the internet;
+* Images and sounds must be sharp, with a good combination of elements such as sound, images, effects, hearing, seeing, manipulation, and interaction.
+
+## Article 14. Principles and conditions for registering to develop electronic lectures
+**1. General principles**
+The developed electronic lecture must ensure the following principles:
+* Has the trademark and copyright of VNU (for electronic lectures funded by VNU);
+* Accurate scientific content and ensure the quality of knowledge and skills for learners according to the output standards of the corresponding course and training program;
+* Highly compatible with VNU's digital platforms and training management systems;
+* Regularly updated according to the development requirements of science and technology and training programs;
+* Able to interact and attract learners' attention.
+
+**2. Conditions for registering to develop electronic lectures from level 3 or higher**
+* The module has been taught for at least 01 course and continues to be used in subsequent years;
+* Technically, the training unit must have a computer room for students participating in electronic learning or enough equipment to organize online training;
+* Lecturers understand the process and methods of developing electronic lectures or combine with a unit capable of providing technical support to create electronic lectures;
+* The outline for registering for electronic lectures is prepared according to the correct form and approved by the Electronic Lecture Evaluation Council of VNU.
+
+**3. Prepare materials**
+3.1. Text lectures usually need to clearly state:
+* Course duration (number of credits);
+* Objectives learners need to achieve in terms of knowledge, skills and attitudes;
+* Prerequisites: the knowledge required to absorb this lecture.
+Text lectures (text format) are prescribed to be written in one of the following 4 formats:
+* Microsoft Word format.
+* Pdf format.
+* Text format.
+* Open Office Write format.
+The page is calculated in A4 size, font size 13, Times New Roman font, using the Vietnamese input method TCVN 6909 (Unicode), line spacing, left margin 3cm, right margin 2cm, top margin 2cm, bottom margin 2.5cm.
+
+3.2. Main reference textbooks and reference materials
+* Vietnamese documents
+* Foreign language documents.
+
+3.3. Materials and databases used to develop electronic lectures
+* Artifacts and samples;
+* Paper and photographic materials (pictures, photos, drawings, maps, charts, etc.);
+* Digital materials (websites, CDs, video tapes, documents downloaded from the internet, available related electronic lectures, etc.).
+* Must-have requirements to build electronic lectures:
++ Build test articles;
++ Filming at the scene;
++ Exploit archives of documents at home and abroad.
+* System of exercises, questions, multiple-choice tests of the lecture and answers or answer instructions. Multiple-choice questions can be independent questions with direct feedback, or they can also exist in a group of questions in a test.
+* Summary of basic knowledge blocks of the lecture.
+* The detailed list of documents is as follows:
+
+|STT |Description |Type |Popular formats |Filename |Where |Expected |
+|: --- |: --- |: --- |: --- |: --- |: --- |: --- |
+|1 |Explain clearly what this documentation module illustrates. |Video/Audio/Text/…<br>Self-made or collected (copyright) |Avi or mov or mp3, mp4, ... |Clearly write the file name |Specify the storage directory in the report CD |Which lecture modules are used for?|
+|2 |… ||||||
+
+Each electronic document is a relatively independent module that can be reused in other lectures easily.
+Electronic materials can be collected (ensuring compliance with copyright regulations) or self-produced.
+Electronic documents can be films, videos, photos, drawings, maps, animations, sounds, plaintext and multiple-choice questions, exercises, etc.
+
+3.4. Script and commentary when integrating documents
+Develop a detailed scenario, clearly stating:
+* Introduction (introducing the lecturer/contact address/necessary information);
+* Main modules;
+* Necessary scenes and links;
+* Main conclusions.
+The script and commentary for each lecture module is a written description of the presentation of material in a specified sequence, format, color effects, sound, and other elements. The script needs to describe in detail the explanations, the content displayed on the screen, the desired form of expression, ...
+
+3.5. File hard copies of powerpoints to present lectures
+* It is necessary to clearly state the total number of powerpoints that need to be created, including how many image/text/table slides there are.
+* Slides can be made on Powerpoint or Impress (a software of the Open Office open source software suite with similar features to Powerpoint).
+
+## Article 15. Developing electronic lectures
+**1. Build powerpoint that meets high technical requirements**
+Building a powerpoint needs to meet the following requirements:
+* There is consistency in the form of content presentation;
+* Course components must be designed to be brief but ensure complete content to be conveyed;
+* Structure: clear, maximally serving the purpose you want to convey.
+**2. Creating video lectures**
+Creating video lectures must meet the following requirements:
+* Video resolution: 360p, 480p suitable for viewing on smartphones and tablets;
+* Video quality: 480p, 720p suitable for viewing on laptops, desktops or other handheld devices;
+* Video format: mp4 (no flash files);
+* Video capacity:
++ 360p quality: 5 MB/minute.
++ 480p quality: 7 MB/minute.
++ 720p quality: 11 MB/minute.
+
+**3. Build an experiment**
+* Filming real experiments in the laboratory and at the scene.
+* Design and build virtual experiments or simulations. Virtual experiments are a special type of learning material designed to simulate real experiments based on information technology applications. Virtual experiments can be presented through multimedia presentations.
+
+**4. Collecting documents**
+* List products/materials that must be purchased.
+* List products/materials to search for or equivalent.
+**5. Steps to complete the lesson**
+Use resources to complete lectures according to SCORM standards. VNU has built lecture organization software - VNUCE to make it convenient to draft, organize lectures and package them according to SCORM standards.
+
+**6. Acceptance organization**
+* For level 1 and 2 electronic lectures: the training unit organizes acceptance at the school level and reports to VNU before use.
+* For level 3 and 4 electronic lectures:
++ The unit organizes acceptance at the School level and reports to VNU.
++ VNU organizes product acceptance and evaluation before use.
+
+**7. Instructions for use**
+Guidance documents for learners and training organizations:
+* Instructions for learners are detailed instructions on how to study according to the lecture, instructions on reading more, on how to search for additional information and related documents, on self-testing knowledge, doing exercises, participating in assessment tests prescribed by the textbook, participating in exchange forums, virtual classrooms, online exchanges (if any);
+* Instructions for training organizers are detailed instructions on how to organize training with this curriculum to achieve the highest efficiency.
+
+---
+
+# Chapter IV
+### QUALITY ASSURANCE IN ONLINE TRAINING
+
+## Article 16: Conditions for ensuring quality in online training
+1. Ensure that management staff and lecturers firmly grasp the process of organizing online teaching, have enough knowledge, skills and master the use and exploitation of provided and equipped equipment and software.
+2. Have facilities that meet the requirements of online teaching in terms of hardware equipment and software systems such as: terminal devices of units, data centers, LAN/WAN and high-speed internet connection systems, classrooms/online learning guides, website systems, forums and specialized management software. Facilities serving the organization of online teaching must be qualified to operate continuously, smoothly, safely and ensure convenience for the management and provision of information by management departments, the teaching of teachers and the learning of students during the training process.
+3. Build a system of quality multiple-choice exam question banks to meet modern testing requirements.
+4. There is a system of digital textbooks in the form of Text, Ebook, PDF, Rich Media lectures, Video lectures, 2D and 3D Audio lectures. Electronic learning materials must have content that closely follows training goals, has high pedagogical qualities, and is easy to use; Regularly upgrade, update and develop learning materials.
+## Article 17: Requirements to ensure the quality of some online teaching content
+1. Online teaching content needs to be designed with high pedagogical qualities and is easy to access from basic to complex with the support of teaching aids, learning tools, and digitization.
+2. Online teaching content needs software to convert content from face-to-face to online to ensure adequate knowledge and skills according to the learning outcomes of the course.
+3. The software system needs to illustrate learning content, guide learning, evaluate diagnostics, evaluate the learning process as well as increase interaction in learning, helping learning flexibly over space and time.
+
+## Article 18: Technical requirements in online teaching
+1. Ensure facilities, equipment infrastructure and internet connection; Learning software is guaranteed to be equipped, fully supported, and stable.
+2. Lecturers need to be trained in online teaching, building electronic lectures, and integrating internet resources into teaching software.
+3. The management software system integrates with learning software to evaluate the learning process and manage teaching, helping learning to be implemented at many levels: learning with a machine, learning with guidance from instructors, ...
+
+## Article 19: Testing and evaluation in online teaching
+1. The head of the training unit promulgates regulations, ways to organize and evaluate learners with the goal of ensuring the school's training quality (exam preparation, exam format, exam questions, answers, exam room preparation, exam invigilators, exam markers, ...); All units and individuals under the school's management are responsible for strictly complying and implementing to ensure and improve training quality.
+2. Regularly check and evaluate students' online learning results carried out during the teaching process. Regular forms of testing and evaluation in online teaching are carried out according to current regulations on testing and evaluation of VNU.
+
+---
+
+# Chapter V
+### RIGHTS AND RESPONSIBILITIES OF RELATED PARTIES
+## Article 20. Powers and responsibilities of the training unit
+1. Determine the requirements of each online training module and semesters in accordance with the mission of the training unit.
+2. Publicly announce requirements and regulations related to online training (information technology infrastructure, network transmission lines, electronic equipment for online teaching and learning...), documents instructing lecturers and learners to use online teaching - learning tools, forms of testing, assessment and recognition of learning results.
+3. Encourage lecturers and staff to develop electronic lectures; Organize acceptance of electronic lectures at Faculty/School level.
+4. Develop and follow procedures and instructions to review regulations on recognition of conversion of learning results at the request of learners and publicly announce them to learners.
+5. Publicly announce the unit's online training regulations: output standards of the training program/module; online training modules; course outline; training plan; online training methods; student testing and evaluation activities; tuition; regulations on learner rights and responsibilities when participating in online learning.
+6. Implement self-assessment and register to participate in quality accreditation for training programs with online training modules.
+7. Organize training on methods and necessary skills for lecturers and teaching assistants to be able to teach and guide online training; 5. Guide students in using software and information technology applications to study and research.
+8. Issue certificates of learning results to learners if requested.
+9. Develop an online training system applying modern educational technology to improve training quality and international integration.
+10. Organize periodic training for officials, lecturers and learners to update new regulations and technologies; Propose improvements to upgrade the system to meet management and training needs.
+
+## Article 21. Rights and responsibilities of lecturers
+1. Lecturers are supported with funding to develop electronic lectures (e-Learning) and other products according to the regulations of the training unit.
+2. Lecturers are trained to improve their ability to compile electronic lectures; online teaching skills; skills to manage, monitor, orient, guide and answer online learners; Skills in proficient use of online learning management systems and information technology facilities for teaching; testing and measuring the quality of modern education.
+3. Lecturers participating in teaching:
+a) Main lecturers have their teaching hours calculated as follows: 01 online teaching period for a maximum of 40 students is counted as 01 credit hour. For classes of over 40 students, depending on the conditions and characteristics of each unit, it can be converted but not more than 1.50. Special cases are decided by the Head of the unit.
+b) The main lecturer is responsible for creating a discussion forum, creating discussion topics (discussion forums, private discussions), answering questions and answering questions about general issues of the course.
+c) Supporting lecturers (tutoring assistants) teaching online (if any) are counted as teaching hours as follows: 01 online discussion period is equal to 0.5 credit hours. Teaching assistants are responsible for creating discussion forums, participating in discussions, answering questions, answering questions about specific issues in each training major and reminding learners to complete course progress.
+d) The head of the training unit shall specifically stipulate the conversion of teaching activities into standard teaching hours.
+4. Lecturers strictly comply with regulations on online teaching to ensure student assessment activities according to current guiding documents of VNU.
+5. Lecturers participate in developing course outlines; develop electronic lectures; can participate in the production process of electronic learning materials (video recording, audio recording) at the studio or apply tools and information technology to serve online teaching during the lesson development process; design case studies; Design a multiple-choice question system, test and evaluation question bank.
+6. Lecturers are responsible for lecture content and discussion topics posted on the online training system, exchange and discussion forums.
+7. Respond promptly to learners' questions during the learning process, exams, tests, and assessments; Participate in answering questions on the discussion forum within 48 hours of the learner asking the question; Support learners in solving difficulties that arise during communication problems and ensure learners' learning progress.
+8. Lecturers can assign teaching assistants (assistant lecturers, academic advisors, graduate students) to participate in answering questions and answering learners' questions on the exchange forum.
+
+## Article 22. Rights and responsibilities of teaching assistants
+1. Enjoy the benefits and incentives prescribed by the State for teaching assistants, training regimes, standard teaching hours according to the school year, and remuneration according to the internal spending regulations of the training unit.
+2. Priority is given to creating conditions for internships and training to improve professional qualifications and specific career skills of online training.
+3. Priority in using equipment and technical facilities for online training; Support and facilitate the application of advanced teaching methods and technologies within the conditions of the training unit and in accordance with the online training format.
+4. Strictly and fully implement the regulations and regulations of the training unit and current training quality assurance guidelines of VNU.
+5. Protect your personal account and take responsibility for the information posted to the system (content, knowledge, copyright...).
+6. Support lecturers in performing teaching tasks: support and advise learners, provide information related to the course, answer learners' questions related to technical issues, remind learners of deadlines for completing tasks and control the information learners upload to the online training system.
+7. Check, monitor and encourage learners' participation in learning; evaluate student learning outcomes.
+## Article 23. Rights and responsibilities of course administrators
+1. Course administrators (if any) are responsible for creating the course, delegating authority to lecturers, teaching assistants, and learners and coordinating with lecturers to guide learners to register to study in the online training system in the first week of the semester; arrange computer labs for learners to study during the course when learners do not have computers; Track and monitor online courses.
+2. The course administrator has the right to remove content and information from the system that is against regulations and not suitable for the purpose of the online training system without prior notice to relevant members.
+
+## Article 24. Rights and responsibilities of system administrators
+1. System administrators must understand information technology application systems related to online training; receive guidance and technology transfer to manage and operate the information technology system to ensure stable operation.
+2. The system administrator is responsible for building a process for storing and securing the database and lecturer's lecture content, and learners' assessment results.
+3. The system administrator is responsible for storing the entire teaching organization process and confirming course information when required.
+4. System administrators create and allocate/revoke user accounts on the system, provide technical support for lecturers - learners during the teaching - learning process; Provide/revoke accounts and support functional departments to carry out inspection, testing, and supervision of online teaching activities.
+
+## Article 25. Rights and responsibilities of learners
+1. Learners are provided with access to course learning resources and have their questions answered on the discussion forum.
+2. Each member has the right to add other information in their personal profile such as: avatar and signature belonging to the member's own property (if any). The representative image must be serious and cultured, and it is strictly forbidden to use images that are inconsistent with the nation's fine traditions and customs.
+3. Learners must protect their accounts, be responsible for the information posted to the system, and be responsible for letting others use their accounts for the wrong purposes and not in accordance with regulations.
+4. Learners must complete the tasks assigned by the instructor on the online training system within the prescribed time limit.
+5. Strictly comply with the rules and regulations of VNU and the training unit. In case of violation, depending on the level, they will be handled according to current regulations.
+6. Participate in activities to collect feedback from learners on modules, teaching methods, and educational environment (if any).
+
+---
+
+# Chapter VI
+### INSPECTION, TESTING AND REPORTING
+
+## Article 26. Inspection and testing
+VNU conducts inspections and checks the implementation of regulations on online training by units.
+The head of the unit organizes inspection, examination and supervision of implementation according to the unit's annual and periodical plans.
+
+## Article 27. Reporting regime
+1.2 weeks before the semester starts, the relevant units/departments/divisions and subjects participating in online training send the proposed training plan for the new school year to the training supervision organization.
+2. Units and departments must evaluate the online training system, the level of implementation, and the difficulties and advantages when deploying and organizing online training.
+3. System administrators and course administrators report on technology development updates, difficulties and obstacles when implementing online training and propose solutions.
+
+---
+
+# Chapter VII
+### HANDLING VIOLATIONS AND ORGANIZING IMPLEMENTATION
+
+## Article 28. Handling of violations
+1. It is strictly prohibited to take advantage of online courses to provide information online for the purposes of:
+a) Opposing the State of the Socialist Republic of Vietnam; causing harm to national security, social order and safety; destroying the great national unity bloc; propaganda of war and terrorism; causing hatred and conflicts between nations, ethnicities, and religions;
+b) Propagating and inciting violence, lewdness, depravity, crime, social evils, superstition, and destroying the nation's fine customs and traditions;
+c) Revealing state secrets, military, security, economic, foreign affairs secrets and other secrets prescribed by law;
+d) Posting information that distorts, slanders, or insults the reputation of the organization, the honor and dignity of individuals;
+d) Advertising, propaganda, buying and selling prohibited goods and services; spreading prohibited journalistic, literary, artistic, and published works;
+e) Impersonating organizations and individuals and spreading fake or false information that harms the legitimate rights and interests of organizations and individuals.
+2. It is strictly prohibited to create illegal links to legal domain names of organizations and individuals; create, install, and distribute malware and computer viruses; Illegally invading, hijacking information systems, creating online attack tools.
+3. It is strictly forbidden for subjects to store, copy, cut and paste to change the content of electronic lectures, record and edit live lectures, or distribute lectures in the online training system in any form without the consent of the lecturer or Head of the training unit.
+4. Violations, depending on the severity, will be reminded by the System Administrator, stripped of posting rights, stripped of system access rights, warned throughout the system or disciplined and criminally handled by competent authorities according to regulations.
+
+## Article 29. Implementation organization
+1. The training unit plans and implements the application in accordance with actual conditions.
+2. Pursuant to this regulation, the Head of the training unit shall issue documents guiding the organization of online training; prepare electronic learning materials; Evaluate electronic learning materials before putting them into use; Responsible for the content and quality of online training; training to improve lecturers' capacity; advise and support learners; Manage and monitor the online teaching and learning process for professional management unit modules; Organize and evaluate the effectiveness of online technology applications through feedback channels from lecturers, learners, and support staff to make appropriate adjustments.
+3. This regulation applies from the date of signing. During the implementation process, if there are any problems, the training units must report in writing to VNU (through the Training Committee) to submit to the Director for consideration, amendment and supplementation to suit the actual situation. /
+
+*(Sign)*
+
+---
+
+# Appendix I
+### STANDARDS FOR ELECTRONIC LECTURES
+*(issued together with Decision No. 4391/QD-DHQGHN dated December 29, 2021 of the Director of Vietnam National University, Hanoi)*
+## I. Requirements for training units
+The training unit is responsible for:
+- Digitalization module;
+- Teaching program;
+- Content of electronic lectures;
+- Choosing learning management systems (LMS);
+- Select content production tools;
+- Develop LMS and content management system (LCMS).
+
+## II. Current e-Learning standards
+The e-Learning system has applied corresponding standards to unify all processes of production, learning, management or interaction with components in the system. Standard groups include:
+- **First group:** allows combining learning materials created by different tools by different manufacturers into content packages. This group of standards is called packaging standards. Thanks to this system, learning management systems can import and use different learning materials.
+- **Second group:** allows learning management systems to display each lesson and can track test results and each student's learning process. This group of standards is called communication standards.
+- **The third group:** allows to describe the content of learning materials so that learning management systems can search and classify when necessary. This group of standards is called metadata standards.
+- **Fourth group:** allows control of the entire process of designing learning materials as well as the ability of learning materials to support learners and support people with disabilities. This group of standards is quality standards.
+
+**1. Standard packaging**
+The packaging standards group describes how to assemble separate learning objects to create an electronic curriculum or independent content units, which can then be transported and reused in many different LMS/LCMS systems.
+The following are some standard sets of lecture content packaging:
+
+|Standard sets |Reviews |
+|: --- |: --- |
+|**AICC**<br>(Aviation Industry CBT Committee) |- To ensure interactive learning materials, the AICC specification requires multiple files, depending on the level of complexity. Specifically, it includes learning material description files, other content units, description files, learning material structure files, condition files, ... <br>- The specification allows designing complex structures of content. |
+|**IMS Global Consortium** |- IMS Content and Packaging specification is simpler than AICC and is widely accepted and applied by the e-Learning community. Some software tools such as the Microsoft LRN Toolkit support implementation of this specification. |
+|**SCORM**<br>(Sharable Content Object Reference Model) |- SCORM combines many different specifications including IMS Content and Packaging. <br>- In SCORM 2004, the Simple Sequencing 1.0 specification of IMS is added. Currently, most e-Learning products support SCORM, so that is the specification that deserves the most attention. |
+
+**2. Information exchange standards**
+An information exchange standard defines the protocol or language people or computers use to exchange information with each other. An example of an information exchange standard is a dictionary that defines common words. In e-Learning, communication standards define a language in which the learning management system can communicate with content units.
+
+The content of information exchanged between the learning management system and the learning object includes the following topics:
+- The management system needs to know when the learning object starts working. The subject needs to know the student's name.
+- The object notifies the management system in return about how many percent of the student has completed learning the object.
+- The management system needs to know information about students' scores to store in a database.
+- The management system needs to know when students stop studying and close the learning object.
+The information exchange standard includes two main parts: protocol and data model. The protocol defines the process by which the management system and learning objects exchange information with each other. The data model defines the data structures used in the exchange process such as test scores, student names, and student completion levels.
+
+**3. Metadata standard**
+Metadata standards in e-Learning are descriptive data about learning materials and learning objects. Metadata standards provide a way to describe different types of e-Learning.
+
+*3.1. The role of metadata standards: *
+- The metadata standard allows for complex and unrestricted search terms. You can search for learning materials in other languages ​​on a given topic and even search for any document without having to browse the entire content of the documents in that language.
+- Metadata also allows classifying learning materials, lessons and other components; Helps editors find the content they need and use.
+*3.2. Some current metadata standards: *
+There are 3 specifications of standardized metadata standards applied in practice:
+- Learning Technology Standards Committee of IEEE: Learning Object Metadata Standard IEEE 1484.12.
+- MS Global Learning Consortium: Learning Resources Metadata Specification.
+- ADL: SCORM Metadata standards.
+
+*3.3. Basic components of metadata: *
+IEEE 1484.12 standard (ie LOM) is considered a common standard because it is recognized and used by all standardization organizations. Below is a list of (main) components of the IEEE 1484.12 standard:
+- **Title:** is the official name of the learning material.
+- **Language:** identifies the language used within the material and may contain additional information.
+- **Description:** is the description of the learning materials.
+- **Keyword:** includes keywords to support searching.
+- **Structure:** describes the internal structure of learning materials such as sequence and hierarchy.
+- **Aggregation Level:** determines the unit's cohesion levels: 4 - learning materials, 3 - lessons, 2 - topics.
+- **Version:** determines the version of the learning material.
+- **Format:** specifies the file formats used in course materials, compatible with the formats of the MIME standard.
+- **Size:** is the total size of all files in the course material.
+- **Location:** is the web address to access learning materials.
+- **Requirements:** lists conditions such as browser and operating system required to run the course materials.
+- **Duration:** determines the average time to learn a learning material.
+- **Cost:** indicates whether the course materials are free or have a fee, etc.
+- Some tools comply with metadata standards: must use XML format to ensure interoperability between information systems.
+
+**4. Quality standards**
+Quality standards relate to the design of learning materials and learners, as well as the accessibility of learning materials for people with disabilities.
+Quality standards ensure that content is created and that students can easily absorb that content.
+Quality standards ensure that learning materials can not only be reused but can be used right from the first learning session.
+
+e-Learning design standards: The main design quality standard for e-Learning is the e-Learning Courseware Certification Standards of ECI (E-Learning Certification Institute). The ECI Institute certifies that e-Learning materials comply with certain standards such as interface design, compatibility with operating systems and standard tools, as well as the quality of production and design of the materials.
+
+Accessibility: involves making information technology products accessible to people with disabilities, for example helping people with impaired vision, hearing loss or lack of good eye-hand coordination.
+
+**5. Other E-Learning standards**
+*5.1. IMS e-Learning standards*
+e-Learning standards are compiled and disseminated in practice by IMS organization. Some standards of IMS:
+- **IMS Question and Test Interoperabililty** is the standard for "Interoperability of questions and tests". This specification was introduced by IMS to find ways to make the questions and tests usable with many different information systems or software.
+- **IMS Enterprise Information Model:** learning management systems, content management or virtual schools need to be able to exchange information with other systems of an organization, agency or business. The “Enterprise Information Model” specification was introduced by IMS to define a common format that allows the exchange of management data between different information systems or software.
+- **IMS Learner Information Packaging:** The IMS “Learner Information Packaging” specification is intended to define a common format for student information. Descriptions that comply with this specification can be easily exchanged between different information systems or software.
+- **IMS Digital Repositories:** IMS's specification of databases containing e-Learning components.
+- **IMS Simple Sequencing:** IMS specification, now included in the SCORM 2004 standard set, is intended to help users create "Simple Sequences" that allow.
+- **IMS ePortfolio:** specification of a sample IMS “Resume” format.
+
+*5.2. Telecommunications standards*
+Telecommunications standards are applied on the internet and also apply to e-Learning. Such standards are necessary when combining different tools for remote communication and information exchange purposes. Some current telecommunications standards:
+- **H. 323:** used for multimedia information exchange systems based on packets. It enhances compatibility in video teleconferencing via Internet Protocol networks.
+- **T. 120:** used for data protocols for multimedia conferences. It includes meeting protocol documents and shared applications for online-meetings.
+
+*5.3. Vehicle standards*
+Media standards specify the standard file formats of information media. Most of these standards originate from the World Wide Web Consortium (W3C Organization). Below are some standards for common media in e-Learning:
+- **CSS (Cascading Style Sheet):** “style tag”, used to control the external appearance of HTML and XML pages.
+- **DOM (Document Object Model):** “document object model”, used for programming browsers and websites.
+- **HTML (Hypertext Markup Language):** “hypertext markup language”, used to create web pages.
+- **HTTP (Hypertext Transfer Language)** to send data between server and browser.
+- **MathML (Mathematics Markup Language):** “mathematical markup language”, used to display mathematical equations.
+- **PNG (Portable Network Graphics):** graphic format used for circulation on the network.
+- **SMIL (Synchronized Multimedia Integration Language):** “synchronous multimedia integration language”, used to create multimedia presentations.
+- **XML (eXtensible Markup Language):** “extensible markup language”, used for interoperability between different information systems.
+
+There are also a number of vehicle standards from other organizations as follows:
+- **GIF (Graphics Interchange Format):** vector graphics format (from CompuServe company).
+- **JPEG (Joint Photographic Expert Group):** bitmap graphic format, used for photographs.
+- **MPEG (Moving Picture Experts Group):** moving image file format used for video movies.
+- **vCard:** file format used for e-commerce cards.
+- **MIME (Multipurpose Internet Mail Extensions):** an extension recommendation by the Internet Engineering Task Force, regulating multipurpose file formats and their delivery via e-mail.
+
+*(Sign)*
+
+---
+
+# Appendix II
+### SAMPLE OUTLINE FOR REGISTRATION FOR CONSTRUCTION OF ELECTRONIC LECTURES
+*(issued together with Decision No. 4391/QD-DHQGHN dated December 29, 2021 of the Director of Vietnam National University, Hanoi)*
+
+**HANOI NATIONAL UNIVERSITY****Name: training unit**
+
+---
+
+### REGISTRATION PROPOSAL FOR CONSTRUCTION OF ELECTRONIC LECTURES
+
+**Subscription level:**
+
+**Course module:** ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . . **Duration:** ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+
+**Presiding lecturer:** ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+
+## I. General information about the module
+1. Module name:
+2. Duration:
+3. Implementing lecturers (and participating lecturer groups):
+4. Time the module has been taught at the faculty/school:
+5. Does the module have a textbook? If there is a curriculum, at what level has the curriculum been approved?
+6. Target audience and number of users in each course:
+7. Module objectives:
+8. Prerequisite courses:
+9. Equipment and technical conditions:
+- Does the training unit have a computer room for students and is it connected to the common network of VNU?
+- Does the lecturer understand the process and methods of making electronic lectures?
+- Does the implementing lecturer have the skills to use software to support the preparation and packaging of electronic lectures?
+- Group of IT and Multimedia experts to support (expected):
+
+## II. Summary of electronic lecture content
+1. Notice about the course: purpose, requirements, schedule (depending on each specific course), testing and evaluation methods.
+2. Modules: an electronic lecture is divided into many modules and can have many levels. Each module needs to have information summarizing the content and teaching time.
+3. Methods of testing and evaluation. Questions, exercises and multiple choice questions for students to test themselves.
+4. Electronic learning materials: images, sounds, video clips, software (including virtual experiments or simulations) to help students in the learning process.
+
+## III. Textbooks, key references and references
+1. Vietnamese documents.
+2. Foreign language documents.
+
+## IV. Materials and databases to use to create electronic lectures
+*(Need detailed explanation about the role in developing electronic lectures)*
+1. Artifacts and samples (used for experiments, filming, photography)
+- Existing artifacts and samples.
+- Artifacts and specimens needed but not yet available:
++ Address to search.
++ Related information
+2. Paper and photographic materials (pictures, photos, drawings, maps, charts, etc.)
+- Paper and photo documents already exist.
+- Necessary paper and photo documents but not available yet.
+3. Digital materials (CDs/VIDEOs/DVDs, video tapes, documents from the Internet, existing related electronic lectures, etc.)
+- Digital documents are available.
+- Digital materials need to be supplemented (specify content and technical requirements...).
+4. Requirements required to build electronic lectures
+- Develop test articles;
+- Audio and video recording at the scene;
+- Exploitation of domestic and foreign archives;
+
+## V. Estimated budget
+Funding for developing electronic lectures is implemented according to current regulations of the State and VNU.
+
+<br>
+
+|**Confirmation of training unit** |**Registered Lecturer** |
+|: --- |: --- |
+|||
+||*(Sign)* |
+
+---
+
+# Appendix III
+### CONTENT STRUCTURE OF ELECTRONIC LEARNING MATERIALS
+*(issued together with Decision No. 4391/QD-DHQGHN dated December 29, 2021 of the Director of Vietnam National University, Hanoi)*
+
+## I. Ingredients of learning materials
+There are 8 components that make up a complete learning material, including:
+1. Organization (form) of the module.
+2. General information.
+3. Questions.
+4. Self-test.
+5. Theoretical knowledge.
+6. Terminology, keywords.
+7. Exercises.
+8. Outline and outline.
+
+In practice, depending on each specific module, some additional components such as self-tests, terms, keywords and exercises (4, 6, 7) may not be needed. The remaining components (1, 2, 3, 5, 8) are considered minimal and must be present in the learning materials.
+
+## II. General requirements of a learning material
+**1. Prepare script**
+- Prepare content: Volume N
+- Divide knowledge into programming style: Sets N1, N2, ..., Nk and corresponding questions Q1, Q2, ..., Qk.
+- Build a set of activities for teachers and students: Sets T1, T2, ..., Tk and H1, H2, ..., Hk.
+- The result has the scenario {Mi}i=1. . k
+
+**2. Scenario development**
+
+**Table 1. Developing learning materials scenarios**
+
+|Title of chapter (page number, referenced documents) |
+|: --- |
+|**Lecture topics and topics:** |
+|**Screen page status in the chapter:** |
+|TT |Image content |Sermon |Estimated time |Visual Effects |Screen Description |
+|: --- |: --- |: --- |: --- |: --- |: --- |
+|||||||
+
+**3. Necessary criteria for a learning material**
+- Clearly express learning goals;
+- Demonstrate prerequisites for participating in the course;
+- Contains summary information about the content of a learning material;
+- Clear and logical structure;
+- Has accurate content, consistent with learning goals;
+- 5. Guide students on where to start learning, how to proceed with learning and under what conditions they can learn;
+- Students learn through specific activities;
+- Ensure interaction between knowledge content and students, allowing students to form some typical skills;
+- There are reference materials, exercises to consolidate knowledge and exercises to improve skills for each knowledge content;
+- Learning resources are diverse, rich and reasonable.
+
+**4. Criteria for evaluating electronic learning materials**
+- Friendly interface, easy to use, easy to browse learning content;
+- Demonstrate the learning relationship between an electronic learning material and other traditional forms of learning;
+- Improve teaching methods by integrating many modern, active teaching methods to maximize the positivity, initiative, and creativity of course participants;
+- Thereby, students can self-assess their progress in the learning process;
+- Helps students, after completing the acquisition of knowledge content, complete applied exercises and advanced exercises.
+
+## III. Structure of a learning material
+There are many ways to express the structure of a learning material, but we can imagine the structure of a learning material consisting of the following parts:
+
+**1. General information about the course:**
+Shows basic information about the course. This information is consulted first by students at the beginning of the course, so they can omit the knowledge they already know and focus on the new knowledge content of the lesson. Includes:
+- Course name;
+- Builder;
+- Number of credits;
+- Target;
+- Summary content;
+- Prerequisites;
+- Evaluate the course;
+- Learning materials structure;
+- Learning activities.
+
+**2. Study guide**
+Ensuring students' self-study, the content of the learning guide includes:
+- Introduction and how to move through each learning content;
+- Specific instructions for some learning activities;
+- Information about study plans.
+
+**3. Course content**
+This is the main content of an electronic learning material. Usually expressed in the form of a directory tree for each content of knowledge under each topic.
+
+**4. General References**
+- Printed documents.
+- Online documents.
+
+*(Sign)*
+
+---
+
+# Appendix IV
+### THE PROCESS OF BUILDING ELECTRONIC LEARNING MATERIALS
+*(issued together with Decision No. 4391/QD-DHQGHN dated December 29, 2021 of the Director of Vietnam National University, Hanoi)*
+
+|TT |Activities |Description of implementation content |Deployment |Responsibility for implementation |Documents |
+|: --- |: --- |: --- |: --- |: --- |: --- |
+|1 |Register to build electronic lectures |- Review online training materials; <br>- Analyze learners' feedback on learning materials; <br>- Receive and update new teaching content according to the training program and reality; <br>- Actual survey of the need to use learning materials on learning media. |The training unit announces the development of electronic lectures according to criteria and standards. <br>In case of many registered lectures, priority will be given to modules in groups M1-M2. |Training unit |Modules of the training program; the unit's electronic courses. |
+|2 |Determine the content that needs to be adjusted, updated, supplemented, and upgraded online training materials, and make an implementation plan. |Check (professional, technical) and determine content that needs to be adjusted, updated, upgraded, supplemented with online training materials; Plan your implementation. |- Update new techniques suitable for current browsers; <br>- Implement criteria to improve the interactive quality of electronic learning materials; <br>- Learning materials include: integrated electronic lectures, text lectures, practice question banks. <br>The training unit assigned the task of building electronic lectures. |Training unit |- Results of review and announcement; <br>- Implementation plan. |
+|3 |Organize and build pedagogical scenarios for electronic lectures. |Assign and monitor lecturers in conjunction with lesson design experts to unify the construction of lesson scripts that meet the plan and requirements, ensuring pedagogy for self-learners. |Based on the textbook, divide it into modules, determine the form and method of expression that meet the set criteria. |Lecturer, lesson design expert |Pedagogical scenario of learning materials |
+|4 |Organize the development of overall learning material scenarios (pedagogical and technical). |Assign and monitor lecturers in conjunction with lesson design experts and learning materials technical experts to unify the development of lesson scripts and learning materials based on the approved script for professional content. |Combined with technical elements, provide detailed content for each lecture module and build detailed lectures. |Lecturer, lesson design expert, learning materials technology expert |Overall scenario of learning materials |
+|5 |Design detailed content of electronic lectures. |Assign and monitor technical experts to apply technical effects to build lectures according to the script agreed upon above. |- Build into lecture slides, integrate images, videos, and teacher recordings. <br>- Package into complete learning materials. |Lecture design expert, learning materials technology expert, lecturer. |Lectures have been electronic according to the designed scenario. |
+|6 |Obtain opinions from experts and learners about the script and content of electronic lectures. |Receive comments, assessments from experts, and survey opinions of test learners to edit according to comments and complete. ||Training unit, appraisal expert. |- Minutes of evaluation of learning materials; <br>- Get opinions on surveying learning materials from a group of trial students. |
+|7 |Acceptance Council. |The training unit established an Acceptance Council |- Schools/Faculties accept and issue electronic lectures at levels 1 and 2; <br>- Electronic lectures at levels 3 and 4 are accepted at the School/Faculty and VNU level. |Acceptance council of the training unit. |Minutes of the Acceptance Council meeting. |
+|8 |Acceptance at VNU level with electronic lectures at levels 3 and 4. |VNU established a Council to accept electronic lectures at levels 3 and 4 after being accepted at the school level. |- Step 1: Acceptance at School level; <br>- Step 2: Acceptance at VNU level. |- Training units; <br>- VNU. |Electronic lectures |
+|9 |Complete electronic lectures. |Edit the content according to comments in the minutes of the Acceptance Council meeting. ||Instructors, lesson design team, technical team. |Complete electronic lecture |
+|10 |Accept and put into use. |- The University-level acceptance council signs and accepts electronic lectures at levels 1 and 2; <br>- VNU accepts and accepts electronic lectures at levels 3 and 4 at the VNU level before being put into use. ||Acceptance Council. |Completed electronic lectures are posted to the training system |
+
+*(Sign)*
+
+---
+
+# Appendix V
+### LIST OF OPEN SOURCE SOFTWARE THAT CAN BE APPLYED ONLINE TRAINING
+*(issued together with Decision No. 4391/QD-DHQGHN dated December 29, 2021 of the Director of Vietnam National University, Hanoi)*
+
+|STT |Software name |Supply address |
+|: --- |: --- |: --- |
+|**List of LMS, LCMS** |||
+|1 |Moodle |[https://moodle. org](https://moodle. org) |
+|2 |. LRN |[http: //www. dotlrn. org](http: //www. dotlrn. org) |
+|3 |eFront |[http: //www. efrontlearning. net](http: //www. efrontlearning. net) |
+|4 |Sakai |[https://www. sakaiproject. org](https://www. sakaiproject. org) |
+|5 |Artist |[http: //atutor. ca](http: //atutor. ca) |
+|6 |Schoology |[https://www. schoology. com](https://www. schoology. com) |
+|7 |Edmodo |[https://www. edmodo. com](https://www. edmodo. com) |
+|**List of Authoring tools** |||
+|1 |Exe |[http: //exelearning. org](http: //exelearning. org) |
+|2 |LAMS |[http: //lamsfoundation. org](http: //lamsfoundation. org) |
+|3 |iSpring |[http: //www. ispringsolutions. com/free-elearning-suite](http: //www. ispringsolutions. com/free-elearning-suite) |
+|4 |RELOAD |[http: //www. reload. ac. uk](http: //www. reload. ac. uk) |
+|5 |CourseLab |[http: //www. courselab. com](http: //www. courselab. com) |
+|6 |Udutu |[http: //www. udutu. com](http: //www. udutu. com) |
+|7 |authorPoint |[http: //www. authorgen. com](http: //www. authorgen. com) |
+
+*(Sign)*
+
+---
+
+# Appendix VI
+### REGULATIONS ON ELECTRONIC LEARNING MATERIALS
+*(issued together with Decision No. 4391/QD-DHQGHN dated December 29, 2021 of the Director of Vietnam National University, Hanoi)*
+
+## I. Structure of electronic learning materials
+Electronic learning materials include 04 components and corresponding durations as follows:
+1. **Text:** The course guide is about 10 -15 pages (converted to 45 minutes of self-study), which is the content of the lecture written according to the textbook after dividing the lessons as required. *General requirements: * Times New Roman font, size 13, line spacing 1.2.
+2. **Exercises for the lesson:** essays, case studies, practice requirements (this part requires instructions for students to complete on their own), converted to 90 minutes of self-study. Exercises need to have detailed instructions to help learners perform the exercises and grasp the knowledge of the module. The minimum number is 5 exercises per lecture.
+3. **Rich Media:** includes video, audio, slides (presentation), multiple choice questions of the lesson with automatic assessment, list of references, notes for slides. Lecture products must be published according to SCORM standards.
+*General requirements: *
+- Each lecture must have an introduction to the lesson, the lesson's objectives, and the learning and research tasks that learners need to perform to learn the lesson well.
+- In the Presenter part of the lecture, there can be only one photo of the lecturer, however, the use of video is encouraged to increase vividness and avoid boredom for students.
+- Each lecture is required to have at least 20 multiple-choice questions. Additional questions may be added later.
+- Slides use a uniform template (format) for all lectures, to ensure that the materials presented online are similar in form, including:
++ Name of the article.
++ Introduce the lesson's objectives; knowledge needed to learn this lesson well (if necessary).
++ Introduce necessary reference documents.
++ Introduce the main content of the article.
++ Content of the lesson.
+Each slide states the main ideas or diagrams the content of lectures, exercises, and practice in digitized 2D and 3D formats so that learners can see the logical structure of the content to be presented. From there, the teacher will lecture so that learners can understand and absorb knowledge.
+
++ Final slides (summary at the end of the lesson): Brief summary stating the main content of the entire lesson. Through this summary, students can review and systematize all the knowledge mentioned in the lesson.
+
+4. **Audio:** Audio of the lecture
+*Requirement: *
+- Do not reuse the sound in the slide section but must re-record it, because teaching with slides and without slides is different;
+- If it is a reading voice: it needs to be inspiring, clear, expressive, and appropriate speed;
+- If background music: need to choose background music with a low/medium volume, pleasant so that learners do not lose focus while reading the content;
+- Sound quality: 160 kbps or 320 kbps;
+- Audio format: mp3.
+
+## II. Signed a contract to produce electronic learning materials
+Based on assigned tasks, the training unit signs a contract to produce electronic learning materials with unit leaders or officials and lecturers who are qualified and capable of organizing the production of electronic learning materials. The person signing the contract is responsible for organizing the construction of learning materials according to the plan.
+
+## III. Evaluation of the content of learning materials
+The person who signs the contract to develop electronic learning materials invites lecturers and experts to develop a scenario for producing learning materials; Prepare text lectures, lecture slides, multiple choice questions with answers, essay questions, guided exercises. The unit head establishes a council to evaluate the content of learning materials. Based on the council's content appraisal minutes, the person signing the contract to develop electronic learning materials organizes the production of learning materials according to the script.
+
+## IV. Technical appraisal
+After the learning materials are completed, the person who signs the contract to develop electronic learning materials transfers all products and accompanying documents to the training unit for technical appraisal of the learning materials. Profile includes:
+- Minutes of appraisal of the content of learning materials along with comments from reviewers;
+- Proposal for acceptance of electronic learning materials.
+The training unit is responsible for the technical appraisal of learning materials, the structure and technical standards of learning materials according to regulations.
+
+*(Sign)*
+
+---
+
+# Appendix VII
+### REGISTER TO BUILD ELECTRONIC LECTURES
+*(issued together with Decision No. 4391/QD-DHQGHN dated December 29, 2021 of the Director of Vietnam National University, Hanoi)*
+
+**1. Electronic lectures levels 1 and 2**
+- Write an outline to register to develop an electronic lecture (according to the form).
+- Develop complete electronic lectures for levels 1 and 2.
+Electronic lectures at levels 1 and 2 are electronic lectures at a simple level, so the training unit is responsible for evaluating, accepting and reporting to VNU (through the Training Board) the acceptance results and the complete electronic lecture product.
+
+**2. Electronic lectures level 3 and above**
+- Write an outline to register to develop an electronic lecture (according to the form).
+- Develop complete electronic lectures for levels 3 and 4.
+For electronic lectures with level 3 or higher, the training unit is responsible for appraisal and acceptance at the School level before sending documents to VNU to establish an Acceptance Council at the VNU level before being put into use.
+
+*(Sign)*
