@@ -1,6 +1,6 @@
 ---
 doc_id: "3626/QD-DHQGHN"
-part_id: "3626/QD-DHQGHN-verbatim"
+part_id: "3626/QD-DHQGHN-transcription"
 replace_id: "5115/QD-DHQGHN"
 major_category: "Academic_Regulations"
 title_original: "QUYẾT ĐỊNH Về việc ban hành Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội"
@@ -20,7 +20,7 @@ relations:
   - "references:3349/NQ-HD"
   - "references:5115/QD-DHQGHN"
 tags: ["Academic", "VNU"]
-language: "verbatim"
+language: "transcription"
 original_language: "vi"
 translation_language: null
 document_status: "active"
