@@ -31,7 +31,7 @@ No.: 3626/QĐ-ĐHQGHN
 
 # DECISION
 
-<p align="center">**On the promulgation of the Regulation on Undergraduate Training at Vietnam National University, Hanoi**</p>
+<p align="center"><strong>On the promulgation of the Regulation on Undergraduate Training at Vietnam National University, Hanoi</strong></p>
 
 ## PRESIDENT OF VIETNAM NATIONAL UNIVERSITY, HANOI
 
@@ -73,153 +73,137 @@ No.: 3626/QĐ-ĐHQGHN
 
 ---
 
-# REGULATION ON UNDERGRADUATE TRAINING
-
-## AT VIETNAM NATIONAL UNIVERSITY, HANOI
+# REGULATION ON UNDERGRADUATE TRAINING AT VIETNAM NATIONAL UNIVERSITY, HANOI
 
 <p align="center">*(Promulgated together with Decision No. 3626/QĐ-ĐHQGHN dated October 21, 2022 of the President of Vietnam National University, Hanoi)*</p>
 
-# Chapter I
-
-## GENERAL PROVISIONS
+# Chapter I GENERAL PROVISIONS
 
 ## Article 1. Scope of regulation and subjects of application
 
-- 1. This Regulation prescribes undergraduate training in full-time and part-time modes at Vietnam National University, Hanoi (VNU), including: training programs and duration of study; organization and management of training; scientific research by students; rights and obligations of lecturers, academic advisors, and students; examinations, tests, and assessment of learning outcomes; and recognition of graduation.
-- 2. This Regulation shall apply to training programs for which degrees are conferred by the President of Vietnam National University, Hanoi or the Rectors of member universities, and to joint training programs with foreign educational institutions for which degrees are conferred by Vietnam National University, Hanoi or jointly conferred by both parties.
-- 3. This Regulation shall apply to all units and individuals participating in the undergraduate training process at Vietnam National University, Hanoi.
+1. This Regulation prescribes undergraduate training in full-time and part-time modes at Vietnam National University, Hanoi (VNU), including: training programs and duration of study; organization and management of training; scientific research by students; rights and obligations of lecturers, academic advisors, and students; examinations, tests, and assessment of learning outcomes; and recognition of graduation.
+2. This Regulation shall apply to training programs for which degrees are conferred by the President of Vietnam National University, Hanoi or the Rectors of member universities, and to joint training programs with foreign educational institutions for which degrees are conferred by Vietnam National University, Hanoi or jointly conferred by both parties.
+3. This Regulation shall apply to all units and individuals participating in the undergraduate training process at Vietnam National University, Hanoi.
 
 ## Article 2. Decentralization of training organization and management
 
-- 1. The system of undergraduate training organization and management comprises two levels: the Vietnam National University, Hanoi level and the training unit level.
+1. The system of undergraduate training organization and management comprises two levels: the Vietnam National University, Hanoi level and the training unit level.
 
-   - a) Vietnam National University, Hanoi
+a) Vietnam National University, Hanoi
 
 - Shall direct and uniformly administer the organization and management of training under an open, articulated, linked, and cooperative mechanism among training units.
 - Shall coordinate the use of shared resources (human resources, physical and technical facilities) in support of training.
 - Shall exercise comprehensive management over the organization and management of training at directly affiliated universities/faculties.
 
----
-
-- b) Training units
+b) Training units
 
 - Shall organize and manage training for the fields of study and courses assigned by Vietnam National University, Hanoi; recognize students' learning outcomes across training units; accumulate students' learning outcomes earned at partner institutions through student exchange; and develop shared learning materials.
 - Shall develop new fields of study and new training programs, with emphasis on interdisciplinary training programs, and report to the President of Vietnam National University, Hanoi for review, appraisal, promulgation, and assignment of training organization tasks.
-- 2. Assignment of instruction for common courses
+2. Assignment of instruction for common courses
 
-   - a) Common foreign language courses shall be taught by the University of Languages and International Studies, except for units that have foreign language training programs/faculties/departments;
-   - b) Political theory courses shall be taught by the University of Economics and the University of Social Sciences and Humanities;
-   - c) Law courses shall be taught by the University of Law;
-   - d) National defense and security education courses shall be taught by the Center for National Defense and Security Education;
-   - đ) Physical education courses shall be taught by the Center for Physical Education and Sports;
-   - e) Foundational informatics courses shall be taught by the University of Engineering and Technology and the University of Science, except for units that have training programs in computer science/information technology;
-   - g) Supplementary skills courses shall be developed and taught by the training unit, or the Center for Forecasting and Human Resource Development shall serve as the focal point for program development, submitting to Vietnam National University, Hanoi for review, approval, promulgation, and assignment of implementation tasks;
-   - h) All remaining courses shall be taught by the unit managing the respective course.
+a) Common foreign language courses shall be taught by the University of Languages and International Studies, except for units that have foreign language training programs/faculties/departments;
+b) Political theory courses shall be taught by the University of Economics and the University of Social Sciences and Humanities;
+c) Law courses shall be taught by the University of Law;
+d) National defense and security education courses shall be taught by the Center for National Defense and Security Education;
+đ) Physical education courses shall be taught by the Center for Physical Education and Sports;
+e) Foundational informatics courses shall be taught by the University of Engineering and Technology and the University of Science, except for units that have training programs in computer science/information technology;
+g) Supplementary skills courses shall be developed and taught by the training unit, or the Center for Forecasting and Human Resource Development shall serve as the focal point for program development, submitting to Vietnam National University, Hanoi for review, approval, promulgation, and assignment of implementation tasks;
+h) All remaining courses shall be taught by the unit managing the respective course.
 
 ## Article 3. Principles for ensuring educational quality and effectiveness
 
-- 1. Training content, teaching and learning methods, assessment, and management approaches shall be appropriate for and responsive to the learning outcomes of the training program.
-- 2. New training programs of an interdisciplinary nature shall be developed to meet the current and future needs of society.
+1. Training content, teaching and learning methods, assessment, and management approaches shall be appropriate for and responsive to the learning outcomes of the training program.
+2. New training programs of an interdisciplinary nature shall be developed to meet the current and future needs of society.
 
----
-
-- 3. Priority shall be given to investing in conditions that ensure educational quality.
-- 4. Training shall be linked with scientific research and practical activities.
-- 5. Quality assurance of education shall be a mandatory requirement in training.
+3. Priority shall be given to investing in conditions that ensure educational quality.
+4. Training shall be linked with scientific research and practical activities.
+5. Quality assurance of education shall be a mandatory requirement in training.
 
 ## Article 4. Forms of instruction, credits, and credit hours
 
-- 1. Forms of instruction
+1. Forms of instruction
 
-   - a) Lectures: students learn in class through direct instruction by lecturers in the classroom or through online classes;
-   - b) Practice: students learn through practice, internships, laboratory work, exercises, discussions, reading, and research of materials under the guidance of lecturers;
-   - c) Self-study: students study and conduct research independently according to the plan and content assigned by lecturers and are subject to assessment.
-- 2. A credit is a unit of measurement that determines the volume of knowledge and skills accumulated by a student from a course over 15 credit hours.
-- 3. A credit hour is a unit of measurement for student learning time, classified into three types according to the forms of instruction and defined as follows:
+a) Lectures: students learn in class through direct instruction by lecturers in the classroom or through online classes;
+b) Practice: students learn through practice, internships, laboratory work, exercises, discussions, reading, and research of materials under the guidance of lecturers;
+c) Self-study: students study and conduct research independently according to the plan and content assigned by lecturers and are subject to assessment.
+2. A credit is a unit of measurement that determines the volume of knowledge and skills accumulated by a student from a course over 15 credit hours.
+3. A credit hour is a unit of measurement for student learning time, classified into three types according to the forms of instruction and defined as follows:
 
-   - a) One lecture credit hour equals 01 lecture period; to absorb 1 lecture credit hour, a student shall devote at least 2 periods of individual preparation;
-   - b) One practice credit hour equals 2–3 periods of practice, laboratory work, or discussion; 3–6 periods of on-site internship; 3–4 periods of working on term papers, major assignments, or graduation projects/theses; one exercise credit hour equals 2 in-class periods; to absorb 1 practice/exercise credit hour, a student shall devote at least 2 periods of individual preparation;
-   - c) One compulsory self-study credit hour equals 3 compulsory self-study periods and is subject to assessment.
+a) One lecture credit hour equals 01 lecture period; to absorb 1 lecture credit hour, a student shall devote at least 2 periods of individual preparation;
+b) One practice credit hour equals 2–3 periods of practice, laboratory work, or discussion; 3–6 periods of on-site internship; 3–4 periods of working on term papers, major assignments, or graduation projects/theses; one exercise credit hour equals 2 in-class periods; to absorb 1 practice/exercise credit hour, a student shall devote at least 2 periods of individual preparation;
+c) One compulsory self-study credit hour equals 3 compulsory self-study periods and is subject to assessment.
 
 ## Article 5. Courses
 
-- 1. A course is a component of knowledge within a training program; each course carries a volume of knowledge of 2 to 5 credits and is taught in its entirety within one semester (except for practical internship courses); each course has a unique code issued by the head of training unit based on the coding principles of Vietnam National University, Hanoi.
+1. A course is a component of knowledge within a training program; each course carries a volume of knowledge of 2 to 5 credits and is taught in its entirety within one semester (except for practical internship courses); each course has a unique code issued by the head of training unit based on the coding principles of Vietnam National University, Hanoi.
 
----
+2. Types of courses
 
-- 2. Types of courses
-
-   - a) Compulsory courses: courses that students are required to accumulate;
-   - b) Conditional elective courses: courses that students may select in accordance with the guidance of the training unit;
-   - c) Free elective courses: courses that students select according to their personal needs in conformity with the study requirements;
-   - d) Prerequisite courses for a given course: courses that students must accumulate before enrolling in that course;
-   - đ) Graduation theses and graduation projects are courses belonging to the compulsory knowledge block, with a duration of 5 to 10 credits as specifically prescribed in the training program;
-   - e) Internships and field practice (if any) shall be compulsory courses;
-   - g) Conditional courses are physical education, national defense and security education, and supplementary skills courses. The assessment results of conditional courses shall not be included in the calculation of the semester GPA, the overall course GPA, or the cumulative GPA, but shall constitute a condition for graduation consideration;
-   - h) Foreign language courses in the training program are courses that students are required to accumulate within the training program.
-- 3. Course syllabus
+a) Compulsory courses: courses that students are required to accumulate;
+b) Conditional elective courses: courses that students may select in accordance with the guidance of the training unit;
+c) Free elective courses: courses that students select according to their personal needs in conformity with the study requirements;
+d) Prerequisite courses for a given course: courses that students must accumulate before enrolling in that course;
+đ) Graduation theses and graduation projects are courses belonging to the compulsory knowledge block, with a duration of 5 to 10 credits as specifically prescribed in the training program;
+e) Internships and field practice (if any) shall be compulsory courses;
+g) Conditional courses are physical education, national defense and security education, and supplementary skills courses. The assessment results of conditional courses shall not be included in the calculation of the semester GPA, the overall course GPA, or the cumulative GPA, but shall constitute a condition for graduation consideration;
+h) Foreign language courses in the training program are courses that students are required to accumulate within the training program.
+3. Course syllabus
 
 The course syllabus shall be prepared by lecturers based on the learning outcomes of the course and approved by the head of the unit managing the course for distribution to learners prior to instruction. The course syllabus shall contain the following principal elements:
 
-   - a) Information about the training unit (name of university, faculty, department);
-   - b) Information about lecturers;
-   - c) Information about the course (course name, course code, nature of the course (compulsory or elective), number of credits, types of class periods, class hours, prerequisite courses, language of instruction);
-   - d) Objectives, learning outcomes, content, and teaching methods of the course;
-   - đ) Information about the organization and schedule of instruction;
-   - e) Learning materials;
+a) Information about the training unit (name of university, faculty, department);
+b) Information about lecturers;
+c) Information about the course (course name, course code, nature of the course (compulsory or elective), number of credits, types of class periods, class hours, prerequisite courses, language of instruction);
+d) Objectives, learning outcomes, content, and teaching methods of the course;
+đ) Information about the organization and schedule of instruction;
+e) Learning materials;
 
----
+g) Provisions on assessment;
+h) Other information (if any) as prescribed by the training unit managing the course or by Vietnam National University, Hanoi.
+4. Question bank for the course
 
-- g) Provisions on assessment;
-   - h) Other information (if any) as prescribed by the training unit managing the course or by Vietnam National University, Hanoi.
-- 4. Question bank for the course
-
-   - a) Each course shall have a question bank compiled by the unit managing the course, appraised by the Scientific and Training Council at the faculty level, and authorized for use by the Dean of Faculty/Head of Department for selection as assessment instruments;
-   - b) The head of training unit shall prescribe the specific procedures for developing the question bank for each course.
+a) Each course shall have a question bank compiled by the unit managing the course, appraised by the Scientific and Training Council at the faculty level, and authorized for use by the Dean of Faculty/Head of Department for selection as assessment instruments;
+b) The head of training unit shall prescribe the specific procedures for developing the question bank for each course.
 
 ## Article 6. Training programs
 
-- 1. An undergraduate training program sets forth the objectives, scope, and structure of the training content; prescribes learning outcomes in terms of knowledge, skills, levels of autonomy and responsibility, training methods and forms, and methods of learning assessment, in compliance with the prevailing regulations on training program standards of the Ministry of Education and Training (MOET).
+1. An undergraduate training program sets forth the objectives, scope, and structure of the training content; prescribes learning outcomes in terms of knowledge, skills, levels of autonomy and responsibility, training methods and forms, and methods of learning assessment, in compliance with the prevailing regulations on training program standards of the Ministry of Education and Training (MOET).
 
 A field of study shall have one or more training programs with corresponding learning outcomes.
 
-- 2. Types of training programs
+2. Types of training programs
 
-   - a) Standard training programs;
-   - b) High-quality training programs;
-   - c) Honors training programs;
-   - d) Major-minor programs;
-   - đ) Double-major programs;
-   - e) Joint training programs with foreign educational institutions for which degrees are conferred by Vietnam National University, Hanoi;
-   - g) Joint training programs with foreign educational institutions for which degrees are jointly conferred by Vietnam National University, Hanoi and the foreign educational institution (foreign partner);
-   - h) Joint training programs with foreign educational institutions for which degrees are conferred by the foreign partner.
-
----
+a) Standard training programs;
+b) High-quality training programs;
+c) Honors training programs;
+d) Major-minor programs;
+đ) Double-major programs;
+e) Joint training programs with foreign educational institutions for which degrees are conferred by Vietnam National University, Hanoi;
+g) Joint training programs with foreign educational institutions for which degrees are jointly conferred by Vietnam National University, Hanoi and the foreign educational institution (foreign partner);
+h) Joint training programs with foreign educational institutions for which degrees are conferred by the foreign partner.
 
 ## Article 7. Training modes
 
-- 1. Full-time training shall be organized as continuous, concentrated training throughout the entire academic program and shall apply to the training programs prescribed at points a, b, c, d, đ, e, and g, paragraph 2, Article 6 of this Regulation. Instructional activities shall be conducted at the training unit; however, practice, internship, field experience, and online instruction activities may be conducted outside the training unit.
-- 2. Part-time training shall be organized with flexible instructional activities during the day, during the week, and throughout the entire academic program and shall apply to the training program prescribed at point a, paragraph 2, Article 6 of this Regulation. Instructional activities shall be conducted at the training unit or at the cooperating training unit in accordance with the provisions on domestic joint training in Article 10 of this Regulation; however, practice, internship, field experience, and online instruction activities may be conducted outside the training unit or the cooperating training unit.
+1. Full-time training shall be organized as continuous, concentrated training throughout the entire academic program and shall apply to the training programs prescribed at points a, b, c, d, đ, e, and g, paragraph 2, Article 6 of this Regulation. Instructional activities shall be conducted at the training unit; however, practice, internship, field experience, and online instruction activities may be conducted outside the training unit.
+2. Part-time training shall be organized with flexible instructional activities during the day, during the week, and throughout the entire academic program and shall apply to the training program prescribed at point a, paragraph 2, Article 6 of this Regulation. Instructional activities shall be conducted at the training unit or at the cooperating training unit in accordance with the provisions on domestic joint training in Article 10 of this Regulation; however, practice, internship, field experience, and online instruction activities may be conducted outside the training unit or the cooperating training unit.
 
 ## Article 8. Training funding
 
-- 1. Sources of training funding
+1. Sources of training funding
 
 Funding for the organization of training in a field of study shall include state budget allocations, tuition fees, and other lawful funding sources.
 
-   - a) State budget allocations
+a) State budget allocations
 
 Vietnam National University, Hanoi shall allocate funding according to norms and annual training quotas for fields of study that receive state budget support.
 
-   - b) Tuition fees
+b) Tuition fees
 
 - Students enrolled in any field of study shall be required to pay tuition fees (except for students eligible for tuition fee exemptions or reductions under prevailing state regulations).
 - Students shall pay tuition fees on a per-semester or per-credit basis for credits registered in each semester at the training unit managing the field of study in which the student is enrolled.
 - Tuition fees shall be calculated according to the formula:
 
 <p align="center">$$M = a \times \textstyle \bigcap_{i=1}^{k} h_i n_i \text{ (j = 1 ÷ 4)}$$</p>
-
----
 
 where:
 
@@ -233,147 +217,129 @@ where:
 - The head of training unit shall prescribe the specific procedures and publicly announce to students the methods for collecting, paying, and considering exemptions from or reductions in tuition fees.
 - Training units shall implement tuition fee exemption and reduction policies for students in accordance with the regulations of the state and of Vietnam National University, Hanoi.
 
-   - c) Other lawful funding sources
+c) Other lawful funding sources
 
 Other lawful funding sources for training operations shall be prescribed by the head of training unit.
 
-- 2. Use of training funding
+2. Use of training funding
 
-   - a) The head of training unit shall decide on the use of training funding in accordance with the internal expenditure regulations of the unit.
-   - b) The unit managing training funding shall be responsible for settling payments to the unit performing the tasks specified in paragraph 2, Article 2 of this Regulation at the rates and norms prescribed by Vietnam National University, Hanoi.
-   - c) The unit assigned to manage physical facilities may use a portion of training funding for the maintenance, repair, and upgrading of physical facilities serving training activities of Vietnam National University, Hanoi. The rates and norms shall be agreed upon by the units on the basis of prevailing regulations of Vietnam National University, Hanoi.
-
----
+a) The head of training unit shall decide on the use of training funding in accordance with the internal expenditure regulations of the unit.
+b) The unit managing training funding shall be responsible for settling payments to the unit performing the tasks specified in paragraph 2, Article 2 of this Regulation at the rates and norms prescribed by Vietnam National University, Hanoi.
+c) The unit assigned to manage physical facilities may use a portion of training funding for the maintenance, repair, and upgrading of physical facilities serving training activities of Vietnam National University, Hanoi. The rates and norms shall be agreed upon by the units on the basis of prevailing regulations of Vietnam National University, Hanoi.
 
 ## Article 9. Admission
 
-- 1. Admission quotas
+1. Admission quotas
 
-   - a) Annually, based on quality assurance conditions, social demand, and the employment status of graduates in their field of specialization, the training unit shall develop admission quotas for each field of study and each training mode with the corresponding training program for the following academic year, and shall report and submit a proposal to the President of Vietnam National University, Hanoi for approval before December 31;
-   - b) The President of Vietnam National University, Hanoi shall decide on the allocation of admission quotas to training units before March 1 of each year and shall report to the Ministry of Education and Training (MOET). Training units may organize admission and training only after the decision on admission quota allocation by Vietnam National University, Hanoi has been issued.
-- 2. Organization of admission
+a) Annually, based on quality assurance conditions, social demand, and the employment status of graduates in their field of specialization, the training unit shall develop admission quotas for each field of study and each training mode with the corresponding training program for the following academic year, and shall report and submit a proposal to the President of Vietnam National University, Hanoi for approval before December 31;
+b) The President of Vietnam National University, Hanoi shall decide on the allocation of admission quotas to training units before March 1 of each year and shall report to the Ministry of Education and Training (MOET). Training units may organize admission and training only after the decision on admission quota allocation by Vietnam National University, Hanoi has been issued.
+2. Organization of admission
 
 Annually, based on the general regulations of the Ministry of Education and Training (MOET), the President of Vietnam National University, Hanoi shall issue guidance documents on admission applicable at Vietnam National University, Hanoi.
 
 ## Article 10. Domestic joint training
 
-- 1. Joint training shall only be conducted in the part-time mode in accordance with paragraph 22, Article 1 of the Law Amending and Supplementing a Number of Articles of the Law on Higher Education and in accordance with paragraphs 2 and 3 of this Article; joint training shall not be conducted for fields in the health sector that require professional practice certificates.
-- 2. Minimum requirements for the lead training unit
+1. Joint training shall only be conducted in the part-time mode in accordance with paragraph 22, Article 1 of the Law Amending and Supplementing a Number of Articles of the Law on Higher Education and in accordance with paragraphs 2 and 3 of this Article; joint training shall not be conducted for fields in the health sector that require professional practice certificates.
+2. Minimum requirements for the lead training unit
 
-   - a) The institution shall have been recognized as meeting the quality standards for higher education institutions by a lawful and currently valid educational quality assurance organization as prescribed;
-   - b) The training program intended for joint training shall have been implemented for at least 03 consecutive cohorts in the full-time mode; from the 2024 admission cohort onward, the training program shall have been recognized as meeting quality standards in accordance with prevailing regulations;
-   - c) The institution shall ensure that its full-time lecturers teach at least 70% of the content and volume of the training program;
+a) The institution shall have been recognized as meeting the quality standards for higher education institutions by a lawful and currently valid educational quality assurance organization as prescribed;
+b) The training program intended for joint training shall have been implemented for at least 03 consecutive cohorts in the full-time mode; from the 2024 admission cohort onward, the training program shall have been recognized as meeting quality standards in accordance with prevailing regulations;
+c) The institution shall ensure that its full-time lecturers teach at least 70% of the content and volume of the training program;
 
----
+d) The institution shall have issued regulations on joint training and shall have appraised the quality assurance conditions of the cooperating training unit.
+3. Minimum requirements for the cooperating training unit
 
-- d) The institution shall have issued regulations on joint training and shall have appraised the quality assurance conditions of the cooperating training unit.
-- 3. Minimum requirements for the cooperating training unit
+a) The unit shall meet the requirements for the pedagogical environment, physical facilities, equipment, library, and management personnel as required by the training program;
+b) The unit shall have submitted a self-assessment report on institutional quality to the competent state authority as prescribed; from the 2024 admission cohort onward, the unit shall have been recognized as meeting institutional quality standards in accordance with prevailing regulations.
+4. Responsibilities of the parties participating in joint training
 
-   - a) The unit shall meet the requirements for the pedagogical environment, physical facilities, equipment, library, and management personnel as required by the training program;
-   - b) The unit shall have submitted a self-assessment report on institutional quality to the competent state authority as prescribed; from the 2024 admission cohort onward, the unit shall have been recognized as meeting institutional quality standards in accordance with prevailing regulations.
-- 4. Responsibilities of the parties participating in joint training
+a) The lead training unit and the cooperating training unit shall be responsible for entering into a joint training contract, specifically agreeing on the rights and responsibilities of the parties in coordinating the implementation and management of the teaching and learning process to ensure training quality, and shall implement the agreed content in accordance with the provisions of this Regulation and other relevant legal provisions;
+b) The lead training unit shall be responsible for managing training quality; shall report joint training activities to the provincial-level People's Committee of the locality where joint training is conducted prior to organizing admission; if the cooperating training unit fails to meet the quality assurance requirements prescribed for a course or a training program, students shall be transferred to the lead training unit to continue training in accordance with regulations and to ensure the interests of students;
+c) The cooperating training unit shall be responsible for working together with the lead training unit to ensure adequate physical conditions for conducting training; and shall participate in management and instruction as agreed between the two parties;
+d) The lead training unit and the cooperating training unit shall bear legal responsibility for the performance of the joint training contract; shall comply with the regulations on admission and training; and shall ensure the legitimate interests of lecturers and students throughout the training process, including until the last cohort of students graduates in the event of termination of cooperation.
 
-   - a) The lead training unit and the cooperating training unit shall be responsible for entering into a joint training contract, specifically agreeing on the rights and responsibilities of the parties in coordinating the implementation and management of the teaching and learning process to ensure training quality, and shall implement the agreed content in accordance with the provisions of this Regulation and other relevant legal provisions;
-   - b) The lead training unit shall be responsible for managing training quality; shall report joint training activities to the provincial-level People's Committee of the locality where joint training is conducted prior to organizing admission; if the cooperating training unit fails to meet the quality assurance requirements prescribed for a course or a training program, students shall be transferred to the lead training unit to continue training in accordance with regulations and to ensure the interests of students;
-   - c) The cooperating training unit shall be responsible for working together with the lead training unit to ensure adequate physical conditions for conducting training; and shall participate in management and instruction as agreed between the two parties;
-   - d) The lead training unit and the cooperating training unit shall bear legal responsibility for the performance of the joint training contract; shall comply with the regulations on admission and training; and shall ensure the legitimate interests of lecturers and students throughout the training process, including until the last cohort of students graduates in the event of termination of cooperation.
-
----
-
-# Chapter II
-
-# TRAINING PROGRAMS
+# Chapter II TRAINING PROGRAMS
 
 ## Article 11. Structure of training programs
 
 Training programs shall be organized according to the following knowledge blocks:
 
-- 1. The general knowledge block shall be uniformly taught for all fields of study.
-- 2. The field-specific knowledge block shall be uniformly taught for fields of study within the same disciplinary area.
-- 3. The discipline-cluster knowledge block shall be taught for fields of study within the same discipline cluster.
-- 4. The discipline-group knowledge block shall be taught for fields of study within the same discipline group.
-- 5. The major-specific knowledge block shall be taught for a single field of study.
+1. The general knowledge block shall be uniformly taught for all fields of study.
+2. The field-specific knowledge block shall be uniformly taught for fields of study within the same disciplinary area.
+3. The discipline-cluster knowledge block shall be taught for fields of study within the same discipline cluster.
+4. The discipline-group knowledge block shall be taught for fields of study within the same discipline group.
+5. The major-specific knowledge block shall be taught for a single field of study.
 
 ## Article 12. Principles for developing new fields of study
 
 Training units shall develop proposals for opening new fields of study in accordance with the following principles:
 
-- 1. There shall be high social demand, demonstrated through surveys conducted at organizations that employ graduates.
-- 2. The field shall be consistent with the mission and closely linked with the development strategy of Vietnam National University, Hanoi and of the training unit; and shall play a pioneering pilot role in Vietnam's higher education system.
-- 3. The field shall not duplicate a field of study for which another training unit within Vietnam National University, Hanoi serves as the lead unit. Special cases shall be decided by the President of Vietnam National University, Hanoi.
-- 4. The field shall be consistent with the existing quality assurance conditions of the training unit.
-- 5. The field shall effectively leverage international cooperation.
+1. There shall be high social demand, demonstrated through surveys conducted at organizations that employ graduates.
+2. The field shall be consistent with the mission and closely linked with the development strategy of Vietnam National University, Hanoi and of the training unit; and shall play a pioneering pilot role in Vietnam's higher education system.
+3. The field shall not duplicate a field of study for which another training unit within Vietnam National University, Hanoi serves as the lead unit. Special cases shall be decided by the President of Vietnam National University, Hanoi.
+4. The field shall be consistent with the existing quality assurance conditions of the training unit.
+5. The field shall effectively leverage international cooperation.
 
 ## Article 13. Learning outcomes of training programs
 
-- 1. Learning outcomes shall be a mandatory requirement when developing a training program.
-
----
+1. Learning outcomes shall be a mandatory requirement when developing a training program.
 
 Furthermore, for honors and high-quality training programs, the learning outcomes shall meet the following requirements: students shall possess a solid foundation of basic knowledge, the ability to apply advanced knowledge and practical knowledge in the field of training to analyze, evaluate, and innovate in research and in solving complex tasks, and the capacity for international integration; and shall demonstrate high competence and professional proficiency (as evidenced by academic and scientific research results).
 
-- 2. Learning outcomes shall include:
-   - a) Knowledge standards;
-   - b) Skills standards;
-   - c) Levels of autonomy and responsibility;
-   - d) Ethical qualities.
+2. Learning outcomes shall include:
+a) Knowledge standards;
+b) Skills standards;
+c) Levels of autonomy and responsibility;
+d) Ethical qualities.
 
-- 3. Learning outcomes for foreign language proficiency shall be prescribed as follows:
-   - a) Equivalent to Level 3 (under the Six-Level Foreign Language Proficiency Framework for Vietnam) as prescribed by the Ministry of Education and Training (MOET) and by Vietnam National University, Hanoi for standard training programs, major-minor programs, and double-major programs;
-   - b) Equivalent to Level 4 (under the Six-Level Foreign Language Proficiency Framework for Vietnam) as prescribed by the Ministry of Education and Training (MOET) and by Vietnam National University, Hanoi for honors training programs, high-quality training programs, joint training programs with foreign educational institutions for which degrees are conferred by Vietnam National University, Hanoi, and joint training programs with foreign educational institutions for which degrees are jointly conferred by the foreign partner and Vietnam National University, Hanoi.
+3. Learning outcomes for foreign language proficiency shall be prescribed as follows:
+a) Equivalent to Level 3 (under the Six-Level Foreign Language Proficiency Framework for Vietnam) as prescribed by the Ministry of Education and Training (MOET) and by Vietnam National University, Hanoi for standard training programs, major-minor programs, and double-major programs;
+b) Equivalent to Level 4 (under the Six-Level Foreign Language Proficiency Framework for Vietnam) as prescribed by the Ministry of Education and Training (MOET) and by Vietnam National University, Hanoi for honors training programs, high-quality training programs, joint training programs with foreign educational institutions for which degrees are conferred by Vietnam National University, Hanoi, and joint training programs with foreign educational institutions for which degrees are jointly conferred by the foreign partner and Vietnam National University, Hanoi.
 
-- 4. The head of training unit shall direct the development of learning outcomes, organize broad workshops to solicit input from administrators, scientists, lecturers, organizations that employ graduates, and alumni in order to refine and publish the learning outcomes of each training program.
+4. The head of training unit shall direct the development of learning outcomes, organize broad workshops to solicit input from administrators, scientists, lecturers, organizations that employ graduates, and alumni in order to refine and publish the learning outcomes of each training program.
 
 ## Article 14. Design of training programs
 
-- 1. Principles for designing training programs
+1. Principles for designing training programs
 
 Training programs shall be designed with the aim of achieving the learning outcomes and shall follow a four-step process:
 
----
+a) Formulating objectives, surveying needs, and developing learning outcomes;
+b) Designing the training program to meet the learning outcomes;
+c) Conducting pilot training, adjusting, and refining the training program;
+d) Launching official training.
 
-- a) Formulating objectives, surveying needs, and developing learning outcomes;
-   - b) Designing the training program to meet the learning outcomes;
-   - c) Conducting pilot training, adjusting, and refining the training program;
-   - d) Launching official training.
+2. Design of training programs
 
-- 2. Design of training programs
-
-   - a) Standard training programs shall be designed with a minimum of 120 credits for bachelor's degree programs, 150 credits for engineer's degree programs, 155 credits for pharmacist's degree programs, and a minimum of 205 credits for medical doctor's degree programs;
-   - b) High-quality training programs shall be designed with at least 15 credits more than the corresponding standard training program, on the basis of enhancing and supplementing certain courses, with reference to foreign training programs or on the basis of a training program from a reputable and advanced university worldwide that has been adjusted to comply with the regulations of Vietnam National University, Hanoi;
-   - c) Honors training programs shall be designed with at least 30 credits more than the corresponding standard training program, on the basis of enhancing and supplementing certain courses with higher proficiency requirements and broader, deeper content, with reference to reputable foreign training programs;
-   - d) Major-minor programs
+a) Standard training programs shall be designed with a minimum of 120 credits for bachelor's degree programs, 150 credits for engineer's degree programs, 155 credits for pharmacist's degree programs, and a minimum of 205 credits for medical doctor's degree programs;
+b) High-quality training programs shall be designed with at least 15 credits more than the corresponding standard training program, on the basis of enhancing and supplementing certain courses, with reference to foreign training programs or on the basis of a training program from a reputable and advanced university worldwide that has been adjusted to comply with the regulations of Vietnam National University, Hanoi;
+c) Honors training programs shall be designed with at least 30 credits more than the corresponding standard training program, on the basis of enhancing and supplementing certain courses with higher proficiency requirements and broader, deeper content, with reference to reputable foreign training programs;
+d) Major-minor programs
 
 In addition to the training program content designed for the first major with a minimum knowledge volume of 120 credits, courses from the training program of the second major or other supplementary knowledge courses with a minimum knowledge volume of 15 credits, primarily from the major-specific knowledge block, may be added to form a major-minor program. The supplementary courses shall be reflected in the diploma supplement issued together with the degree certificate. The organization and management of training shall be conducted through articulation among faculties within the same training unit or among training units within Vietnam National University, Hanoi.
 
-   - đ) Double-major programs
-
----
+đ) Double-major programs
 
 A double-major program shall consist of two parts: the first major training program with a minimum knowledge volume of 120 credits, and the second major with a knowledge volume of 30 credits or more (identical or equivalent courses between the two training programs shall be counted only once toward the knowledge volume). The organization and management of training shall be conducted through articulation among faculties/departments within the same training unit or among training units within Vietnam National University, Hanoi;
 
-   - e) Joint training programs with foreign educational institutions for which degrees are conferred by Vietnam National University, Hanoi shall be designed in accordance with the regulations of Vietnam National University, Hanoi and with reference to the training program of the foreign partner, adjusted and supplemented to meet the requirements and practical conditions of Vietnam;
-   - g) Joint training programs with foreign educational institutions for which degrees are jointly conferred by Vietnam National University, Hanoi and the foreign partner shall be designed on the basis of the regulations on training program design of Vietnam National University, Hanoi and the content of the cooperation agreement signed between the two parties;
-   - h) This Regulation does not prescribe the design of joint training programs with foreign educational institutions for which degrees are conferred by the foreign partner.
+e) Joint training programs with foreign educational institutions for which degrees are conferred by Vietnam National University, Hanoi shall be designed in accordance with the regulations of Vietnam National University, Hanoi and with reference to the training program of the foreign partner, adjusted and supplemented to meet the requirements and practical conditions of Vietnam;
+g) Joint training programs with foreign educational institutions for which degrees are jointly conferred by Vietnam National University, Hanoi and the foreign partner shall be designed on the basis of the regulations on training program design of Vietnam National University, Hanoi and the content of the cooperation agreement signed between the two parties;
+h) This Regulation does not prescribe the design of joint training programs with foreign educational institutions for which degrees are conferred by the foreign partner.
 
 ## Article 15. Organization of the development, revision, and promulgation of training programs
 
-- 1. Vietnam National University, Hanoi
-   - a) Shall prescribe the structure of training programs in accordance with Article 11 of this Regulation;
-   - b) Shall appraise and approve proposals for opening new fields of study submitted by training units;
-   - c) Shall decide on the promulgation of training programs;
-   - d) Shall appraise quality assurance conditions and assign training organization tasks to training units in accordance with the promulgated training programs.
+1. Vietnam National University, Hanoi
+a) Shall prescribe the structure of training programs in accordance with Article 11 of this Regulation;
+b) Shall appraise and approve proposals for opening new fields of study submitted by training units;
+c) Shall decide on the promulgation of training programs;
+d) Shall appraise quality assurance conditions and assign training organization tasks to training units in accordance with the promulgated training programs.
 
-- 2. Training units
-   - a) Shall develop training programs and proposals for opening new fields of study and submit them to Vietnam National University, Hanoi for appraisal, approval, and promulgation;
-   - b) Shall update, revise, appraise, and promulgate revised training programs in accordance with the decentralization and prevailing regulations of Vietnam National University, Hanoi;
-   - c) Shall develop and formally accept the course syllabi for courses under their management.
+2. Training units
+a) Shall develop training programs and proposals for opening new fields of study and submit them to Vietnam National University, Hanoi for appraisal, approval, and promulgation;
+b) Shall update, revise, appraise, and promulgate revised training programs in accordance with the decentralization and prevailing regulations of Vietnam National University, Hanoi;
+c) Shall develop and formally accept the course syllabi for courses under their management.
 
----
-
-# Chapter III
-
-# ORGANIZATION OF TRAINING
+# Chapter III ORGANIZATION OF TRAINING
 
 ## Article 16. Semesters
 
@@ -383,19 +349,17 @@ Each supplementary semester shall have at least 5 instructional weeks and 1 exam
 
 ## Article 17. Academic programs
 
-- 1. Duration of the academic program
+1. Duration of the academic program
 
-   - a) The designed duration of a full-time academic program shall be 8 regular semesters for bachelor's degree programs, 9 to 10 regular semesters for engineer's degree programs, 10 regular semesters for pharmacist's degree programs, and 12 regular semesters for medical doctor's degree programs;
-   - b) The duration according to the standard study plan for the entire program in the part-time training mode shall be at least 20% longer than that of the full-time training mode for the same training program;
-   - c) The designed duration of the academic program for second degree training shall be determined by the head of training unit for each student on the basis of the volume of knowledge already accumulated and the preserved learning outcomes, but shall not exceed the designed duration of the corresponding full-time training program;
-   - d) The maximum time for a student to complete the academic program shall not exceed 2 times the duration according to the standard study plan for the entire program for each training mode. For students in articulated programs who have been exempted from accumulated credit volumes, the maximum time for the student to complete the academic program shall be determined on the basis of the duration according to the standard study plan for the entire program, reduced proportionally to the exempted volume;
-   - đ) The duration of the academic program for concurrent enrollment in two training programs shall not exceed the maximum training duration of the first training program.
+a) The designed duration of a full-time academic program shall be 8 regular semesters for bachelor's degree programs, 9 to 10 regular semesters for engineer's degree programs, 10 regular semesters for pharmacist's degree programs, and 12 regular semesters for medical doctor's degree programs;
+b) The duration according to the standard study plan for the entire program in the part-time training mode shall be at least 20% longer than that of the full-time training mode for the same training program;
+c) The designed duration of the academic program for second degree training shall be determined by the head of training unit for each student on the basis of the volume of knowledge already accumulated and the preserved learning outcomes, but shall not exceed the designed duration of the corresponding full-time training program;
+d) The maximum time for a student to complete the academic program shall not exceed 2 times the duration according to the standard study plan for the entire program for each training mode. For students in articulated programs who have been exempted from accumulated credit volumes, the maximum time for the student to complete the academic program shall be determined on the basis of the duration according to the standard study plan for the entire program, reduced proportionally to the exempted volume;
+đ) The duration of the academic program for concurrent enrollment in two training programs shall not exceed the maximum training duration of the first training program.
 
-- 2. Training year
+2. Training year
 
 After each semester, based on the number of accumulated credits (excluding free elective courses, physical education, national defense and security education, and supplementary skills), students shall be classified by training year as follows:
-
----
 
 <div align="center">
 
@@ -412,24 +376,22 @@ After each semester, based on the number of accumulated credits (excluding free 
 
 ## Article 18. Training plan
 
-- 1. Vietnam National University, Hanoi (VNU) shall issue the academic year plan before June 30 of each year.
-- 2. On the basis of the academic year plan issued by Vietnam National University, Hanoi (VNU), the training unit shall develop a plan for organizing training, with a detailed training schedule according to a unified plan, ensuring articulation throughout Vietnam National University, Hanoi (VNU), and shall report to Vietnam National University, Hanoi (VNU) before July 31 of each year;
-- 3. At the beginning of the academic program, the training unit shall notify students of the following:
-   - a) The commitment to educational quality;
-   - b) The training program;
-   - c) The learning outcomes of the training program;
-   - d) Quality assurance conditions (teaching staff, physical facilities, laboratories, libraries, and the learning materials system);
-   - đ) Information on tuition fees and scholarships;
-   - e) Training regulations and other regulations relating to the study, personal development, and daily activities of students.
-- 4. At the beginning of each academic year, the training unit shall notify students of the study plan for the academic year.
-- 5. No later than 01 month before the start of a new semester, the training unit shall announce the following:
+1. Vietnam National University, Hanoi (VNU) shall issue the academic year plan before June 30 of each year.
+2. On the basis of the academic year plan issued by Vietnam National University, Hanoi (VNU), the training unit shall develop a plan for organizing training, with a detailed training schedule according to a unified plan, ensuring articulation throughout Vietnam National University, Hanoi (VNU), and shall report to Vietnam National University, Hanoi (VNU) before July 31 of each year;
+3. At the beginning of the academic program, the training unit shall notify students of the following:
+a) The commitment to educational quality;
+b) The training program;
+c) The learning outcomes of the training program;
+d) Quality assurance conditions (teaching staff, physical facilities, laboratories, libraries, and the learning materials system);
+đ) Information on tuition fees and scholarships;
+e) Training regulations and other regulations relating to the study, personal development, and daily activities of students.
+4. At the beginning of each academic year, the training unit shall notify students of the study plan for the academic year.
+5. No later than 01 month before the start of a new semester, the training unit shall announce the following:
 
----
-
-- a) The timetable of course sections planned for instruction in the semester, including the following information: course name, number of credits, course section name, class periods, classroom/location, minimum and maximum number of students for the course section, full name, email, and contact telephone number of the lecturer in charge of the course, and other information;
-   - b) The time and methods for organizing course registration;
-- 6. Depending on the actual course registration situation, the training unit shall announce courses that cannot be offered as planned after the course registration deadline has expired.
-- 7. No later than one month after the end of the academic year, training units shall submit the academic year summary report to Vietnam National University, Hanoi (VNU).
+a) The timetable of course sections planned for instruction in the semester, including the following information: course name, number of credits, course section name, class periods, classroom/location, minimum and maximum number of students for the course section, full name, email, and contact telephone number of the lecturer in charge of the course, and other information;
+b) The time and methods for organizing course registration;
+6. Depending on the actual course registration situation, the training unit shall announce courses that cannot be offered as planned after the course registration deadline has expired.
+7. No later than one month after the end of the academic year, training units shall submit the academic year summary report to Vietnam National University, Hanoi (VNU).
 
 ## Article 19. Hours of teaching and learning activities
 
@@ -437,57 +399,51 @@ The hours of teaching and learning activities in the full-time training mode of 
 
 ## Article 20. Organization of teaching and learning
 
-- 1. Program cohort classes
-   - a) A program cohort class shall be organized for students in the same field of study within the same academic program and shall remain stable from the beginning to the end of each program. The person in charge of the program cohort class shall be the homeroom teacher. The representative of the program cohort class shall be the Class Committee.
-   - b) The program cohort class shall be named according to the field of study and the year of enrollment of students, with a code in accordance with the regulations of Vietnam National University, Hanoi (VNU).
-   - c) Students who are permitted to take a temporary leave of absence shall, upon returning to continue their studies, be placed in a program cohort class appropriate to the volume of knowledge already accumulated while retaining the student identification number previously assigned. In cases where a student is placed in a program cohort class whose training program contains courses that differ from those of the training program that the student followed prior to the temporary leave of absence, the head of training unit shall decide whether to allow the student to preserve credit or to require supplementary study of equivalent courses.
+1. Program cohort classes
+a) A program cohort class shall be organized for students in the same field of study within the same academic program and shall remain stable from the beginning to the end of each program. The person in charge of the program cohort class shall be the homeroom teacher. The representative of the program cohort class shall be the Class Committee.
+b) The program cohort class shall be named according to the field of study and the year of enrollment of students, with a code in accordance with the regulations of Vietnam National University, Hanoi (VNU).
+c) Students who are permitted to take a temporary leave of absence shall, upon returning to continue their studies, be placed in a program cohort class appropriate to the volume of knowledge already accumulated while retaining the student identification number previously assigned. In cases where a student is placed in a program cohort class whose training program contains courses that differ from those of the training program that the student followed prior to the temporary leave of absence, the head of training unit shall decide whether to allow the student to preserve credit or to require supplementary study of equivalent courses.
 
----
-
-- 2. Course sections
-   - a) A course section shall be organized for students taking the same course in the same semester. The training unit managing the course shall be responsible for establishing and administering the course section;
-   - b) The course section shall be named according to the course code. Where a course has multiple course sections, the name of each section shall consist of the course section name supplemented by the sequential number of the course section;
-   - c) The head of training unit shall prescribe the minimum and maximum number of students for each course section. A course section shall not be organized if the number of registered students is fewer than the prescribed minimum number of students, in which case students shall register for another course if they have not met the minimum study load for the semester;
-   - d) The timetable for regular course sections shall be distributed evenly across the weeks of the semester. In cases where it is necessary to schedule intensive study sessions, the number of instructional hours for any given course shall not exceed 15 hours per week and 4 hours per day.
-- 3. Online teaching and learning
-   - a) The head of training unit shall decide on organizing classes in the online mode when the prevailing regulations on the application of information technology in training management and organization through the network are met; and shall have solutions to ensure quality and evidence of the quality of classes organized in the online mode, which shall not be lower than the quality of classes organized in the in-person mode;
-   - b) For training in the full-time and part-time modes, a maximum of 30% of the total volume of the training program may be delivered through online classes. In cases of natural disasters, complex epidemics, and other force majeure circumstances, the training unit shall follow the guidance of the Ministry of Education and Training (MOET) and of Vietnam National University, Hanoi (VNU).
+2. Course sections
+a) A course section shall be organized for students taking the same course in the same semester. The training unit managing the course shall be responsible for establishing and administering the course section;
+b) The course section shall be named according to the course code. Where a course has multiple course sections, the name of each section shall consist of the course section name supplemented by the sequential number of the course section;
+c) The head of training unit shall prescribe the minimum and maximum number of students for each course section. A course section shall not be organized if the number of registered students is fewer than the prescribed minimum number of students, in which case students shall register for another course if they have not met the minimum study load for the semester;
+d) The timetable for regular course sections shall be distributed evenly across the weeks of the semester. In cases where it is necessary to schedule intensive study sessions, the number of instructional hours for any given course shall not exceed 15 hours per week and 4 hours per day.
+3. Online teaching and learning
+a) The head of training unit shall decide on organizing classes in the online mode when the prevailing regulations on the application of information technology in training management and organization through the network are met; and shall have solutions to ensure quality and evidence of the quality of classes organized in the online mode, which shall not be lower than the quality of classes organized in the in-person mode;
+b) For training in the full-time and part-time modes, a maximum of 30% of the total volume of the training program may be delivered through online classes. In cases of natural disasters, complex epidemics, and other force majeure circumstances, the training unit shall follow the guidance of the Ministry of Education and Training (MOET) and of Vietnam National University, Hanoi (VNU).
 
 ## Article 21. Organization of course registration
 
-- 1. The number of credits registered for study in each regular semester (*excluding physical education, national defense and security education, supplementary skills, grade improvement, and free elective courses*) shall satisfy the condition that the minimum registered volume shall not be fewer than 2/3 of the average volume per semester according to the standard study plan; and the maximum volume shall not exceed 3/2 of the average volume per semester according to the standard study plan (*not counting the final semester of the program*).
-
----
+1. The number of credits registered for study in each regular semester (*excluding physical education, national defense and security education, supplementary skills, grade improvement, and free elective courses*) shall satisfy the condition that the minimum registered volume shall not be fewer than 2/3 of the average volume per semester according to the standard study plan; and the maximum volume shall not exceed 3/2 of the average volume per semester according to the standard study plan (*not counting the final semester of the program*).
 
 In cases where a student wishes to register for fewer credits than the minimum in a semester, the approval of the head of training unit shall be required.
 
 For supplementary semesters: the head of training unit shall prescribe the relevant provisions.
 
-- 2. Course registration
-   - a) The organization of registration for courses in the training program shall be prescribed by the head of training unit. Students shall be permitted to register for and take examinations in courses within the training program (in the prescribed language) offered by any training unit under Vietnam National University, Hanoi (VNU). The results of such courses shall be converted and recognized at all training units within Vietnam National University, Hanoi (VNU);
-   - b) Training units shall be responsible for announcing in writing and on the unit's electronic information portal the teaching plan and timetable for courses 01 month prior to the registration period so that students may be informed, and shall create all favorable conditions for students from other units to register for courses; training units shall transfer course registration data and course grade data of students to the training unit managing the students immediately after the registration period ends and after grading is completed;
-   - c) All training units throughout Vietnam National University, Hanoi (VNU) shall use a unified software and database for training management and learner management;
-   - d) When registering for elective courses, students shall clearly identify whether the course is a conditional elective course or a free elective course within the training program. Free elective courses with a grade of D or above shall be recorded in the diploma supplement issued together with the degree certificate and shall not be included in the calculation of the semester GPA or the cumulative GPA.
-- 3. Course registration period
-   - a) Before the start of each semester, depending on their capacity and study conditions, students shall consult with their academic advisor for advice on registering for courses they plan to take in that semester;
-   - b) No later than 1 month before the start of each semester, students shall complete the registration for courses;
-   - c) During the first 2 weeks of a regular semester or during the first week of a supplementary semester, students shall be permitted to register for additional courses they wish to take or to switch to a different course section.
+2. Course registration
+a) The organization of registration for courses in the training program shall be prescribed by the head of training unit. Students shall be permitted to register for and take examinations in courses within the training program (in the prescribed language) offered by any training unit under Vietnam National University, Hanoi (VNU). The results of such courses shall be converted and recognized at all training units within Vietnam National University, Hanoi (VNU);
+b) Training units shall be responsible for announcing in writing and on the unit's electronic information portal the teaching plan and timetable for courses 01 month prior to the registration period so that students may be informed, and shall create all favorable conditions for students from other units to register for courses; training units shall transfer course registration data and course grade data of students to the training unit managing the students immediately after the registration period ends and after grading is completed;
+c) All training units throughout Vietnam National University, Hanoi (VNU) shall use a unified software and database for training management and learner management;
+d) When registering for elective courses, students shall clearly identify whether the course is a conditional elective course or a free elective course within the training program. Free elective courses with a grade of D or above shall be recorded in the diploma supplement issued together with the degree certificate and shall not be included in the calculation of the semester GPA or the cumulative GPA.
+3. Course registration period
+a) Before the start of each semester, depending on their capacity and study conditions, students shall consult with their academic advisor for advice on registering for courses they plan to take in that semester;
+b) No later than 1 month before the start of each semester, students shall complete the registration for courses;
+c) During the first 2 weeks of a regular semester or during the first week of a supplementary semester, students shall be permitted to register for additional courses they wish to take or to switch to a different course section.
 
----
-
-- 4. Registration for retaking courses
-   - a) For compulsory courses, if a student receives a grade of F, the student shall register to retake that course;
-   - b) For conditional elective courses, if a student receives a grade of F, the student shall register to retake that course or register for another elective course in the same knowledge area as a replacement.
-- 5. Registration for grade improvement
+4. Registration for retaking courses
+a) For compulsory courses, if a student receives a grade of F, the student shall register to retake that course;
+b) For conditional elective courses, if a student receives a grade of F, the student shall register to retake that course or register for another elective course in the same knowledge area as a replacement.
+5. Registration for grade improvement
 
 For courses with a grade of D or D+, students shall be permitted to register to retake that course or to switch to another course (if the course is a conditional elective) for grade improvement of the cumulative GPA. The previous course grade shall be canceled when the registration for retaking the course for grade improvement is accepted and shall be replaced by the grade obtained for the grade improvement course.
 
-- 6. Course registration results
+6. Course registration results
 
 The training unit shall notify students of the course registration results after the student has completed registration ensuring the minimum study load for the semester as prescribed in paragraph 1 of this Article.
 
-- 7. Registration for graduation thesis or graduation project topics
-   - a) The head of training unit shall prescribe:
+7. Registration for graduation thesis or graduation project topics
+a) The head of training unit shall prescribe:
 
 - The conditions for registration, procedures for registering to receive a topic, the format and duration for completing the graduation thesis or graduation project;
 
@@ -499,56 +455,50 @@ The training unit shall notify students of the course registration results after
 
 - The format, procedures for defending, and assessment of graduation theses and graduation projects.
 
-   - b) The Rector of the University/Dean of the faculty directly affiliated with Vietnam National University, Hanoi (VNU), or the Dean of the faculty within a member university shall assign supervisors for graduation theses and graduation projects upon the recommendation of the Head of Department. Topics for graduation theses and graduation projects shall be proposed by the supervising lecturer and approved at the department level.
-
----
+b) The Rector of the University/Dean of the faculty directly affiliated with Vietnam National University, Hanoi (VNU), or the Dean of the faculty within a member university shall assign supervisors for graduation theses and graduation projects upon the recommendation of the Head of Department. Topics for graduation theses and graduation projects shall be proposed by the supervising lecturer and approved at the department level.
 
 ## Article 22. Recognition of learning outcomes and credit transfer
 
 Courses with the same content and duration that a student has accumulated through transfer within or outside Vietnam National University, Hanoi (VNU), through articulated programs (if any), through concurrent enrollment in two training programs, or through study at a foreign university shall be considered for recognition. For other courses, based on the training program and training content, the head of training unit shall decide on preservation or equivalence. The grades and number of credits of courses that are preserved or deemed equivalent shall be recognized and converted to establish the student's records prior to beginning the study plan under the new training program.
 
-- 1. A learner's study results that have been accumulated from a different training level, a different credit system, a different field of study or training program, a different academic cohort, or from a different training institution domestically or abroad shall be considered by the training unit for recognition and conversion into credits for courses in the training program in which the learner is enrolled.
-- 2. The academic committee of the training unit shall consider and decide on the recognition and conversion of credits on the basis of comparing learning outcomes, content and study volume, course assessment methods, and quality assurance conditions for program implementation, at the following levels:
-   - a) Recognition and conversion on a course-by-course basis;
-   - b) Recognition and conversion by groups of courses or knowledge areas;
-   - c) Recognition and conversion for the entire training program.
-- 3. The training unit shall publicly disclose regulations on the recognition of learning outcomes and credit transfer. The maximum volume eligible for recognition and conversion shall not exceed 50% of the minimum study volume of the training program; for teacher education fields of study, the provisions of the Ministry of Education and Training (MOET) shall apply.
-- 4. Credit recognition in student exchange: The assessment and mutual recognition of the number of credits accumulated by students at training institutions outside Vietnam National University, Hanoi (VNU) shall not exceed 25% of the total volume of the training program.
-
----
+1. A learner's study results that have been accumulated from a different training level, a different credit system, a different field of study or training program, a different academic cohort, or from a different training institution domestically or abroad shall be considered by the training unit for recognition and conversion into credits for courses in the training program in which the learner is enrolled.
+2. The academic committee of the training unit shall consider and decide on the recognition and conversion of credits on the basis of comparing learning outcomes, content and study volume, course assessment methods, and quality assurance conditions for program implementation, at the following levels:
+a) Recognition and conversion on a course-by-course basis;
+b) Recognition and conversion by groups of courses or knowledge areas;
+c) Recognition and conversion for the entire training program.
+3. The training unit shall publicly disclose regulations on the recognition of learning outcomes and credit transfer. The maximum volume eligible for recognition and conversion shall not exceed 50% of the minimum study volume of the training program; for teacher education fields of study, the provisions of the Ministry of Education and Training (MOET) shall apply.
+4. Credit recognition in student exchange: The assessment and mutual recognition of the number of credits accumulated by students at training institutions outside Vietnam National University, Hanoi (VNU) shall not exceed 25% of the total volume of the training program.
 
 ## Article 23. Withdrawal from registered courses
 
-- 1. Course withdrawal shall apply in the following cases:
-   - a) According to the needs and choices of the student;
-   - b) After course registration, the student's academic standing is determined to require course withdrawal within the prescribed volume limits;
-   - c) If the semester GPA is below 2.00 but the student has not yet been subject to academic dismissal, the student shall be permitted to register for no more than 18 credits in each regular semester.
-- 2. Course withdrawal shall only be accepted within 2 weeks from the start of a regular semester, or 1 week from the start of a supplementary semester, and tuition fees shall be refunded. Beyond this deadline, the course shall remain on the registration form, and if the student does not attend, the student shall receive a grade of F and shall not be refunded tuition fees.
-- 3. Conditions for withdrawal from registered courses *(after the official class roster has been finalized)*:
-   - a) The student shall submit a written application to the Office of Academic Affairs;
-   - b) Approval shall be obtained from the head of training unit;
-   - c) The withdrawal shall not violate the provisions of paragraph 1, Article 21 of this Regulation.
+1. Course withdrawal shall apply in the following cases:
+a) According to the needs and choices of the student;
+b) After course registration, the student's academic standing is determined to require course withdrawal within the prescribed volume limits;
+c) If the semester GPA is below 2.00 but the student has not yet been subject to academic dismissal, the student shall be permitted to register for no more than 18 credits in each regular semester.
+2. Course withdrawal shall only be accepted within 2 weeks from the start of a regular semester, or 1 week from the start of a supplementary semester, and tuition fees shall be refunded. Beyond this deadline, the course shall remain on the registration form, and if the student does not attend, the student shall receive a grade of F and shall not be refunded tuition fees.
+3. Conditions for withdrawal from registered courses *(after the official class roster has been finalized)*:
+a) The student shall submit a written application to the Office of Academic Affairs;
+b) Approval shall be obtained from the head of training unit;
+c) The withdrawal shall not violate the provisions of paragraph 1, Article 21 of this Regulation.
 
 Students shall only be permitted to be absent from class for the course from which withdrawal is requested after the lecturer in charge of the course has received the notification from the Office of Academic Affairs.
 
 ## Article 24. Subjects eligible for exemption from or deferral of national defense and security education and physical education courses
 
-- 1. Subjects eligible for exemption from or deferral of national defense and security education courses
-   - a) Subjects eligible for full exemption from all courses
+1. Subjects eligible for exemption from or deferral of national defense and security education courses
+a) Subjects eligible for full exemption from all courses
 
 - Students holding a graduation certificate from a military academy, military officer school, or public security academy;
 - Students who already possess a national defense and security education certificate;
 - Students who are foreign nationals.
-   - b) Subjects eligible for exemption from study and examination of courses or content within the national defense and security education curriculum: Students possessing a certificate confirming learning outcomes of the relevant courses or content with a score of 5.0 or above on a 10-point scale.
-   - c) Subjects eligible for exemption from practical military skills content
-
----
+b) Subjects eligible for exemption from study and examination of courses or content within the national defense and security education curriculum: Students possessing a certificate confirming learning outcomes of the relevant courses or content with a score of 5.0 or above on a 10-point scale.
+c) Subjects eligible for exemption from practical military skills content
 
 - Students who are clerics of religious organizations;
 - Students with disabilities who hold a disability certificate in accordance with the law on persons with disabilities;
 - Students who do not meet the physical fitness requirements or who suffer from medical conditions falling within the categories exempt from military service obligations under prevailing regulations;
 - Students who have completed military service or people's public security service.
-   - d) Subjects eligible for deferral
+d) Subjects eligible for deferral
 
 - Female students who are pregnant or on maternity leave in accordance with prevailing regulations;
 - Students who, for health reasons, must suspend their studies for an extended period for medical treatment, with certification from the hospital where the student is receiving treatment;
@@ -556,91 +506,81 @@ Students shall only be permitted to be absent from class for the course from whi
 
 The above subjects, if approved for deferral by the head of training unit, shall be required to continue studying the remaining content as prescribed after the deferral period has expired.
 
-- 2. Exemption from or deferral of physical education courses
-   - a) Subjects eligible for full exemption from all courses: Students who have completed the physical education courses appropriate to their training level.
-   - b) Subjects eligible for exemption from practical content: Students with injuries or congenital disabilities that limit motor functions (with certification from a district-level hospital or equivalent or higher) shall be exempt from practical content or may choose specialized content designed for persons with disabilities.
-   - c) Subjects eligible for deferral
+2. Exemption from or deferral of physical education courses
+a) Subjects eligible for full exemption from all courses: Students who have completed the physical education courses appropriate to their training level.
+b) Subjects eligible for exemption from practical content: Students with injuries or congenital disabilities that limit motor functions (with certification from a district-level hospital or equivalent or higher) shall be exempt from practical content or may choose specialized content designed for persons with disabilities.
+c) Subjects eligible for deferral
 
 - Students who are ill, injured, or affected by natural disasters or fires;
 - Female students who are pregnant or on maternity leave in accordance with prevailing regulations.
 
 The head of training unit shall consider and decide on deferral for the eligible subjects. After the deferral period has expired, students shall continue studying the remaining content of the course as prescribed.
 
----
-
 ## Article 25. Second degree training
 
-- 1. Second degree training in the part-time mode shall be available to persons who already hold a bachelor's degree.
-- 2. The training program for second degree training shall be determined for each learner according to the following principle: the learner shall be permitted to preserve the learning outcomes of courses in the first field of study's training program that share 80% or more of the content equivalent to the content of courses in the new field of study's training program and for which the course grade is D or above; for courses with equivalent content of 50% to less than 80%, the learner shall not be permitted to preserve learning outcomes but may self-study and sit for examinations to obtain a grade; for courses that have not been studied or that have equivalent content of less than 50%, the learner shall be required to attend classes before being permitted to sit for examinations in accordance with general regulations.
-- 3. Based on the learning outcomes recorded in the diploma supplement accompanying the first bachelor's degree, the head of training unit shall decide on the preservation of learning outcomes, the volume of knowledge, the courses, and the content that must be supplemented for each student.
-- 4. The training unit shall publicly announce the criteria, procedures for recognizing the value of converted learning outcomes, and the volume of knowledge and skills (if any) already accumulated by the learner that are exempted when studying the second degree training program on the electronic information portal of the training unit prior to organizing training.
+1. Second degree training in the part-time mode shall be available to persons who already hold a bachelor's degree.
+2. The training program for second degree training shall be determined for each learner according to the following principle: the learner shall be permitted to preserve the learning outcomes of courses in the first field of study's training program that share 80% or more of the content equivalent to the content of courses in the new field of study's training program and for which the course grade is D or above; for courses with equivalent content of 50% to less than 80%, the learner shall not be permitted to preserve learning outcomes but may self-study and sit for examinations to obtain a grade; for courses that have not been studied or that have equivalent content of less than 50%, the learner shall be required to attend classes before being permitted to sit for examinations in accordance with general regulations.
+3. Based on the learning outcomes recorded in the diploma supplement accompanying the first bachelor's degree, the head of training unit shall decide on the preservation of learning outcomes, the volume of knowledge, the courses, and the content that must be supplemented for each student.
+4. The training unit shall publicly announce the criteria, procedures for recognizing the value of converted learning outcomes, and the volume of knowledge and skills (if any) already accumulated by the learner that are exempted when studying the second degree training program on the electronic information portal of the training unit prior to organizing training.
 
 ## Article 26. Concurrent enrollment in two training programs
 
-- 1. Students currently studying at training units of Vietnam National University, Hanoi (VNU) in the full-time training mode shall be permitted to register for an additional second training program if all of the following conditions are met:
-   - a) The principal field of study of the second training program shall differ from the principal field of study of the first training program;
-   - b) The student shall have completed at least two semesters of the first training program;
-   - c) The overall course GPA calculated from the beginning of the academic program to the time of registration for the second training program shall be 2.5 or above, and the student shall meet the quality assurance threshold for admission to the second program in the enrollment year; or the overall course GPA calculated from the beginning of the academic program to the time of registration for the second training program shall be 2.0 or above, and the student shall meet the admission requirements of the second program in the enrollment year;
+1. Students currently studying at training units of Vietnam National University, Hanoi (VNU) in the full-time training mode shall be permitted to register for an additional second training program if all of the following conditions are met:
+a) The principal field of study of the second training program shall differ from the principal field of study of the first training program;
+b) The student shall have completed at least two semesters of the first training program;
+c) The overall course GPA calculated from the beginning of the academic program to the time of registration for the second training program shall be 2.5 or above, and the student shall meet the quality assurance threshold for admission to the second program in the enrollment year; or the overall course GPA calculated from the beginning of the academic program to the time of registration for the second training program shall be 2.0 or above, and the student shall meet the admission requirements of the second program in the enrollment year;
 
----
-
-- d) The student shall submit an application to study the additional second training program and shall pay tuition fees in accordance with the regulations of the training unit.
-- 2. The unit organizing the second training program shall propose and organize the appraisal of courses required for accumulation to complete the second training program, and shall recognize equivalent courses from the first training program *(in comparison with the second training program)*. Member universities shall report to Vietnam National University, Hanoi (VNU) for review prior to implementing the second training program; directly affiliated universities/faculties shall submit to Vietnam National University, Hanoi (VNU) for consideration and approval.
-- 3. Based on the quotas assigned annually by the President of Vietnam National University, Hanoi (VNU), the head of training unit shall organize admission for concurrent enrollment in two training programs.
-- 4. During the course of concurrent enrollment in two training programs, students shall only need to accumulate common and equivalent courses once and shall be required to accumulate all remaining courses of both training programs. Students who accumulate the required number of credits for both training programs shall, upon graduation, be awarded two degrees.
-- 5. The maximum time permitted for students concurrently enrolled in two training programs shall be the maximum time prescribed for the first program. When studying the second program, students shall be credited with the results of courses that have content and knowledge volume equivalent to those in the first program.
-- 6. The units organizing the first and second training programs shall update student learning outcomes after each semester on the Undergraduate Training Information Portal of Vietnam National University, Hanoi (VNU). During the course of concurrent enrollment in two programs, if the cumulative GPA of the first training program falls below the average or the student is subject to academic warning, the student shall be required to suspend the second training program in the following semester; the student shall be removed from the roster of the second training program.
-- 7. Students shall only be considered for graduation from the second program if they have been recognized as having graduated from the first training program, have not exceeded the maximum training duration, and have registered no later than 02 years prior to the time of graduation consideration for the second program.
-
----
+d) The student shall submit an application to study the additional second training program and shall pay tuition fees in accordance with the regulations of the training unit.
+2. The unit organizing the second training program shall propose and organize the appraisal of courses required for accumulation to complete the second training program, and shall recognize equivalent courses from the first training program *(in comparison with the second training program)*. Member universities shall report to Vietnam National University, Hanoi (VNU) for review prior to implementing the second training program; directly affiliated universities/faculties shall submit to Vietnam National University, Hanoi (VNU) for consideration and approval.
+3. Based on the quotas assigned annually by the President of Vietnam National University, Hanoi (VNU), the head of training unit shall organize admission for concurrent enrollment in two training programs.
+4. During the course of concurrent enrollment in two training programs, students shall only need to accumulate common and equivalent courses once and shall be required to accumulate all remaining courses of both training programs. Students who accumulate the required number of credits for both training programs shall, upon graduation, be awarded two degrees.
+5. The maximum time permitted for students concurrently enrolled in two training programs shall be the maximum time prescribed for the first program. When studying the second program, students shall be credited with the results of courses that have content and knowledge volume equivalent to those in the first program.
+6. The units organizing the first and second training programs shall update student learning outcomes after each semester on the Undergraduate Training Information Portal of Vietnam National University, Hanoi (VNU). During the course of concurrent enrollment in two programs, if the cumulative GPA of the first training program falls below the average or the student is subject to academic warning, the student shall be required to suspend the second training program in the following semester; the student shall be removed from the roster of the second training program.
+7. Students shall only be considered for graduation from the second program if they have been recognized as having graduated from the first training program, have not exceeded the maximum training duration, and have registered no later than 02 years prior to the time of graduation consideration for the second program.
 
 ## Article 27. Selection, organization of instruction, and transfer of students among honors and high-quality training programs
 
-- 1. Selection
+1. Selection
 
 The selection of students for enrollment in honors and high-quality training programs meeting the standards of Vietnam National University, Hanoi (VNU) shall be conducted through competitive examination and selection-based admission.
 
-   - a) Direct admission
+a) Direct admission
 
 Students falling within any of the following categories shall be granted direct admission to honors and high-quality training programs:
 
 - Members of the national team participating in the International Olympiad in a subject relevant to the field of study;
 - High school students who have won first, second, or third prizes in the national competition for excellent students in a subject relevant to the field of study.
-   - b) Selection-based admission
+b) Selection-based admission
 
 Students who have been admitted to Vietnam National University, Hanoi (VNU) shall be eligible to apply for selection-based admission to honors and high-quality training programs if they meet the admission score threshold for the corresponding training program based on the examination subject combination. The threshold score for applying to these training programs shall be determined by the respective units but shall be at a minimum equal to or higher than the admission score for the corresponding standard field of study/training program. Units shall develop the procedures, selection criteria, and allocation of admission quotas for these training programs and shall report to Vietnam National University, Hanoi (VNU) prior to implementation.
 
-- 2. Organization of instruction for honors and high-quality training programs
+2. Organization of instruction for honors and high-quality training programs
 
-   - a) The training unit shall mobilize excellent lecturers with strong scientific research capability, achievement, and experience in training and supervising student scientific research, both within and outside the training unit, to participate in instruction and to supervise students in completing graduation theses in these training programs;
-   - b) Advanced teaching methods and modern instructional technologies shall be flexibly employed; presentations accompanied by dialogue, group discussions on assigned topics, and the use of modern technology and equipment shall be strengthened to foster students' initiative in knowledge exploration at higher cognitive levels;
+a) The training unit shall mobilize excellent lecturers with strong scientific research capability, achievement, and experience in training and supervising student scientific research, both within and outside the training unit, to participate in instruction and to supervise students in completing graduation theses in these training programs;
+b) Advanced teaching methods and modern instructional technologies shall be flexibly employed; presentations accompanied by dialogue, group discussions on assigned topics, and the use of modern technology and equipment shall be strengthened to foster students' initiative in knowledge exploration at higher cognitive levels;
 
----
+c) Self-study and group study shall be strengthened; lecturers shall assign exercises, course essays, and presentations to students or groups of students for preparation, group discussion, and evaluation; lecturers shall provide answers, analysis, and summaries;
+d) Students shall be guided in learning methods, presentation methods, and participation in scientific research;
+đ) In-class time shall be allocated at a maximum of 70% of the total course hours, with the remaining time designated for student self-study; however, lecturers shall provide content, programs, and materials for the self-study and self-research component, and shall have plans and measures for examining and assessing the self-study component; the volume of information in each lecture period shall be increased;
+e) For specialized courses in the foundational knowledge block that overlap with courses for which the student has won national or international prizes, the student may register for self-study and, if approved by the head of training unit, may be exempt from regular class attendance, but shall be required to sit for examinations to accumulate the course;
+g) Academic seminars shall be organized in the final years; learning methods linked with research shall be strengthened to develop independent and creative thinking. Practical, internship, and field experience class hours shall be increased; study shall be combined with scientific research to enhance the effectiveness of course absorption. No later than the fourth semester, each student shall be assigned a lecturer to supervise scientific research;
+h) The use of foreign languages in teaching certain courses, particularly advanced specialized courses, shall be encouraged. Students shall be encouraged to directly use textbooks and materials in foreign languages alongside Vietnamese textbooks and materials. Students shall be encouraged to participate in student exchange programs with foreign universities for at least 1 semester;
+i) Conditions shall be created for students to use information technology equipment and other modern research equipment. Textbooks and reference materials shall be provided to students in full.
+3. Transfer of students from honors or high-quality training programs to the corresponding standard full-time training program.
 
-- c) Self-study and group study shall be strengthened; lecturers shall assign exercises, course essays, and presentations to students or groups of students for preparation, group discussion, and evaluation; lecturers shall provide answers, analysis, and summaries;
-   - d) Students shall be guided in learning methods, presentation methods, and participation in scientific research;
-   - đ) In-class time shall be allocated at a maximum of 70% of the total course hours, with the remaining time designated for student self-study; however, lecturers shall provide content, programs, and materials for the self-study and self-research component, and shall have plans and measures for examining and assessing the self-study component; the volume of information in each lecture period shall be increased;
-   - e) For specialized courses in the foundational knowledge block that overlap with courses for which the student has won national or international prizes, the student may register for self-study and, if approved by the head of training unit, may be exempt from regular class attendance, but shall be required to sit for examinations to accumulate the course;
-   - g) Academic seminars shall be organized in the final years; learning methods linked with research shall be strengthened to develop independent and creative thinking. Practical, internship, and field experience class hours shall be increased; study shall be combined with scientific research to enhance the effectiveness of course absorption. No later than the fourth semester, each student shall be assigned a lecturer to supervise scientific research;
-   - h) The use of foreign languages in teaching certain courses, particularly advanced specialized courses, shall be encouraged. Students shall be encouraged to directly use textbooks and materials in foreign languages alongside Vietnamese textbooks and materials. Students shall be encouraged to participate in student exchange programs with foreign universities for at least 1 semester;
-   - i) Conditions shall be created for students to use information technology equipment and other modern research equipment. Textbooks and reference materials shall be provided to students in full.
-- 3. Transfer of students from honors or high-quality training programs to the corresponding standard full-time training program.
-
-   - a) Students enrolled in these training programs who have not yet been subject to academic dismissal shall be transferred to the corresponding standard full-time training program if they violate any of the following conditions:
+a) Students enrolled in these training programs who have not yet been subject to academic dismissal shall be transferred to the corresponding standard full-time training program if they violate any of the following conditions:
 
 - Receiving a grade of F in an advanced or supplementary course;
 
----
-
 - Having an overall course GPA calculated up to the time of review below 2.5;
 - Being subject to disciplinary action of reprimand level or above during the period of study.
-   - b) Upon transfer to the standard full-time training program, advanced and supplementary courses shall be converted as follows:
+b) Upon transfer to the standard full-time training program, advanced and supplementary courses shall be converted as follows:
 
 - For advanced courses, the course grade shall be retained, and the number of credits shall be converted according to the standard training program;
 - For supplementary courses, the head of training unit shall consider permitting substitution with another course in the standard training program or shall certify the course as a free elective course.
-- 4. Supplementary admission of students from the standard full-time training program into honors or high-quality training programs.
+4. Supplementary admission of students from the standard full-time training program into honors or high-quality training programs.
 
-   - a) Based on the published training quotas, the head of training unit shall organize supplementary selection-based admission of students into these training programs if all of the following conditions are met:
+a) Based on the published training quotas, the head of training unit shall organize supplementary selection-based admission of students into these training programs if all of the following conditions are met:
 
 - The student shall not be a first-year or final-year student;
 - The student shall demonstrate aptitude, passion, and capability for scientific research;
@@ -649,82 +589,75 @@ Students who have been admitted to Vietnam National University, Hanoi (VNU) shal
 - Grades for courses corresponding to courses in the honors or high-quality training program shall be B or above;
 - The student shall have completed the assessment test for training program transfer as prescribed by the training unit;
 - The student shall demonstrate good moral character and strong organizational discipline.
-   - b) With respect to the conversion of course grades from the standard training program to the corresponding advanced course grades, the head of training unit shall consider recognizing equivalence or requiring supplementary knowledge study.
-
----
+b) With respect to the conversion of course grades from the standard training program to the corresponding advanced course grades, the head of training unit shall consider recognizing equivalence or requiring supplementary knowledge study.
 
 ## Article 28. Change of major
 
-- 1. Students who have completed the first academic year shall be considered for transfer to a different field of study if all of the following conditions are met:
+1. Students who have completed the first academic year shall be considered for transfer to a different field of study if all of the following conditions are met:
 
-   - a) The student shall meet the admission requirements of the field of study to which the transfer is sought;
-   - b) The number of accumulated credits shall be at least equal to the designed volume according to the standard study plan of the training program;
-   - c) The overall course GPA calculated up to the time of review shall be 2.50 or above;
-   - d) The student shall not be under academic warning or subject to disciplinary proceedings;
-   - đ) The training unit shall have available quotas for the field of study to which the student wishes to transfer;
-   - e) The student shall have the approval of the Dean of Faculty/Head of Department (the academic unit responsible for the field of study) and the head of training unit (for member universities), or the President of Vietnam National University, Hanoi (VNU) (for directly affiliated training units).
-- 2. Change of major shall not be considered for students who have already entered their second year or beyond.
-- 3. The learning outcomes of courses already accumulated by a student who changes major or training mode shall be considered for preservation and recognition of equivalence with courses in the new field of study.
+a) The student shall meet the admission requirements of the field of study to which the transfer is sought;
+b) The number of accumulated credits shall be at least equal to the designed volume according to the standard study plan of the training program;
+c) The overall course GPA calculated up to the time of review shall be 2.50 or above;
+d) The student shall not be under academic warning or subject to disciplinary proceedings;
+đ) The training unit shall have available quotas for the field of study to which the student wishes to transfer;
+e) The student shall have the approval of the Dean of Faculty/Head of Department (the academic unit responsible for the field of study) and the head of training unit (for member universities), or the President of Vietnam National University, Hanoi (VNU) (for directly affiliated training units).
+2. Change of major shall not be considered for students who have already entered their second year or beyond.
+3. The learning outcomes of courses already accumulated by a student who changes major or training mode shall be considered for preservation and recognition of equivalence with courses in the new field of study.
 
 ## Article 29. Transfer
 
-- 1. Students shall be permitted to transfer to another higher education institution outside Vietnam National University, Hanoi (VNU) with the approval of the head of training unit.
-- 2. Vietnamese students or foreign students currently studying at higher education institutions outside Vietnam National University, Hanoi (VNU) shall be permitted to transfer to study at Vietnam National University, Hanoi (VNU) if all of the following conditions are met:
+1. Students shall be permitted to transfer to another higher education institution outside Vietnam National University, Hanoi (VNU) with the approval of the head of training unit.
+2. Vietnamese students or foreign students currently studying at higher education institutions outside Vietnam National University, Hanoi (VNU) shall be permitted to transfer to study at Vietnam National University, Hanoi (VNU) if all of the following conditions are met:
 
-   - a) The student shall have a desire to transfer to study at Vietnam National University, Hanoi (VNU);
-   - b) The student shall not be a first-year or final-year student, and the overall course GPA calculated up to the time of review shall be 2.50 or above;
-   - c) The student shall meet the admission requirements of the training program and field of study of the same enrollment cohort at the receiving unit;
+a) The student shall have a desire to transfer to study at Vietnam National University, Hanoi (VNU);
+b) The student shall not be a first-year or final-year student, and the overall course GPA calculated up to the time of review shall be 2.50 or above;
+c) The student shall meet the admission requirements of the training program and field of study of the same enrollment cohort at the receiving unit;
 
----
-
-- d) The receiving institution shall have adequate quality assurance conditions and shall not have exceeded its training capacity for the training program and field of study in accordance with the prevailing regulations of the Ministry of Education and Training (MOET);
-   - đ) The student shall have the approval of the rector of the sending training unit and the receiving training unit; for directly affiliated training units, the approval of the President of Vietnam National University, Hanoi (VNU) shall be required;
-   - e) The student shall be in sufficient health to pursue studies;
-   - g) The student shall not be subject to academic dismissal, and shall not be under criminal prosecution.
-- 3. Foreign students or Vietnamese students currently studying at a higher education institution abroad may be considered for transfer to study at Vietnam National University, Hanoi (VNU) if they meet all the conditions prescribed in paragraph 2 of this Article and shall have complete student records (originals) when carrying out the transfer procedures.
+d) The receiving institution shall have adequate quality assurance conditions and shall not have exceeded its training capacity for the training program and field of study in accordance with the prevailing regulations of the Ministry of Education and Training (MOET);
+đ) The student shall have the approval of the rector of the sending training unit and the receiving training unit; for directly affiliated training units, the approval of the President of Vietnam National University, Hanoi (VNU) shall be required;
+e) The student shall be in sufficient health to pursue studies;
+g) The student shall not be subject to academic dismissal, and shall not be under criminal prosecution.
+3. Foreign students or Vietnamese students currently studying at a higher education institution abroad may be considered for transfer to study at Vietnam National University, Hanoi (VNU) if they meet all the conditions prescribed in paragraph 2 of this Article and shall have complete student records (originals) when carrying out the transfer procedures.
 
 Requirements regarding Vietnamese language or foreign language proficiency (the language of instruction in the training program):
 
-   - a) The student shall have Vietnamese or foreign language proficiency at Level 4 or above prior to being admitted for study. Testing shall be conducted by the University of Social Sciences and Humanities (for Vietnamese) and the University of Languages and International Studies (for foreign languages).
-   - b) The student shall be exempt from Vietnamese or foreign language testing if falling within any of the following cases:
+a) The student shall have Vietnamese or foreign language proficiency at Level 4 or above prior to being admitted for study. Testing shall be conducted by the University of Social Sciences and Humanities (for Vietnamese) and the University of Languages and International Studies (for foreign languages).
+b) The student shall be exempt from Vietnamese or foreign language testing if falling within any of the following cases:
 
 - The student is a citizen of a country that uses the required foreign language as an official language;
 - The student has graduated from a university program conducted in the required foreign language;
 - The student holds a Vietnamese or foreign language certificate at Level 4 (under the Six-Level Foreign Language Proficiency Framework for Vietnam) or above;
 - Students who transfer shall be permitted to preserve grades and the number of credits of courses in accordance with Article 22 and shall be exempt from study and examination for national defense and security education and physical education courses in accordance with Article 24 of this Regulation.
-- 4. In special cases, the President of Vietnam National University, Hanoi (VNU) shall consider and decide.
+4. In special cases, the President of Vietnam National University, Hanoi (VNU) shall consider and decide.
 
----
-
-# Chapter IV
-SCIENTIFIC RESEARCH ACTIVITIES OF STUDENTS
+# Chapter IV SCIENTIFIC RESEARCH ACTIVITIES OF STUDENTS
 
 ## Article 30. Scientific research activities of students
 
 Scientific research activities of students shall be organized in the following forms:
 
-- 1. Participating in student science clubs, academic seminars, presenting scientific reports at conferences and symposia, and publishing scientific papers in specialized journals.
-- 2. Participating in field surveys, practical internships, scientific experiments, completing graduation theses, graduation projects, research projects, and applying scientific advances to practice.
+1. Participating in student science clubs, academic seminars, presenting scientific reports at conferences and symposia, and publishing scientific papers in specialized journals.
+2. Participating in field surveys, practical internships, scientific experiments, completing graduation theses, graduation projects, research projects, and applying scientific advances to practice.
 
 ## Article 31. Organization and management of scientific research activities of students
 
 The organization and management of scientific research activities of students shall be decentralized as follows:
 
-- 1. Training units
-   - a) Shall develop plans for student scientific research activities as part of the unit's annual academic tasks;
-   - b) Shall implement student scientific research in connection with research projects, scientific research grants, and other scientific activities of the unit. Conditions shall be created for students to participate in research, become members of research groups, and participate in scientific and technological activities;
-   - c) Shall organize student scientific conferences, evaluate, classify, and award prizes for student research works;
-   - d) Shall establish student science clubs and organize academic seminars;
-   - đ) The head of training unit shall prescribe the specific number of standard hours for lecturers supervising student scientific research per research work.
-- 2. Vietnam National University, Hanoi (VNU)
+1. Training units
+a) Shall develop plans for student scientific research activities as part of the unit's annual academic tasks;
+b) Shall implement student scientific research in connection with research projects, scientific research grants, and other scientific activities of the unit. Conditions shall be created for students to participate in research, become members of research groups, and participate in scientific and technological activities;
+c) Shall organize student scientific conferences, evaluate, classify, and award prizes for student research works;
+d) Shall establish student science clubs and organize academic seminars;
+đ) The head of training unit shall prescribe the specific number of standard hours for lecturers supervising student scientific research per research work.
+2. Vietnam National University, Hanoi (VNU)
 
 Shall organize the review and award of prizes for outstanding scientific research works by students of Vietnam National University, Hanoi (VNU).
 
 ## Article 32. Bonus points for student scientific research achievements
 
-- 1. Bonus points for student scientific research works that have won prizes shall be added to the semester GPA and the cumulative GPA to serve as a basis for scholarship consideration, consideration for direct admission to postgraduate studies, and other entitlements; bonus points shall not be used for academic standing classification or determination of graduation honors.
-- 2. The bonus point levels shall be prescribed as follows:
-   - a) Prizes at the Vietnam National University, Hanoi (VNU) level or Ministry of Education and Training (MOET) level:
+1. Bonus points for student scientific research works that have won prizes shall be added to the semester GPA and the cumulative GPA to serve as a basis for scholarship consideration, consideration for direct admission to postgraduate studies, and other entitlements; bonus points shall not be used for academic standing classification or determination of graduation honors.
+2. The bonus point levels shall be prescribed as follows:
+a) Prizes at the Vietnam National University, Hanoi (VNU) level or Ministry of Education and Training (MOET) level:
 
 <div align="center">
 
@@ -737,7 +670,7 @@ Shall organize the review and award of prizes for outstanding scientific researc
 
 </div>
 
-   - b) Prizes at the training unit level:
+b) Prizes at the training unit level:
 
 <div align="center">
 
@@ -753,22 +686,19 @@ If a scientific research work is jointly conducted by multiple students, the bon
 
 For students with international publications, domestic publications, or intellectual property certificates, a maximum of 0.20 bonus points may be added; the specific point levels shall be prescribed in writing by the head of training unit.
 
-- 3. If a student wins multiple scientific research prizes at various levels, bonus points shall be added only once at the highest prize level.
-- 4. A scientific research work shall be counted as a term paper or essay; shall substitute for one conditional elective course in the major-specific knowledge block and shall be accumulated toward the overall learning outcomes of the semester; and shall be taken into consideration for scholarship review, postgraduate study review, and other entitlements, provided that all of the following conditions are met:
-   - a) The work shall be evaluated and graded (converted to a 10-point scale) by a faculty-level committee, which shall decide which course in the training program of the field of study it shall replace; if a scientific research work is jointly conducted by multiple students, the students shall enjoy equal entitlements;
-   - b) The student shall express a desire therefor.
+3. If a student wins multiple scientific research prizes at various levels, bonus points shall be added only once at the highest prize level.
+4. A scientific research work shall be counted as a term paper or essay; shall substitute for one conditional elective course in the major-specific knowledge block and shall be accumulated toward the overall learning outcomes of the semester; and shall be taken into consideration for scholarship review, postgraduate study review, and other entitlements, provided that all of the following conditions are met:
+a) The work shall be evaluated and graded (converted to a 10-point scale) by a faculty-level committee, which shall decide which course in the training program of the field of study it shall replace; if a scientific research work is jointly conducted by multiple students, the students shall enjoy equal entitlements;
+b) The student shall express a desire therefor.
 
----
-
-# Chapter V
-LECTURERS, HOMEROOM TEACHERS, AND ACADEMIC ADVISORS
+# Chapter V LECTURERS, HOMEROOM TEACHERS, AND ACADEMIC ADVISORS
 
 ## Article 33. Lecturers
 
-- 1. Responsibilities and authority of lecturers
-   - a) Lecturers shall perform the duties of public employees in accordance with the Law on Education, the Law on Higher Education, the Law on Public Employees, and related legal provisions; shall maintain the qualities, prestige, and honor of educators; shall respect the dignity of learners, treat learners equitably, and protect the legitimate rights and interests of learners; and shall participate in the management of the training unit, participate in Party and mass organization work when entrusted, and perform other tasks assigned by the university, faculty, or department.
-   - b) Lecturers shall fully comply with the regulations and provisions of the training unit and of Vietnam National University, Hanoi (VNU).
-   - c) In addition to the general obligations applicable to lecturers, lecturers participating in honors and high-quality training programs shall bear the following additional responsibilities:
+1. Responsibilities and authority of lecturers
+a) Lecturers shall perform the duties of public employees in accordance with the Law on Education, the Law on Higher Education, the Law on Public Employees, and related legal provisions; shall maintain the qualities, prestige, and honor of educators; shall respect the dignity of learners, treat learners equitably, and protect the legitimate rights and interests of learners; and shall participate in the management of the training unit, participate in Party and mass organization work when entrusted, and perform other tasks assigned by the university, faculty, or department.
+b) Lecturers shall fully comply with the regulations and provisions of the training unit and of Vietnam National University, Hanoi (VNU).
+c) In addition to the general obligations applicable to lecturers, lecturers participating in honors and high-quality training programs shall bear the following additional responsibilities:
 
 - Imparting and instilling in students scientific aspirations, a passion for study and scientific research, scientific thinking and creative capability, and motivating and encouraging students to develop the political qualities, ethics, and professional conduct of scientific researchers;
 - Proactively applying and guiding students in applying appropriate advanced teaching-learning and assessment methods;
@@ -778,9 +708,9 @@ LECTURERS, HOMEROOM TEACHERS, AND ACADEMIC ADVISORS
 - Exploiting and utilizing physical and technical facilities to improve and innovate teaching methods;
 - Participating in the evaluation and classification of student learning quality.
 
-- 2. Entitlements of lecturers
-   - a) Lecturers shall enjoy the general entitlements and preferential treatment prescribed by the state, as well as allowances and remuneration in accordance with the internal expenditure regulations of the unit.
-   - b) In addition to the general entitlements, lecturers participating in honors and high-quality training programs shall enjoy the following entitlements:
+2. Entitlements of lecturers
+a) Lecturers shall enjoy the general entitlements and preferential treatment prescribed by the state, as well as allowances and remuneration in accordance with the internal expenditure regulations of the unit.
+b) In addition to the general entitlements, lecturers participating in honors and high-quality training programs shall enjoy the following entitlements:
 
 - Lecturers shall receive funding for activities involving the supervision of study and scientific research for honors and high-quality students; during the same period, they shall receive an allowance equivalent to 3 lecture-theory hours per month per group of 1–3 students; for groups of more than 3 students, an increased coefficient shall apply in accordance with the regulations of the training unit;
 - Lecturers shall receive priority in the selection and assignment of scientific and technological research projects; priority in being sent for domestic and international training and professional development; and participation in scientific councils, advisory councils, appraisal councils, and the compilation of textbooks and lecture materials;
@@ -788,7 +718,7 @@ LECTURERS, HOMEROOM TEACHERS, AND ACADEMIC ADVISORS
 - Lecturers shall receive priority in the selection and nomination for promotion examinations for the lecturer rank; or shall receive priority in recruitment as lecturers or public employees at Vietnam National University, Hanoi (VNU) (for those who have not yet been recruited);
 - Lecturers shall receive priority in being provided with conditions for internships and professional development both domestically and abroad.
 
-- 3. Qualifications for lecturers participating in instruction for honors and high-quality training programs
+3. Qualifications for lecturers participating in instruction for honors and high-quality training programs
 
 In addition to the general qualifications applicable to lecturers, lecturers participating in instruction for these training programs shall meet the following qualifications:
 
@@ -800,33 +730,30 @@ In addition to the general qualifications applicable to lecturers, lecturers par
 
 ## Article 34. Homeroom teachers and academic advisors
 
-- 1. A homeroom teacher shall be a lecturer who has completed the probationary period as prescribed, is prepared to accept assignments, and is responsible and dedicated to the assigned work; an academic advisor shall be a staff member holding a master's degree or above, with at least 2 years of direct teaching experience, and thorough knowledge of the training program. Special cases shall be prescribed by the head of training unit.
-- 2. The head of training unit shall prescribe the methods for organizing the activities of homeroom teachers and academic advisors.
-- 3. Responsibilities of homeroom teachers and academic advisors
-   - a) Shall have thorough knowledge of the training program, guide students in developing study plans, and select and register courses appropriate to the student's study conditions and the objectives and requirements of the training program;
-   - b) Shall guide students in learning methods, research, and skills development; shall regularly monitor student learning outcomes;
-   - c) Shall assist students in resolving difficulties and obstacles in their studies; shall advise students when their learning outcomes decline;
-   - d) Shall coordinate with the Office of Academic Affairs, the Office of Student Affairs, lecturers, and other relevant units to create conditions for student learning and to evaluate student conduct scores.
-- 4. Entitlements of academic advisors and homeroom teachers
-   - a) Shall receive a reduction in the prescribed teaching hours and shall receive allowances in accordance with the regulations of the training unit;
-   - b) Shall be provided with time to participate in professional and operational training courses.
+1. A homeroom teacher shall be a lecturer who has completed the probationary period as prescribed, is prepared to accept assignments, and is responsible and dedicated to the assigned work; an academic advisor shall be a staff member holding a master's degree or above, with at least 2 years of direct teaching experience, and thorough knowledge of the training program. Special cases shall be prescribed by the head of training unit.
+2. The head of training unit shall prescribe the methods for organizing the activities of homeroom teachers and academic advisors.
+3. Responsibilities of homeroom teachers and academic advisors
+a) Shall have thorough knowledge of the training program, guide students in developing study plans, and select and register courses appropriate to the student's study conditions and the objectives and requirements of the training program;
+b) Shall guide students in learning methods, research, and skills development; shall regularly monitor student learning outcomes;
+c) Shall assist students in resolving difficulties and obstacles in their studies; shall advise students when their learning outcomes decline;
+d) Shall coordinate with the Office of Academic Affairs, the Office of Student Affairs, lecturers, and other relevant units to create conditions for student learning and to evaluate student conduct scores.
+4. Entitlements of academic advisors and homeroom teachers
+a) Shall receive a reduction in the prescribed teaching hours and shall receive allowances in accordance with the regulations of the training unit;
+b) Shall be provided with time to participate in professional and operational training courses.
 
----
-
-# Chapter VI
-OBLIGATIONS AND RIGHTS OF STUDENTS
+# Chapter VI OBLIGATIONS AND RIGHTS OF STUDENTS
 
 ## Article 35. Obligations of students
 
-- 1. Fulfill the obligations of a citizen as prescribed by law. Students who are foreign nationals shall comply with Vietnamese law and respect the customs and traditions of Vietnam.
-- 2. Strictly comply with the regulations and rules of Vietnam National University, Hanoi (VNU) and of the training unit concerning student affairs.
-- 3. Prohibited acts of students: Using forged diplomas or certificates; violating examination discipline or soliciting grades; studying, taking examinations, or completing internships on behalf of another person, or requesting another person to study, take examinations, or complete internships on one's behalf; copying materials without citation or requesting another person to complete essays, graduation theses, graduation projects, or scientific research works on one's behalf; engaging in or participating in activities that violate the law.
+1. Fulfill the obligations of a citizen as prescribed by law. Students who are foreign nationals shall comply with Vietnamese law and respect the customs and traditions of Vietnam.
+2. Strictly comply with the regulations and rules of Vietnam National University, Hanoi (VNU) and of the training unit concerning student affairs.
+3. Prohibited acts of students: Using forged diplomas or certificates; violating examination discipline or soliciting grades; studying, taking examinations, or completing internships on behalf of another person, or requesting another person to study, take examinations, or complete internships on one's behalf; copying materials without citation or requesting another person to complete essays, graduation theses, graduation projects, or scientific research works on one's behalf; engaging in or participating in activities that violate the law.
 
 Students who are dishonest or commit fraudulent acts in scientific research, essays, graduation theses, or graduation projects shall be subject to discipline ranging from academic suspension for one year to academic dismissal.
 
-- 4. Students shall be responsible for strictly complying with regulations on examination discipline; violations shall be subject to discipline at the following levels:
-   - a) Reprimand: Applicable to students who commit a first-time offense of looking at another person's paper, exchanging answers, or discussing answers during an examination. A student who receives a reprimand during an examination for a given course shall have 25% deducted from the score obtained on that course examination;
-   - b) Warning: Applicable to students who commit any of the following violations:
+4. Students shall be responsible for strictly complying with regulations on examination discipline; violations shall be subject to discipline at the following levels:
+a) Reprimand: Applicable to students who commit a first-time offense of looking at another person's paper, exchanging answers, or discussing answers during an examination. A student who receives a reprimand during an examination for a given course shall have 25% deducted from the score obtained on that course examination;
+b) Warning: Applicable to students who commit any of the following violations:
 
 - Having already received a reprimand once but continuing to violate regulations during the examination for that course;
 - Exchanging answer sheets or scratch paper with another person;
@@ -834,7 +761,7 @@ Students who are dishonest or commit fraudulent acts in scientific research, ess
 
 A student who receives a warning during an examination for a given course shall have 50% deducted from the score obtained on that course examination.
 
-   - c) Examination suspension: Applicable to students who commit any of the following violations:
+c) Examination suspension: Applicable to students who commit any of the following violations:
 
 - Having already received a warning once but continuing to violate regulations during the examination for that course;
 - Being found in possession of prohibited items after the examination paper has been opened;
@@ -844,7 +771,7 @@ A student subject to examination suspension shall receive a score of zero (0) on
 
 The above disciplinary measures shall be recorded in a written report by the examination proctors, who shall confiscate evidence and clearly state the form of discipline imposed.
 
-   - d) A student who takes an examination on behalf of another (proxy examination) or who requests another person to take an examination on his or her behalf shall be subject to academic suspension for one year for the first offense and academic dismissal for the second offense.
+d) A student who takes an examination on behalf of another (proxy examination) or who requests another person to take an examination on his or her behalf shall be subject to academic suspension for one year for the first offense and academic dismissal for the second offense.
 
 In addition to the general obligations applicable to students of the standard training program, students in the honors training program and high-quality training program shall fulfill the following obligations:
 
@@ -856,106 +783,95 @@ In addition to the general obligations applicable to students of the standard tr
 
 ## Article 36. Rights of students
 
-- 1. Students shall be entitled to the full benefits and policies currently in effect as prescribed by the Party and the State, as well as the regulations and rules of VNU and of the training unit.
-- 2. Students shall be permitted to withdraw from studies for personal reasons; in such cases, the student shall reimburse the training unit for the full amount of training expenses funded from the state budget during the period of enrollment.
+1. Students shall be entitled to the full benefits and policies currently in effect as prescribed by the Party and the State, as well as the regulations and rules of VNU and of the training unit.
+2. Students shall be permitted to withdraw from studies for personal reasons; in such cases, the student shall reimburse the training unit for the full amount of training expenses funded from the state budget during the period of enrollment.
 
----
-
-- 3. Students may apply for a temporary leave of absence and have their academic results preserved in the following cases:
-   - a) Being mobilized into the armed forces;
-   - b) Being dispatched by a competent authority or representing the nation in international competitions or tournaments;
-   - c) Being ill, on maternity leave, or having suffered an accident requiring prolonged treatment, as certified by a medical examination and treatment facility authorized pursuant to the regulations of the Ministry of Health;
-   - d) For other personal reasons, provided that the student has completed at least 01 semester and is not subject to consideration for academic dismissal or disciplinary action, and has achieved a cumulative GPA of at least 2.0. The period of temporary leave of absence for personal reasons shall be counted toward the maximum permitted duration of study.
+3. Students may apply for a temporary leave of absence and have their academic results preserved in the following cases:
+a) Being mobilized into the armed forces;
+b) Being dispatched by a competent authority or representing the nation in international competitions or tournaments;
+c) Being ill, on maternity leave, or having suffered an accident requiring prolonged treatment, as certified by a medical examination and treatment facility authorized pursuant to the regulations of the Ministry of Health;
+d) For other personal reasons, provided that the student has completed at least 01 semester and is not subject to consideration for academic dismissal or disciplinary action, and has achieved a cumulative GPA of at least 2.0. The period of temporary leave of absence for personal reasons shall be counted toward the maximum permitted duration of study.
 
 A student on temporary leave of absence who wishes to resume studies shall submit an application to the head of training unit for consideration no later than 2 weeks before the expiry of the temporary leave of absence period.
 
 *Subjects falling under points a, b, and c of Clause 3 of this Article shall not have their temporary leave of absence period counted toward the maximum permitted duration of study.*
 
-- 4. In addition to the general rights applicable to students of the standard training program, students in the honors training program and high-quality training program shall enjoy the following rights:
-   - a. To receive instruction and scientific research guidance directly from leading scientists, professors, and lecturers with advanced qualifications, experience, and domestic and international reputation;
-   - b. To receive priority in the provision or use of learning materials; to receive priority in the use of facilities, technical equipment, libraries, and the internet system for study and scientific research;
+4. In addition to the general rights applicable to students of the standard training program, students in the honors training program and high-quality training program shall enjoy the following rights:
+a. To receive instruction and scientific research guidance directly from leading scientists, professors, and lecturers with advanced qualifications, experience, and domestic and international reputation;
+b. To receive priority in the provision or use of learning materials; to receive priority in the use of facilities, technical equipment, libraries, and the internet system for study and scientific research;
 
-   - c. To receive priority in the consideration and award of development incentive scholarships and scholarships from domestic and international organizations and individuals. Students from distant locations shall receive priority in the allocation of dormitory accommodation;
-   - d. To receive priority in the selection process for overseas study or participation in international cooperation programs of VNU and of the training unit.
+c. To receive priority in the consideration and award of development incentive scholarships and scholarships from domestic and international organizations and individuals. Students from distant locations shall receive priority in the allocation of dormitory accommodation;
+d. To receive priority in the selection process for overseas study or participation in international cooperation programs of VNU and of the training unit.
 
----
-
-# Chapter VII
-EXAMINATIONS, TESTS, AND EVALUATION OF ACADEMIC RESULTS
+# Chapter VII EXAMINATIONS, TESTS, AND EVALUATION OF ACADEMIC RESULTS
 
 ## Article 37. Evaluation of course results
 
-- 1. The course evaluation score (referred to as the course grade) shall comprise: the component score (the average of regular assessment scores and mid-term assessment scores) and the final examination score, in which the final examination score shall be mandatory and carry a weighting of no less than 60% of the course grade.
-- 2. Regular assessment is an activity in which the lecturer uses various assessment techniques within teaching formats to verify the mastery of knowledge and the development of skills as specified in the course objectives, and through which feedback is obtained to help lecturers and students adjust their teaching and learning methods accordingly.
-- 3. Mid-term assessment is an activity in which the lecturer evaluates the level of achievement of course objectives at the corresponding stage, at times specified in the course syllabus.
-- 4. The final course examination may be conducted in the form of essay-type examination, multiple-choice examination, oral examination, major assignments, or a combination thereof.
-- 5. The assessment methods, forms of course assessment, the weightings of the component scores, and the final examination score shall be specified in the detailed syllabus of each course. Online assessment may be applied when it ensures the same level of integrity, fairness, and objectivity as in-person assessment, and shall contribute no more than 50% of the course grade weighting.
-- 6. The content of assessments shall be consistent with the course content as specified in the course syllabus. Answer keys and grading rubrics for component scores and for grading final course examinations shall be prepared concurrently with the assessment questions and examination papers. The head of training unit shall prescribe the use of assessment questions and examination papers as proposed by the lecturer or drawn from a question bank.
+1. The course evaluation score (referred to as the course grade) shall comprise: the component score (the average of regular assessment scores and mid-term assessment scores) and the final examination score, in which the final examination score shall be mandatory and carry a weighting of no less than 60% of the course grade.
+2. Regular assessment is an activity in which the lecturer uses various assessment techniques within teaching formats to verify the mastery of knowledge and the development of skills as specified in the course objectives, and through which feedback is obtained to help lecturers and students adjust their teaching and learning methods accordingly.
+3. Mid-term assessment is an activity in which the lecturer evaluates the level of achievement of course objectives at the corresponding stage, at times specified in the course syllabus.
+4. The final course examination may be conducted in the form of essay-type examination, multiple-choice examination, oral examination, major assignments, or a combination thereof.
+5. The assessment methods, forms of course assessment, the weightings of the component scores, and the final examination score shall be specified in the detailed syllabus of each course. Online assessment may be applied when it ensures the same level of integrity, fairness, and objectivity as in-person assessment, and shall contribute no more than 50% of the course grade weighting.
+6. The content of assessments shall be consistent with the course content as specified in the course syllabus. Answer keys and grading rubrics for component scores and for grading final course examinations shall be prepared concurrently with the assessment questions and examination papers. The head of training unit shall prescribe the use of assessment questions and examination papers as proposed by the lecturer or drawn from a question bank.
 
 ## Article 38. Organization of assessments and final course examinations
 
-- 1. The assessment and grading of component scores for each course shall be carried out directly by the lecturer of the course section, and results shall be announced to students no later than 7 working days after the date of the assessment or the date of submission of essays or major assignments.
-
----
+1. The assessment and grading of component scores for each course shall be carried out directly by the lecturer of the course section, and results shall be announced to students no later than 7 working days after the date of the assessment or the date of submission of essays or major assignments.
 
 Students who do not have component scores for legitimate reasons and who receive the consent of the Department Head/Division Head and the lecturer shall be provided with a supplementary assessment.
 
 Students shall only be permitted to sit for the final course examination if their component score is greater than 0, their tuition fees have been paid in full, and they satisfy the course completion conditions prescribed by the head of the unit responsible for the course.
 
-- 2. The training unit shall organize the final course examinations. For common courses, the regulations of VNU shall apply.
+2. The training unit shall organize the final course examinations. For common courses, the regulations of VNU shall apply.
 
 At the end of each semester, the training unit shall organize one main examination period and, if conditions permit, one additional supplementary examination period. For each course, a student shall be permitted to sit for the examination only once within the same examination period. The supplementary examination period shall be reserved for students who did not sit for the main examination for legitimate reasons and who have been granted permission by the head of training unit.
 
-- 3. The schedule for the main examination period shall be announced at least 1 month in advance, and the schedule for the supplementary examination period shall be announced at least 1 week in advance. During the examination period, each course shall be examined separately; scheduling multiple course examinations in the same examination session for a single student shall not be permitted.
-- 4. No later than one day after the completion of course instruction, the lecturer shall submit to the Office of Academic Affairs a list of students permitted and not permitted to sit for the final course examination (with reasons clearly stated). Based on the lecturer's recommendation and the student's other obligations, the Office of Academic Affairs shall compile a list of students eligible to sit for the examination and assign examination rooms.
-- 5. The head of training unit shall prescribe detailed procedures for examination proctoring and grading. Supplementary skills courses shall be examined and certificates issued by the unit responsible for supplementary skills training.
-- 6. The grading and announcement of course grades shall be completed no later than 15 working days from the date of the final course examination. The head of training unit shall prescribe the procedures for the implementation and management of component scores, final examination scores, and course grades.
-- 7. Examination papers, answer keys, and all graded final course examination papers shall be maintained and archived for at least two years from the date of the examination. Component score records, final examination rosters, and consolidated course grade records (electronic files) shall be permanently archived by the training unit.
-
----
+3. The schedule for the main examination period shall be announced at least 1 month in advance, and the schedule for the supplementary examination period shall be announced at least 1 week in advance. During the examination period, each course shall be examined separately; scheduling multiple course examinations in the same examination session for a single student shall not be permitted.
+4. No later than one day after the completion of course instruction, the lecturer shall submit to the Office of Academic Affairs a list of students permitted and not permitted to sit for the final course examination (with reasons clearly stated). Based on the lecturer's recommendation and the student's other obligations, the Office of Academic Affairs shall compile a list of students eligible to sit for the examination and assign examination rooms.
+5. The head of training unit shall prescribe detailed procedures for examination proctoring and grading. Supplementary skills courses shall be examined and certificates issued by the unit responsible for supplementary skills training.
+6. The grading and announcement of course grades shall be completed no later than 15 working days from the date of the final course examination. The head of training unit shall prescribe the procedures for the implementation and management of component scores, final examination scores, and course grades.
+7. Examination papers, answer keys, and all graded final course examination papers shall be maintained and archived for at least two years from the date of the examination. Component score records, final examination rosters, and consolidated course grade records (electronic files) shall be permanently archived by the training unit.
 
 ## Article 39. Defense and evaluation of graduation theses and graduation projects
 
-- 1. The head of training unit shall prescribe detailed procedures for the defense and evaluation of graduation theses and graduation projects; and shall issue a decision to establish a Defense and Evaluation Council for graduation theses or graduation projects comprising at least 3 members, as recommended by the Department Head. In cases where the training unit is unable to organize an in-person defense of graduation theses or graduation projects, the defense may be conducted online provided that the following conditions are met:
-   - a) The evaluation shall be conducted through a professional council comprising at least 3 members;
-   - b) The online defense and evaluation format shall have the consent of all council members and the student;
-   - c) The proceedings of the online defense shall be fully recorded on video and audio and archived in accordance with regulations.
-- 2. Graduation theses and graduation projects shall be graded on the 10-point grading scale, rounded to one decimal place, and shall be converted to letter grades in accordance with the provisions of Clause 2, Article 41 of this Regulation. Graduation thesis and graduation project grades shall be publicly announced no later than one week after the thesis/project evaluation councils have completed their duties.
-- 3. Graduation thesis and graduation project grades, or the grades of substitute courses, shall be included in the calculation of the cumulative GPA for the entire program.
-- 4. A student whose graduation thesis or graduation project receives a grade of F shall be required to re-register for the graduation thesis or graduation project, or shall be required to register for substitute courses as prescribed.
-- 5. For students in the honors training program and high-quality training program: The graduation thesis topic shall aim to address an issue of theoretical or practical significance in the relevant scientific field and shall be linked to the scientific research project of the supervising lecturer; the thesis shall contain elements of novelty and creativity, ensure a high degree of accuracy and reliability, be presented clearly and coherently, and be suitable for publication in a scientific journal or presentation at a scientific conference. Students in the honors training program are encouraged to write their graduation theses in a foreign language; if written in Vietnamese, the thesis shall include a summary of the content in a foreign language of at least 2 A4-sized pages. The graduation thesis evaluation council shall be established by decision of the head of training unit or the Department Head/Division Head authorized by the head of training unit. The council shall comprise a minimum of 5 members, including 2 reviewers.
+1. The head of training unit shall prescribe detailed procedures for the defense and evaluation of graduation theses and graduation projects; and shall issue a decision to establish a Defense and Evaluation Council for graduation theses or graduation projects comprising at least 3 members, as recommended by the Department Head. In cases where the training unit is unable to organize an in-person defense of graduation theses or graduation projects, the defense may be conducted online provided that the following conditions are met:
+a) The evaluation shall be conducted through a professional council comprising at least 3 members;
+b) The online defense and evaluation format shall have the consent of all council members and the student;
+c) The proceedings of the online defense shall be fully recorded on video and audio and archived in accordance with regulations.
+2. Graduation theses and graduation projects shall be graded on the 10-point grading scale, rounded to one decimal place, and shall be converted to letter grades in accordance with the provisions of Clause 2, Article 41 of this Regulation. Graduation thesis and graduation project grades shall be publicly announced no later than one week after the thesis/project evaluation councils have completed their duties.
+3. Graduation thesis and graduation project grades, or the grades of substitute courses, shall be included in the calculation of the cumulative GPA for the entire program.
+4. A student whose graduation thesis or graduation project receives a grade of F shall be required to re-register for the graduation thesis or graduation project, or shall be required to register for substitute courses as prescribed.
+5. For students in the honors training program and high-quality training program: The graduation thesis topic shall aim to address an issue of theoretical or practical significance in the relevant scientific field and shall be linked to the scientific research project of the supervising lecturer; the thesis shall contain elements of novelty and creativity, ensure a high degree of accuracy and reliability, be presented clearly and coherently, and be suitable for publication in a scientific journal or presentation at a scientific conference. Students in the honors training program are encouraged to write their graduation theses in a foreign language; if written in Vietnamese, the thesis shall include a summary of the content in a foreign language of at least 2 A4-sized pages. The graduation thesis evaluation council shall be established by decision of the head of training unit or the Department Head/Division Head authorized by the head of training unit. The council shall comprise a minimum of 5 members, including 2 reviewers.
 
 ## Article 40. Discipline applicable to examination proctors, examination organizers, and examination graders
 
 Persons involved in examination proctoring, organization, and grading who violate regulations (whether detected during or after the performance of their duties) shall, depending on the severity, be subject to review and disciplinary action in the following forms:
 
-- 1. Reprimand: Applicable to persons who commit any of the following violations: arriving late beyond the prescribed time, failing to sign the examination papers and scratch paper of students, failing to maintain concentration while proctoring, or missing 1 proctoring session without legitimate reason.
+1. Reprimand: Applicable to persons who commit any of the following violations: arriving late beyond the prescribed time, failing to sign the examination papers and scratch paper of students, failing to maintain concentration while proctoring, or missing 1 proctoring session without legitimate reason.
 
----
+2. Warning: Applicable to persons who commit any of the following violations:
 
-- 2. Warning: Applicable to persons who commit any of the following violations:
+a) Missing 2 or more proctoring sessions without legitimate reason in one academic year;
+b) Leaving the proctoring assignment to perform other tasks during the examination;
+c) Allowing students to copy or to bring and use unauthorized materials during the examination;
+d) Failing to prepare a written report for students found to have violated regulations;
+đ) Losing examination papers;
+e) Making numerous errors in grading or totaling examination scores.
+3. Demotion or dismissal shall be applied to persons who commit any of the following violations:
 
-   - a) Missing 2 or more proctoring sessions without legitimate reason in one academic year;
-   - b) Leaving the proctoring assignment to perform other tasks during the examination;
-   - c) Allowing students to copy or to bring and use unauthorized materials during the examination;
-   - d) Failing to prepare a written report for students found to have violated regulations;
-   - đ) Losing examination papers;
-   - e) Making numerous errors in grading or totaling examination scores.
-- 3. Demotion or dismissal shall be applied to persons who commit any of the following violations:
-
-   - a) Leaking examination papers;
-   - b) Removing the examination paper from the room, bringing answer keys from outside into the examination room, or assisting students in completing the examination during the examination;
-   - c) Disclosing the coded identifiers of examination papers;
-   - d) Committing fraud in grading; awarding scores not in accordance with regulations, or intentionally increasing or decreasing examination scores compared to the answer key;
-   - đ) Altering, adding to, or removing content from student answer sheets to increase or decrease scores;
-   - e) Altering scores on examination papers, grading reports, or grade books to produce inaccurate records;
-   - g) Substituting examination papers or examination scores of students.
+a) Leaking examination papers;
+b) Removing the examination paper from the room, bringing answer keys from outside into the examination room, or assisting students in completing the examination during the examination;
+c) Disclosing the coded identifiers of examination papers;
+d) Committing fraud in grading; awarding scores not in accordance with regulations, or intentionally increasing or decreasing examination scores compared to the answer key;
+đ) Altering, adding to, or removing content from student answer sheets to increase or decrease scores;
+e) Altering scores on examination papers, grading reports, or grade books to produce inaccurate records;
+g) Substituting examination papers or examination scores of students.
 
 ## Article 41. Calculation of component scores and course grades
 
-- 1. Component scores and final examination scores shall be graded on the 10-point grading scale (from 0 to 10), rounded to one decimal place.
-- 2. The course grade shall be the sum of the component score and the final examination score after applying the weightings prescribed in the course syllabus, rounded to one decimal place, and then converted to a letter grade.
-   - a) Passing grades with differentiated levels:
+1. Component scores and final examination scores shall be graded on the 10-point grading scale (from 0 to 10), rounded to one decimal place.
+2. The course grade shall be the sum of the component score and the final examination score after applying the weightings prescribed in the course syllabus, rounded to one decimal place, and then converted to a letter grade.
+a) Passing grades with differentiated levels:
 
 <div align="center">
 
@@ -964,8 +880,6 @@ Persons involved in examination proctoring, organization, and grading who violat
 | 8.5 – 8.9 | corresponds to | A |
 
 </div>
-
----
 
 <div align="center">
 
@@ -979,7 +893,7 @@ Persons involved in examination proctoring, organization, and grading who violat
 
 </div>
 
-   - b) Passing grade without differentiated levels: Applicable to courses that only require a pass and are not included in the GPA calculation; P: 5.0 or above.
+b) Passing grade without differentiated levels: Applicable to courses that only require a pass and are not included in the GPA calculation; P: 5.0 or above.
 
 <div align="center">
 
@@ -988,45 +902,41 @@ Persons involved in examination proctoring, organization, and grading who violat
 
 </div>
 
-   - d) For courses that do not yet have a sufficient basis to be included in the semester GPA calculation, the following symbols shall be used for the evaluation classification:
+d) For courses that do not yet have a sufficient basis to be included in the semester GPA calculation, the following symbols shall be used for the evaluation classification:
 
 I - Incomplete component scores
 
 X - Final examination results not yet available
 
-   - e) For courses for which the head of training unit has approved credit recognition, grade transfer, or beginning-of-semester assessment (if applicable), the symbol R shall be written after the course grade when classifying the evaluation.
-- 3. The classification of grades A+, A, B+, B, C+, C, D+, D, and F shall apply in the following cases:
+e) For courses for which the head of training unit has approved credit recognition, grade transfer, or beginning-of-semester assessment (if applicable), the symbol R shall be written after the course grade when classifying the evaluation.
+3. The classification of grades A+, A, B+, B, C+, C, D+, D, and F shall apply in the following cases:
 
-   - a) Courses for which the student has received all component scores;
-   - b) Conversion from an I classification, after the student has received the component scores that the lecturer had previously permitted the student to defer;
-   - c) Conversion from an X classification after receiving the final examination results.
-- 4. Classification at the F grade level, in addition to the cases prescribed in Clause 2 of this Article, shall also apply to cases where a student has violated examination regulations and has been determined to receive an F grade by decision.
-- 5. Classification at the I evaluation level shall apply in the following cases:
-   - a) During the study period or during the final course examination period, the student is ill or has suffered an accident preventing him or her from taking the assessment or examination, and has been granted permission by the head of training unit;
+a) Courses for which the student has received all component scores;
+b) Conversion from an I classification, after the student has received the component scores that the lecturer had previously permitted the student to defer;
+c) Conversion from an X classification after receiving the final examination results.
+4. Classification at the F grade level, in addition to the cases prescribed in Clause 2 of this Article, shall also apply to cases where a student has violated examination regulations and has been determined to receive an F grade by decision.
+5. Classification at the I evaluation level shall apply in the following cases:
+a) During the study period or during the final course examination period, the student is ill or has suffered an accident preventing him or her from taking the assessment or examination, and has been granted permission by the head of training unit;
 
----
-
-   - b) The student is unable to take a component assessment or examination due to objective reasons and has been granted approval by the head of training unit.
+b) The student is unable to take a component assessment or examination due to objective reasons and has been granted approval by the head of training unit.
 
 Unless otherwise prescribed by the head of training unit for special cases, in the immediately following semester, a student who has received an I classification shall complete all outstanding component assessments in order to have the grade converted. In cases where the student has not yet completed the outstanding assessments and the grade has not been converted, but the student does not fall within the cases subject to academic dismissal, the student shall be permitted to continue studying in subsequent semesters.
 
-- 6. Classification at the X evaluation level shall apply to courses for which the Office of Academic Affairs has not yet received the final examination results of the student from the lecturer responsible for the course.
+6. Classification at the X evaluation level shall apply to courses for which the Office of Academic Affairs has not yet received the final examination results of the student from the lecturer responsible for the course.
 
 ## Article 42. Evaluation of academic results
 
 The academic results of students shall be evaluated after each main semester based on the following criteria:
 
-- 1. The study workload shall be the total number of credits of the courses (excluding free elective courses) that the student has registered for in the semester.
-- 2. The accumulated knowledge volume shall be the total number of credits of courses that have been evaluated as passing, calculated from the beginning of the program.
-- 3. The semester GPA shall be the credit-weighted average of the courses that the student has registered for in that semester (including both courses evaluated as passing and failing).
-- 4. The overall course GPA shall be the credit-weighted average of the courses that the student has registered for from the beginning of the program to the time of review (including both courses evaluated as passing and failing).
-- 5. The cumulative GPA shall be the credit-weighted average of the courses evaluated as passing that the student has accumulated, calculated from the beginning of the program to the time of review.
+1. The study workload shall be the total number of credits of the courses (excluding free elective courses) that the student has registered for in the semester.
+2. The accumulated knowledge volume shall be the total number of credits of courses that have been evaluated as passing, calculated from the beginning of the program.
+3. The semester GPA shall be the credit-weighted average of the courses that the student has registered for in that semester (including both courses evaluated as passing and failing).
+4. The overall course GPA shall be the credit-weighted average of the courses that the student has registered for from the beginning of the program to the time of review (including both courses evaluated as passing and failing).
+5. The cumulative GPA shall be the credit-weighted average of the courses evaluated as passing that the student has accumulated, calculated from the beginning of the program to the time of review.
 
 ## Article 43. Calculation of grade point averages
 
-- 1. For the calculation of the semester GPA, overall course GPA, and cumulative GPA, the letter grade for each course shall be converted to a numerical score as follows:
-
----
+1. For the calculation of the semester GPA, overall course GPA, and cumulative GPA, the letter grade for each course shall be converted to a numerical score as follows:
 
 <div align="center">
 
@@ -1043,7 +953,7 @@ The academic results of students shall be evaluated after each main semester bas
 
 </div>
 
-- 2. The semester GPA, overall course GPA, and cumulative GPA shall be calculated using the following formula, rounded to 2 decimal places:
+2. The semester GPA, overall course GPA, and cumulative GPA shall be calculated using the following formula, rounded to 2 decimal places:
 
 <p align="center">$$A = \frac{\sum_{i=1}^{n} a_i n_i}{\sum_{i=1}^{n} n_i}$$</p>
 
@@ -1059,98 +969,88 @@ The assessment results of national defense and security education courses and ph
 
 The semester GPA shall be used for the consideration of academic warnings, academic dismissal, temporary leave of absence, academic standing classification, scholarships, and commendations after each semester.
 
----
-
 ## Article 44. Academic affairs processing
 
 After each main semester, the training unit shall carry out academic affairs processing. The academic results of the supplementary semester shall be included in the academic results of the main semester immediately preceding the supplementary semester.
 
-- 1. Academic warning
+1. Academic warning
 
 The training unit shall issue academic warnings on a semester basis to students whose academic results are as follows:
 
-   - a) Cumulative GPA below 1.20 for first-year students, below 1.40 for second-year students, below 1.60 for third-year students, or below 1.80 for students in subsequent years and final-year students;
-   - b) Semester GPA below 0.80 for the first semester of the program, or below 1.00 for subsequent semesters;
-   - c) The total number of credits of courses with an F grade accumulated from the beginning of the program to the time of review exceeds 24 credits, or the total number of credits not passed in the semester exceeds 50% of the registered study workload for that semester.
+a) Cumulative GPA below 1.20 for first-year students, below 1.40 for second-year students, below 1.60 for third-year students, or below 1.80 for students in subsequent years and final-year students;
+b) Semester GPA below 0.80 for the first semester of the program, or below 1.00 for subsequent semesters;
+c) The total number of credits of courses with an F grade accumulated from the beginning of the program to the time of review exceeds 24 credits, or the total number of credits not passed in the semester exceeds 50% of the registered study workload for that semester.
 
 Depending on the characteristics of each training unit, the head of the unit shall prescribe the application of one or two of the three conditions stated above for issuing academic warnings to students and shall prescribe the number of academic warnings, which shall not exceed 2 consecutive times.
 
-- 2. Academic dismissal
+2. Academic dismissal
 
 After each semester, a student shall be subject to academic dismissal if he or she falls within any of the following cases:
 
-   - a) Having received a number of academic warnings exceeding the limit prescribed by the head of training unit;
-   - b) Exceeding the maximum permitted duration of study prescribed in Clause 1, Article 17 of this Regulation;
-   - c) Being disciplined a second time for proxy examination or requesting another person to take an examination on one's behalf pursuant to point d, Clause 4, Article 35 of this Regulation, or being disciplined at the level of removal from the student roster of the training unit;
-   - d) Failing to register for courses for 2 consecutive semesters;
+a) Having received a number of academic warnings exceeding the limit prescribed by the head of training unit;
+b) Exceeding the maximum permitted duration of study prescribed in Clause 1, Article 17 of this Regulation;
+c) Being disciplined a second time for proxy examination or requesting another person to take an examination on one's behalf pursuant to point d, Clause 4, Article 35 of this Regulation, or being disciplined at the level of removal from the student roster of the training unit;
+d) Failing to register for courses for 2 consecutive semesters;
 
 No later than 1 month after the issuance of the academic dismissal decision for a student, the training unit shall issue a notification to the locality where the student has permanent household registration.
 
-   - đ) Upon expiry of the temporary leave of absence period, the student fails to submit an application to resume studies as prescribed in Clause 3, Article 36 of this Regulation.
+đ) Upon expiry of the temporary leave of absence period, the student fails to submit an application to resume studies as prescribed in Clause 3, Article 36 of this Regulation.
 
 ## Article 45. Academic standing classification
 
-- 1. Academic standing shall serve as the basis for determining the study workload that a student may register for in the following semester. In cases where the student's academic standing is determined after the student has already registered for courses, the student shall be required to drop courses to comply with the prescribed workload limit.
-- 2. After each semester, based on the semester GPA, the academic standing of students shall be classified into the following categories:
+1. Academic standing shall serve as the basis for determining the study workload that a student may register for in the following semester. In cases where the student's academic standing is determined after the student has already registered for courses, the student shall be required to drop courses to comply with the prescribed workload limit.
+2. After each semester, based on the semester GPA, the academic standing of students shall be classified into the following categories:
 
-   - a) Excellent: Semester GPA from 3.60 to 4.00
-   - b) Very Good: Semester GPA from 3.20 to 3.59
-   - c) Good: Semester GPA from 2.50 to 3.19
-   - d) Average: Semester GPA from 2.00 to 2.49
-   - đ) Weak: Semester GPA below 2.0 but not yet falling within the cases subject to academic dismissal.
+a) Excellent: Semester GPA from 3.60 to 4.00
+b) Very Good: Semester GPA from 3.20 to 3.59
+c) Good: Semester GPA from 2.50 to 3.19
+d) Average: Semester GPA from 2.00 to 2.49
+đ) Weak: Semester GPA below 2.0 but not yet falling within the cases subject to academic dismissal.
 
-# Chapter VIII
-RECOGNITION OF GRADUATION
+# Chapter VIII RECOGNITION OF GRADUATION
 
 ## Article 46. Conditions for graduation
 
-- 1. Students who have completed the training program shall be considered for recognition of graduation if they satisfy all of the following conditions:
+1. Students who have completed the training program shall be considered for recognition of graduation if they satisfy all of the following conditions:
 
-   - a) Within the maximum duration of study for the academic course;
-   - b) At the time of graduation review, the student is not under criminal prosecution;
+a) Within the maximum duration of study for the academic course;
+b) At the time of graduation review, the student is not under criminal prosecution;
 
----
-
-   - c) Has accumulated the required number of credits prescribed in the training program;
-   - d) The cumulative GPA for the academic course is 2.00 or above. For honors training programs and high-quality training programs, the cumulative GPA shall be 2.50 or above;
-   - đ) Has met the foreign language proficiency requirements prescribed in Clause 3, Article 13 of this Regulation;
-   - e) Has satisfied the requirements on academic performance for certain specialized courses for which Vietnam National University, Hanoi (VNU) and the training unit have issued written regulations;
-   - g) Has achieved a passing grade in national defense and security education courses, physical education courses, and supplementary skills courses;
-   - h) Has submitted an application to the Office of Academic Affairs requesting consideration for graduation in cases where the student is eligible for early or late graduation relative to the designed duration of the academic course.
-- 2. Students who do not meet the graduation requirements for honors training programs or high-quality training programs shall have their grades converted as prescribed in Article 22 in order to be considered for recognition of graduation and issuance of a standard full-time undergraduate degree certificate in the corresponding field of study.
-- 3. Students who do not meet the graduation requirements shall be issued a transcript certifying the courses accumulated within the training program.
+c) Has accumulated the required number of credits prescribed in the training program;
+d) The cumulative GPA for the academic course is 2.00 or above. For honors training programs and high-quality training programs, the cumulative GPA shall be 2.50 or above;
+đ) Has met the foreign language proficiency requirements prescribed in Clause 3, Article 13 of this Regulation;
+e) Has satisfied the requirements on academic performance for certain specialized courses for which Vietnam National University, Hanoi (VNU) and the training unit have issued written regulations;
+g) Has achieved a passing grade in national defense and security education courses, physical education courses, and supplementary skills courses;
+h) Has submitted an application to the Office of Academic Affairs requesting consideration for graduation in cases where the student is eligible for early or late graduation relative to the designed duration of the academic course.
+2. Students who do not meet the graduation requirements for honors training programs or high-quality training programs shall have their grades converted as prescribed in Article 22 in order to be considered for recognition of graduation and issuance of a standard full-time undergraduate degree certificate in the corresponding field of study.
+3. Students who do not meet the graduation requirements shall be issued a transcript certifying the courses accumulated within the training program.
 
 ## Article 47. Recognition of graduation and issuance of undergraduate degrees
 
-- 1. Periodically, four times per year (March, June and July, September, December), the head of the training unit shall issue a decision to establish a Graduation Review Council for students who have completed the training program of the unit. The Graduation Review Council shall be chaired by the head or deputy head of the training unit, with a representative from the leadership of the Office of Academic Affairs serving as secretary member, and a number of other members. Students who satisfy all graduation requirements shall be recognized as having graduated and shall be issued a degree certificate within 03 months from the date on which the student has fully met all graduation requirements and fulfilled all obligations to the training institution.
-- 2. Within 03 months from the date on which the student has fully met all graduation requirements and fulfilled all obligations to the training unit, based on the recommendation of the Graduation Review Council, the Rector of the member university shall issue a decision on recognition of graduation and issuance of the undergraduate degree certificate for students trained at that university; the President of Vietnam National University, Hanoi shall issue a decision on recognition of graduation and issuance of the undergraduate degree certificate for students trained at affiliated Schools/Faculties, upon the recommendation of the Rector/Dean.
+1. Periodically, four times per year (March, June and July, September, December), the head of the training unit shall issue a decision to establish a Graduation Review Council for students who have completed the training program of the unit. The Graduation Review Council shall be chaired by the head or deputy head of the training unit, with a representative from the leadership of the Office of Academic Affairs serving as secretary member, and a number of other members. Students who satisfy all graduation requirements shall be recognized as having graduated and shall be issued a degree certificate within 03 months from the date on which the student has fully met all graduation requirements and fulfilled all obligations to the training institution.
+2. Within 03 months from the date on which the student has fully met all graduation requirements and fulfilled all obligations to the training unit, based on the recommendation of the Graduation Review Council, the Rector of the member university shall issue a decision on recognition of graduation and issuance of the undergraduate degree certificate for students trained at that university; the President of Vietnam National University, Hanoi shall issue a decision on recognition of graduation and issuance of the undergraduate degree certificate for students trained at affiliated Schools/Faculties, upon the recommendation of the Rector/Dean.
 
----
+3. The undergraduate degree certificate shall be issued by field of study, clearly indicating the field of study, mode of training, training program, and graduation honors classification. For major-minor programs, the degree certificate shall indicate the name of the major field of study.
+4. The original degree certificate shall be issued only once and shall not be reissued.
+5. The graduation honors classification shall be determined based on the cumulative GPA of the entire academic course, specifically as follows:
 
-- 3. The undergraduate degree certificate shall be issued by field of study, clearly indicating the field of study, mode of training, training program, and graduation honors classification. For major-minor programs, the degree certificate shall indicate the name of the major field of study.
-- 4. The original degree certificate shall be issued only once and shall not be reissued.
-- 5. The graduation honors classification shall be determined based on the cumulative GPA of the entire academic course, specifically as follows:
-
-   - a) Excellent: Cumulative GPA from 3.60 to 4.00
-   - b) Very Good: Cumulative GPA from 3.20 to 3.59
-   - c) Good: Cumulative GPA from 2.50 to 3.19
-   - d) Average: Cumulative GPA from 2.00 to 2.49.
-- 6. The graduation honors classification for students pursuing a second degree or concurrently enrolled in two training programs shall be determined based on the academic results of courses carried over from the first training program and the academic results of courses accumulated during the second training program.
-- 7. Students whose overall academic performance for the entire course achieves the Excellent or Very Good classification shall have their graduation honors classification reduced by one level if they received a disciplinary sanction of warning or above during the period of study, or if the volume of courses required to be retaken exceeds 5% of the total credits prescribed for the entire program.
-- 8. The diploma supplement issued together with the degree certificate shall be uniformly regulated throughout Vietnam National University, Hanoi in both form and content, wherein the assessment score for each course shall be recorded using letter grades, including the results of free elective courses. Based on the Vietnamese-language diploma supplement, the training unit shall prepare and issue a foreign-language diploma supplement for students.
-- 9. The training unit shall publicly announce the list of graduates (student ID, full name, date of birth, field of study) on the unit's website and shall be responsible for the quality of training and the value of degree certificates issued by the unit.
-- 10. Students who have not completed national defense and security education courses, physical education courses, supplementary skills courses, or have not met the graduation requirements for foreign language proficiency or information technology (if applicable), but whose maximum permitted period of study has expired, may return to the training unit within 3 years from the date of required cessation of study to fulfill the remaining requirements and request consideration for recognition of graduation.
-
----
+a) Excellent: Cumulative GPA from 3.60 to 4.00
+b) Very Good: Cumulative GPA from 3.20 to 3.59
+c) Good: Cumulative GPA from 2.50 to 3.19
+d) Average: Cumulative GPA from 2.00 to 2.49.
+6. The graduation honors classification for students pursuing a second degree or concurrently enrolled in two training programs shall be determined based on the academic results of courses carried over from the first training program and the academic results of courses accumulated during the second training program.
+7. Students whose overall academic performance for the entire course achieves the Excellent or Very Good classification shall have their graduation honors classification reduced by one level if they received a disciplinary sanction of warning or above during the period of study, or if the volume of courses required to be retaken exceeds 5% of the total credits prescribed for the entire program.
+8. The diploma supplement issued together with the degree certificate shall be uniformly regulated throughout Vietnam National University, Hanoi in both form and content, wherein the assessment score for each course shall be recorded using letter grades, including the results of free elective courses. Based on the Vietnamese-language diploma supplement, the training unit shall prepare and issue a foreign-language diploma supplement for students.
+9. The training unit shall publicly announce the list of graduates (student ID, full name, date of birth, field of study) on the unit's website and shall be responsible for the quality of training and the value of degree certificates issued by the unit.
+10. Students who have not completed national defense and security education courses, physical education courses, supplementary skills courses, or have not met the graduation requirements for foreign language proficiency or information technology (if applicable), but whose maximum permitted period of study has expired, may return to the training unit within 3 years from the date of required cessation of study to fulfill the remaining requirements and request consideration for recognition of graduation.
 
 ## Article 48. Authority to issue undergraduate degree certificates
 
-- 1. Vietnam National University, Hanoi shall issue the template for degree certificate forms, print, manage, and distribute degree certificate forms to training units.
-- 2. Based on the decision on recognition of graduation, the Rector of the member university shall sign and affix the university's seal on the undergraduate degree certificate for students trained at that university.
-- 3. Based on the decision on recognition of graduation, the Rector/Dean of an affiliated School/Faculty shall sign (*without affixing the seal of the school/faculty*) and submit to the President of Vietnam National University, Hanoi for signature and affixation of the seal of Vietnam National University, Hanoi on the undergraduate degree certificate for students trained at the affiliated school/faculty.
+1. Vietnam National University, Hanoi shall issue the template for degree certificate forms, print, manage, and distribute degree certificate forms to training units.
+2. Based on the decision on recognition of graduation, the Rector of the member university shall sign and affix the university's seal on the undergraduate degree certificate for students trained at that university.
+3. Based on the decision on recognition of graduation, the Rector/Dean of an affiliated School/Faculty shall sign (*without affixing the seal of the school/faculty*) and submit to the President of Vietnam National University, Hanoi for signature and affixation of the seal of Vietnam National University, Hanoi on the undergraduate degree certificate for students trained at the affiliated school/faculty.
 
-# Chapter IX
-IMPLEMENTATION
+# Chapter IX IMPLEMENTATION
 
 ## Article 49. Implementation
 
@@ -1164,25 +1064,21 @@ The head of the training unit shall organize internal inspections and audits of 
 
 Vietnam National University, Hanoi shall carry out audits and inspections of the implementation of this Regulation by training units.
 
----
-
 ## Article 50. Reporting, archiving, and public disclosure of information
 
-- 1. Before December 31 of each year:
-   - a) Training units shall report to Vietnam National University, Hanoi on the data of newly enrolled students, graduates, students who have discontinued their studies, and currently enrolled students during the year, projected graduates for the following year, and graduates who have secured employment within 12 months; classified by admission category, field of study, academic cohort, and mode of training;
-   - b) Training units shall report to the Provincial People's Committee of the province where joint training is conducted for the part-time study mode (if applicable) on the admission and training situation at the locality.
-- 2. Training units shall be responsible for archiving and safely preserving documents related to training activities in accordance with regulations issued by the Ministry of Education and Training.
-   - a) Admission decisions, diploma supplements (originals), decisions on recognition of graduation, and the master registry of degree certificate issuance for students shall be documents archived and preserved permanently at the training unit;
-   - b) Other documents related to admissions and training shall be archived and preserved throughout the training period;
-   - c) The destruction of documents related to admissions and training that have exceeded their archival period shall be carried out in accordance with current state regulations.
-- 3. Training units shall publicly disclose on their websites no later than 45 days before organizing training:
-   - a) The Regulation on Undergraduate Training of Vietnam National University, Hanoi and related training management regulations of the unit;
-   - b) Decisions on establishment of fields of study and decisions on the organization of full-time training, part-time training, and domestic joint training (if applicable), ensuring full compliance with the requirements under the current Regulation on Undergraduate Training for the programs to be offered;
-   - c) Quality assurance conditions and evidence that training programs meet the training program standards in accordance with current regulations;
-   - d) Admission announcements in accordance with current admission regulations;
-   - e) Evidence of meeting the minimum requirements for joint part-time training as prescribed in Clauses 2 and 3, Article 10 of this Regulation.
-
----
+1. Before December 31 of each year:
+a) Training units shall report to Vietnam National University, Hanoi on the data of newly enrolled students, graduates, students who have discontinued their studies, and currently enrolled students during the year, projected graduates for the following year, and graduates who have secured employment within 12 months; classified by admission category, field of study, academic cohort, and mode of training;
+b) Training units shall report to the Provincial People's Committee of the province where joint training is conducted for the part-time study mode (if applicable) on the admission and training situation at the locality.
+2. Training units shall be responsible for archiving and safely preserving documents related to training activities in accordance with regulations issued by the Ministry of Education and Training.
+a) Admission decisions, diploma supplements (originals), decisions on recognition of graduation, and the master registry of degree certificate issuance for students shall be documents archived and preserved permanently at the training unit;
+b) Other documents related to admissions and training shall be archived and preserved throughout the training period;
+c) The destruction of documents related to admissions and training that have exceeded their archival period shall be carried out in accordance with current state regulations.
+3. Training units shall publicly disclose on their websites no later than 45 days before organizing training:
+a) The Regulation on Undergraduate Training of Vietnam National University, Hanoi and related training management regulations of the unit;
+b) Decisions on establishment of fields of study and decisions on the organization of full-time training, part-time training, and domestic joint training (if applicable), ensuring full compliance with the requirements under the current Regulation on Undergraduate Training for the programs to be offered;
+c) Quality assurance conditions and evidence that training programs meet the training program standards in accordance with current regulations;
+d) Admission announcements in accordance with current admission regulations;
+e) Evidence of meeting the minimum requirements for joint part-time training as prescribed in Clauses 2 and 3, Article 10 of this Regulation.
 
 ## Article 51. Effective date
 
