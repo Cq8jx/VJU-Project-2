@@ -68,15 +68,19 @@
     #toc .article-item > a { padding-left: 16px; }
     .drag-handle { cursor: col-resize; user-select: none; }
     .drag-handle:hover .handle-bar, .drag-handle.dragging .handle-bar { background: #3b82f6; }
-    /* Relations panel */
-    #doc-relations { border-top: 1px solid #e2e8f0; padding: 12px; }
-    #doc-relations h4 { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: #64748b; margin-bottom: 8px; }
-    .rel-tag { display: inline-block; padding: 2px 8px; margin: 2px; font-size: 11px; background: #f1f5f9; color: #475569; border-radius: 9999px; cursor: pointer; transition: all 0.15s; }
-    .rel-tag:hover { background: #e0e7ff; color: #3b82f6; }
-    .rel-link { display: flex; align-items: center; gap: 6px; padding: 5px 8px; margin: 2px 0; font-size: 12px; color: #334155; text-decoration: none; border-radius: 6px; transition: all 0.15s; cursor: pointer; }
-    .rel-link:hover { background: #eff6ff; color: #3b82f6; }
+    /* Relations panel — horizontal bar above content */
+    #doc-relations { border-bottom: 1px solid #e2e8f0; background: linear-gradient(135deg, #f8fafc 0%, #eff6ff 100%); padding: 8px 16px; }
+    #rel-content { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+    #doc-relations h4 { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: #64748b; margin: 0; white-space: nowrap; }
+    #rel-tags, #rel-links { display: flex; align-items: center; gap: 4px; flex-wrap: wrap; }
+    #rel-links { border-left: 1px solid #cbd5e1; padding-left: 12px; }
+    .rel-tag { display: inline-block; padding: 3px 10px; margin: 1px; font-size: 11px; background: #ffffff; color: #3b82f6; border: 1px solid #bfdbfe; border-radius: 9999px; cursor: pointer; transition: all 0.15s; font-weight: 500; }
+    .rel-tag:hover { background: #3b82f6; color: #ffffff; border-color: #3b82f6; }
+    .rel-link { display: inline-flex; align-items: center; gap: 4px; padding: 3px 10px; margin: 1px; font-size: 12px; color: #334155; text-decoration: none; border-radius: 6px; transition: all 0.15s; cursor: pointer; background: #ffffff; border: 1px solid #e2e8f0; }
+    .rel-link:hover { background: #3b82f6; color: #ffffff; border-color: #3b82f6; }
+    .rel-link:hover .rel-type, .rel-link:hover .rel-icon { color: #ffffff; }
     .rel-link .rel-type { font-size: 10px; color: #94a3b8; white-space: nowrap; }
-    .rel-link .rel-icon { font-size: 16px; color: #94a3b8; }
+    .rel-link .rel-icon { font-size: 14px; color: #64748b; }
   </style>
 </head>
 <body class="bg-bg-canvas text-text-main min-h-screen flex flex-col">
@@ -926,6 +930,12 @@
 <!-- VIEW: DOCUMENT READER (Split View) -->
 <!-- ============================================================ -->
 <div id="view-reader" class="view" style="flex-direction:column; height:calc(100vh - 56px);">
+  <div id="doc-relations" style="display:none;">
+    <div id="rel-content">
+      <div id="rel-tags"></div>
+      <div id="rel-links"></div>
+    </div>
+  </div>
   <div id="reader-body" class="flex-1 flex overflow-hidden">
     <!-- TOC Sidebar -->
     <aside id="sidebar" class="w-60 flex-shrink-0 border-r border-gray-200 bg-slate-50 flex flex-col z-20">
@@ -936,10 +946,6 @@
       <nav id="toc" class="flex-1 overflow-y-auto p-3 space-y-1" aria-label="Table of contents">
         <div class="text-xs text-text-muted py-4 text-center">Loading...</div>
       </nav>
-      <div id="doc-relations" class="overflow-y-auto" style="display:none;">
-        <div id="rel-tags"></div>
-        <div id="rel-links" class="mt-2"></div>
-      </div>
     </aside>
     <!-- Split container -->
     <div id="split-container" class="flex-1 flex overflow-hidden">
@@ -1742,11 +1748,11 @@
     // Relations
     if (relations.length) {
       const typeIcons = { 'supersedes': 'upgrade', 'superseded-by': 'history', 'amended-by': 'edit_note', 'amends': 'edit_note', 'related': 'link', 'has-annex': 'attach_file', 'annex-of': 'attach_file' };
-      linksEl.innerHTML = '<h4>Related Documents</h4>' + relations.map(r => {
+      linksEl.innerHTML = '<h4>Related</h4>' + relations.map(r => {
         const rEntry = DOC_REGISTRY[r.id];
         const rTitle = rEntry && typeof rEntry !== 'string' ? rEntry.title : r.id;
         const icon = typeIcons[r.type] || 'description';
-        return '<a class="rel-link" data-doc-id="' + r.id + '"><span class="material-symbols-outlined rel-icon">' + icon + '</span><span class="flex-1">' + rTitle + '</span><span class="rel-type">' + r.label + '</span></a>';
+        return '<a class="rel-link" data-doc-id="' + r.id + '"><span class="material-symbols-outlined rel-icon">' + icon + '</span><span>' + rTitle + '</span><span class="rel-type">' + r.label + '</span></a>';
       }).join('');
       linksEl.querySelectorAll('.rel-link').forEach(a => { a.addEventListener('click', () => openDocument(a.dataset.docId, false)); });
     } else { linksEl.innerHTML = ''; }
