@@ -51,13 +51,13 @@
 
 | # | Doc ID | Filename Prefix | Title (EN) | PDF | VI | EN | JA | Status |
 |---|--------|-----------------|------------|:---:|:--:|:--:|:--:|:------:|
-| 11 | DHVN-QD-473 | `DHVN-QD-473_Academic Advisory Work Regulations` | Academic Advisory Work Regulations | Y | Y | Y | Y | staged |
+| 11 | DHVN-QD-473 | `DHVN-QD-473_Academic Advisory Work Regulations` | Academic Advisory Work Regulations | Y | Y | Y | Y | done |
 | 12 | DHVN-QD-700 | `DHVN-QD-700_Anti-Plagiarism Regulations` | Anti-Plagiarism Regulations | Y | Y | Y | Y | done |
-| 13 | DHVN-HD-000 | `DHVN-HD-000_Foreign Language Certificate Guidelines` | Foreign Language Cert Guidelines (VJU2022+) | Y | Y | Y | Y | staged |
-| 14 | DHVN-HD-259 | `DHVN-HD-259_Foreign Language Certificate Guidelines VJU2020-2021` | Foreign Language Cert Guidelines (VJU2020-21) | Y | Y | Y | Y | staged |
-| 15 | DHVN-HD-259 a1 | `DHVN-HD-259_Annex 1 Certificate Equivalency Table` | Certificate Equivalency Table | Y | Y | Y | Y | staged |
-| 16 | DHVN-HD-259 a2 | `DHVN-HD-259_Annex 2 JLPT Authorization Letter Template` | JLPT Authorization Letter Template | Y | Y | Y | Y | staged |
-| 17 | DHVN-HD-304 | `DHVN-HD-304_Learning Outcome Recognition and Credit Transfer` | Learning Outcome Recognition & Credit Transfer | Y | Y | Y | Y | staged |
+| 13 | DHVN-HD-000 | `DHVN-HD-000_Foreign Language Certificate Guidelines` | Foreign Language Cert Guidelines (VJU2022+) | Y | Y | Y | Y | done |
+| 14 | DHVN-HD-259 | `DHVN-HD-259_Foreign Language Certificate Guidelines VJU2020-2021` | Foreign Language Cert Guidelines (VJU2020-21) | Y | Y | Y | Y | done |
+| 15 | DHVN-HD-259 a1 | `DHVN-HD-259_Annex 1 Certificate Equivalency Table` | Certificate Equivalency Table | Y | Y | Y | Y | done |
+| 16 | DHVN-HD-259 a2 | `DHVN-HD-259_Annex 2 JLPT Authorization Letter Template` | JLPT Authorization Letter Template | Y | Y | Y | Y | done |
+| 17 | DHVN-HD-304 | `DHVN-HD-304_Learning Outcome Recognition and Credit Transfer` | Learning Outcome Recognition & Credit Transfer | Y | Y | Y | Y | done |
 | 18 | DHVN-HD-483 | `DHVN-HD-483_Practical Internship Guidance` | Practical Internship Guidance | Y | Y | Y | Y | staged |
 | 19 | DHVN-HD-1534 | `DHVN-HD-1534_Thesis and Graduation Project Guidelines` | Thesis & Graduation Project Guidelines | - | Y | Y | Y | staged |
 | 20 | DHVN-HD-1534 en | `DHVN-HD-1534_Annex Templates English Format` | Thesis Annex Templates (EN Format) | Y | Y | Y | Y | staged |
@@ -121,12 +121,12 @@
 | Group | Total | Done | Staged | Remaining |
 |-------|:-----:|:----:|:------:|:---------:|
 | A: VNU Regulations (DHQGHN) | 10 | 10 | 0 | 0 |
-| B: VJU Guidelines (DHVN) | 19 | 6 | 13 | 0 |
+| B: VJU Guidelines (DHVN) | 19 | 12 | 7 | 0 |
 | C: Ministry of Education (BGDDT) | 12 | 0 | 12 | 0 |
 | D: Other Government | 5 | 0 | 5 | 0 |
 | E: Education Testing | 3 | 3 | 0 | 0 |
 | F: Public Reports | 3 | 0 | 3 | 0 |
-| **Total** | **52** | **19** | **33** | **0** |
+| **Total** | **52** | **25** | **27** | **0** |
 
 **全ソースファイル（PDF+MD）は `docs/data/` にコピー済み。**
 残り33文書のフォーマット正規化が必要。
