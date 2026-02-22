@@ -51,7 +51,9 @@
     /* Prose for document reader */
     .prose-legal h1 { font-size: 1.35rem; font-weight: 700; margin: 2rem 0 0.75rem; text-align: center; }
     .prose-legal h2 { font-size: 1.1rem; font-weight: 700; margin: 1.5rem 0 0.5rem; color: #1e293b; }
-    .prose-legal p { margin: 0.6rem 0; line-height: 1.75; font-size: 0.95rem; }
+    .prose-legal p { margin: 0.6rem 0; line-height: 1.75; font-size: 0.95rem; text-indent: 1.5em; }
+    .prose-legal div p, .prose-legal p[align] { text-indent: 0; }
+    .prose-legal p.khoan { text-indent: -1.5em; padding-left: 2.5em; margin: 0.3rem 0; }
     .prose-legal ul, .prose-legal ol { margin: 0.4rem 0 0.4rem 0.25rem; }
     .prose-legal li { margin: 0.2rem 0; line-height: 1.7; font-size: 0.95rem; }
     .prose-legal table { width: 100%; border-collapse: collapse; margin: 0.75rem 0; font-size: 0.85rem; }
@@ -1698,7 +1700,7 @@
         for (let i = 0; i < lines.length; i++) {
           let line = lines[i];
           const prev = i > 0 ? lines[i - 1] : '';
-          if (/^\d+\.\s/.test(line) && prev.trim() !== '' && !/^\d+\.\s/.test(prev)) out.push('');
+          if (/^\d+\.\s/.test(line) && prev.trim() !== '') out.push('');
           line = line.replace(/^(\d+)\. /, '$1\\. ');
           const dm = line.match(DIEM_RE);
           if (dm) {
@@ -1709,7 +1711,7 @@
         }
         return out.join('\n');
       };
-      const render = md => DOMPurify.sanitize(marked.parse(preprocessLegalMd(md)), { ADD_TAGS: ['sub','sup'], ADD_ATTR: ['align','style'] });
+      const render = md => { let html = marked.parse(preprocessLegalMd(md)); html = html.replace(/<p>(\d+)\. /g, '<p class="khoan">$1. '); return DOMPurify.sanitize(html, { ADD_TAGS: ['sub','sup'], ADD_ATTR: ['align','style','class'] }); };
       const rendered = { vi: render(docs.vi), en: render(docs.en), ja: render(docs.ja) };
       ['left','right'].forEach(pane => {
         ['vi','en','ja'].forEach(lang => {
