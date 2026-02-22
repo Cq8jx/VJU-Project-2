@@ -42,7 +42,7 @@ Sub-documents (annexes): `{base}_Annex {N} {Short Title}_*`
 
 | # | Doc ID | New Filename Prefix | Title (EN) | PDF | VI | EN | JA | Status | Notes |
 |---|--------|---------------------|------------|:---:|:--:|:--:|:--:|:------:|-------|
-| 1 | DHQGHN-QD-3626 | `3626-QD-DHQGHN_Regulation on Undergraduate Training` | Regulation on Undergraduate Training | Y | Y | Y | Y | done | Format normalization pending (see below) |
+| 1 | DHQGHN-QD-3626 | `3626-QD-DHQGHN_Regulation on Undergraduate Training` | Regulation on Undergraduate Training | Y | Y | Y | Y | done | Format normalization done (9b330ad) |
 | 2 | DHQGHN-QD-3636 | `3636-QD-DHQGHN_Regulation on Masters Training` | Regulation on Master's Training | Y | Y | Y | Y | done | |
 | 3 | DHQGHN-QD-3638 | `3638-QD-DHQGHN_Regulation on Doctoral Training` | Regulation on Doctoral Training | Y | Y | Y | Y | done | |
 | 4 | DHQGHN-QD-2459 | `2459-QD-DHQGHN_Amendment to Masters Training Regulation` | Amendment to Master's Training Reg (3636) | Y | Y | Y | Y | done | Amends #2 |

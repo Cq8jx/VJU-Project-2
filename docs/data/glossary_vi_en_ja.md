@@ -51,6 +51,10 @@ document_status: "active"
 | giáo viên chủ nhiệm | homeroom teacher / class supervisor | クラス担任 |
 | Chủ nhiệm Khoa | Dean of Faculty | 学部長 |
 | Chủ nhiệm Bộ môn | Head of Department | 学科目長（教室主任） |
+| Trưởng Ban Đào tạo | Head of Department of Academic Affairs (VNU) | 教務局長（VNU本部） |
+| Chánh Văn phòng | Chief of Office / Secretary-General | 事務局長 |
+| Trưởng ban chức năng | Head of functional department | 部局長 |
+| Thủ trưởng đơn vị | Head of unit | 機関の長 |
 
 ---
 
@@ -181,4 +185,4 @@ document_status: "active"
 
 ---
 
-*Last updated: 2026-02-21*
+*Last updated: 2026-02-22*

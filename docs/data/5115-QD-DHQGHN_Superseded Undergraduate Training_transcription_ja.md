@@ -5,7 +5,7 @@ date: 2014-12-25
 department: "Academic Affairs"
 type: "Regulation"
 restricted: false
-last_updated: 2026-02-21
+last_updated: 2026-02-22
 ---
 > **[免責事項]** この文書はAIにより生成されたものであり、参考用です。法的効力はありません。重要な判断を行う際は、必ず公式文書を参照するか、発行機関であるベトナム国家大学ハノイ校（__https://vnu.edu.vn__）に問い合わせてください。
 

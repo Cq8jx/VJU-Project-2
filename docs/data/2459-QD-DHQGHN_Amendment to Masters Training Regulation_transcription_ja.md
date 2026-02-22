@@ -5,20 +5,25 @@ date: 2024-06-05
 department: "Academic Affairs"
 type: "Decision"
 restricted: false
-last_updated: 2026-02-21
+last_updated: 2026-02-22
 ---
 > **[免責事項]** この文書はAIにより生成されたものであり、参考用です。法的効力はありません。重要な判断を行う際は、必ず公式文書を参照するか、発行機関であるベトナム国家大学ハノイ校（__https://vnu.edu.vn__）に問い合わせてください。
 
 
-**ベトナム国家大学ハノイ校（Vietnam National University, Hanoi）**
-**番号: 2459/QĐ-ĐHQGHN**
+<div style="display: flex; justify-content: space-between; text-align: center;">
+<div>
+<strong>ĐẠI HỌC QUỐC GIA HÀ NỘI</strong><br>
+———————<br>
+番号: 2459/QĐ-ĐHQGHN
+</div>
+<div>
+<strong>ベトナム社会主義共和国</strong><br>
+<strong>独立 - 自由 - 幸福</strong><br>
+<em>ハノイ、2024年6月5日</em>
+</div>
+</div>
 
-**ベトナム社会主義共和国**
-**独立 - 自由 - 幸福**
-
-*ハノイ、2024年6月5日*
-
-### 決定
+# 決定
 **ベトナム国家大学ハノイ校における修士課程教育規程の一部内容の修正および補足に関する件**
 
 **ベトナム国家大学ハノイ校総長**
