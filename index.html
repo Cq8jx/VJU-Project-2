@@ -1694,6 +1694,7 @@
           let line = lines[i];
           const prev = i > 0 ? lines[i - 1] : '';
           if (/^\d+\.\s/.test(line) && prev.trim() !== '' && !/^\d+\.\s/.test(prev)) out.push('');
+          line = line.replace(/^(\d+)\. /, '$1\\. ');
           const dm = line.match(DIEM_RE);
           if (dm) {
             const indent = dm[1].length > 0 ? nbsp.repeat(Math.ceil(dm[1].length / 2)) : nbsp.repeat(1);
