@@ -1711,7 +1711,7 @@
         }
         return out.join('\n');
       };
-      const render = md => { let html = marked.parse(preprocessLegalMd(md)); html = html.replace(/<p>(\d+)\. /g, '<p class="khoan">$1. '); return DOMPurify.sanitize(html, { ADD_TAGS: ['sub','sup'], ADD_ATTR: ['align','style','class'] }); };
+      const render = md => { let html = DOMPurify.sanitize(marked.parse(preprocessLegalMd(md)), { ADD_TAGS: ['sub','sup'], ADD_ATTR: ['align','style'] }); html = html.replace(/<p>\s*(\d+)\. /g, '<p class="khoan">$1. '); return html; };
       const rendered = { vi: render(docs.vi), en: render(docs.en), ja: render(docs.ja) };
       ['left','right'].forEach(pane => {
         ['vi','en','ja'].forEach(lang => {
