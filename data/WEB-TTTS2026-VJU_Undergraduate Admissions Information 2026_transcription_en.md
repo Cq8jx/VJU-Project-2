@@ -484,7 +484,7 @@ Sustainable Science</th>
 
 Converted score (ĐQĐ) =  + Priority points (ĐT, KV)
 
-*\[Note: The source page omits the term before "+" in this formula.\]*
+*[Note: The source page omits the term before "+" in the converted score (ĐQĐ) formula. Điểm ƯT (ĐT, KV) = priority points by category/object and region.]*
 
 *(Common subjects detailed in section 3.2.2)*
 
@@ -497,6 +497,8 @@ Converted score (ĐQĐ) =  + Priority points (ĐT, KV)
 - ***Selection based on foreign language certificates combined with 2026 High School Graduation Exam scores***
 
 Converted score (ĐQĐ) =  + Priority points (ĐT, KV)
+
+*[Note: The source page omits the term before "+" in the converted score (ĐQĐ) formula. Điểm ƯT (ĐT, KV) = priority points by category/object and region.]*
 
 *(Common subjects detailed in section 3.2.2)*
 

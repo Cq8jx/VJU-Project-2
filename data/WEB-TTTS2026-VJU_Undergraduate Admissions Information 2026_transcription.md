@@ -484,7 +484,7 @@ Khoa học bền vững</th>
 
 Điểm quy đổi (ĐQĐ) =  + Điểm ƯT (ĐT, KV)
 
-*\[Ghi chú: Trang nguồn thiếu thành phần trước dấu "+" trong công thức.\]*
+*[Ghi chú: Trang nguồn thiếu thành phần trước dấu "+" trong công thức ĐQĐ (Điểm quy đổi). Điểm ƯT (ĐT, KV) = điểm ưu tiên theo đối tượng và khu vực.]*
 
 *(Môn chung chi tiết tại mục 3.2.2)*
 
@@ -497,6 +497,8 @@ Khoa học bền vững</th>
 - ***Xét tuyển chứng chỉ ngoại ngữ kết hợp điểm thi tốt nghiệp THPT năm 2026***
 
 Điểm quy đổi (ĐQĐ) =  + Điểm ƯT (ĐT, KV)
+
+*[Ghi chú: Trang nguồn thiếu thành phần trước dấu "+" trong công thức ĐQĐ (Điểm quy đổi). Điểm ƯT (ĐT, KV) = điểm ưu tiên theo đối tượng và khu vực.]*
 
 *(Môn chung chi tiết tại mục 3.2.2)*
 
