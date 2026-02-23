@@ -86,3 +86,58 @@
 
 ### Status
 - Pre-fix script checks confirm JA requires structural rewrite before PDF-based re-review.
+## 2026-02-23 1010-TB-DHVN Claude QA -> Fix -> Review Cycle (Completed)
+
+### Scope
+- `data/1010-TB-DHVN_English Certificate Submission VJU2025_source.pdf`
+- `data/1010-TB-DHVN_English Certificate Submission VJU2025_transcription.md`
+- `data/1010-TB-DHVN_English Certificate Submission VJU2025_transcription_en.md`
+- `data/1010-TB-DHVN_English Certificate Submission VJU2025_transcription_ja.md`
+
+### Claude QA Findings (pre-fix)
+- JA file was contaminated by a different source document (critical): wrong sections, wrong tables, wrong appendices (JLPT template mixed in), ASCII-art tables, missing actual appendices.
+- VI/EN structures were mostly faithful; no critical PDF->MD issues confirmed there.
+- Claude provided a 3-chunk fix plan for JA (`Chunk A: header+Sec1-2`, `Chunk B: Sec3-4+signature`, `Chunk C: appendices`).
+
+### Claude-based Fixes Applied
+- JA file rebuilt by applying Claude-generated replacement chunks for all content after the source-note.
+- Fixed JA structural alignment with VI/EN:
+  - Restored sections 1-4 with correct headings
+  - Replaced ASCII-art blocks with Markdown pipe tables (main table + Appendix 1 + Appendix 2)
+  - Restored Appendix 1 conversion table and Appendix 2 institution list (27 rows)
+  - Removed contaminated JLPT authorization content from unrelated document
+  - Restored Vietnamese document IDs with diacritics (`QĐ-ĐHQGHN`, `HD-ĐHQGHN`, `HD-ĐHVN`)
+- Additional Claude polish pass applied:
+  - Corrected VJU/ĐHQGHN wording to avoid organization-code confusion
+  - Unified `VJU2025年度生` wording
+  - Unified JA terminology (`資格証明書・認定書`)
+  - Normalized style in Sections 3-4 toward formal register
+  - Normalized `枠組み` spelling
+
+### Script Validation (post-fix, Codex-run)
+- JA `pipe_table_lines`: `45` (matches VI/EN expectation)
+- JA `ascii_sep_lines`: `0` (ASCII table contamination removed)
+- Required IDs present: `QĐ-ĐHQGHN`, `1011/HD-ĐHQGHN`, `880/HD-ĐHVN`
+- Contamination tokens absent: `JLPT`, `委任状`, `CTĐT`, `標準トレーニング`
+
+### Claude Post-fix Review (intermediate)
+- Result: `PASS WITH NOTES`
+- Notes addressed by additional Claude fix pass:
+  - JA wording `日越大学（ĐHQGHN）` ambiguity
+  - `VJU2025コースの学生` term consistency
+  - mixed register / mixed terminology in sections 3-4
+
+### Claude Final Post-fix Review
+- Result: `JA contamination RESOLVED`
+- No `Critical` / `High` issues remaining
+- Remaining low-priority metadata item:
+  - `issue_date: null` in all 3 files can be populated as `2025-09-09`
+
+### Claude Feedback (captured)
+- Add JA style-register consistency checks (e.g., detect mixed `です/ます` and `である/こと` in the same document)
+- Add intra-document terminology consistency checks (same concept translated differently in separate sections)
+- Add abbreviation/organization-code disambiguation checks for patterns like `A（B）` vs `A、B`
+- Populate `issue_date` automatically from document date line when confidently parsed
+
+### Timeout Events (300s threshold)
+- None in this cycle
