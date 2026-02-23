@@ -1,0 +1,8 @@
+{
+  "name": "vju-scripts",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "@google-cloud/firestore": "^7.0.0"
+  }
+}
