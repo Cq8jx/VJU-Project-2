@@ -160,3 +160,47 @@
 - `1010` requires only metadata cleanup (`issue_date`)
 - Script-check commit stamp: `984-TB-DHVN` included in Batch 2 (same findings block above)
 - Script-check commit stamp: `1010-TB-DHVN` metadata follow-up included in Batch 2 (same findings block above)
+## 2026-02-23 Batch 2 Claude QA -> Fix -> Review Cycle (911 / 984 / 1010)
+
+### 911-TB-DHVN (VJU2024)
+- Claude QA (pre-fix): EN/JA had table corruption (ASCII/escaped pipe), header/recipient/signature layout collapse, doc-ID diacritic loss; VI mostly good.
+- Claude fixes applied:
+  - VI title `_source` removed
+  - EN/JA header/title block layout normalized
+  - EN/JA recipients/signature block restored to multi-line structure
+  - EN/JA §2 + Appendix 1 + Appendix 2 converted to markdown pipe tables
+  - EN/JA doc-ID diacritics restored (`QĐ-ĐHQGHN`, `QĐ-ĐHNN`)
+  - JA terminology fixes (`履修免除`, formal closing phrase)
+  - JA appendix institution ambiguity fixed (`Nam Cần Thơ`, `Tây Nguyên` disambiguation)
+- Claude post-fix review: `PASS WITH NOTES`
+- Remaining notes (non-blocking): old front-matter `id` format, body `911/TB-DHVN` lacking `Đ`, EN wording `credit` vs `score`, JA line-break hygiene, CDR expansion.
+- Claude QA feedback captured: add JA line-break hygiene check under `breaks: true` rendering.
+
+### 984-TB-DHVN (VJU2023)
+- Claude QA (pre-fix): EN/JA doc-ID errors (issuer + diacritics), table/appendix formatting breakage (`\\|`, ASCII separators), recipients/signature layout collapse, item #18 Nam Cần Thơ translation error. VI missing section 1.2 bullets and title `_source` contamination.
+- Claude fixes applied:
+  - VI title `_source` removed; section 1.2 bullet formatting restored (2 bullets)
+  - EN/JA doc-IDs corrected with diacritics and correct issuer codes
+  - EN/JA section 1.2 bullets restored
+  - EN/JA appendix/table rendering repaired (escaped pipes removed, formatting normalized)
+  - EN/JA recipients/signature block layout restored
+  - EN wording fixed: `Vietnam National University, Hanoi`
+  - EN/JA item #18 fixed to `Nam Can Tho` / `ナムカントー大学`
+  - JA oversized separators replaced with standard `---`
+  - JA proper-noun ambiguity patch: entry 1/23 disambiguated with romanization (`Thái Nguyên` / `Tây Nguyên`)
+  - JA appendix footnote institution term corrected: `言語国際研究大学` -> `外国語大学`
+- Claude post-fix review: `PASS WITH NOTES` -> after follow-up patches, no high issues remain (only low/cosmetic/metadata notes reported).
+- Claude QA feedback captured: add JA katakana proper-noun disambiguation rule (same katakana from different Vietnamese names).
+
+### 1010-TB-DHVN (metadata follow-up)
+- Claude QA confirmed `issue_date` is safely derivable as `2025-09-09` from VI/EN/JA date lines.
+- Claude fix applied: set `issue_date: "2025-09-09"` in all 3 language files only.
+- Claude review result: `PASS` (no unintended metadata changes).
+
+### Batch 2 Timeout Events (300s threshold)
+- None
+
+### Additional QA Checks Added/Strengthened (from Claude feedback)
+1. JA line-break hygiene for rendered markdown with `breaks: true` (avoid accidental visible mid-sentence breaks)
+2. JA proper-noun disambiguation when different Vietnamese names collapse to identical katakana (use parenthetical romanization)
+3. Metadata normalization pass for `issue_date` from body date line when unambiguous across VI/EN/JA
