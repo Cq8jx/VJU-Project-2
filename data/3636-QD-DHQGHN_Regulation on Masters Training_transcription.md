@@ -68,8 +68,8 @@ Số: 3636/QĐ-ĐHQGHN
 
 ---
 
-# QUY CHẾ
-**Đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội**
+<p align="center"><strong style="font-size:1.5em;">QUY CHẾ</strong></p>
+<p align="center"><strong>Đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội</strong></p>
 <p align="center"><em>(Ban hành kèm theo Quyết định số 3636/QĐ-ĐHQGHN, ngày 21 tháng 10 năm 2022 của Giám đốc Đại học Quốc gia Hà Nội)</em></p>
 
 # Chương I. NHỮNG QUY ĐỊNH CHUNG
@@ -365,11 +365,11 @@ Sau mỗi học kỳ, đơn vị đào tạo thực hiện xử lý học vụ.
     Thời gian nghỉ học tạm thời cho các trường hợp khác là thời gian cần thiết theo nhu cầu, nguyện vọng của học viên nhưng thời gian tối đa hoàn thành chương trình đào tạo phải theo đúng quy định tại Khoản 3, Điều 6 Quy chế này;
     c) Thủ trưởng đơn vị đào tạo quy định cụ thể thủ tục xin nghỉ, thẩm quyền cho nghỉ và việc tiếp nhận học viên trở lại học tập sau thời gian nghỉ học tạm thời;
     d) Học viên được cho thôi học nếu thuộc một trong những trường hợp sau:
-    - Có đơn tự nguyện xin thôi học trong thời gian đào tạo theo quy định tại Khoản 3, Điều 6 Quy chế này;
-    - Vượt quá thời gian tối đa được phép học theo quy định tại Khoản 3, Điều 6 Quy chế này;
-    - Vi phạm quy định tại Điểm a, Khoản 2, Điều 52 Quy chế này;
-    - Tự ý nghỉ học mà không báo cáo cho đơn vị đào tạo trong thời gian một học kỳ trở lên;
-    - Không có đơn xin quay trở lại học sau khi hết thời gian nghỉ học tạm thời.
+  - Có đơn tự nguyện xin thôi học trong thời gian đào tạo theo quy định tại Khoản 3, Điều 6 Quy chế này;
+  - Vượt quá thời gian tối đa được phép học theo quy định tại Khoản 3, Điều 6 Quy chế này;
+  - Vi phạm quy định tại Điểm a, Khoản 2, Điều 52 Quy chế này;
+  - Tự ý nghỉ học mà không báo cáo cho đơn vị đào tạo trong thời gian một học kỳ trở lên;
+  - Không có đơn xin quay trở lại học sau khi hết thời gian nghỉ học tạm thời.
 3. Chuyển đơn vị đào tạo
     a) Trong thời gian học tập, học viên được phép chuyển đơn vị đào tạo nếu chuyển vùng cư trú sang tỉnh khác, có giấy xác nhận của chính quyền địa phương hoặc học viên được tuyển dụng, điều động công tác đến tỉnh khác theo quyết định của cấp có thẩm quyền, không thể tiếp tục học tập tại đơn vị đào tạo, trừ trường hợp được quy định tại Điểm c, Khoản này;
     b) Điều kiện được chuyển đơn vị đào tạo: đơn vị đào tạo chuyển đến đang đào tạo đúng ngành của học viên; nguyện vọng chuyển đơn vị đào tạo của học viên phải được sự đồng ý của thủ trưởng đơn vị đào tạo nơi chuyển đi và nơi chuyển đến;
@@ -395,16 +395,16 @@ Sau mỗi học kỳ, đơn vị đào tạo thực hiện xử lý học vụ.
     a) Mỗi học viên có một hoặc hai người hướng dẫn luận văn, trong đó phải có một người là giảng viên cơ hữu của Đại học Quốc gia Hà Nội;
     b) Tại một thời điểm, một người hướng dẫn độc lập không quá 05 học viên, kể cả học viên của cơ sở đào tạo khác (tính cả số học viên thực hiện học phần tốt nghiệp của chương trình định hướng ứng dụng); trường hợp đồng hướng dẫn 02 học viên được tính tương đương hướng dẫn độc lập 01 học viên;
     c) Tiêu chuẩn của người hướng dẫn luận văn:
-    - Có trình độ tiến sĩ từ 02 năm trở lên, chuyên môn phù hợp với ngành đào tạo và đề tài luận văn của học viên;
-    - Có năng lực ngoại ngữ, ứng dụng công nghệ thông tin để thực hiện nghiên cứu và trao đổi khoa học quốc tế;
-    - Có kết quả nghiên cứu khoa học liên quan đến đề tài luận văn trong thời gian 05 năm tính đến thời điểm được giao hướng dẫn;
-    - Đáp ứng những yêu cầu khác theo chuẩn chương trình đào tạo của ngành, lĩnh vực đào tạo và quy định của đơn vị đào tạo.
+  - Có trình độ tiến sĩ từ 02 năm trở lên, chuyên môn phù hợp với ngành đào tạo và đề tài luận văn của học viên;
+  - Có năng lực ngoại ngữ, ứng dụng công nghệ thông tin để thực hiện nghiên cứu và trao đổi khoa học quốc tế;
+  - Có kết quả nghiên cứu khoa học liên quan đến đề tài luận văn trong thời gian 05 năm tính đến thời điểm được giao hướng dẫn;
+  - Đáp ứng những yêu cầu khác theo chuẩn chương trình đào tạo của ngành, lĩnh vực đào tạo và quy định của đơn vị đào tạo.
 2. Điều kiện đánh giá luận văn
     a) Học viên hoàn thành tất cả các học phần của chương trình đào tạo;
     b) Đạt chuẩn đầu ra về ngoại ngữ phù hợp với yêu cầu chuẩn đầu ra của chương trình đào tạo tương đương Bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam; được minh chứng qua một trong các văn bằng, chứng chỉ sau:
-    - Có bằng tốt nghiệp đại học, thạc sĩ, tiến sĩ được đào tạo toàn thời gian ở nước ngoài, được cơ quan có thẩm quyền công nhận văn bằng theo quy định hiện hành;
-    - Có bằng tốt nghiệp đại học ngành ngôn ngữ nước ngoài;
-    - Có chứng chỉ trình độ ngoại ngữ tương đương Bậc 4 của Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam, hoặc tương đương trong thời hạn 02 năm (kể từ ngày thi chứng chỉ ngoại ngữ đến ngày nộp chứng chỉ cho đơn vị đào tạo, trường hợp học viên gia hạn, thì tính từ ngày thi chứng chỉ ngoại ngữ đến ngày nộp hồ sơ đề nghị bảo vệ luận văn) được cấp bởi các cơ sở được Bộ Giáo dục và Đào tạo và Đại học Quốc gia Hà Nội công nhận.
+  - Có bằng tốt nghiệp đại học, thạc sĩ, tiến sĩ được đào tạo toàn thời gian ở nước ngoài, được cơ quan có thẩm quyền công nhận văn bằng theo quy định hiện hành;
+  - Có bằng tốt nghiệp đại học ngành ngôn ngữ nước ngoài;
+  - Có chứng chỉ trình độ ngoại ngữ tương đương Bậc 4 của Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam, hoặc tương đương trong thời hạn 02 năm (kể từ ngày thi chứng chỉ ngoại ngữ đến ngày nộp chứng chỉ cho đơn vị đào tạo, trường hợp học viên gia hạn, thì tính từ ngày thi chứng chỉ ngoại ngữ đến ngày nộp hồ sơ đề nghị bảo vệ luận văn) được cấp bởi các cơ sở được Bộ Giáo dục và Đào tạo và Đại học Quốc gia Hà Nội công nhận.
     c) Cam đoan danh dự về kết quả nghiên cứu trung thực, có ý kiến xác nhận của người hướng dẫn là luận văn đạt các yêu cầu theo quy định tại Điều 34, Quy chế này;
     d) Không bị truy cứu trách nhiệm hình sự và không trong thời gian bị kỷ luật đình chỉ học tập;
     đ) Luận văn đã được kiểm tra việc sao chép trùng lặp, bảo đảm liêm chính học thuật đối với luận văn; Không bị tố cáo theo quy định của pháp luật về nội dung khoa học trong luận văn.
@@ -542,8 +542,8 @@ Học viên không trung thực và có hành vi gian lận trong nghiên cứu 
     a) Kinh phí từ ngân sách nhà nước
     Đại học Quốc gia Hà Nội phân bổ kinh phí từ ngân sách nhà nước theo định mức và chỉ tiêu đào tạo hàng năm cho các ngành có chương trình đào tạo tương ứng.
     b) Tất cả học viên đều phải đóng học phí theo số tín chỉ đăng ký học trong mỗi học kỳ. Thủ trưởng đơn vị đào tạo xây dựng định mức học phí cho một tín chỉ và hệ số học phí của từng học phần cho tất cả các ngành học phù hợp với các quy định chung hiện hành của Nhà nước và của Đại học Quốc gia Hà Nội; các khoa trực thuộc, trường trực thuộc, viện nghiên cứu khoa học báo cáo Giám đốc Đại học Quốc gia Hà Nội phê duyệt trước khi thực hiện;
-    - Cách tính học phí trên được áp dụng cho cả các học phần mà học viên phải học lại;
-    - Thủ trưởng đơn vị đào tạo quy định cụ thể và công bố rộng rãi cho học viên biết cách thức thu, nộp học phí.
+  - Cách tính học phí trên được áp dụng cho cả các học phần mà học viên phải học lại;
+  - Thủ trưởng đơn vị đào tạo quy định cụ thể và công bố rộng rãi cho học viên biết cách thức thu, nộp học phí.
     c) Các nguồn kinh phí hợp pháp khác
     Các nguồn kinh phí hợp pháp dành cho công tác đào tạo do thủ trưởng đơn vị đào tạo quy định theo tình hình thực tế đảm bảo hiệu quả sử dụng và cân đối giữa các nguồn kinh phí.
 2. Sử dụng kinh phí đào tạo

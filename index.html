@@ -1706,6 +1706,7 @@
             if (prev.trim() !== '') out.push('');
             line = dm[2] + ') ' + line.slice(dm[0].length);
           }
+          if (/^ {4,}- /.test(line)) line = line.replace(/^ {4,}(- )/, '$1');
           out.push(line);
         }
         return out.join('\n');

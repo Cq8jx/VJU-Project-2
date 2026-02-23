@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VJU Project 2 — Test Runner</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8f9fa; color: #1a1a2e; padding: 24px; }
+    h1 { font-size: 1.5rem; font-weight: 700; margin-bottom: 4px; }
+    .subtitle { color: #6c757d; font-size: 0.85rem; margin-bottom: 20px; }
+    #summary { display: flex; gap: 16px; margin-bottom: 24px; padding: 16px 20px; background: #fff; border-radius: 10px; border: 1px solid #e2e8f0; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+    .stat { font-size: 1.1rem; font-weight: 600; }
+    .stat.pass { color: #16a34a; }
+    .stat.fail { color: #dc2626; }
+    .stat.total { color: #334155; }
+    .stat small { font-weight: 400; font-size: 0.75rem; color: #6c757d; display: block; }
+    .suite { margin-bottom: 20px; }
+    .suite-name { font-size: 0.95rem; font-weight: 600; color: #334155; padding: 8px 12px; background: #fff; border-radius: 8px 8px 0 0; border: 1px solid #e2e8f0; border-bottom: none; }
+    .tests { border: 1px solid #e2e8f0; border-radius: 0 0 8px 8px; background: #fff; overflow: hidden; }
+    .test-row { display: flex; align-items: flex-start; gap: 10px; padding: 8px 12px; border-bottom: 1px solid #f1f5f9; font-size: 0.85rem; }
+    .test-row:last-child { border-bottom: none; }
+    .test-row.pass { }
+    .test-row.fail { background: #fef2f2; }
+    .icon { flex-shrink: 0; width: 18px; height: 18px; line-height: 18px; text-align: center; border-radius: 50%; font-size: 11px; font-weight: 700; color: #fff; }
+    .icon.pass { background: #16a34a; }
+    .icon.fail { background: #dc2626; }
+    .test-name { flex: 1; color: #334155; }
+    .test-error { color: #dc2626; font-size: 0.8rem; margin-top: 4px; font-family: 'SF Mono', 'Fira Code', monospace; background: #fff5f5; padding: 4px 8px; border-radius: 4px; border: 1px solid #fecaca; }
+    #running { padding: 20px; text-align: center; color: #6c757d; font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <h1>VJU Project 2 — Test Runner</h1>
+  <p class="subtitle">Browser-based unit tests for pure functions and data integrity</p>
+  <div id="summary"></div>
+  <div id="results"><div id="running">Running tests...</div></div>
+
+  <!-- ============================================================ -->
+  <!-- Mini Test Framework                                          -->
+  <!-- ============================================================ -->
+  <script>
+    const results = [];
+    let currentSuite = '';
+
+    function describe(name, fn) {
+      currentSuite = name;
+      fn();
+    }
+
+    function it(name, fn) {
+      try {
+        fn();
+        results.push({ suite: currentSuite, name, passed: true });
+      } catch (e) {
+        results.push({ suite: currentSuite, name, passed: false, error: e.message });
+      }
+    }
+
+    function assert(condition, message) {
+      if (!condition) throw new Error(message || 'Assertion failed');
+    }
+
+    function assertEqual(actual, expected, message) {
+      if (actual !== expected) throw new Error(message || 'Expected ' + JSON.stringify(expected) + ', got ' + JSON.stringify(actual));
+    }
+
+    function assertDeepEqual(actual, expected, message) {
+      if (JSON.stringify(actual) !== JSON.stringify(expected)) throw new Error(message || 'Expected ' + JSON.stringify(expected) + ', got ' + JSON.stringify(actual));
+    }
+
+    function renderResults() {
+      const container = document.getElementById('results');
+      const summaryEl = document.getElementById('summary');
+      const passed = results.filter(r => r.passed).length;
+      const failed = results.filter(r => !r.passed).length;
+      const total = results.length;
+
+      summaryEl.innerHTML =
+        '<div class="stat total"><span>' + total + '</span><small>Total</small></div>' +
+        '<div class="stat pass"><span>' + passed + '</span><small>Passed</small></div>' +
+        '<div class="stat fail"><span>' + failed + '</span><small>Failed</small></div>';
+
+      // Group by suite
+      const suites = {};
+      results.forEach(function (r) {
+        if (!suites[r.suite]) suites[r.suite] = [];
+        suites[r.suite].push(r);
+      });
+
+      var html = '';
+      Object.keys(suites).forEach(function (suiteName) {
+        var tests = suites[suiteName];
+        html += '<div class="suite">';
+        html += '<div class="suite-name">' + escapeHtml(suiteName) + '</div>';
+        html += '<div class="tests">';
+        tests.forEach(function (t) {
+          var cls = t.passed ? 'pass' : 'fail';
+          html += '<div class="test-row ' + cls + '">';
+          html += '<div class="icon ' + cls + '">' + (t.passed ? '\u2713' : '\u2717') + '</div>';
+          html += '<div><div class="test-name">' + escapeHtml(t.name) + '</div>';
+          if (!t.passed && t.error) {
+            html += '<div class="test-error">' + escapeHtml(t.error) + '</div>';
+          }
+          html += '</div></div>';
+        });
+        html += '</div></div>';
+      });
+
+      container.innerHTML = html;
+
+      // Update page title with result
+      document.title = (failed > 0 ? '\u2717 ' : '\u2713 ') + passed + '/' + total + ' — VJU Tests';
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+  </script>
+
+  <!-- ============================================================ -->
+  <!-- Extracted Pure Functions from index.html                     -->
+  <!--                                                              -->
+  <!-- Approach: We re-define the pure functions here so tests can  -->
+  <!-- run standalone without loading the full SPA. These are       -->
+  <!-- copied from index.html and must be kept in sync manually.    -->
+  <!-- If a function changes in index.html, update it here too.    -->
+  <!-- ============================================================ -->
+  <script>
+    // --- Globals that the functions depend on ---
+    var currentUser = null;
+    var ALLOWED_DOMAIN = 'vju.ac.vn';
+
+    // --- DOC_REGISTRY (copied from index.html) ---
+    var DOC_REGISTRY = {
+      '3626-QD-DHQGHN': {
+        prefix: '3626-QD-DHQGHN_Regulation on Undergraduate Training',
+        title: 'Regulation on Undergraduate Training',
+        tags: ['undergraduate', 'training', 'VNU regulation'],
+        relations: [
+          { id: '5115-QD-DHQGHN', type: 'supersedes', label: 'Supersedes' },
+          { id: '2486-QD-DHQGHN', type: 'amended-by', label: 'Amended by' },
+          { id: '3636-QD-DHQGHN', type: 'related', label: 'Related' },
+          { id: '3638-QD-DHQGHN', type: 'related', label: 'Related' },
+        ]
+      },
+      '3636-QD-DHQGHN': {
+        prefix: '3636-QD-DHQGHN_Regulation on Masters Training',
+        title: 'Regulation on Masters Training',
+        tags: ['masters', 'training', 'VNU regulation'],
+        relations: [
+          { id: '2459-QD-DHQGHN', type: 'amended-by', label: 'Amended by' },
+          { id: '3626-QD-DHQGHN', type: 'related', label: 'Related' },
+          { id: '3638-QD-DHQGHN', type: 'related', label: 'Related' },
+        ]
+      },
+      '3638-QD-DHQGHN': {
+        prefix: '3638-QD-DHQGHN_Regulation on Doctoral Training',
+        title: 'Regulation on Doctoral Training',
+        tags: ['doctoral', 'training', 'VNU regulation'],
+        relations: [
+          { id: '3626-QD-DHQGHN', type: 'related', label: 'Related' },
+          { id: '3636-QD-DHQGHN', type: 'related', label: 'Related' },
+        ]
+      },
+      '2459-QD-DHQGHN': {
+        prefix: '2459-QD-DHQGHN_Amendment to Masters Training Regulation',
+        title: 'Amendment to Masters Training Regulation',
+        tags: ['masters', 'amendment'],
+        relations: [
+          { id: '3636-QD-DHQGHN', type: 'amends', label: 'Amends' },
+        ]
+      },
+      '2486-QD-DHQGHN': {
+        prefix: '2486-QD-DHQGHN_Amendment to Undergraduate Admission Regulation',
+        title: 'Amendment to Undergraduate Admission Regulation',
+        tags: ['undergraduate', 'amendment', 'admission'],
+        relations: [
+          { id: '3626-QD-DHQGHN', type: 'amends', label: 'Amends' },
+        ]
+      },
+      '4391-QD-DHQGHN': {
+        prefix: '4391-QD-DHQGHN_Online Training and E-Lecture Regulations',
+        title: 'Online Training and E-Lecture Regulations',
+        tags: ['e-learning', 'online'],
+        relations: []
+      },
+      '4455-QD-DHQGHN': {
+        prefix: '4455-QD-DHQGHN_Diploma and Certificate Management',
+        title: 'Diploma and Certificate Management',
+        tags: ['diploma', 'certificate', 'management'],
+        relations: []
+      },
+      '4618-QD-DHQGHN': {
+        prefix: '4618-QD-DHQGHN_Scholarship Management and Use',
+        title: 'Scholarship Management and Use',
+        tags: ['scholarship', 'finance'],
+        relations: []
+      },
+      '5115-QD-DHQGHN': {
+        prefix: '5115-QD-DHQGHN_Superseded Undergraduate Training',
+        title: 'Superseded Undergraduate Training',
+        tags: ['undergraduate', 'training', 'superseded'],
+        relations: [
+          { id: '3626-QD-DHQGHN', type: 'superseded-by', label: 'Superseded by' },
+        ]
+      },
+      'DHVN-QD-1132': {
+        prefix: 'DHVN-QD-1132_Examination Affairs Regulations',
+        title: 'Examination Affairs Regulations',
+        tags: ['examination', 'VJU regulation'],
+        relations: []
+      },
+      '1274-HD-KTDBCL': {
+        prefix: '1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026',
+        title: 'End-of-Course Exam Guidance S1 2025-2026',
+        tags: ['examination', 'guidance', 'semester'],
+        relations: []
+      },
+      'DHQGHN-QD-628': {
+        prefix: 'DHQGHN-QD-628_Educational Quality Assurance Regulation',
+        title: 'Educational Quality Assurance Regulation',
+        tags: ['quality assurance', 'VNU regulation'],
+        relations: []
+      },
+      'DHVN-QD-700': {
+        prefix: 'DHVN-QD-700_Anti-Plagiarism Regulations',
+        title: 'Anti-Plagiarism Regulations',
+        tags: ['plagiarism', 'academic integrity'],
+        relations: []
+      },
+      'DHVN-DT-840': {
+        prefix: 'DHVN-DT-840_Academic Calendar 2025-2026',
+        title: 'Academic Calendar 2025-2026',
+        tags: ['academic calendar', 'schedule'],
+        relations: []
+      },
+      'DHVN-HD-483': {
+        prefix: 'DHVN-HD-483_Practical Internship Guidance',
+        title: 'Practical Internship Guidance',
+        tags: ['internship', 'guidance'],
+        relations: []
+      },
+      'DHVN-HD-1534': {
+        prefix: 'DHVN-HD-1534_Thesis and Graduation Project Guidelines',
+        title: 'Thesis and Graduation Project Guidelines',
+        tags: ['thesis', 'graduation', 'guidance'],
+        relations: [
+          { id: 'DHVN-HD-1534-Annex', type: 'has-annex', label: 'Annex' },
+        ]
+      },
+      'DHVN-HD-1534-Annex': {
+        prefix: 'DHVN-HD-1534_Annex Templates English Format',
+        title: 'Annex Templates English Format',
+        tags: ['thesis', 'templates'],
+        relations: [
+          { id: 'DHVN-HD-1534', type: 'annex-of', label: 'Annex of' },
+        ]
+      },
+    };
+
+    // --- Pure functions (copied from index.html) ---
+
+    function isVjuMember() {
+      return currentUser?.email?.endsWith('@' + ALLOWED_DOMAIN);
+    }
+
+    function langPrefix(lang) {
+      return lang === 'vi' ? 'vi-sec-' : lang === 'ja' ? 'ja-sec-' : 'en-sec-';
+    }
+
+    function getDocPrefix(docId) {
+      var entry = DOC_REGISTRY[docId];
+      if (!entry) return docId;
+      return typeof entry === 'string' ? entry : entry.prefix;
+    }
+
+    function stripFrontMatter(md) {
+      return md.replace(/^---\n[\s\S]*?\n---\n*/, '');
+    }
+
+    function parseFrontMatter(md) {
+      var match = md.match(/^---\n([\s\S]*?)\n---/);
+      if (!match) return {};
+      var meta = {};
+      match[1].split('\n').forEach(function (line) {
+        var m = line.match(/^(\w+):\s*(.*)$/);
+        if (m) {
+          var val = m[2].trim();
+          if (val === 'true') val = true;
+          else if (val === 'false') val = false;
+          else if (/^".*"$/.test(val)) val = val.slice(1, -1);
+          meta[m[1]] = val;
+        }
+      });
+      return meta;
+    }
+  </script>
+
+  <!-- ============================================================ -->
+  <!-- Test Files                                                   -->
+  <!-- ============================================================ -->
+  <script src="test-pure-functions.js"></script>
+  <script src="test-frontmatter.js"></script>
+  <script src="test-doc-registry.js"></script>
+  <script src="test-markdown-preprocessing.js"></script>
+  <script src="test-qa-validation.js"></script>
+
+  <!-- Render after all tests have run -->
+  <script>
+    renderResults();
+  </script>
+</body>
+</html>

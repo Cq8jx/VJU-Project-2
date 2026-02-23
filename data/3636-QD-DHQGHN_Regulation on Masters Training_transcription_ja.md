@@ -46,10 +46,9 @@ last_updated: 2026-02-22
 
 ---
 
-# 規則
-
-**ベトナム国家大学ハノイ校での修士課程**
-*（2022年10月21日、ハノイ・ベトナム国家大学学長決定第3636/QD-VNU号）*
+<p align="center"><strong style="font-size:1.5em;">規則</strong></p>
+<p align="center"><strong>ベトナム国家大学ハノイ校での修士課程</strong></p>
+<p align="center"><em>（2022年10月21日、ハノイ・ベトナム国家大学学長決定第3636/QD-VNU号）</em></p>
 
 # 第1章 総則
 

@@ -67,11 +67,9 @@ and Communications (posting on website); - File: VT, DT, M50.
 
 ---
 
-# REGULATIONS
-
-**Master's training at Hanoi National University** *(Issued with
-Decision No. 3636/QD-VNU, dated October 21, 2022 of the Director of
-Vietnam National University, Hanoi)*
+<p align="center"><strong style="font-size:1.5em;">REGULATIONS</strong></p>
+<p align="center"><strong>Master's training at Hanoi National University</strong></p>
+<p align="center"><em>(Issued with Decision No. 3636/QD-VNU, dated October 21, 2022 of the Director of Vietnam National University, Hanoi)</em></p>
 
 # Chapter I. GENERAL PROVISIONS
 
