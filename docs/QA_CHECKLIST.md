@@ -49,7 +49,9 @@
 - [ ] Emphasis inside HTML uses `<em>`, `<strong>`
 - [ ] `<p align="center">` content uses HTML tags
 
-### 1.7 PDF → MD レイアウト整合性 (PDF Layout Fidelity)
+## 1.7 PDF → MD レイアウト整合性 (PDF Layout Fidelity)
+
+**[CRITICAL REQUIRED STEP]** EN版・JA版の修正作業に入る前に、まず必ず原本PDFの内容やレイアウトがベトナム語(VI)のMarkdownに完全に、欠落なく正確に反映（変換）されているかの品質保証（QA）を先に行うこと。付録（Annex）などの末尾セクションが漏れていないか注意すること。
 
 PDFの視覚的レイアウトがMDに正確に反映されていることを確認する。
 
@@ -137,6 +139,9 @@ PDFの視覚的レイアウトがMDに正確に反映されていることを確
 - [ ] List structures identical in all 3
 - [ ] Heading translation follows gold standard pattern
 - [ ] No suspicious early line breaks in prose (mid-sentence wraps preserved from OCR/translation are merged when not intentional)
+- [ ] JA版で `breaks: true` レンダリング時に中途改行が可視化される不自然な改行がない（箇条書き文中の継続行を重点確認）
+- [ ] JA版で異なるベトナム語固有名詞が同一カタカナ表記に潰れていない（必要に応じてローマ字併記で識別）
+- [ ] 同一文書内で同じ概念の訳語が不必要に揺れていない（例: `証明書/認証` と `資格証明書・認定書`）
 
 ### 4.3 Heading Translation Patterns
 
@@ -224,6 +229,7 @@ When adding a new document:
 - [ ] Card click → reader opens
 - [ ] All 3 languages render correctly
 - [ ] Run suspicious line-break detection (heuristic + manual review) and fix only true positives
+- [ ] `issue_date` が `null` の場合、本文日付行（VI/EN/JA）から一意に復元可能なら ISO日付を設定
 - [ ] push → deploy → hard reload confirms on GitHub Pages
 - [ ] （高精度QA時）Browser direct check に加えて content-only PDF を保存し、原本PDFと目視比較した結果を記録
 

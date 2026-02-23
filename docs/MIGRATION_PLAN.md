@@ -45,64 +45,64 @@
 | 7 | DHQGHN-QD-4455 | `4455-QD-DHQGHN_Diploma and Certificate Management` | Diploma & Certificate Management | Y | Y | Y | Y | done |
 | 8 | DHQGHN-QD-4618 | `4618-QD-DHQGHN_Scholarship Management and Use` | Scholarship Management & Use | Y | Y | Y | Y | done |
 | 9 | DHQGHN-QD-5115 | `5115-QD-DHQGHN_Superseded Undergraduate Training` | [Superseded] Undergraduate Training | Y | Y | Y | Y | done |
-| 10 | DHQGHN-QD-628 | `DHQGHN-QD-628_Educational Quality Assurance Regulation` | Educational Quality Assurance at VNU | Y | Y | Y | Y | done |
+| 10 | DHQGHN-QD-628 | `628-QD-DHQGHN_Educational Quality Assurance Regulation` | Educational Quality Assurance at VNU | Y | Y | Y | Y | done |
 
 ## Group B: VJU Regulations & Guidelines (DHVN)
 
 | # | Doc ID | Filename Prefix | Title (EN) | PDF | VI | EN | JA | Status |
 |---|--------|-----------------|------------|:---:|:--:|:--:|:--:|:------:|
-| 11 | DHVN-QD-473 | `DHVN-QD-473_Academic Advisory Work Regulations` | Academic Advisory Work Regulations | Y | Y | Y | Y | done |
-| 12 | DHVN-QD-700 | `DHVN-QD-700_Anti-Plagiarism Regulations` | Anti-Plagiarism Regulations | Y | Y | Y | Y | done |
-| 13 | DHVN-HD-000 | `DHVN-HD-000_Foreign Language Certificate Guidelines` | Foreign Language Cert Guidelines (VJU2022+) | Y | Y | Y | Y | done |
-| 14 | DHVN-HD-259 | `DHVN-HD-259_Foreign Language Certificate Guidelines VJU2020-2021` | Foreign Language Cert Guidelines (VJU2020-21) | Y | Y | Y | Y | done |
-| 15 | DHVN-HD-259 a1 | `DHVN-HD-259_Annex 1 Certificate Equivalency Table` | Certificate Equivalency Table | Y | Y | Y | Y | done |
-| 16 | DHVN-HD-259 a2 | `DHVN-HD-259_Annex 2 JLPT Authorization Letter Template` | JLPT Authorization Letter Template | Y | Y | Y | Y | done |
-| 17 | DHVN-HD-304 | `DHVN-HD-304_Learning Outcome Recognition and Credit Transfer` | Learning Outcome Recognition & Credit Transfer | Y | Y | Y | Y | done |
-| 18 | DHVN-HD-483 | `DHVN-HD-483_Practical Internship Guidance` | Practical Internship Guidance | Y | Y | Y | Y | done |
-| 19 | DHVN-HD-1534 | `DHVN-HD-1534_Thesis and Graduation Project Guidelines` | Thesis & Graduation Project Guidelines | - | Y | Y | Y | done |
-| 20 | DHVN-HD-1534 en | `DHVN-HD-1534_Annex Templates English Format` | Thesis Annex Templates (EN Format) | Y | Y | Y | Y | done |
-| 21 | DHVN-HD-1534 layout | `DHVN-HD-1534_Annex Templates Layout Guide` | Thesis Annex Layout Guide | - | Y | Y | Y | staged |
-| 22 | DHVN-DT-840 | `DHVN-DT-840_Academic Calendar 2025-2026` | Academic Calendar 2025-26 Cover Letter | - | Y | Y | Y | done |
-| 23 | DHVN-DT-840 a1 | `DHVN-DT-840_Academic Calendar 2025-2026 Annex 1 VJU2025` | Schedule VJU2025 | Y | Y | Y | Y | done |
-| 24 | DHVN-DT-840 a2 | `DHVN-DT-840_Academic Calendar 2025-2026 Annex 2 VJU2024-2023` | Schedule VJU2024/2023 | Y | Y | Y | Y | done |
-| 25 | DHVN-DT-840 a3 | `DHVN-DT-840_Academic Calendar 2025-2026 Annex 3 VJU2022-2020` | Schedule VJU2022/2021/2020 | Y | Y | Y | Y | done |
-| 26 | DHVN-DT-840 a4 | `DHVN-DT-840_Academic Calendar 2025-2026 Annex 4 Masters-PhD` | Master's & PhD Schedule | Y | Y | Y | Y | done |
-| 27 | DHVN-TB-911 | `DHVN-TB-911_Foreign Language Certificate Submission VJU2024` | Language Cert Submission (VJU2024) | Y | Y | Y | Y | staged |
-| 28 | DHVN-TB-984 | `DHVN-TB-984_Foreign Language Certificate Submission VJU2023` | Language Cert Submission (VJU2023) | Y | Y | Y | Y | staged |
-| 29 | DHVN-TB-1010 | `DHVN-TB-1010_English Certificate Submission VJU2025` | English Cert Submission (VJU2025) | Y | Y | Y | Y | staged |
+| 11 | DHVN-QD-473 | `473-QD-DHVN_Academic Advisory Work Regulations` | Academic Advisory Work Regulations | Y | Y | Y | Y | done |
+| 12 | DHVN-QD-700 | `700-QD-DHVN_Anti-Plagiarism Regulations` | Anti-Plagiarism Regulations | Y | Y | Y | Y | done |
+| 13 | DHVN-HD-000 | `000-HD-DHVN_Foreign Language Certificate Guidelines` | Foreign Language Cert Guidelines (VJU2022+) | Y | Y | Y | Y | done |
+| 14 | DHVN-HD-259 | `259-HD-DHVN_Foreign Language Certificate Guidelines VJU2020-2021` | Foreign Language Cert Guidelines (VJU2020-21) | Y | Y | Y | Y | done |
+| 15 | DHVN-HD-259 a1 | `259-HD-DHVN_Annex 1 Certificate Equivalency Table` | Certificate Equivalency Table | Y | Y | Y | Y | done |
+| 16 | DHVN-HD-259 a2 | `259-HD-DHVN_Annex 2 JLPT Authorization Letter Template` | JLPT Authorization Letter Template | Y | Y | Y | Y | done |
+| 17 | DHVN-HD-304 | `304-HD-DHVN_Learning Outcome Recognition and Credit Transfer` | Learning Outcome Recognition & Credit Transfer | Y | Y | Y | Y | done |
+| 18 | DHVN-HD-483 | `483-HD-DHVN_Practical Internship Guidance` | Practical Internship Guidance | Y | Y | Y | Y | done |
+| 19 | DHVN-HD-1534 | `1534-HD-DHVN_Thesis and Graduation Project Guidelines` | Thesis & Graduation Project Guidelines | - | Y | Y | Y | done |
+| 20 | DHVN-HD-1534 en | `1534-HD-DHVN_Annex Templates English Format` | Thesis Annex Templates (EN Format) | Y | Y | Y | Y | done |
+| 21 | DHVN-HD-1534 layout | `1534-HD-DHVN_Annex Templates Layout Guide` | Thesis Annex Layout Guide | - | Y | Y | Y | staged |
+| 22 | DHVN-DT-840 | `840-DT-DHVN_Academic Calendar 2025-2026` | Academic Calendar 2025-26 Cover Letter | - | Y | Y | Y | done |
+| 23 | DHVN-DT-840 a1 | `840-DT-DHVN_Academic Calendar 2025-2026 Annex 1 VJU2025` | Schedule VJU2025 | Y | Y | Y | Y | done |
+| 24 | DHVN-DT-840 a2 | `840-DT-DHVN_Academic Calendar 2025-2026 Annex 2 VJU2024-2023` | Schedule VJU2024/2023 | Y | Y | Y | Y | done |
+| 25 | DHVN-DT-840 a3 | `840-DT-DHVN_Academic Calendar 2025-2026 Annex 3 VJU2022-2020` | Schedule VJU2022/2021/2020 | Y | Y | Y | Y | done |
+| 26 | DHVN-DT-840 a4 | `840-DT-DHVN_Academic Calendar 2025-2026 Annex 4 Masters-PhD` | Master's & PhD Schedule | Y | Y | Y | Y | done |
+| 27 | DHVN-TB-911 | `911-TB-DHVN_Foreign Language Certificate Submission VJU2024` | Language Cert Submission (VJU2024) | Y | Y | Y | Y | done |
+| 28 | DHVN-TB-984 | `984-TB-DHVN_Foreign Language Certificate Submission VJU2023` | Language Cert Submission (VJU2023) | Y | Y | Y | Y | done |
+| 29 | DHVN-TB-1010 | `1010-TB-DHVN_English Certificate Submission VJU2025` | English Cert Submission (VJU2025) | Y | Y | Y | Y | done |
 
 ## Group C: Ministry of Education (BGDDT)
 
 | # | Doc ID | Filename Prefix | Title (EN) | PDF | VI | EN | JA | Status |
 |---|--------|-----------------|------------|:---:|:--:|:--:|:--:|:------:|
-| 30 | BGDDT-TT-2021-08 | `BGDDT-TT-2021-08_Regulation on Undergraduate Training` | Regulation on Undergraduate Training | Y | Y | Y | Y | staged |
-| 31 | BGDDT-TT-2021-17 | `BGDDT-TT-2021-17_Standards for Higher Education Programs` | Standards for Higher Education Programs | Y | Y | Y | Y | staged |
-| 32 | BGDDT-TT-2021-18 | `BGDDT-TT-2021-18_Doctoral Admission and Training Regulation` | Doctoral Admission & Training Regulation | Y | Y | Y | Y | staged |
-| 33 | BGDDT-TT-2021-23 | `BGDDT-TT-2021-23_Masters Admission and Training Regulation` | Master's Admission & Training Regulation | Y | Y | Y | Y | staged |
-| 34 | BGDDT-TT-2024-01 | `BGDDT-TT-2024-01_Standards for Higher Education Institutions` | Standards for Higher Education Institutions | Y | Y | Y | Y | staged |
-| 35 | BGDDT-TT-2020-04 | `BGDDT-TT-2020-04_Foreign Cooperation in Education` | Foreign Cooperation in Education | Y | Y | Y | Y | staged |
+| 30 | BGDDT-TT-2021-08 | `08-2021-TT-BGDDT_Regulation on Undergraduate Training` | Regulation on Undergraduate Training | Y | Y | Y | Y | staged |
+| 31 | BGDDT-TT-2021-17 | `17-2021-TT-BGDDT_Standards for Higher Education Programs` | Standards for Higher Education Programs | Y | Y | Y | Y | staged |
+| 32 | BGDDT-TT-2021-18 | `18-2021-TT-BGDDT_Doctoral Admission and Training Regulation` | Doctoral Admission & Training Regulation | Y | Y | Y | Y | staged |
+| 33 | BGDDT-TT-2021-23 | `23-2021-TT-BGDDT_Masters Admission and Training Regulation` | Master's Admission & Training Regulation | Y | Y | Y | Y | staged |
+| 34 | BGDDT-TT-2024-01 | `01-2024-TT-BGDDT_Standards for Higher Education Institutions` | Standards for Higher Education Institutions | Y | Y | Y | Y | staged |
+| 35 | BGDDT-TT-2020-04 | `04-2020-TT-BGDDT_Foreign Cooperation in Education` | Foreign Cooperation in Education | Y | Y | Y | Y | staged |
 | 36 | BGDDT-CV-2085 | `BGDDT-CV-2085_Self-Assessment and External Evaluation` | Self-Assessment & External Evaluation | Y | Y | Y | Y | staged |
 | 37 | BGDDT-CV-774 | `BGDDT-CV-774_Adjustment to Appendices CV-2085` | Adjustment to Appendices of CV-2085 | Y | Y | Y | Y | staged |
 | 38 | BGDDT-QD-4998 | `BGDDT-QD-4998_Education Database Technical Specifications` | Education Database Technical Specs | Y | Y | Y | Y | staged |
 | 39 | BGDDT-TT-2013-38 | `BGDDT-TT-2013-38_QA Accreditation Process and Cycle` | QA Accreditation Process & Cycle | Y | Y | Y | Y | staged |
-| 40 | BGDDT-TT-2016-04 | `BGDDT-TT-2016-04_Quality Standards for HE Programs` | Quality Standards for HE Programs | Y | Y | Y | Y | staged |
-| 41 | BGDDT-TT-2020-39 | `BGDDT-TT-2020-39_Quality Standards for Distance Programs` | Quality Standards for Distance Programs | Y | Y | Y | Y | staged |
+| 40 | BGDDT-TT-2016-04 | `04-2016-TT-BGDDT_Quality Standards for HE Programs` | Quality Standards for HE Programs | Y | Y | Y | Y | staged |
+| 41 | BGDDT-TT-2020-39 | `39-2020-TT-BGDDT_Quality Standards for Distance Programs` | Quality Standards for Distance Programs | Y | Y | Y | Y | staged |
 
 ## Group D: Other Government (CP, BTC, DHNN, TTCP)
 
 | # | Doc ID | Filename Prefix | Title (EN) | PDF | VI | EN | JA | Status |
 |---|--------|-----------------|------------|:---:|:--:|:--:|:--:|:------:|
-| 42 | CP-ND-2021-86 | `CP-ND-2021-86_Decree on Overseas Study and Research` | Decree on Overseas Study/Research | Y | Y | Y | Y | staged |
-| 43 | CP-ND-2023-24 | `CP-ND-2023-24_Decree on Base Salary` | Decree on Base Salary | Y | Y | Y | Y | staged |
-| 44 | BTC-TT-2013-111 | `BTC-TT-2013-111_Personal Income Tax Implementation` | Personal Income Tax Implementation | Y | Y | Y | Y | staged |
-| 45 | DHNN-TB-2184 | `DHNN-TB-2184_VNU-TESTS Language Assessment Plan` | VNU-TESTS Language Assessment Plan | Y | Y | Y | Y | staged |
-| 46 | TTCP-QD-2022-78 | `TTCP-QD-2022-78_QA and Accreditation Program 2022-2030` | QA & Accreditation Program 2022-2030 | Y | Y | Y | Y | staged |
+| 42 | CP-ND-2021-86 | `86-2021-ND-CP_Decree on Overseas Study and Research` | Decree on Overseas Study/Research | Y | Y | Y | Y | staged |
+| 43 | CP-ND-2023-24 | `24-2023-ND-CP_Decree on Base Salary` | Decree on Base Salary | Y | Y | Y | Y | staged |
+| 44 | BTC-TT-2013-111 | `111-2013-TT-BTC_Personal Income Tax Implementation` | Personal Income Tax Implementation | Y | Y | Y | Y | staged |
+| 45 | DHNN-TB-2184 | `2184-TB-DHNN_VNU-TESTS Language Assessment Plan` | VNU-TESTS Language Assessment Plan | Y | Y | Y | Y | staged |
+| 46 | TTCP-QD-2022-78 | `78-2022-QD-TTCP_QA and Accreditation Program 2022-2030` | QA & Accreditation Program 2022-2030 | Y | Y | Y | Y | staged |
 
 ## Group E: Education Testing
 
 | # | Doc ID | Filename Prefix | Title (EN) | PDF | VI | EN | JA | Status |
 |---|--------|-----------------|------------|:---:|:--:|:--:|:--:|:------:|
-| 47 | DHVN-QD-1132 | `DHVN-QD-1132_Examination Affairs Regulations` | Examination Affairs Regulations | Y | Y | Y | Y | done |
+| 47 | DHVN-QD-1132 | `1132-QD-DHVN_Examination Affairs Regulations` | Examination Affairs Regulations | Y | Y | Y | Y | done |
 | 48 | DHVN-QD-1132 app | (merged into #47) | Examination Affairs Appendix | Y | - | - | - | done |
 | 49 | 1274-HD-KTDBCL | `1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026` | End-of-Course Exam Guidance S1 2025-26 | Y | Y | Y | Y | done |
 
@@ -110,9 +110,9 @@
 
 | # | Doc ID | Filename Prefix | Title (EN) | PDF | VI | EN | JA | Status |
 |---|--------|-----------------|------------|:---:|:--:|:--:|:--:|:------:|
-| 50 | DHVN-KT&DBCL-826 | `DHVN-KTDBCL-826_Public Report 2024-2025` | Public Report 2024-2025 | Y | Y | Y | Y | staged |
-| 51 | DHVN-QD-1592 | `DHVN-QD-1592_Budget Estimate Disclosure 2025` | Budget Estimate Disclosure 2025 | Y | Y | Y | Y | staged |
-| 52 | DHVN-QD-323 | `DHVN-QD-323_Q1 2025 Budget Execution Disclosure` | Q1 2025 Budget Execution Disclosure | Y | Y | Y | Y | staged |
+| 50 | DHVN-KT&DBCL-826 | `826-KTDBCL-DHVN_Public Report 2024-2025` | Public Report 2024-2025 | Y | Y | Y | Y | staged |
+| 51 | DHVN-QD-1592 | `1592-QD-DHVN_Budget Estimate Disclosure 2025` | Budget Estimate Disclosure 2025 | Y | Y | Y | Y | staged |
+| 52 | DHVN-QD-323 | `323-QD-DHVN_Q1 2025 Budget Execution Disclosure` | Q1 2025 Budget Execution Disclosure | Y | Y | Y | Y | staged |
 
 ---
 
@@ -121,12 +121,12 @@
 | Group | Total | Done | Staged | Remaining |
 |-------|:-----:|:----:|:------:|:---------:|
 | A: VNU Regulations (DHQGHN) | 10 | 10 | 0 | 0 |
-| B: VJU Guidelines (DHVN) | 19 | 16 | 3 | 0 |
+| B: VJU Guidelines (DHVN) | 19 | 18 | 1 | 0 |
 | C: Ministry of Education (BGDDT) | 12 | 0 | 12 | 0 |
 | D: Other Government | 5 | 0 | 5 | 0 |
 | E: Education Testing | 3 | 3 | 0 | 0 |
 | F: Public Reports | 3 | 0 | 3 | 0 |
-| **Total** | **52** | **29** | **23** | **0** |
+| **Total** | **52** | **32** | **20** | **0** |
 
 **全ソースファイル（PDF+MD）は `docs/data/` にコピー済み。**
 残り23文書のフォーマット正規化が必要。
