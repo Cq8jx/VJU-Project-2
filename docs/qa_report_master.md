@@ -330,3 +330,20 @@
 - Removed temporary alternates after adoption:
   - `*_source_message_a4.pdf`
   - `*_source_message_wide.pdf`
+
+### 2026-02-23 Viewer Update + Terminology Audit (WEB-TTTS2026-VJU)
+- Reader UI updated to prefer a sanitized VI HTML fragment for `WEB-TTTS2026-VJU` (`*_transcription_vi.html`) while keeping EN/JA markdown translations.
+- Purpose: preserve web article tables/layout fidelity in GitHub Pages viewer while retaining split-view translation workflow.
+- Split-view enhancements applied in `index.html`:
+  - TOC fallback for article-style documents (`h1/h2/h3`)
+  - Scroll sync fallback by scroll ratio when heading alignment is sparse
+- Claude terminology audit run for EN/JA (focus: VJU naming, HSA/SAT, STT/TT, EMJM/BGDI/BICA).
+- Fixes applied based on Claude findings:
+  - JA `STT` / `TT` table headers -> `番号`
+  - JA university naming maintained as `日越大学`
+  - EN `Vietnam Japan University` hyphenation unified (no hyphen)
+  - EN HSA naming unified (`Competency Assessment Test (HSA)`)
+  - JA EMJM / BGDI / BICA program-name terminology unified
+  - EN BGDI / Japanese Studies naming unified
+- Local glossary updated with admissions-web abbreviations and program names (`STT`, `TT`, `HSA`, `SAT`, `ĐQĐ`, `ĐT/KV`, `EMJM`, `BGDI`, `BICA`, `VJU/ĐHVJ`).
+- Claude review result after fixes: `PASS WITH NOTES` (remaining differences reduced to non-blocking style/notation variants).
