@@ -365,3 +365,12 @@
 - Outcome:
   - HTML-first rendering retained for display fidelity.
   - TOC resilience improved for WordPress article structures without destructively rewriting source HTML.
+
+### 2026-02-23 Glossary Alignment Follow-up (Public Google Sheets)
+- User requested alignment of academic program names with the public glossary sheet (`gid=962055076`), including abbreviations and program-name forms.
+- Public glossary entries confirmed for program names (e.g., `BCSE`, `BGDI`, `BICA`, `EMJM`, `ECE`, `EFTH`, `ESAS`, `ESCT`) and institution aliases (`VJU`, `ĐHVJ`).
+- EN/JA for `WEB-TTTS2026-VJU` were updated to use glossary-form **program names** in program-name contexts (tables, program lists, quota tables, and related labels), while preserving degree-title rows as separate concepts.
+- Additional cleanup applied:
+  - EN duplicate wording caused by prior replacement (`Bachelor of Bachelor's ...`) corrected
+  - JA repeated suffix (`...プログラム（EMJM）プログラム`) corrected
+- Local glossary (`data/glossary_vi_en_ja.md`) was updated so the admissions-web abbreviation rows for `EMJM`, `BGDI`, `BICA` match the public glossary naming convention (previously short-form variants caused QA mismatch noise).
