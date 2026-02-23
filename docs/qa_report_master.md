@@ -347,3 +347,21 @@
   - EN BGDI / Japanese Studies naming unified
 - Local glossary updated with admissions-web abbreviations and program names (`STT`, `TT`, `HSA`, `SAT`, `ĐQĐ`, `ĐT/KV`, `EMJM`, `BGDI`, `BICA`, `VJU/ĐHVJ`).
 - Claude review result after fixes: `PASS WITH NOTES` (remaining differences reduced to non-blocking style/notation variants).
+
+### 2026-02-23 Follow-up Viewer Fix (TOC for HTML-first article rendering)
+- User reported TOC generation issues after switching `WEB-TTTS2026-VJU` VI pane to HTML-first rendering (incorrect/misaligned entries, comment-related items mixed in).
+- Root causes identified:
+  - TOC previously relied on heading index alignment from markdown-style structures.
+  - WordPress article HTML uses many `p/strong` and `ol/li/strong` pseudo-headings instead of semantic `h2/h3`.
+  - Comment form section (`Để lại một bình luận`) remained in the VI HTML fragment and polluted TOC candidates.
+- Fixes applied:
+  - Removed comments section from `*_transcription_vi.html` HTML fragment.
+  - Reworked TOC heading collection in `index.html` to support HTML-first articles by extracting heading candidates from:
+    - native `h1/h2/h3`
+    - red banner `p > span > strong`
+    - list headings `ol > li > strong`
+    - numbered `p > strong` paragraph headings (`1.1`, `2.3`, `10.5.1`, etc.)
+  - TOC remains anchored to the currently visible left pane and regenerates on left-language switch.
+- Outcome:
+  - HTML-first rendering retained for display fidelity.
+  - TOC resilience improved for WordPress article structures without destructively rewriting source HTML.
