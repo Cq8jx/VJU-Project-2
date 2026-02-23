@@ -14,8 +14,10 @@
 ### 1.2 Disclaimer Block
 
 - [ ] All 3 language versions have language-appropriate disclaimer
-- [ ] Placed after YAML, before first heading
+- [ ] Placed after YAML, before first heading (renders above document title)
 - [ ] States AI-generated and reference-only purpose
+- [ ] Disclaimer uses blockquote (`>`) or `<div class="source-note">` for styled rendering
+- [ ] Background color matches warning style (yellow `#fffbeb` with orange left border `#f59e0b`)
 
 ### 1.3 Heading Normalization
 
