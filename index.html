@@ -982,14 +982,14 @@
         <div class="h-[44px] border-b border-gray-200 bg-slate-50/50 flex items-center justify-between px-4 shrink-0">
           <div class="flex items-center gap-2">
             <select id="lang-select-left" class="text-xs font-medium text-gray-900 bg-transparent border border-gray-300 rounded px-1 py-0.5 cursor-pointer focus:outline-none focus:ring-1 focus:ring-accent">
-              <option value="vi" selected>Vietnamese (Original)</option>
-              <option value="en">English (Translated)</option>
+              <option value="vi">Vietnamese (Original)</option>
+              <option value="en" selected>English (Translated)</option>
               <option value="ja">Japanese (Translated)</option>
             </select>
           </div>
         </div>
-        <div id="content-left-vi" class="flex-1 overflow-y-auto p-6 sm:p-8"><div class="max-w-[680px] mx-auto prose-legal"><div class="flex items-center justify-center py-12 text-text-muted"><span class="material-symbols-outlined animate-spin mr-2">progress_activity</span>Loading...</div></div></div>
-        <div id="content-left-en" class="flex-1 overflow-y-auto p-6 sm:p-8 hidden"><div class="max-w-[680px] mx-auto prose-legal"><div class="flex items-center justify-center py-12 text-text-muted"><span class="material-symbols-outlined animate-spin mr-2">progress_activity</span>Loading...</div></div></div>
+        <div id="content-left-vi" class="flex-1 overflow-y-auto p-6 sm:p-8 hidden"><div class="max-w-[680px] mx-auto prose-legal"><div class="flex items-center justify-center py-12 text-text-muted"><span class="material-symbols-outlined animate-spin mr-2">progress_activity</span>Loading...</div></div></div>
+        <div id="content-left-en" class="flex-1 overflow-y-auto p-6 sm:p-8"><div class="max-w-[680px] mx-auto prose-legal"><div class="flex items-center justify-center py-12 text-text-muted"><span class="material-symbols-outlined animate-spin mr-2">progress_activity</span>Loading...</div></div></div>
         <div id="content-left-ja" class="flex-1 overflow-y-auto p-6 sm:p-8 hidden"><div class="max-w-[680px] mx-auto prose-legal"><div class="flex items-center justify-center py-12 text-text-muted"><span class="material-symbols-outlined animate-spin mr-2">progress_activity</span>Loading...</div></div></div>
       </section>
       <!-- Drag handle -->
@@ -1001,15 +1001,15 @@
         <div id="pane-right-header" class="h-[44px] border-b border-gray-200 bg-slate-50/50 flex items-center justify-between px-4 shrink-0">
           <div class="flex items-center gap-2">
             <select id="lang-select-right" class="text-xs font-medium text-gray-900 bg-transparent border border-gray-300 rounded px-1 py-0.5 cursor-pointer focus:outline-none focus:ring-1 focus:ring-accent">
-              <option value="vi">Vietnamese (Original)</option>
-              <option value="en" selected>English (Translated)</option>
+              <option value="vi" selected>Vietnamese (Original)</option>
+              <option value="en">English (Translated)</option>
               <option value="ja">Japanese (Translated)</option>
             </select>
             <span class="text-[10px] text-emerald-600 bg-emerald-50 border border-emerald-100 px-1 rounded uppercase font-bold tracking-wider ml-1">AI</span>
           </div>
         </div>
-        <div id="content-right-vi" class="flex-1 overflow-y-auto p-6 sm:p-8 hidden"><div class="max-w-[680px] mx-auto prose-legal"><div class="flex items-center justify-center py-12 text-text-muted"><span class="material-symbols-outlined animate-spin mr-2">progress_activity</span>Loading...</div></div></div>
-        <div id="content-right-en" class="flex-1 overflow-y-auto p-6 sm:p-8"><div class="max-w-[680px] mx-auto prose-legal"><div class="flex items-center justify-center py-12 text-text-muted"><span class="material-symbols-outlined animate-spin mr-2">progress_activity</span>Loading...</div></div></div>
+        <div id="content-right-vi" class="flex-1 overflow-y-auto p-6 sm:p-8"><div class="max-w-[680px] mx-auto prose-legal"><div class="flex items-center justify-center py-12 text-text-muted"><span class="material-symbols-outlined animate-spin mr-2">progress_activity</span>Loading...</div></div></div>
+        <div id="content-right-en" class="flex-1 overflow-y-auto p-6 sm:p-8 hidden"><div class="max-w-[680px] mx-auto prose-legal"><div class="flex items-center justify-center py-12 text-text-muted"><span class="material-symbols-outlined animate-spin mr-2">progress_activity</span>Loading...</div></div></div>
         <div id="content-right-ja" class="flex-1 overflow-y-auto p-6 sm:p-8 hidden"><div class="max-w-[680px] mx-auto prose-legal"><div class="flex items-center justify-center py-12 text-text-muted"><span class="material-symbols-outlined animate-spin mr-2">progress_activity</span>Loading...</div></div></div>
       </section>
     </div>
@@ -1499,8 +1499,8 @@
   let viewMode = 'split';
   let syncEnabled = true;
   let isSyncing = false;
-  let leftLang = 'vi';
-  let rightLang = 'en';
+  let leftLang = 'en';
+  let rightLang = 'vi';
 
   const sidebar = document.getElementById('sidebar');
   const paneLeft = document.getElementById('pane-left');
