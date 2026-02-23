@@ -24,40 +24,20 @@ Số: 3636/QĐ-ĐHQGHN
 
 <p align="center"><strong>DECISION</strong></p>
 
-**Promulgating the Regulations on Master's training at Hanoi National
-University**
+**Promulgating the Regulations on Master's training at Hanoi National University**
 
 **DIRECTOR OF HANOI NATIONAL UNIVERSITY**
 
-*Pursuant to the Law on Education dated June 14, 2019; Pursuant to the
-Law on Higher Education dated June 18, 2012 and the Law on amending and
-supplementing a number of articles of the Law on Higher Education dated
-November 19, 2018; Pursuant to Decree No. 186/2013/ND-CP dated November
-17, 2013 of the Government on National Universities; Pursuant to
-Decision No. 26/2014/QD-TTg dated March 26, 2014 of the Prime Minister
-promulgating the Regulation on Organization and Operation of National
-Universities and member higher education institutions; Pursuant to
-Circular No. 23/2021/TT-BGDDT dated August 30, 2021 of the Minister of
-Education and Training promulgating the Regulation on admission and
-training for master's degrees; Pursuant to Resolution No. 3349/NQ-HD
-dated October 4, 2022 of the Council of Hanoi National University for
-the 2018-2023 term on approving the Master's training regulations at
-Hanoi National University; At the request of the Head of the Training
-Department.*
+*Pursuant to the Law on Education dated June 14, 2019; Pursuant to the Law on Higher Education dated June 18, 2012 and the Law on amending and supplementing a number of articles of the Law on Higher Education dated November 19, 2018; Pursuant to Decree No. 186/2013/ND-CP dated November
+17, 2013 of the Government on National Universities; Pursuant to Decision No. 26/2014/QD-TTg dated March 26, 2014 of the Prime Minister promulgating the Regulation on Organization and Operation of National Universities and member higher education institutions; Pursuant to Circular No. 23/2021/TT-BGDDT dated August 30, 2021 of the Minister of Education and Training promulgating the Regulation on admission and training for master's degrees; Pursuant to Resolution No. 3349/NQ-HD dated October 4, 2022 of the Council of Hanoi National University for the 2018-2023 term on approving the Master's training regulations at Hanoi National University; At the request of the Head of the Training Department.*
 
 **DECISION:**
 
-**Article 1.** Promulgated together with this Decision are the
-Regulations on Master's training at Hanoi National University.
+**Article 1.** Promulgated together with this Decision are the Regulations on Master's training at Hanoi National University.
 
-**Article 2.** This Decision takes effect from the date of signing and
-replaces the Master's training regulations at Vietnam National
-University, Hanoi (issued together with Decision No. 4668/QD-VNU, dated
-December 10, 2014 of the Director of Vietnam National University, Hanoi.
+**Article 2.** This Decision takes effect from the date of signing and replaces the Master's training regulations at Vietnam National University, Hanoi (issued together with Decision No. 4668/QD-VNU, dated December 10, 2014 of the Director of Vietnam National University, Hanoi.
 
-**Article 3.** Chief of Office, Head of functional departments, Heads of
-units under Hanoi National University and relevant organizations and
-individuals are responsible for implementing this Decision./.
+**Article 3.** Chief of Office, Head of functional departments, Heads of units under Hanoi National University and relevant organizations and individuals are responsible for implementing this Decision./.
 
 <div style="display: flex; justify-content: space-between; margin-top: 2em;">
 <div>
@@ -96,11 +76,7 @@ individuals are responsible for implementing this Decision./.
     awarded by foreign educational institutions.
 
 ## Article 2. Training objectives
-Master's level training to provide students with basic scientific
-knowledge, specialized skills for research in a scientific field or
-effective professional activities, the ability to work independently,
-creatively and the ability to detect and solve problems in the trained
-major.
+Master's level training to provide students with basic scientific knowledge, specialized skills for research in a scientific field or effective professional activities, the ability to work independently, creatively and the ability to detect and solve problems in the trained major.
 
 ## Article 3. Master's training unit
 1.  Master's training units at Hanoi National University include:
@@ -358,16 +334,7 @@ major.
     promulgation.
 
 ## Article 12. Suitable industry
-A suitable major is a major trained at the university level (or
-equivalent level or higher) that equips learners with the necessary
-professional foundation to continue studying a master's program in the
-corresponding major, specifically specified in the entrance standards of
-the master's program; the training unit stipulates cases that must
-complete additional study requirements before applying. For
-administration and management majors, trained according to an
-application-oriented master's program, a suitable major at the
-university level includes majors directly related to the expertise and
-profession of the management field.
+A suitable major is a major trained at the university level (or equivalent level or higher) that equips learners with the necessary professional foundation to continue studying a master's program in the corresponding major, specifically specified in the entrance standards of the master's program; the training unit stipulates cases that must complete additional study requirements before applying. For administration and management majors, trained according to an application-oriented master's program, a suitable major at the university level includes majors directly related to the expertise and profession of the management field.
 
 ## Article 13. Requirements for candidates
 1.  Have graduated from university (or equivalent level or higher) in a
@@ -439,40 +406,13 @@ profession of the management field.
     supplementary knowledge course.
 
 ## Article 15. Contest subjects and conditions
-Candidates for the master's degree training exam are citizens of the
-Socialist Republic of Vietnam who meet the following conditions: 1.
-Regarding diplomas a) Graduated from a university in a field suitable
-for the field registered for the master's degree training exam
-according to the provisions of Article 12 of this Regulation; for
-research-oriented master's training programs, a graduation grade of
-good or higher is required or there is a scientific publication related
-to the field of study and research;
+Candidates for the master's degree training exam are citizens of the Socialist Republic of Vietnam who meet the following conditions: 1.
+Regarding diplomas a) Graduated from a university in a field suitable for the field registered for the master's degree training exam according to the provisions of Article 12 of this Regulation; for research-oriented master's training programs, a graduation grade of good or higher is required or there is a scientific publication related to the field of study and research;
     c) A university degree granted by a
-foreign educational institution must undergo the diploma recognition
-procedure according to current regulations;
+foreign educational institution must undergo the diploma recognition procedure according to current regulations;
     d) Based on the conditions
-of the training unit and the requirements of the training sector, the
-head of the training unit shall specify the diploma conditions of the
-candidates taking the exam. 2. Regarding professional work experience:
-Depending on the requirements of each training sector, based on the
-proposal of the training science council, the head of the training unit
-shall specify the conditions on professional working time to accumulate
-practical experience before registering for the exam. In case the
-candidate must take additional courses to register for the exam in the
-field of administration and management, he/she must have at least 01
-year of working experience in the field of registration for the exam
-from the date of signing the decision to recognize university graduation
-to the date of the exam. 3. Clear personal history, not being in the
-period of disciplinary action from the warning level or higher and not
-being in the period of serving a criminal sentence, confirmed by the
-human resources management agency where he/she is working or the local
-authority where he/she resides. 4. Having enough health to study. For
-children of resistance fighters infected with toxic chemicals as
-prescribed in Point e, Clause 1, Article 16 of this Regulation, the head
-of the training unit shall consider and decide to allow them to take the
-entrance exam depending on their health condition and the requirements
-of the field of study. 5. Submit complete application documents on time
-as prescribed by the training unit.
+of the training unit and the requirements of the training sector, the head of the training unit shall specify the diploma conditions of the candidates taking the exam. 2. Regarding professional work experience:
+Depending on the requirements of each training sector, based on the proposal of the training science council, the head of the training unit shall specify the conditions on professional working time to accumulate practical experience before registering for the exam. In case the candidate must take additional courses to register for the exam in the field of administration and management, he/she must have at least 01 year of working experience in the field of registration for the exam from the date of signing the decision to recognize university graduation to the date of the exam. 3. Clear personal history, not being in the period of disciplinary action from the warning level or higher and not being in the period of serving a criminal sentence, confirmed by the human resources management agency where he/she is working or the local authority where he/she resides. 4. Having enough health to study. For children of resistance fighters infected with toxic chemicals as prescribed in Point e, Clause 1, Article 16 of this Regulation, the head of the training unit shall consider and decide to allow them to take the entrance exam depending on their health condition and the requirements of the field of study. 5. Submit complete application documents on time as prescribed by the training unit.
 
 ## Article 16. Priority subjects and policies
 1.  Priority objects
@@ -763,9 +703,7 @@ as prescribed by the training unit.
     supervision of admissions.
 
 ## Article 26. Recruitment of foreigners
-Admission of foreigners or Vietnamese people with foreign nationality to
-study for a master's degree at Vietnam National University, Hanoi is
-carried out according to separate regulations.
+Admission of foreigners or Vietnamese people with foreign nationality to study for a master's degree at Vietnam National University, Hanoi is carried out according to separate regulations.
 
 # Chapter III. TRAINING ORGANIZATION
 
@@ -989,77 +927,23 @@ carried out according to separate regulations.
     storage of test papers and records related to the test.
 
 ## Article 32. Average score
-The average score is calculated according to the University Training
-Regulations at Hanoi National University.
+The average score is calculated according to the University Training Regulations at Hanoi National University.
 
 ## Article 33. Handling of academic affairs
 After each semester, the training unit will handle academic matters. 1.
-Academic warning At the beginning of each semester (from the second
-semester onwards), the training unit will warn students whose average
-semester score is from 0.8 to under 0.85 for the first semester of the
-course; from 1.0 to under 1.1 in the following semesters or from 1.1 to
-under 1.2 in 2 consecutive semesters. 2. Temporary leave of absence a)
-Students are allowed to take temporary leave of absence and retain their
-learning results in the following cases: Being mobilized into the armed
-forces or performing international duties; Being mobilized by competent
-authorities, representing the country to participate in international
-competitions and competitions; Being sick, having an accident requiring
-long-term treatment or taking maternity leave according to regulations,
-with a certificate from a competent medical agency. In other cases, the
-training unit shall only allow temporary leave of absence for students
-who have studied at least one semester at the training unit, have a
-cumulative average score of not less than 2.0 and have not been
-disciplined;
+Academic warning At the beginning of each semester (from the second semester onwards), the training unit will warn students whose average semester score is from 0.8 to under 0.85 for the first semester of the course; from 1.0 to under 1.1 in the following semesters or from 1.1 to under 1.2 in 2 consecutive semesters. 2. Temporary leave of absence a) Students are allowed to take temporary leave of absence and retain their learning results in the following cases: Being mobilized into the armed forces or performing international duties; Being mobilized by competent authorities, representing the country to participate in international competitions and competitions; Being sick, having an accident requiring long-term treatment or taking maternity leave according to regulations, with a certificate from a competent medical agency. In other cases, the training unit shall only allow temporary leave of absence for students who have studied at least one semester at the training unit, have a cumulative average score of not less than 2.0 and have not been disciplined;
     i) The temporary leave of absence for those mobilized into
-the armed forces or performing international duties is the time recorded
-in the decision of the competent authority, not counted in the study
-time as prescribed in Clause 3, Article 6 of this Regulation; The
-temporary leave of absence for other cases is the time necessary
-according to the needs and wishes of the student, but the maximum time
-to complete the training program must comply with the provisions in
-Clause 3, Article 6 of this Regulation;
+the armed forces or performing international duties is the time recorded in the decision of the competent authority, not counted in the study time as prescribed in Clause 3, Article 6 of this Regulation; The temporary leave of absence for other cases is the time necessary according to the needs and wishes of the student, but the maximum time to complete the training program must comply with the provisions in Clause 3, Article 6 of this Regulation;
     k) The head of the training unit
-shall specify the procedures for requesting leave, the authority to
-grant leave and the acceptance of students to return to study after a
-temporary leave of absence;
+shall specify the procedures for requesting leave, the authority to grant leave and the acceptance of students to return to study after a temporary leave of absence;
     l) Students are allowed to leave school if
-they fall into one of the following cases: - Have a voluntary request to
-leave school during the training period as prescribed in Clause 3,
-Article 6 of this Regulation; - Exceed the maximum time allowed to study
-as prescribed in Clause 3, Article 6 of this Regulation; - Violation of
-the provisions in Point a, Clause 2, Article 52 of this Regulation; -
-Take a leave of absence without reporting to the training unit for a
-semester or more; - Have no request to return to school after the
-temporary leave of absence. 3. Transferring training units a) During the
-training period, students are allowed to transfer training units if they
-change their residence to another province, have a certificate from the
-local government or the student is recruited or assigned to work in
-another province according to the decision of the competent authority,
-and cannot continue studying at the training unit, except in the case
-specified in Point c of this Clause;
+they fall into one of the following cases: - Have a voluntary request to leave school during the training period as prescribed in Clause 3, Article 6 of this Regulation; - Exceed the maximum time allowed to study as prescribed in Clause 3, Article 6 of this Regulation; - Violation of the provisions in Point a, Clause 2, Article 52 of this Regulation; - Take a leave of absence without reporting to the training unit for a semester or more; - Have no request to return to school after the temporary leave of absence. 3. Transferring training units a) During the training period, students are allowed to transfer training units if they change their residence to another province, have a certificate from the local government or the student is recruited or assigned to work in another province according to the decision of the competent authority, and cannot continue studying at the training unit, except in the case specified in Point c of this Clause;
     m) Conditions for transferring
-training units: the training unit to which the student is transferring
-is training in the same major as the student; the student's wish to
-transfer training units must be approved by the heads of the training
-units from which the student is transferring and the training units to
-which the student is transferring;
+training units: the training unit to which the student is transferring is training in the same major as the student; the student's wish to transfer training units must be approved by the heads of the training units from which the student is transferring and the training units to which the student is transferring;
     n) Students are not allowed to
-transfer training units while they are studying in the final semester of
-the course or are being disciplined from warning or higher;
+transfer training units while they are studying in the final semester of the course or are being disciplined from warning or higher;
     o) The head
-of the training unit shall specify the records and procedures for
-transferring; the procedures for considering and recognizing part or all
-of the credits that the student has studied, and deciding on the number
-of credits that must be supplemented based on comparing the programs of
-the two training units. 4. The university principal decides and reports
-to Hanoi National University on transferring or accepting students to
-his/her unit. The Director of Hanoi National University decides on
-transferring or accepting students of affiliated faculties, affiliated
-schools, and scientific research institutes. 5. The training unit's
-regulations specify in detail the conditions and procedures for
-implementing student exchanges; recognize student credits accumulated
-when implementing training programs at the coordinating training unit
-and are made public on the training unit's website.
+of the training unit shall specify the records and procedures for transferring; the procedures for considering and recognizing part or all of the credits that the student has studied, and deciding on the number of credits that must be supplemented based on comparing the programs of the two training units. 4. The university principal decides and reports to Hanoi National University on transferring or accepting students to his/her unit. The Director of Hanoi National University decides on transferring or accepting students of affiliated faculties, affiliated schools, and scientific research institutes. 5. The training unit's regulations specify in detail the conditions and procedures for implementing student exchanges; recognize student credits accumulated when implementing training programs at the coordinating training unit and are made public on the training unit's website.
 
 # Chapter IV. THESIS AND THESIS EVALUATION
 
@@ -1343,9 +1227,7 @@ and are made public on the training unit's website.
 
 ## Article 40. Management of diploma templates
 
-The Director of Hanoi National University issues diploma templates,
-prints diploma templates, manages and grants master's diploma templates
-to training units.
+The Director of Hanoi National University issues diploma templates, prints diploma templates, manages and grants master's diploma templates to training units.
 
 ## Article 41. Graduation conditions
 
@@ -1497,11 +1379,7 @@ to training units.
 
 ## Article 45. Discipline for exam invigilators, exam organizers, and exam graders
 
-Those participating in the work of invigilation, organization of exams,
-and grading exams who violate regulations (discovered during or after
-performing their duties), depending on the severity, will be reviewed
-and disciplined according to the current High School Graduation Exam
-Regulations.
+Those participating in the work of invigilation, organization of exams, and grading exams who violate regulations (discovered during or after performing their duties), depending on the severity, will be reviewed and disciplined according to the current High School Graduation Exam Regulations.
 
 ## Article 46. Obligations of students
 
@@ -1720,8 +1598,7 @@ Regulations.
 
 ## Article 53. Entry into force
 
-This Regulation takes effect from the date of signing and applies to
-admission courses from 2022 onwards.
+This Regulation takes effect from the date of signing and applies to admission courses from 2022 onwards.
 
 ## Article 54. Implementation
 
