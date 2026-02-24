@@ -28,12 +28,12 @@ last_updated: 2026-02-23
 
 ---
 
-### Article 1. Scope of regulation and subjects of application
+## Article 1. Scope of regulation and subjects of application
 
 1. This Circular details a number of articles of Decree No. 86/2018/NĐ-CP dated 6 June 2018 of the Government on foreign cooperation and investment in the field of education (hereinafter referred to as Decree No. 86/2018/NĐ-CP), including: integration of Việt Nam’s education program with a foreign education program; compulsory educational content for learners who are Vietnamese citizens studying at early childhood education institutions, general education institutions, and higher education institutions with foreign-invested capital.
 2. This Circular applies to Vietnamese education institutions, foreign education institutions, and organizations and individuals involved in foreign cooperation and investment activities in the field of education in Việt Nam.
 
-### Article 2. Principles for integrating education programs
+## Article 2. Principles for integrating education programs
 
 Integration of education programs shall be implemented in accordance with Articles 6, 7, and 8 of Decree No. 86/2018/NĐ-CP and the following provisions:
 
@@ -42,7 +42,7 @@ Integration of education programs shall be implemented in accordance with Articl
 3. The integrated education program must include orientations for pedagogy, instructional formats, and assessment of learning outcomes to serve as the basis for building the school’s education plan.
 4. The integrated education program must specify implementation conditions, including program organization and management; management and teaching staff and employees; physical facilities and teaching equipment.
 
-### Article 3. Integration of early childhood education programs
+## Article 3. Integration of early childhood education programs
 
 1. The integrated program shall be developed on the basis of Việt Nam’s early childhood education program, supplemented with developmental domains (hereinafter collectively referred to as developmental domains), content, and educational activities from the foreign early childhood education program that are absent from Việt Nam’s program; developmental domains that exist in both programs shall be integrated so as to achieve the objectives of both Việt Nam’s program and the foreign program.
 2. Program integration shall be conducted by developmental domain or group of developmental domains for children. It shall take the content and educational activities of a developmental domain from one of the two programs and supplement content and educational activities of the corresponding domain from the other program that are absent, thereby ensuring the objectives of that domain under both programs.
@@ -50,7 +50,7 @@ Integration of education programs shall be implemented in accordance with Articl
    a) The education plan, specifying the names of developmental domains and educational activities, instructional duration, and language of delivery;
    b) A comparison of developmental domains, content, and educational activities of the two education programs used for integration.
 
-### Article 4. Integration of general education programs
+## Article 4. Integration of general education programs
 
 1. The integrated program shall be developed on the basis of Việt Nam’s general education program, supplemented with subjects and educational activities (hereinafter collectively referred to as subjects) from the foreign general education program that are absent from Việt Nam’s program; subjects that exist in both programs shall be integrated so as to achieve the objectives of both Việt Nam’s program and the foreign program.
 2. Program integration shall be conducted by subject or group of subjects. It shall take the subject program or group of subjects from one of the two programs and supplement the content of the corresponding subject or group of subjects from the other program that are absent, thereby ensuring the objectives of that subject or group of subjects under both programs.
@@ -58,7 +58,7 @@ Integration of education programs shall be implemented in accordance with Articl
    a) The education plan, specifying the names of subjects or subject groups, instructional duration, and language of delivery;
    b) A comparison of the subject programs or subject groups of the two education programs used for integration.
 
-### Article 5. Appraisal and approval of integrated education programs
+## Article 5. Appraisal and approval of integrated education programs
 
 1. Appraisal council:
    a) The Minister of Education and Training shall decide to establish the appraisal council for integrated education programs. The council is responsible for the appraisal content and quality and for proposing that the Minister of Education and Training approve the integrated education program;
@@ -86,12 +86,12 @@ The tasks, powers, and working principles of the appraisal council shall follow 
 5. Organization of appraisal implementation:
    The Early Childhood Education Department, the Primary Education Department, and the Secondary Education Department shall, within their assigned functions and duties and in coordination with relevant units, assist the Minister of Education and Training in organizing the appraisal and performing the following tasks:
    a) Propose the list of council members;
-   b) 5. Guide the appraisal council in fulfilling the appraisal objectives and requirements;
+   b) Guide the appraisal council in fulfilling the appraisal objectives and requirements;
    c) Receive and forward the program draft to each council member; receive dossiers and proposals or recommendations from the council to submit to the Minister of Education and Training for consideration and decision;
    d) Submit the integrated education program to the Minister of Education and Training for consideration and approval;
    đ) Archive the draft, minutes of council meetings, and relevant documents during the appraisal process, and hand them over to the archives unit of the Ministry of Education and Training after the council completes its duties, in accordance with regulations.
 
-### Article 6. Compulsory education content for learners who are Vietnamese citizens studying at early childhood and general education institutions with foreign-invested capital
+## Article 6. Compulsory education content for learners who are Vietnamese citizens studying at early childhood and general education institutions with foreign-invested capital
 
 Learners who are Vietnamese citizens and who study foreign education programs at early childhood or general education institutions with foreign-invested capital must study content on Vietnamese language development, the Vietnamese language program, and the Việt Nam Studies program, specifically as follows:
 
@@ -110,7 +110,7 @@ Learners who are Vietnamese citizens and who study foreign education programs at
    b) Duration: At least 90 minutes per week, taught at all lower and upper secondary grade levels.
 4. Early childhood and general education institutions with foreign-invested capital are encouraged to teach the Vietnamese language program and the Việt Nam Studies program in Vietnamese or in a foreign language to foreign learners enrolled at their schools.
 
-### Article 7. Organization of instruction, assessment, and evaluation of compulsory education content at early childhood and general education institutions with foreign-invested capital
+## Article 7. Organization of instruction, assessment, and evaluation of compulsory education content at early childhood and general education institutions with foreign-invested capital
 
 1. Education institutions shall develop teaching materials for the compulsory education content prescribed in Article 6 of this Circular and report them to the provincial Department of Education and Training before implementation.
 2. Organization of instruction for the compulsory education program for learners who are Vietnamese citizens must ensure that:
@@ -118,17 +118,17 @@ Learners who are Vietnamese citizens and who study foreign education programs at
    b) The language of instruction is Vietnamese.
 3. Testing and assessment of learning outcomes for the compulsory education content for learners who are Vietnamese citizens must meet the requirements of Article 6 of this Circular.
 
-### Article 8. Compulsory subjects for learners who are Vietnamese citizens studying at higher education institutions with foreign-invested capital
+## Article 8. Compulsory subjects for learners who are Vietnamese citizens studying at higher education institutions with foreign-invested capital
 
 1. Vietnamese citizens studying degree-granting programs at higher education institutions with foreign-invested capital in Việt Nam must study compulsory subjects as prescribed for higher education institutions in Việt Nam.
 2. Higher education institutions with foreign-invested capital shall consider recognizing prior learning results for students who have completed compulsory subjects at the same level at other higher education institutions lawfully operating in Việt Nam.
 3. Organization of the instruction and study of compulsory subjects at higher education institutions with foreign-invested capital shall follow current regulations.
 
-### Article 9. Rights of learners who are Vietnamese citizens studying at early childhood and general education institutions with foreign-invested capital
+## Article 9. Rights of learners who are Vietnamese citizens studying at early childhood and general education institutions with foreign-invested capital
 
 Learners who are Vietnamese citizens and study at early childhood or general education institutions with foreign-invested capital that deliver a foreign education program approved by competent Vietnamese authorities may transfer to early childhood or general education institutions that deliver Việt Nam’s education program when they so wish. The receiving institution shall decide on the learner’s placement based on a direct assessment of the learner’s capabilities.
 
-### Article 10. Implementation provisions
+## Article 10. Implementation provisions
 
 1. This Circular takes effect on 5 May 2020.
 2. The Chief of the Office, the Director General of the Department of International Cooperation, heads of relevant units under the Ministry of Education and Training, directors of provincial Departments of Education and Training, directors of universities and academies, rectors of universities, and relevant organizations and individuals are responsible for implementing this Circular./.
@@ -136,3 +136,5 @@ Learners who are Vietnamese citizens and study at early childhood or general edu
 | | **FOR THE MINISTER** <br> **DEPUTY MINISTER** |
 | :--- | :--- |
 | **Recipients:** <br> - Office of the National Assembly; <br> - Office of the Government; <br> - The Committee for Culture, Education, Youth, Adolescents and Children of the National Assembly; <br> - Ministries, ministerial-level agencies, government-attached agencies; <br> - People’s Councils and People’s Committees of centrally-run provinces and cities; <br> - Ministry of Justice (Department for Examination of Legal Normative Documents); <br> - Official Gazette; <br> - As in Article 10 (for implementation); <br> - Government Web Portal; <br> - Web Portal of the Ministry of Education and Training; <br> - Archives: Administrative Office, Department of International Cooperation, Legal Department. | *(signed)* <br><br><br> **Nguyễn Văn Phúc** |
+
+> **[SOURCE_NOTE]** Transcription source: `data/04-2020-TT-BGDDT_Foreign Cooperation in Education_source.pdf` (8 pages)

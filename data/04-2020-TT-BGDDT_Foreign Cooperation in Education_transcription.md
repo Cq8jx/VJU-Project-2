@@ -124,3 +124,5 @@ Người học là công dân Việt Nam học tập tại các cơ sở giáo d
 | | **KT. BỘ TRƯỞNG** <br> **THỨ TRƯỞNG** |
 | :--- | :--- |
 | **Nơi nhận:** <br> - Văn phòng Quốc hội; <br> - Văn phòng Chính phủ; <br> - Ủy ban VHGDTNTNNĐ của Quốc hội; <br> - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; <br> - HĐND, UBND các tỉnh, TP trực thuộc Trung ương; <br> - Bộ Tư pháp (Cục Kiểm tra văn bản QPPL); <br> - Công báo; <br> - Như Điều 10 (để thực hiện); <br> - Cổng thông tin điện tử của Chính phủ; <br> - Cổng thông tin điện tử của Bộ GDĐT; <br> - Lưu: VT, Cục HTQT, Vụ PC. | *(đã ký)* <br><br><br> **Nguyễn Văn Phúc** |
+
+> **[SOURCE_NOTE]** Transcription source: `data/04-2020-TT-BGDDT_Foreign Cooperation in Education_source.pdf` (8 pages)

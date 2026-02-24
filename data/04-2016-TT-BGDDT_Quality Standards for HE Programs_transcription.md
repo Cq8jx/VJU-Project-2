@@ -205,3 +205,5 @@ Tổ chức kiểm định chất lượng giáo dục căn cứ vào Quy địn
 | | **KT. BỘ TRƯỞNG** <br> **THỨ TRƯỞNG** |
 | :--- | :--- |
 | | *(đã ký)* <br><br><br> **Bùi Văn Ga** |
+
+> **[SOURCE_NOTE]** Transcription source: `data/04-2016-TT-BGDDT_Quality Standards for HE Programs_source.pdf` (9 pages)
