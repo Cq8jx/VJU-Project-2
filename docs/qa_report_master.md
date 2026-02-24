@@ -351,6 +351,42 @@
 
 ## Batch Execution Summary (auto)
 
+- run_id: `20260224_164658`
+- processed sets:
+  - `2459-QD-DHQGHN_Amendment to Masters Training Regulation`
+  - `2486-QD-DHQGHN_Amendment to Undergraduate Admission Regulation`
+  - `2085-CV-BGDDT_Self-Assessment and External Evaluation`
+- partially processed sets: none
+- skipped sets due to time limit: none
+- estimated remaining sets: `31` (start estimate `34` - processed `3`)
+- major issues:
+  - Claude CLI OAuth token expired during initial QA attempt (batch paused until re-login)
+  - `2085` JA body/list wrapper contamination (`<p align="center"><strong>`) at multiple non-heading lines
+  - `2085` EN/JA footnote `¹` definition block missing before Part II
+  - `2486` EN/JA missing `./.` markers
+  - `2459` VI stray quoted amendment marker + JA legal-basis italics parity issue
+- major fixes:
+  - resumed batch after Claude re-authentication and completed all 3 sets
+  - `2459`: fixed VI stray quote + JA legal-basis italics
+  - `2486`: restored `./.` markers in Article 3 and Appendix IV footnote (EN/JA)
+  - `2085`: removed JA non-heading center/bold wrappers; inserted EN/JA translated footnote `¹` definition block
+- new QA checks discovered:
+  - quoted amendment double-quote nesting check
+  - `./.` marker parity check (article endings + appendix footnotes)
+  - footnote reference/definition parity across VI/EN/JA
+  - JA non-heading wrapper misuse check for centered HTML
+- timeout events: none
+- git push failures: none
+- temp cleanup status: `tmp/run_20260224_164658` removed
+- suggested next targets:
+  - `1534-HD-DHVN_Annex Templates English Format`
+  - `1534-HD-DHVN_Annex Templates Layout Guide`
+  - `08-2021-TT-BGDDT_Regulation on Undergraduate Training`
+- runtime duration: `interrupted by auth refresh; completed after resume`
+- stop reason: `completion`
+
+## Batch Execution Summary (auto)
+
 - run_id: `20260224_163537`
 - processed sets:
   - `04-2016-TT-BGDDT_Quality Standards for HE Programs`
