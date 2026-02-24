@@ -20,17 +20,17 @@ last_updated: 2026-02-23
 <p align="center"><strong>TRIỂN KHAI CÁC HOẠT ĐỘNG ĐẢM BẢO CHẤT LƯỢNG CỦA TRƯỜNG ĐẠI HỌC VIỆT NHẬT NĂM 2026</strong></p>
 
 <p align="center"><strong>1. Mục tiêu</strong></p>
-<p align="center"><strong>1.1. Mục tiêu chung</strong></p>
+<p align="center"><strong>4.1. Mục tiêu chung</strong></p>
 Xây dựng và vận hành hệ thống đảm bảo chất lượng bên trong (IQA) hiện đại, hiệu quả và bền vững, đáp ứng yêu cầu hậu kiểm của kiểm định cấp cơ sở giáo dục theo chuẩn quốc tế của JUAA.
 
-<p align="center"><strong>1.2. Mục tiêu cụ thể</strong></p>
+<p align="center"><strong>4.2. Mục tiêu cụ thể</strong></p>
 <p align="center"><strong>4.2.1. Về kiểm định chất lượng và chuẩn quốc tế</strong></p>
   - Duy trì hiệu lực và thực hiện đầy đủ các yêu cầu cải tiến chất lượng hậu kiểm kiểm định cấp cơ sở giáo dục theo bộ tiêu chuẩn kiểm định chung quốc tế của JUAA trong suốt chu kỳ 7 năm (2025–2032).
 
 <p align="center"><strong>4.2.2. Về chuyển đổi số trong đảm bảo chất lượng</strong></p>
   - Xây dựng và vận hành hệ thống thông tin tích hợp về giảng viên phục vụ thu thập, quản lý và phân tích dữ liệu điều kiện đảm bảo chất lượng đội ngũ.
   - Chuẩn hóa hệ thống dữ liệu về cơ sở vật chất phục vụ xây dựng và vận hành hệ thống thông tin tích hợp về cơ sở vật chất.
-  - Ứng dụng phân tích dữ liệu và các công cụ số trong giám sát chất lượng đào tạo, kết quả học tập và phản hồiของ các bên liên quan.
+  - Ứng dụng phân tích dữ liệu và các công cụ số trong giám sát chất lượng đào tạo, kết quả học tập và phản hồi của các bên liên quan.
 
 <p align="center"><strong>4.2.3. Về phát triển hệ thống đảm bảo chất lượng bên trong (IQA)</strong></p>
 Hoàn thiện mô hình IQA của Trường theo hướng:
@@ -97,3 +97,5 @@ Phòng Kế hoạch và tài chính xem xét bố trí nguồn kinh phí cho cá
 <p align="right"><strong>K/T HIỆU TRƯỞNG</strong><br><strong>PHÓ HIỆU TRƯỞNG</strong></p>
 <br>
 <p align="right"><strong>Nguyễn Hoàng Oanh</strong></p>
+
+> **[SOURCE_NOTE]** Transcription source: `data/50-2026-KH-DHVN_VJU Quality Assurance Plan 2026_source.pdf` (12 pages)
