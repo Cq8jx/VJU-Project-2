@@ -123,3 +123,7 @@ No.: 2486/QĐ-ĐHQGHN
     c) Achieve a minimum score of 90 (on a 150-point scale) in the Upper-Secondary Competency Assessment Examination organized by Vietnam National University, Hanoi (ĐHQGHN).
 
     *Units specify detailed admission criteria based on academic results, the order of priority for direct admission consideration according to competition results, awards achieved by candidates, and other supplementary criteria (if any).*
+
+---
+
+> **[SOURCE]** Transcribed from official document: Decision No. 2486/QĐ-ĐHQGHN dated 06/06/2024 of the President of Vietnam National University, Hanoi. Source: VNU Academic Affairs Department.

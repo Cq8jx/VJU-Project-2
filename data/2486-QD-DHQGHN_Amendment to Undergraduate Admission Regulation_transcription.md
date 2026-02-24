@@ -123,3 +123,7 @@ Số: 2486/QĐ-ĐHQGHN
     c) Có kết quả thi Đánh giá năng lực bậc THPT do ĐHQGHN tổ chức đạt tối thiểu 90 điểm (thang điểm 150);
 
     *Đơn vị quy định cụ thể các tiêu chí xét tuyển dựa trên kết quả học tập, thứ tự ưu tiên xét tuyển thẳng theo kết quả cuộc thi, giải thưởng thí sinh đạt được và các tiêu chí phụ khác (nếu có).*
+
+---
+
+> **[SOURCE]** Transcribed from official document: Quyết định số 2486/QĐ-ĐHQGHN ngày 06/06/2024 của Giám đốc Đại học Quốc gia Hà Nội. Source: VNU Academic Affairs Department.
