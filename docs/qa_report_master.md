@@ -943,3 +943,140 @@
 
 ### Timeout Events (so far)
 - None
+
+## 2026-02-24 Document 1274 QA (Chunked QA, Fix Pending)
+
+### Files processed
+- `data/1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026_source.pdf`
+- `data/1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026_transcription.md`
+- `data/1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026_transcription_en.md`
+- `data/1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026_transcription_ja.md`
+
+### Page count + tool used + chunk plan
+- Page count: `35` (`pdfinfo`)
+- Chunk ranges used: `1-15`, `16-30`, `31-35`
+- Chunk PDF extraction: unavailable (`qpdf`/`mutool` missing); used `pdftotext -f/-l` page-range text only (elevated risk)
+
+### Script findings
+- YAML required fields present in VI/EN/JA
+- Disclaimer heuristic flagged missing (false-positive likely; manual review pending)
+- Pipe tables detected (`165` lines each)
+- ASCII separator pattern (`1`) detected in each file
+- `issue_date: null` remains
+
+### Claude findings (chunked + merge)
+- CRITICAL: Phụ lục 5 row-boundary/page-break issue causing STT 7/8 misassignment and possible phantom row count mismatch
+- HIGH: VI appendix template fidelity issue (`HỌC HỌC` silently normalized)
+- MAJOR: VI rubric headers translated `point` -> `điểm`; Phụ lục 4c summary row corrected away from source; Phụ lục 5 row 4/5 boundary ambiguity
+- MEDIUM: missing `V/v` subject line in all 3 files; EN/JA abbreviation typo preservation issues; EN/JA list hierarchy flattened in §2.3/2.4
+- LOW: placeholder line loss in template, `CĐR/CDR` inconsistency, line-break/layout issues in appendices 6/7/8
+
+### Merged fix plan (Claude)
+- Apply Phụ lục 5 boundary fixes first across VI/EN/JA after full-PDF verification
+- Restore VI template fidelity in appendices (including `HỌC HỌC`, placeholder line)
+- Preserve source abbreviations in EN/JA with `[sic]`
+- Restore EN/JA nested list hierarchy in §2.3/2.4
+- Add missing `V/v` subject line (with EN/JA translations)
+
+### Final review outcome
+- Not started (fixes deferred due batch time limit)
+
+### New QA checks (from Claude)
+- Table row boundary at page breaks (STT continuity)
+- `V/v` subject-line presence check
+- Source abbreviation typo preservation in EN/JA (`[sic]`)
+- Template/code-block field line fidelity
+- `CĐR` diacritic regex check and rubric summary-row fidelity note policy
+
+### Timeout events
+- None
+
+## 2026-02-24 Document 50-2026-KH-DHVN QA (QA Only, Large Repair Deferred)
+
+### Files processed
+- `data/50-2026-KH-DHVN_VJU Quality Assurance Plan 2026_source.pdf`
+- `data/50-2026-KH-DHVN_VJU Quality Assurance Plan 2026_transcription.md`
+
+### Page count + tool used + chunk plan
+- Page count: `12` (`pdfinfo`)
+- Chunk ranges used: no chunking
+
+### Script findings
+- YAML required fields present
+- Disclaimer present (manual check; script heuristic false-negative earlier)
+- Pipe-table lines detected (`28`)
+- ASCII separator pattern (`1`) detected
+- `issue_date: null` remains
+
+### Claude findings
+- CRITICAL: Massive table-row omissions in Section III (many subheaders and rows missing)
+- CRITICAL: Section IV rows `2-5,7` missing
+- CRITICAL: Section V (`Hoạt động xếp hạng đại học`) fully missing
+- MAJOR: several `Sản phẩm dự kiến` cells truncated
+- MAJOR: Section II focal-unit decision-date details omitted
+- MAJOR: heading style inconsistency (`<p align="center">` vs markdown headings)
+
+### Fixes applied
+- None in this batch (repair scope too large for remaining time)
+
+### Review feedback
+- Claude result effectively FAIL (document unusable until missing rows/sections restored)
+- Source numbering anomalies and some source typos were correctly preserved where present
+
+### New QA checks (from Claude)
+- Table row-count parity against source
+- Section completeness for roman numerals (I–V)
+- Subsection sequence continuity (1.1..1.n no skips)
+- `Sản phẩm dự kiến` truncation detection
+- Focal-unit over-abbreviation check (decision number/date retention)
+
+### Timeout events
+- None
+
+## 2026-02-24 Document 840 Annex 4 QA -> Fix -> Review Cycle (Completed in Batch)
+
+### Files processed
+- `data/840-DT-DHVN_Academic Calendar 2025-2026 Annex 4 Masters-PhD_source.pdf`
+- `data/840-DT-DHVN_Academic Calendar 2025-2026 Annex 4 Masters-PhD_transcription.md`
+- `data/840-DT-DHVN_Academic Calendar 2025-2026 Annex 4 Masters-PhD_transcription_en.md`
+- `data/840-DT-DHVN_Academic Calendar 2025-2026 Annex 4 Masters-PhD_transcription_ja.md`
+
+### Page count + tool used + chunk plan
+- Page count: `14` (`pdfinfo`)
+- Chunk ranges used: no chunking
+
+### Script findings
+- YAML required fields present; `issue_date: null` remains
+- Pipe-table lines detected (`69-70`), no ASCII-separator warning
+- Disclaimer present in all 3 files (manual check)
+
+### Claude findings (pre-fix)
+- CRITICAL: YAML `date` wrong in all 3 files (`2025-07-30` vs source signing date `08/08/2025`)
+- CRITICAL: VI file had unclosed `<div class="source-note">`
+- CRITICAL: OCR artifact `Educational Testing and 2. Quality Assurance Office` in VI/EN rows
+- HIGH: EN `Rector Office` mistranslation (`Admin Office` expected)
+- HIGH: EN row `4.10` silently corrected while source duplicates `4.1`
+- HIGH/MEDIUM: VI should preserve source bilingual typos/mismatches with `<!-- sic -->` annotations (`1st/2nd`, `develope`, `tentavtive`)
+
+### Claude-based fixes applied (Codex edits)
+- Updated YAML `date` to `2025-08-08` in VI/EN/JA
+- Closed VI source-note div before first heading
+- Removed OCR artifact `and 2.` from EN and VI occurrences (including a late catch in VI row 3.13)
+- Fixed EN `Rector Office` -> `Admin Office`
+- Restored EN duplicate source numbering `4.1` and added `<!-- sic: duplicate numbering in source -->`
+- Added VI `<!-- sic -->` annotations for source EN mismatch/typos (`1st time`, `develope`, `tentavtive`)
+
+### Review feedback (Claude post-fix)
+- Claude post-fix review reported one remaining VI OCR artifact at VI:63, but this was already patched by Codex during the review run (race timing)
+- Current file grep check shows no remaining `Educational Testing and 2. Quality Assurance Office` in VI/EN
+- Effective outcome: `PASS WITH NOTES` (minor consistency note only: optional JA sic annotation for duplicate `4.1`)
+
+### New QA checks (from Claude)
+- Signing date vs YAML `date` cross-check using `Thời gian ký`
+- OCR row-number bleed into cell text (`and 2.`-style artifacts)
+- Bilingual source contradiction flagging with `<!-- sic -->`
+- Duplicate row numbering preservation consistency across languages
+- `<div class="source-note">` closure check before first heading
+
+### Timeout events
+- None
