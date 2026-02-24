@@ -1826,3 +1826,23 @@
 
 ### Status
 - Pending Claude QA -> fix -> review cycle
+
+## 2026-02-24 2459-QD-DHQGHN Claude QA / Fix / Review (Batch run 20260224_191534)
+
+### Claude findings (QA)
+- 判定: 軽微修正要
+- VI/EN/JA 全3ファイルで EOF `SOURCE_NOTE` 欠落（YAML/免責事項は正常）
+
+### Fixes applied (Codex, per Claude instructions)
+- VI/EN/JA 各ファイル末尾に `> **[SOURCE_NOTE]** Transcription source: ... (3 pages)` を追加
+
+### Claude review after fixes
+- Outcome: `PASS`
+- 3言語版とも EOF の `SOURCE_NOTE` 形式・PDFパス・ページ数の整合を確認
+
+### New QA checks (Claude提案)
+- none
+
+### Timeout / Auth / Cleanup
+- Claude timeout events: none
+- Claude auth errors: none
