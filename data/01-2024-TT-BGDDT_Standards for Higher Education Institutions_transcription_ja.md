@@ -11,9 +11,8 @@ last_updated: 2026-02-23
 > **[DISCLAIMER]** 本文書はAIにより生成されたものであり、学習および参照を目的としています。内容はベトナム語の公式法的文書に基づいています。法的効力については、署名・捺印された公式のベトナム語原文を優先してください。
 
 <p align="center"><strong>教育訓練省 | ベトナム社会主義共和国</strong></p>
-<p align="center"><strong>:--- | :---</strong></p>
-<p align="center"><strong>| 独立・自由・幸福</strong></p>
-番号：01/2024/TT-BGDĐT | *ハノイ、2024年2月5日*
+<p align="center"><strong>独立・自由・幸福</strong></p>
+<p align="center">番号：01/2024/TT-BGDĐT &nbsp;&nbsp;&nbsp;&nbsp; <em>ハノイ、2024年2月5日</em></p>
 
 <p align="center"><strong>通達</strong></p>
 <p align="center"><strong>高等教育機関基準の制定について</strong></p>
@@ -26,7 +25,7 @@ last_updated: 2026-02-23
 
 *教育訓練大臣は高等教育機関基準の制定に関する本通達を公布する。*
 
-<p align="center"><strong>---</strong></p>
+<hr>
 
 ## 第1条　適用範囲及び適用対象
 

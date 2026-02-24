@@ -11,9 +11,8 @@ last_updated: 2026-02-23
 > **[DISCLAIMER]** Tài liệu này được tạo bởi AI phục vụ mục đích học tập và tham khảo. Nội dung gốc tiếng Việt được trích xuất từ văn bản chính thức. Mọi thông tin có tính pháp lý phải được đối chiếu với văn bản gốc có đóng dấu đỏ.
 
 <p align="center"><strong>BỘ GIÁO DỤC VÀ ĐÀO TẠO | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</strong></p>
-<p align="center"><strong>:--- | :---</strong></p>
-| **Độc lập - Tự do - Hạnh phúc**
-Số: 01 /2024/TT-BGDĐT | *Hà Nội, ngày 05 tháng 02 năm 2024*
+<p align="center"><strong>Độc lập - Tự do - Hạnh phúc</strong></p>
+<p align="center">Số: 01/2024/TT-BGDĐT &nbsp;&nbsp;&nbsp;&nbsp; <em>Hà Nội, ngày 05 tháng 02 năm 2024</em></p>
 
 <p align="center"><strong>THÔNG TƯ</strong></p>
 <p align="center"><strong>Ban hành Chuẩn cơ sở giáo dục đại học</strong></p>
@@ -26,7 +25,7 @@ Số: 01 /2024/TT-BGDĐT | *Hà Nội, ngày 05 tháng 02 năm 2024*
 
 *Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư ban hành Chuẩn cơ sở giáo dục đại học.*
 
-<p align="center"><strong>---</strong></p>
+<hr>
 
 ## Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
