@@ -1217,3 +1217,23 @@
 
 ### Status
 - Pending Claude QA -> fix -> review cycle
+
+## 2026-02-24 04-2020-TT-BGDDT Script Check (Batch run 20260224_163537)
+
+### Scope
+- `data/04-2020-TT-BGDDT_Foreign Cooperation in Education_source.pdf`
+- `data/04-2020-TT-BGDDT_Foreign Cooperation in Education_transcription.md`
+- `data/04-2020-TT-BGDDT_Foreign Cooperation in Education_transcription_en.md`
+- `data/04-2020-TT-BGDDT_Foreign Cooperation in Education_transcription_ja.md`
+
+### Page Count / Chunk Plan
+- Page count: `8` (tool: `pdfinfo`)
+- Chunking: `no chunking`
+
+### Script results (Codex-run)
+- `data/04-2020-TT-BGDDT_Foreign Cooperation in Education_transcription.md`: disclaimer present; source note missing; pipe_table_lines=3
+- `data/04-2020-TT-BGDDT_Foreign Cooperation in Education_transcription_en.md`: disclaimer present; source note missing; pipe_table_lines=3
+- `data/04-2020-TT-BGDDT_Foreign Cooperation in Education_transcription_ja.md`: disclaimer present; source note missing; pipe_table_lines=3
+
+### Status
+- Pending Claude QA -> fix -> review cycle
