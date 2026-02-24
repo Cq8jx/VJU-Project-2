@@ -859,3 +859,61 @@
 - `483-HD-DHVN_Practical Internship Guidance_transcription.md`: YAML keys detected (doc_id, title, date, department, type, restricted, last_updated); disclaimer/source-note detected; pipe-table lines ~25
 - `483-HD-DHVN_Practical Internship Guidance_transcription_en.md`: YAML keys detected (doc_id, title, date, department, type, restricted, last_updated); disclaimer/source-note detected; pipe-table lines ~25
 - `483-HD-DHVN_Practical Internship Guidance_transcription_ja.md`: YAML keys detected (doc_id, title, date, department, type, restricted, last_updated); disclaimer/source-note detected; pipe-table lines ~25
+
+
+## 2026-02-24 Batch 6 Claude QA -> Fix -> Review Cycle (24 / 473 / 483)
+
+### 24-2023-ND-CP_Decree on Base Salary
+- Files processed: VI/EN/JA + source PDF
+- Page count + tool: `5` (`pdfinfo`)
+- Chunk ranges used: `no chunking`
+- Claude QA result: `PASS_WITH_MINOR_FIXES`
+- Claude findings (key): source text extraction yielded metadata-only text (content-fidelity comparison risk); EN/JA article headings used `###` instead of `##`; EN had spurious `5.` prefixes in Article 6.3 sub-items; JA preamble legal-basis clauses were centered/bold instead of plain italic; JA Article 2 intro sentence misformatted as heading.
+- Claude fixes applied (Codex): normalized EN/JA article headings to `##`; removed spurious `5.` prefixes in EN sub-items; converted JA legal-basis clauses to plain italic paragraphs; changed JA Article 2 intro sentence to plain paragraph.
+- Claude review outcome: `PASS` (all 4 prior issue groups fixed; no remaining issues)
+- New QA checks: sub-item numbering contamination; preamble formatting consistency; introductory sentence vs heading validation; source-text extraction quality gate when PDF extraction is metadata-only.
+- Timeout events: none
+
+### 473-QD-DHVN_Academic Advisory Work Regulations
+- Files processed: VI/EN/JA + source PDF
+- Page count + tool: `8` (`pdfinfo`)
+- Chunk ranges used: `no chunking`
+- Claude QA result: `PASS_WITH_MINOR_FIXES`
+- Claude findings (key): VI formatting inconsistency `-Hướng dẫn` (missing post-dash space); VI typo-correction policy inconsistency (`hưởng dẫn` left uncorrected while nearby PDF typos were corrected); EN Appendix 1 heading used `Course` instead of `Cohort Class`.
+- Claude fixes applied (Codex): added dash-space in VI line item; corrected VI `hưởng dẫn` -> `hướng dẫn`; changed EN Appendix 1 heading to `Cohort Class Meeting Minutes`.
+- Claude review outcome: `PASS` (all 3 issues fixed; cross-file structure/table/metadata checks passed)
+- New QA checks: typo-correction policy consistency within same section; `lớp khóa học` translation consistency (`cohort class` vs `course`).
+- Timeout events: none
+
+### 483-HD-DHVN_Practical Internship Guidance
+- Files processed: VI/EN/JA + source PDF
+- Page count + tool: `13` (`pdfinfo`)
+- Chunk ranges used: `no chunking`
+- Claude QA result: `PASS_WITH_MINOR_FIXES`
+- Claude findings (key): section 8 slash-delimited concept `/` dropped in VI and not reflected in EN/JA; section 8 final bullet incorrectly nested as `+` sub-item in VI/EN/JA instead of top-level `-`.
+- Claude fixes applied (Codex): restored slash-delimited concept in VI/EN/JA section 8 line; moved final section 8 bullet to top-level `-` in VI/EN/JA.
+- Claude review outcome: `PASS` (all 4 primary fixes verified across all three language files)
+- New QA checks: slash-separated concept preservation across translations; list hierarchy alignment with PDF structure for section-ending bullets.
+- Timeout events: none
+
+### Batch 6 Temp Cleanup Status
+- Per-set cleanup: `24-2023-ND-CP`, `473-QD-DHVN`, `483-HD-DHVN` tmp subfolders removed (best-effort)
+- Final sweep: `tmp/run_20260224_120613` removed
+- Cleanup failures: none
+
+## Batch Execution Summary (auto)
+
+- run_id: `20260224_120613`
+- processed sets: `24-2023-ND-CP_Decree on Base Salary`, `473-QD-DHVN_Academic Advisory Work Regulations`, `483-HD-DHVN_Practical Internship Guidance`
+- partially processed sets: none
+- skipped sets due to time limit: none
+- estimated remaining sets: `36` (total detected incomplete `39` - processed `3`)
+- major issues: `24-2023` EN/JA heading + JA formatting/structure contamination and EN numbering contamination; `473` minor VI formatting/typo consistency + EN heading terminology inconsistency; `483` slash concept loss and list hierarchy error in section 8 across VI/EN/JA
+- major fixes: heading normalization and JA preamble/article-2 structure fix in `24-2023`; VI typo/format + EN appendix heading fix in `473`; slash restoration and section-8 bullet hierarchy fix in `483`
+- new QA checks discovered: sub-item numbering contamination, preamble formatting consistency, intro-sentence-vs-heading validation, metadata-only PDF extraction quality gate, typo-correction policy consistency, `lớp khóa học` term consistency, slash-separated concept preservation, list hierarchy alignment
+- timeout events: none
+- git push failures: none (pending push)
+- temp cleanup status: tmp removed
+- suggested next targets: `24-2023-ND-CP_Decree on Base Salary` (done), `1132-QD-DHVN_Examination Affairs Regulations`, `5292-QD-DHQGHN_Regulations on International Student Management`
+- runtime duration: `~07:32`
+- stop reason: `completion`
