@@ -443,3 +443,21 @@
 - Completed with fixes + review: `1274-HD-KTDBCL`
 - Completed QA-only (no fixes needed): `WEB-TTTS2026-VJU`
 - Partial completion (critical content still missing): `50-2026-KH-DHVN`
+
+
+## 2026-02-24 1592-QD-DHVN Script Check Pass (Pre-QA)
+
+### Scope
+- `data/1592-QD-DHVN_Budget Estimate Disclosure 2025_source.pdf`
+- `data/1592-QD-DHVN_Budget Estimate Disclosure 2025_transcription.md`
+- `data/1592-QD-DHVN_Budget Estimate Disclosure 2025_transcription_en.md`
+- `data/1592-QD-DHVN_Budget Estimate Disclosure 2025_transcription_ja.md`
+
+### Page Count + Chunk Plan
+- Page count: `2` (tool: `pdfinfo`)
+- Chunk ranges used: `no chunking` (<=30 pages)
+
+### Script results (Codex-run)
+- VI/EN/JA: YAML fields (`id`, `title`, `issue_date`) present; `lang` field present
+- Tables detected in all variants (`pipe` lines ~28); no ASCII-table separator warning
+- Source/disclaimer note detected in VI and JA; EN source/disclaimer note not detected by script pattern (needs Claude confirmation)
