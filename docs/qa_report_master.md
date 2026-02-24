@@ -1424,3 +1424,23 @@
 
 ### Status
 - Pending Claude QA -> fix -> review cycle
+
+## 2026-02-24 2085-CV-BGDDT Script Check (Batch run 20260224_164658)
+
+### Scope
+- `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_source.pdf`
+- `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_transcription.md`
+- `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_transcription_en.md`
+- `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_transcription_ja.md`
+
+### Page Count / Chunk Plan
+- Page count: `17` (tool: `pdfinfo`)
+- Chunking: `no chunking` (<=30 pages)
+
+### Script results (Codex-run)
+- `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_transcription.md`: disclaimer present; source note missing; pipe_table_lines=550; ascii_separator_lines=3
+- `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_transcription_en.md`: disclaimer present; source note missing; pipe_table_lines=533; ascii_separator_lines=4
+- `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_transcription_ja.md`: disclaimer present; source note missing; pipe_table_lines=532; ascii_separator_lines=3
+
+### Status
+- Pending Claude QA -> fix -> review cycle
