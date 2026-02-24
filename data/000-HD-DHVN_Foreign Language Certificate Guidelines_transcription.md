@@ -63,7 +63,7 @@ Trước khi tốt nghiệp, sinh viên cần nộp chứng chỉ, chứng nhậ
 | 8 | Công nghệ kỹ thuật Chip bán dẫn | Bậc 4 | - |
 | **II** | **CTĐT chuẩn** | | |
 | 9 | Kỹ thuật xây dựng | Bậc 3 | - |
-| **III** | **CTĐT chuẩn thu theo định mức kinh tế kỹ thuật** | | |
+| **III** | **CTĐT chuẩn thu theo định mức kinh tế kỹ tthuật** | | |
 | 10 | Đổi mới và phát triển toàn cầu | Bậc 4 | - |
 
 - Danh sách các chứng chỉ, chứng nhận được công nhận tại Đại học Quốc gia Hà Nội tại Phụ lục 1 của Hướng dẫn này.
@@ -86,7 +86,7 @@ Trước khi tốt nghiệp, sinh viên cần nộp chứng chỉ, chứng nhậ
 - Sinh viên thực hiện theo Hướng dẫn số 856/ĐHVN-ĐT ngày 04/08/2025 về Tổ chức giảng dạy học phần ngoại ngữ trong các CTĐT trình độ đại học đối với các học phần Tiếng Nhật B1, tiếng Nhật B2 thuộc Khối kiến thức chung (M1).
 - Danh sách các chứng chỉ, chứng nhận công nhận tại Đại học Quốc gia Hà Nội tại Phụ lục 1 của Hướng dẫn này.
 
-## 4. Một số thông tin cần lưu ý
+## 3. Một số thông tin cần lưu ý
 
 - Chứng nhận, chứng chỉ ngoại ngữ còn thời hạn sử dụng tính đến thời điểm nộp chứng nhận, chứng chỉ. Sinh viên nộp 01 bản sao công chứng chứng nhận, chứng chỉ về Phòng Đào tạo và Công tác sinh viên (Phòng 501, Cơ sở Mỹ Đình hoặc Phòng 102, Nhà hiệu bộ cơ sở Hòa Lạc). Đối với sinh viên thi chứng chỉ JLPT cần nộp Đơn ủy quyền thẩm định chứng chỉ theo mẫu tại Phụ lục 2.
 - Chứng nhận, chứng chỉ ngoại ngữ thi dưới hình thức trực tuyến không được công nhận tại Trường Đại học Việt Nhật.
@@ -95,10 +95,10 @@ Trước khi tốt nghiệp, sinh viên cần nộp chứng chỉ, chứng nhậ
 
 Trân trọng thông báo./.
 
-## 5. Tổ chức thực hiện
+## 4. Tổ chức thực hiện
 
 - Văn bản này có hiệu lực kể từ ngày ký, những quy định khác trái với Hướng dẫn này đều bãi bỏ.
-- Trường hợp đặc biệt, phát sinh trong quá trình thực hiện, các đơn vị báo cáo Ban Giám hiệu Trường Đại học Việt Nhật (qua Phòng Đào tạo và Công tác sinh viên) xem xét quyết định./.
+- Trường hợp đặc biệt, phát sinh phát sinh trong quá trình thực hiện, các đơn vị báo cáo Ban Giám hiệu Trường Đại học Việt Nhật (qua Phòng Đào tạo và Công tác sinh viên) xem xét quyết định./.
 
 <div style="display: flex; justify-content: space-between;">
 <div>
@@ -151,7 +151,7 @@ Trân trọng thông báo./.
 
 **Socialist Republic of Vietnam**
 **Independence – Freedom – Happiness**
-**—o0o0o—**
+**—–oo0oo—-**
 
 **LETTER OF AUTHORIZATION**
 

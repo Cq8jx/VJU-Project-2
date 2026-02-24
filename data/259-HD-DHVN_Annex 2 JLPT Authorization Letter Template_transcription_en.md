@@ -56,7 +56,7 @@ Hanoi, .............., 20....
 
 To whom it may concern,
 
-I hereby authorise the Office of Academic Affairs and Student Services, Vietnam-Japan University – Vietnam National University, Hanoi (VJU–VNU) to confirm the authenticity of my Japanese Language Proficiency Test result for the purpose of validating my university admission dossier.
+I hereby authorise the Department of Academic Affairs and Student Services, Vietnam-Japan University – Vietnam National University, Hanoi (VJU–VNU) to confirm the authenticity of my Japanese Language Proficiency Test result for the purpose of validating my university admission dossier.
 
 Signature: _______________________________
 Name: ___________________________________

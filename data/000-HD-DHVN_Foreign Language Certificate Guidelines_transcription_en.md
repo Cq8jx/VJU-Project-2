@@ -86,7 +86,7 @@ Before graduating, students need to submit a certificate or certification of for
 - Students shall follow Guidance No. 856/ĐHVN-ĐT dated August 4, 2025 on Organizing the teaching of foreign language courses in university-level training programs for Japanese B1 and Japanese B2 courses in the General Knowledge Block (M1).
 - List of certificates and certifications recognized at Vietnam National University, Hanoi in Appendix 1 of this Guidance.
 
-## 4. Important information to note
+## 3. Important information to note
 
 - Foreign language certificates and certifications must be valid at the time of submission. Students shall submit 01 notarized copy of the certificate to the Department of Training and Student Affairs (Room 501, My Dinh Campus or Room 102, Hoa Lac Campus Headquarters). Students taking the JLPT exam shall submit a Certificate Appraisal Authorization Form according to the form in Appendix 2.
 - Online foreign language certificates and certifications are not recognized at Vietnam-Japan University.
@@ -95,7 +95,7 @@ Before graduating, students need to submit a certificate or certification of for
 
 Sincerely inform./.
 
-## 5. Implementation
+## 4. Implementation
 
 - This document takes effect from the date of signing; other regulations contrary to this Guidance are abolished.
 - In special cases arising during the implementation process, the units shall report to the Board of Directors of Vietnam-Japan University (through the Department of Training and Student Affairs) for consideration and decision./.
@@ -151,7 +151,7 @@ Sincerely inform./.
 
 **Socialist Republic of Vietnam**
 **Independence – Freedom – Happiness**
-**—o0o0o—**
+**—–oo0oo—-**
 
 **LETTER OF AUTHORIZATION**
 
