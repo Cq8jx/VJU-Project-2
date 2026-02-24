@@ -1747,3 +1747,31 @@
 
 ### Status
 - Pending Claude QA -> fix -> review cycle
+
+## 2026-02-24 1010-TB-DHVN Claude QA / Fix / Review (Batch run 20260224_191016)
+
+### Claude findings (QA)
+- 判定: 修正要（構造/メタデータ）
+- 代替YAMLスキーマ（`id/issuer/category/issue_date/...`）はベースライン不一致と判断され、ベースラインスキーマへの統一指示
+- 3ファイル共通: blockquote DISCLAIMER 欠落、EOF source-note 欠落
+
+### Fixes applied (Codex, per Claude instructions)
+- VI/EN/JA 3ファイルの YAML front matter をベースラインスキーマへ置換
+- `doc_id` を `1010/TB-ĐHVN` に統一（ダイアクリティカル保持）
+- 3ファイルに blockquote DISCLAIMER を追加
+- 3ファイル末尾に source-note div を追加（冒頭 source-note div は維持）
+
+### Claude review after fixes
+- Outcome: `PASS`
+- YAML baseline fields / disclaimer / HEAD+EOF source-note / doc_id 表記の整合を確認
+
+### New QA checks (Claude提案)
+- 代替YAMLスキーマ検出（ベースライン変換フラグ）
+- `doc_id` 形式とダイアクリティカル保持の検証
+- blockquote DISCLAIMER 必須チェック
+- source-note の冒頭+EOF 双方配置チェック
+- `date` / `last_updated` のクォートなし ISO 形式チェック
+
+### Timeout / Auth / Cleanup
+- Claude timeout events: none
+- Claude auth errors: none
