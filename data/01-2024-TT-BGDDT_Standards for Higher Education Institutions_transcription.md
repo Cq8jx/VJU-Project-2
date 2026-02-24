@@ -697,3 +697,5 @@ Ghi chú:
 (4) Số phản hồi tích cực là số chọn hai mức độ đánh giá cao nhất:
   - Đối với câu hỏi 1 và 2: Là số lượt sinh viên đánh giá từ mức 'Hài lòng' trở lên (Hài lòng, Rất hài lòng).
   - Đối với câu hỏi 3: Là số lượt sinh viên tốt nghiệp lựa chọn 'Có việc làm phù hợp với trình độ chuyên môn' hoặc 'Tự tạo việc làm' hoặc 'Đã đi học hoặc chuẩn bị đi học trình độ cao hơn'
+
+> **[SOURCE_NOTE]** Transcription source: `data/01-2024-TT-BGDDT_Standards for Higher Education Institutions_source.pdf` (27 pages)

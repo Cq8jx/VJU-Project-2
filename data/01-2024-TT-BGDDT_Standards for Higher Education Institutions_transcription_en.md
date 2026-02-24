@@ -28,16 +28,16 @@ No. 01/2024/TT-BGDDT | *Hà Nội, 5 February 2024*
 
 <p align="center"><strong>---</strong></p>
 
-<p align="center"><strong>Article 1. Scope of regulation and subjects of application</strong></p>
+## Article 1. Regulated Scope and Governing Subjects
 
 1. This Circular promulgates Standards for Higher Education Institutions, including standards and criteria that set minimum requirements regarding quality assurance conditions and performance indicators of a higher education institution.
 2. This Circular applies to higher education institutions and relevant organizations and individuals.
 
-<p align="center"><strong>Article 2. Purposes of the Standards for Higher Education Institutions</strong></p>
+## Article 2. Standards for Higher Education Institutions
 
 The Standards for Higher Education Institutions serve as a basis for planning and arranging the network of higher education institutions; assessing and monitoring quality assurance conditions; and ensuring that higher education institutions fulfill accountability obligations under the law.
 
-<p align="center"><strong>Article 3. Implementation responsibilities</strong></p>
+## Article 3. Implementation Organization
 
 1. The Ministry of Education and Training shall:
    a) Provide guidance for higher education institutions to supply and update data used to compute indicators and to assess the extent to which the criteria of the Standards for Higher Education Institutions are met in the Higher Education Management Information System (HEMIS);
@@ -47,7 +47,7 @@ The Standards for Higher Education Institutions serve as a basis for planning an
    b) Take necessary measures to regularly monitor and improve the quality and effectiveness of higher education operations so as to satisfy all standards and criteria of the Standards for Higher Education Institutions within the applicable scope from 2025 onward;
    c) Fulfill accountability obligations to learners, competent state management agencies, and relevant stakeholders regarding the quality and effectiveness of higher education operations through the results of implementing the Standards for Higher Education Institutions.
 
-### Article 4. Effectiveness
+## Article 4. Effectiveness
 
 1. This Circular enters into force on 20 March 2024.
 2. Circular No. 24/2015/TT-BGDDT dated 23 September 2015 of the Minister of Education and Training, which stipulates national standards for higher education institutions, is hereby annulled.
@@ -472,3 +472,5 @@ Average number of science and technology publications per full-time lecturer; av
 | 5 | Total expenditure (VND) | | | | |
 | 6 | Operating margin (%) | | | | |
 | 7 | Sustainable growth index (%) | | | | |
+
+> **[SOURCE_NOTE]** Transcription source: `data/01-2024-TT-BGDDT_Standards for Higher Education Institutions_source.pdf` (27 pages)
