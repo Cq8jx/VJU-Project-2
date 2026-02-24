@@ -1775,3 +1775,33 @@
 ### Timeout / Auth / Cleanup
 - Claude timeout events: none
 - Claude auth errors: none
+
+## Batch Execution Summary (auto)
+
+- run_id: `20260224_191016`
+- processed sets: `1010-TB-DHVN`
+- partially processed sets: none
+- skipped sets due to time limit: none
+- estimated remaining sets: `4`
+- major issues:
+  - `qpdf` / `mutool` unavailable (non-blocking)
+  - 代替YAMLスキーマ使用（ベースライン不一致）
+  - disclaimer / EOF source-note 欠落（全3ファイル）
+  - `rm -rf` cleanup command rejected by policy; Python path-scoped cleanup used
+- major fixes:
+  - YAML front matter をベースラインスキーマに統一
+  - `doc_id` を `1010/TB-ĐHVN` に修正
+  - DISCLAIMER と EOF source-note を VI/EN/JA に追加
+- new QA checks discovered:
+  - 代替YAMLスキーマ検出
+  - `doc_id` 形式/ダイアクリティカル保持検証
+  - DISCLAIMER blockquote 必須
+  - source-note 冒頭+EOF 双方配置
+  - YAML日付クォート検証
+- timeout events: none
+- authentication errors: none
+- git push failures: none
+- temp cleanup status: `tmp/run_20260224_191016` removed
+- suggested next targets: `1592-QD-DHVN`, `04-2020-TT-BGDDT`, `01-2024-TT-BGDDT`
+- runtime duration: `~7-8m`
+- stop reason: `completion`
