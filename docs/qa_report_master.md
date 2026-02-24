@@ -1723,3 +1723,27 @@
 - suggested next targets: `1010-TB-DHVN`, `1592-QD-DHVN`, `04-2020-TT-BGDDT`
 - runtime duration: `423s` (~7m03s)
 - stop reason: `completion`
+
+## 2026-02-24 1010-TB-DHVN Script Check (Batch run 20260224_191016)
+
+### Scope
+- `data/1010-TB-DHVN_English Certificate Submission VJU2025_source.pdf`
+- `data/1010-TB-DHVN_English Certificate Submission VJU2025_transcription.md`
+- `data/1010-TB-DHVN_English Certificate Submission VJU2025_transcription_en.md`
+- `data/1010-TB-DHVN_English Certificate Submission VJU2025_transcription_ja.md`
+
+### Page Count / Chunk Plan
+- Page count: `5` (tool: `pdfinfo`)
+- Extraction quality: `reliable` (`pdftotext`: 179 lines / 14233 chars)
+- Chunking: `no chunking` (<=30 pages)
+
+### Script results (Codex-run)
+- All 3 files use alternate YAML schema (`id/issuer/category/issue_date/...`) and are missing baseline fields `doc_id/date/department/type/restricted` under the current check policy
+- All 3 files: disclaimer missing
+- All 3 files: EOF source note missing
+- Pipe-table lines detected: `45` each; ascii separator lines=`7`; escaped-pipe corruption=`0`
+- Heading parity checks not applicable (no chapter/article headings detected)
+- JA wrapper misuse: `0`
+
+### Status
+- Pending Claude QA -> fix -> review cycle
