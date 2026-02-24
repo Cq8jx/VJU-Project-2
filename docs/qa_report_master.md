@@ -1988,3 +1988,28 @@
 ### Timeout / Auth / Cleanup
 - Claude timeout events: none
 - Claude auth errors: none
+
+## Batch Execution Summary (auto)
+
+- run_id: `20260224_192742`
+- processed sets: `04-2020-TT-BGDDT`
+- partially processed sets: none
+- skipped sets due to time limit: none
+- estimated remaining sets: `1`
+- major issues:
+  - `qpdf` / `mutool` unavailable (non-blocking)
+  - PDF extraction unreliable（署名メタデータのみ）
+  - 3言語共通ヘッダーで HTML/Markdown table 記法混在による構文崩れ
+- major fixes:
+  - VI/EN/JA ヘッダー冒頭を `<p align="center">` 形式に統一
+  - `:--- | :---` 行と不正な先頭 `|` を除去
+- new QA checks discovered:
+  - ヘッダー部 `:---` リテラル残存チェック
+  - `<p align="center">` 閉じタグ整合チェック
+- timeout events: none
+- authentication errors: none
+- git push failures: none
+- temp cleanup status: `tmp/run_20260224_192742` removed
+- suggested next targets: `01-2024-TT-BGDDT`
+- runtime duration: `~6m`
+- stop reason: `completion`
