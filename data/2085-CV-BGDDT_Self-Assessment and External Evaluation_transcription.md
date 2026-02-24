@@ -401,6 +401,7 @@ Trong quá trình triển khai thực hiện nếu có những vướng mắc ho
 ### **BỘ GIÁO DỤC VÀ ĐÀO TẠO**
 **CỤC QUẢN LÝ CHẤT LƯỢNG**
 > **[SOURCE_NOTE]** Transcription source: `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_source.pdf` (17 pages)
+> **[SOURCE_NOTE]** Transcription source: `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_source.pdf` (17 pages)
 
 ---
 ## **PHỤ LỤC**
