@@ -525,3 +525,28 @@
 ### Time-limit Handling
 - Batch stopped before fix/review phases for `1592` and `323` due execution time limit policy.
 - No Claude timeout events in this batch.
+
+
+## Batch Execution Summary (auto)
+
+- Batch date: 2026-02-24
+- Processed sets (completed all phases): none
+- Partially processed sets: `1592-QD-DHVN_Budget Estimate Disclosure 2025` (QA only), `323-QD-DHVN_Q1 2025 Budget Execution Disclosure` (QA only)
+- Skipped sets due to time limit: all other candidates not started this batch
+- Estimated remaining sets: `44` (total detected incomplete `44` - completed this batch `0`)
+- Major issues:
+  - `323` missing Section II budget rows `3`-`7.2` in all language files (critical data loss)
+  - `1592` and `323` JA legal-basis year error (`2024` vs source `2017`)
+  - `323` YAML `issue_date: null` and EN source-note wrapper inconsistency
+- Major fixes applied: none (fix/review phases skipped due time limit stop)
+- New QA checks discovered:
+  - Date cross-check across VI/EN/JA legal bases
+  - Source-note HTML parity across languages
+  - Budget table sum verification
+  - Row-count parity vs PDF and standard-form completeness for budget disclosure tables
+  - YAML `issue_date` non-null when body date is clear
+- Timeout events: none
+- Git push failures: none
+- Suggested next targets: `323-QD-DHVN_Q1 2025 Budget Execution Disclosure` (apply Claude fix set first), `1592-QD-DHVN_Budget Estimate Disclosure 2025` (quick fix+review), `840-DT-DHVN_Academic Calendar 2025-2026 Annex 1 VJU2025`
+- Runtime duration: `00:39:27`
+- Stop reason: `Stopped due to time limit`
