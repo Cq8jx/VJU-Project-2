@@ -218,6 +218,26 @@
 - Heading normalization (Chapter/Article levels)
 - Decision-section formatting (legal basis / articles / signature blocks)
 - khoản/điểm indentation normalization across VI/EN/JA
+
+## 2026-02-24 50-2026-KH-DHVN Script Check (Batch run 20260224_162924)
+
+### Scope
+- `data/50-2026-KH-DHVN_VJU Quality Assurance Plan 2026_source.pdf`
+- `data/50-2026-KH-DHVN_VJU Quality Assurance Plan 2026_transcription.md`
+
+### Page Count / Chunk Plan
+- Page count: `12` (tool: `pdfinfo`)
+- Chunking: `no chunking` (<=30 pages)
+
+### Script results (Codex-run)
+- YAML front matter present; required fields present
+- Disclaimer present; source note present
+- Pipe table lines detected: `28` (main activity table present)
+- ASCII separator-like lines detected: `1` (likely markdown table separator; verify in Claude QA)
+- Structural note: no `##` headings (may be acceptable for plan-style document using HTML-centered headings)
+
+### Status
+- Pending Claude QA -> fix -> review cycle
 - PDF->MD layout fidelity (high-level structural checks)
 - Cross-language structural consistency
 - Heading translation pattern consistency
