@@ -1916,3 +1916,29 @@
 ### Timeout / Auth / Cleanup
 - Claude timeout events: none
 - Claude auth errors: none
+
+## Batch Execution Summary (auto)
+
+- run_id: `20260224_191809`
+- processed sets: `1592-QD-DHVN`
+- partially processed sets: none
+- skipped sets due to time limit: none
+- estimated remaining sets: `2`
+- major issues:
+  - `qpdf` / `mutool` unavailable (non-blocking)
+  - PDF extraction unreliable (empty/form-feed)
+  - Public Report系の代替YAMLスキーマ使用
+  - DISCLAIMER blockquote 欠落（source-note div のみ）
+- major fixes:
+  - YAMLをベースラインスキーマへ変換（`doc_id/date:null/department/type/restricted/last_updated`）
+  - 冒頭 source-note div を DISCLAIMER + 表認識注意書き blockquote に置換
+- new QA checks discovered:
+  - Public Report系 `date: null` ポリシー整合確認
+  - `index.html` / search index の `date: null` 表示・ソート確認
+- timeout events: none
+- authentication errors: none
+- git push failures: none
+- temp cleanup status: `tmp/run_20260224_191809` removed
+- suggested next targets: `04-2020-TT-BGDDT`, `01-2024-TT-BGDDT`
+- runtime duration: `~6m`
+- stop reason: `completion`
