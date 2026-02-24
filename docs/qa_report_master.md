@@ -1805,3 +1805,24 @@
 - suggested next targets: `1592-QD-DHVN`, `04-2020-TT-BGDDT`, `01-2024-TT-BGDDT`
 - runtime duration: `~7-8m`
 - stop reason: `completion`
+
+## 2026-02-24 2459-QD-DHQGHN Script Check (Batch run 20260224_191534)
+
+### Scope
+- `data/2459-QD-DHQGHN_Amendment to Masters Training Regulation_source.pdf`
+- `data/2459-QD-DHQGHN_Amendment to Masters Training Regulation_transcription.md`
+- `data/2459-QD-DHQGHN_Amendment to Masters Training Regulation_transcription_en.md`
+- `data/2459-QD-DHQGHN_Amendment to Masters Training Regulation_transcription_ja.md`
+
+### Page Count / Chunk Plan
+- Page count: `3` (tool: `pdfinfo`)
+- Extraction quality: `unreliable` (`pdftotext` metadata-only; 3 lines / 87 chars)
+- Chunking: `no chunking` (<=30 pages)
+
+### Script results (Codex-run)
+- VI/EN/JA all: YAML baseline fields OK; disclaimer present; EOF source note missing
+- Heading parity checks not applicable for this short decision layout
+- PDF body fidelity cannot be checked from extraction output
+
+### Status
+- Pending Claude QA -> fix -> review cycle
