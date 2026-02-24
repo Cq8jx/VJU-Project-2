@@ -2166,3 +2166,85 @@ QA workflow requires existing Markdown transcription files (`*_transcription.md`
 
 - runtime duration: `~1m`
 - stop reason: `BLOCKING ERROR — 0 PDF→Markdown sets in Confidential/`
+
+## 2026-02-24 Confidential Run (run_id: 20260224_210019)
+
+### Run Config
+- TARGET_ROOT: `Confidential`
+- MODE: `confidential` (Firebase, no git push)
+- ALLOW_GENERATION_IF_MISSING: `true`
+- ALLOW_FILENAME_NORMALIZATION_PLAN: `true`
+
+### Inventory (12 PDFs, 0 existing transcriptions)
+
+| Set ID | Description | Files | Pages | Extraction | Priority |
+|---|---|---|---|---|---|
+| CONF-01 | Planning and Finance Office | 1 PDF | 31 | reliable | 1 |
+| CONF-02 | VJU Payment Process | 1 PDF | 32 | reliable | 2 |
+| CONF-07 | VJU Procurement Process 2025 | 1 PDF | 53 | reliable | 3 |
+| CONF-05 | VJU Campus Plan 2025 | 1 PDF | 31 | reliable (maps) | 5 |
+| CONF-03 | Internal Cost Norms (2024+2025) | 2 PDFs | 123 | unreliable | 7 |
+| 1246-CONF | TC Facility Management Guideline (EN+VI) | 2 PDFs | 13 | unreliable | 8 |
+| 1401-CONF | Public Asset Management Regulation | 1 PDF | 10 | unreliable | 9 |
+| 158-CONF | Laboratory Management | 1 PDF | 16 | unreliable | 10 |
+| 268-CONF | Facility Management Guideline | 1 PDF | 46 | unreliable | 11 |
+| 1389-QD-CONF | Equipment Standards and Norms | 1 PDF | 21 | unreliable | 12 |
+
+### Naming Anomalies
+- Trailing double-dot: `3. Internal Cost norm 2024 full ver..pdf`
+- Numbered prefix scheme (1.-7.) is topic grouping, not doc IDs
+- Typo `Guildeline` in 1246 EN filename
+- Comma and abbreviation `sd` in 1401 filename
+- CONF-05 is campus plan/maps, not regulatory text
+
+### Processing Plan
+- Batch 1: CONF-01, CONF-02, CONF-07 (reliable extraction, generate VI→EN→JA)
+- Batch 2-5: remaining sets (unreliable = placeholder + fidelity risk flag)
+
+## 2026-02-24 5292-QD-DHQGHN Recovery / OCR-Fallback / Translation Progress (No-Claude future policy)
+
+### Scope
+- Target: `data/5292-QD-DHQGHN_Regulations on International Student Management_*`
+- Mode: `public` (`data` prioritized)
+- Processing note: user-provided OCR/bundle transcription was used as recovery source for VI content.
+
+### Source / File Actions
+- Replaced `data/5292-QD-DHQGHN_Regulations on International Student Management_source.pdf` with user-provided `Signed.5292.pdf` content (same file retained under canonical `_source.pdf` name).
+- Confirmed duplicate PDF (`Signed.5292.pdf`) was byte-identical to canonical `_source.pdf` and removed duplicate file.
+- Removed temporary bundle folder after VI merge:
+  - `data/5292-QD-DHQGHN_Decision On Issuing The Regulations On Management And Attraction Of Foreigners Studying At Vietnam National University Hanoi_Q1-40_transcription_bundle/`
+
+### VI Recovery and Fixes
+- Rebuilt `data/5292-QD-DHQGHN_Regulations on International Student Management_transcription.md` from the user-provided bundle transcription.
+- Normalized to project format:
+  - YAML front matter (project schema)
+  - Vietnamese DISCLAIMER
+  - `SOURCE_NOTE` at EOF
+- Corrected known OCR/transcription doc-code typo(s): `5282/QĐ-DHQGHN` -> `5292/QĐ-DHQGHN` (VI and JA outputs)
+
+### PDF Consistency Check (spot OCR verification)
+- `pdftotext` remained unreliable for this PDF (scan-like content / no usable text layer for QA extraction).
+- Performed spot OCR verification (`pdftoppm` + `tesseract`) against canonical source PDF on pages 1, 20, and 40.
+- Verified alignment of key markers/content:
+  - Page 1: document number `5292/QĐ-DHQGHN`, signing info, decision preamble references
+  - Mid-document (around Arts. 18-19): chapter/article continuity and content themes
+  - Final page: `Điều 37`, references `4848/QĐ-DHQGHN` and `3763/QĐ-DHQGHN`
+- Result: sufficient spot consistency for continued translation workflow, while full OCR parity remains pending.
+
+### EN/JA Outputs (generated before API limit)
+- Generated:
+  - `data/5292-QD-DHQGHN_Regulations on International Student Management_transcription_en.md`
+  - `data/5292-QD-DHQGHN_Regulations on International Student Management_transcription_ja.md`
+- EN created via chunked translation assembly due long-document timeout risk.
+- JA created via chunked translation assembly and post-processing (heading normalization / fence cleanup).
+- JA still requires final structural QA normalization to align heading hierarchy exactly with VI/EN (some headings translated with inconsistent levels/styles).
+
+### Operational Policy Update (runtime constraint)
+- Claude API/rate limit was encountered during this workstream.
+- User instruction received: do not use `claude` going forward.
+- Follow-up QA/fixes/translations must proceed using local/non-Claude methods only.
+
+### Next Steps (pending)
+- Run non-Claude structural QA on `5292` EN/JA outputs (heading parity, article numbering, SOURCE_NOTE formatting)
+- Normalize JA heading hierarchy to match VI/EN exactly
+- Add final 5292 batch summary entry once non-Claude QA pass is completed
