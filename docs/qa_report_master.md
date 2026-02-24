@@ -613,3 +613,40 @@
 - `259-HD-DHVN_Annex 1 Certificate Equivalency Table_transcription.md`: YAML keys detected (doc_id, title, date, department, type, restricted, last_updated); disclaimer/source-note detected; pipe-table lines ~10; ASCII-table separator not detected
 - `259-HD-DHVN_Annex 1 Certificate Equivalency Table_transcription_en.md`: YAML keys detected (doc_id, title, date, department, type, restricted, last_updated); disclaimer/source-note detected; pipe-table lines ~10; ASCII-table separator not detected
 - `259-HD-DHVN_Annex 1 Certificate Equivalency Table_transcription_ja.md`: YAML keys detected (doc_id, title, date, department, type, restricted, last_updated); disclaimer/source-note detected; pipe-table lines ~10; ASCII-table separator not detected
+
+
+## 2026-02-24 Batch 4 Claude QA -> Fix -> Review Cycle (1592 / 323 / 259 Annex 1)
+
+### 1592-QD-DHVN_Budget Estimate Disclosure 2025
+- Files processed: VI/EN/JA + source PDF
+- Page count + tool: `2` (tool: `pdfinfo`)
+- Chunk ranges used: `no chunking`
+- Claude QA summary: ## QA_RESULT: **Document:** 1592/QĐ-ĐHVN — Budget Estimate Disclosure 2025 **Files reviewed:** VI, EN, JA transcriptions vs source PDF (2 pages)
+- Claude findings (key): JA legal-basis year `2024->2017` (critical), EN source-note HTML wrapper missing, JA terminal marker `。/.` incomplete, extra JA source-note paragraph.
+- Claude fixes applied (Codex): JA legal-basis year corrected to `2017`; JA terminal marker corrected to `。/.`; JA extra source-note paragraph removed; EN source-note wrapped in `<div class="source-note">`.
+- Claude review outcome: `PASS`
+- New QA checks (Claude): source-note structural parity, legal-basis year cross-check, terminal marker `./.` preservation, source-PDF identity/hash validation for annexes, duplicate-source detection.
+- Timeout events: none
+
+### 323-QD-DHVN_Q1 2025 Budget Execution Disclosure
+- Files processed: VI/EN/JA + source PDF
+- Page count + tool: `3` (tool: `pdfinfo`)
+- Chunk ranges used: `no chunking`
+- Source text extraction note: `pdftotext` produced empty text; Claude review relied on cross-version consistency/file review (elevated source-verification risk).
+- Claude QA summary: ## QA_RESULT: **Document**: 323/QĐ-ĐHVN — Q1 2025 Budget Execution Disclosure **Files reviewed**: VI, EN, JA transcriptions vs. each other (source.txt is empty)
+- Claude findings (key): JA legal-basis year `2024->2017`, JA terminal marker `。/.` incomplete, EN source-note HTML wrapper missing, JA mixed-width parenthesis.
+- Claude fixes applied (Codex): JA legal-basis year corrected to `2017`; JA terminal marker corrected to `。/.`; JA bracket pair normalized `（...）`; EN source-note wrapped in `<div class="source-note">`.
+- Claude review outcome: `PASS`
+- New QA checks (Claude): source-note structural parity, legal-basis year cross-check, terminal marker `./.` preservation, source-PDF identity/hash validation for annexes, duplicate-source detection.
+- Timeout events: none
+
+### 259-HD-DHVN_Annex 1 Certificate Equivalency Table
+- Files processed: VI/EN/JA + source PDF
+- Page count + tool: `2` (tool: `pdfinfo`)
+- Chunk ranges used: `no chunking`
+- Claude QA summary: Recorded in Claude artifact
+- Claude findings (key): source PDF mismatch (`Annex 1` file contains `Phụ lục 2`), duplicate Annex1/Annex2 source PDFs (hash match), VI empty-cell notation inconsistency remains source-blocked.
+- Claude fixes applied (Codex): none (manual source-PDF replacement required before transcription fixes)
+- Claude review outcome: `CONDITIONAL PASS`
+- New QA checks (Claude): source-note structural parity, legal-basis year cross-check, terminal marker `./.` preservation, source-PDF identity/hash validation for annexes, duplicate-source detection.
+- Timeout events: none
