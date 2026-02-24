@@ -1963,3 +1963,28 @@
 
 ### Status
 - Pending Claude QA -> fix -> review cycle (PDF extraction unreliable)
+
+## 2026-02-24 04-2020-TT-BGDDT Claude QA / Fix / Review (Batch run 20260224_192742)
+
+### Claude findings (QA)
+- 判定: 修正要（ヘッダー冒頭の構文崩れ）
+- 3ファイル共通でヘッダー部が HTML `<p>` と Markdownテーブル記法（`:--- | :---` / 先頭 `|`）の混在により崩れていると判定
+- YAML / DISCLAIMER / EOF `SOURCE_NOTE` は既に正常
+
+### Fixes applied (Codex, per Claude instructions)
+- VI/EN/JA のヘッダー冒頭4行を `<p align="center">` ベースに統一
+- `:--- | :---` 行を除去
+- モットー行の不正な先頭 `|` を除去
+- 番号・日付行を `<strong>番号/No./番号...</strong> | <em>日付</em>` に正規化
+
+### Claude review after fixes
+- Outcome: `PASS`
+- ヘッダー正規化の適用、DISCLAIMER/SOURCE_NOTE の退行なしを確認
+
+### New QA checks (Claude提案)
+- ヘッダー部の `:---` リテラル残存チェック
+- `<p align="center">` 閉じタグ整合チェック
+
+### Timeout / Auth / Cleanup
+- Claude timeout events: none
+- Claude auth errors: none
