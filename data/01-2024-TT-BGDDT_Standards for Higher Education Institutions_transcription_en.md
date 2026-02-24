@@ -345,6 +345,8 @@ Average number of science and technology publications per full-time lecturer; av
 | 6 | Health sciences | 1.6 |
 | 7 | Arts and sports | 1.0 |
 
+---
+
 ### V. DATA FORMS USED IN THE HEMIS SYSTEM
 
 **Form 1. General information**

@@ -66,10 +66,10 @@ Chuẩn cơ sở giáo dục đại học là cơ sở để thực hiện quy h
 :--- | :---
 | **Độc lập - Tự do - Hạnh phúc**
 
-## **CHUẨN CƠ SỞ GIÁO DỤC ĐẠI HỌC**
+## CHUẨN CƠ SỞ GIÁO DỤC ĐẠI HỌC
 *(Kèm theo Thông tư số 01 /2024/TT-BGDĐT ngày 05 tháng 02 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo)*
 
-### **I. GIẢI THÍCH TỪ NGỮ**
+### I. GIẢI THÍCH TỪ NGỮ
 
 1.  **Người học** là người đang học tập và nghiên cứu khoa học tại cơ sở giáo dục đại học, gồm sinh viên của chương trình đào tạo đại học, chương trình đào tạo ngành chuyên sâu đặc thù cấp văn bằng trình độ bậc 6 hoặc bậc 7 theo Khung trình độ quốc gia Việt Nam (sau đây gọi chung là sinh viên đại học); học viên của chương trình đào tạo thạc sĩ hoặc chương trình đào tạo cấp văn bằng trình độ tương đương thạc sĩ (sau đây gọi chung là học viên cao học); nghiên cứu sinh của chương trình đào tạo tiến sĩ hoặc chương trình đào tạo cấp văn bằng trình độ tương đương tiến sĩ. **Người học chính quy** là những người học theo hình thức chính quy tại cơ sở giáo dục đại học.
 2.  **Số người học quy đổi** là số người học được quy đổi bằng cách nhân với một hệ số quy định theo trình độ, lĩnh vực và hình thức đào tạo. **Số người học chính quy quy đổi** là số người học chính quy được quy đổi bằng cách nhân với một hệ số quy định theo trình độ và lĩnh vực đào tạo.
@@ -83,7 +83,7 @@ Chuẩn cơ sở giáo dục đại học là cơ sở để thực hiện quy h
 8.  **Trường đào tạo ngành đặc thù** là trường đại học, học viện đào tạo các ngành thuộc lĩnh vực nghệ thuật, nhóm ngành ngôn ngữ, văn học và văn hóa nước ngoài, nhóm ngành thể dục, thể thao với quy mô đào tạo các ngành này chiếm ít nhất 70% tổng quy mô đào tạo toàn trường.
 9.  **HEMIS (Higher Education Management Information System)** là hệ thống cơ sở dữ liệu về giáo dục đại học do Bộ Giáo dục và Đào tạo xây dựng và quản lý thống nhất.
 
-### **II. NỘI DUNG CHUẨN CƠ SỞ GIÁO DỤC ĐẠI HỌC**
+### II. NỘI DUNG CHUẨN CƠ SỞ GIÁO DỤC ĐẠI HỌC
 
 Chuẩn cơ sở giáo dục đại học bao gồm 6 tiêu chuẩn với 20 tiêu chí. Các tiêu chí được đánh giá qua các chỉ số theo hướng dẫn tại phần IV, với các số liệu được chốt tại thời điểm ngày 31 tháng 12 của năm báo cáo và hoàn thiện chậm nhất vào ngày 31 tháng 3 của năm sau liền kề năm báo cáo.
 
@@ -135,7 +135,7 @@ Cơ sở giáo dục đại học có năng lực nghiên cứu và đổi mới
 *   **Tiêu chí 6.1.** Tỉ trọng thu từ các hoạt động khoa học và công nghệ trên tổng thu của cơ sở giáo dục đại học có đào tạo tiến sĩ (có tính trọng số theo lĩnh vực), tính trung bình trong 3 năm gần nhất không thấp hơn 5%.
 *   **Tiêu chí 6.2.** Số lượng công bố khoa học và công nghệ tính bình quân trên một giảng viên toàn thời gian không thấp hơn 0,3 bài/năm; riêng đối với cơ sở giáo dục đại học có đào tạo tiến sĩ không phải trường đào tạo ngành đặc thù không thấp hơn 0,6 bài/năm trong đó số bài có trong danh mục Web of Science hoặc Scopus (có tính trọng số theo lĩnh vực) không thấp hơn 0,3 bài/năm.
 
-### **III. ÁP DỤNG CHUẨN CƠ SỞ GIÁO DỤC ĐẠI HỌC**
+### III. ÁP DỤNG CHUẨN CƠ SỞ GIÁO DỤC ĐẠI HỌC
 
 1.  Các tiêu chuẩn, tiêu chí được áp dụng đầy đủ cho các cơ sở giáo dục đại học, trừ các trường hợp sau được áp dụng một phần:
     a) Đối với các cơ sở giáo dục đại học mới thành lập, chưa thực hiện tuyển sinh: Chỉ áp dụng các tiêu chuẩn 1, 2 và 3, trừ các tiêu chí 1.4 và 3.4, trong đó số liệu về quy mô tuyển sinh và đào tạo là dự kiến.
@@ -147,7 +147,7 @@ Cơ sở giáo dục đại học có năng lực nghiên cứu và đổi mới
 
 3.  Đối với các đại học có trường đại học thành viên: Áp dụng tất cả tiêu chuẩn, tiêu chí cho cả đại học và từng trường đại học thành viên, trong đó các số liệu của các nguồn lực dùng chung (đội ngũ giảng viên, cơ sở vật chất) được xác định theo hệ số sử dụng của từng trường đại học thành viên.
 
-### **IV. HƯỚNG DẪN XÁC ĐỊNH CÁC CHỈ SỐ ĐÁNH GIÁ**
+### IV. HƯỚNG DẪN XÁC ĐỊNH CÁC CHỈ SỐ ĐÁNH GIÁ
 
 **1. Các từ viết tắt**
 
@@ -473,9 +473,9 @@ Tổng số công bố khoa học của cơ sở GDĐH trong năm thuộc danh m
 
 ---
 
-### **V. CÁC BIỂU MẪU SỐ LIỆU**
+### V. CÁC BIỂU MẪU SỐ LIỆU
 
-#### **TIÊU CHUẨN 1: TỔ CHỨC VÀ QUẢN TRỊ**
+#### TIÊU CHUẨN 1: TỔ CHỨC VÀ QUẢN TRỊ
 
 | | CHỈ SỐ ĐÁNH GIÁ | NGƯỠNG | THỰC TẾ | KẾT QUẢ | GIẢI TRÌNH |
 | :-- | :--- | :--- | :--- | :--- | :--- |
