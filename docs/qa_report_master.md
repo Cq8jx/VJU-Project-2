@@ -550,3 +550,66 @@
 - Suggested next targets: `323-QD-DHVN_Q1 2025 Budget Execution Disclosure` (apply Claude fix set first), `1592-QD-DHVN_Budget Estimate Disclosure 2025` (quick fix+review), `840-DT-DHVN_Academic Calendar 2025-2026 Annex 1 VJU2025`
 - Runtime duration: `00:39:27`
 - Stop reason: `Stopped due to time limit`
+
+
+## 2026-02-24 Batch 4 Script Checks (1592 / 323 / 259 Annex 1)
+
+### Scope
+- Batch start timestamp: 2026-02-24 11:33:48 (local)
+- Run ID: `20260224_113348`
+- Total detected QA-incomplete sets: `44`
+- Selected targets (max 3): `1592`, `323`, `259 Annex 1`
+
+
+## 2026-02-24 1592-QD-DHVN Script Check Pass (Pre-QA)
+
+### Scope
+- `data/1592-QD-DHVN_Budget Estimate Disclosure 2025_source.pdf`
+- `data/1592-QD-DHVN_Budget Estimate Disclosure 2025_transcription.md`
+- `data/1592-QD-DHVN_Budget Estimate Disclosure 2025_transcription_en.md`
+- `data/1592-QD-DHVN_Budget Estimate Disclosure 2025_transcription_ja.md`
+
+### Page Count + Chunk Plan
+- Page count: `2` (tool: `pdfinfo`)
+- Chunk ranges used: `no chunking` (<=30 pages)
+
+### Script results (Codex-run)
+- `1592-QD-DHVN_Budget Estimate Disclosure 2025_transcription.md`: YAML keys detected (id, title, issuer, category, issue_date, status, replaces, replaced_by); disclaimer/source-note detected; pipe-table lines ~28; ASCII-table separator not detected
+- `1592-QD-DHVN_Budget Estimate Disclosure 2025_transcription_en.md`: YAML keys detected (id, title, issuer, category, issue_date, status, replaces, replaced_by); disclaimer/source-note not detected; pipe-table lines ~28; ASCII-table separator not detected
+- `1592-QD-DHVN_Budget Estimate Disclosure 2025_transcription_ja.md`: YAML keys detected (id, title, issuer, category, issue_date, status, replaces, replaced_by); disclaimer/source-note detected; pipe-table lines ~28; ASCII-table separator not detected
+
+
+## 2026-02-24 323-QD-DHVN Script Check Pass (Pre-QA)
+
+### Scope
+- `data/323-QD-DHVN_Q1 2025 Budget Execution Disclosure_source.pdf`
+- `data/323-QD-DHVN_Q1 2025 Budget Execution Disclosure_transcription.md`
+- `data/323-QD-DHVN_Q1 2025 Budget Execution Disclosure_transcription_en.md`
+- `data/323-QD-DHVN_Q1 2025 Budget Execution Disclosure_transcription_ja.md`
+
+### Page Count + Chunk Plan
+- Page count: `3` (tool: `pdfinfo`)
+- Chunk ranges used: `no chunking` (<=30 pages)
+
+### Script results (Codex-run)
+- `323-QD-DHVN_Q1 2025 Budget Execution Disclosure_transcription.md`: YAML keys detected (id, title, issuer, category, issue_date, status, replaces, replaced_by); disclaimer/source-note detected; pipe-table lines ~40; ASCII-table separator not detected
+- `323-QD-DHVN_Q1 2025 Budget Execution Disclosure_transcription_en.md`: YAML keys detected (id, title, issuer, category, issue_date, status, replaces, replaced_by); disclaimer/source-note not detected; pipe-table lines ~40; ASCII-table separator not detected
+- `323-QD-DHVN_Q1 2025 Budget Execution Disclosure_transcription_ja.md`: YAML keys detected (id, title, issuer, category, issue_date, status, replaces, replaced_by); disclaimer/source-note detected; pipe-table lines ~40; ASCII-table separator not detected
+
+
+## 2026-02-24 259-HD-DHVN Script Check Pass (Pre-QA)
+
+### Scope
+- `data/259-HD-DHVN_Annex 1 Certificate Equivalency Table_source.pdf`
+- `data/259-HD-DHVN_Annex 1 Certificate Equivalency Table_transcription.md`
+- `data/259-HD-DHVN_Annex 1 Certificate Equivalency Table_transcription_en.md`
+- `data/259-HD-DHVN_Annex 1 Certificate Equivalency Table_transcription_ja.md`
+
+### Page Count + Chunk Plan
+- Page count: `2` (tool: `pdfinfo`)
+- Chunk ranges used: `no chunking` (<=30 pages)
+
+### Script results (Codex-run)
+- `259-HD-DHVN_Annex 1 Certificate Equivalency Table_transcription.md`: YAML keys detected (doc_id, title, date, department, type, restricted, last_updated); disclaimer/source-note detected; pipe-table lines ~10; ASCII-table separator not detected
+- `259-HD-DHVN_Annex 1 Certificate Equivalency Table_transcription_en.md`: YAML keys detected (doc_id, title, date, department, type, restricted, last_updated); disclaimer/source-note detected; pipe-table lines ~10; ASCII-table separator not detected
+- `259-HD-DHVN_Annex 1 Certificate Equivalency Table_transcription_ja.md`: YAML keys detected (doc_id, title, date, department, type, restricted, last_updated); disclaimer/source-note detected; pipe-table lines ~10; ASCII-table separator not detected
