@@ -461,3 +461,21 @@
 - VI/EN/JA: YAML fields (`id`, `title`, `issue_date`) present; `lang` field present
 - Tables detected in all variants (`pipe` lines ~28); no ASCII-table separator warning
 - Source/disclaimer note detected in VI and JA; EN source/disclaimer note not detected by script pattern (needs Claude confirmation)
+
+
+## 2026-02-24 323-QD-DHVN Script Check Pass (Pre-QA)
+
+### Scope
+- `data/323-QD-DHVN_Q1 2025 Budget Execution Disclosure_source.pdf`
+- `data/323-QD-DHVN_Q1 2025 Budget Execution Disclosure_transcription.md`
+- `data/323-QD-DHVN_Q1 2025 Budget Execution Disclosure_transcription_en.md`
+- `data/323-QD-DHVN_Q1 2025 Budget Execution Disclosure_transcription_ja.md`
+
+### Page Count + Chunk Plan
+- Page count: `3` (tool: `pdfinfo`)
+- Chunk ranges used: `no chunking` (<=30 pages)
+
+### Script results (Codex-run)
+- VI/EN/JA: YAML fields (`id`, `title`, `issue_date`) present; `lang` field present
+- Tables detected in all variants (`pipe` lines ~40); no ASCII-table separator warning
+- Source/disclaimer note detected in VI and JA; EN source/disclaimer note not detected by script pattern (needs Claude confirmation)
