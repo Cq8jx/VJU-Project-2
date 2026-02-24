@@ -13,18 +13,18 @@ last_updated: 2026-02-23
 <p align="center"><strong>教育訓練省 | ベトナム社会主義共和国</strong></p>
 <p align="center"><strong>:--- | :---</strong></p>
 <p align="center"><strong>| 独立・自由・幸福</strong></p>
-<p align="center"><strong>番号：01/2024/TT-BGDĐT | *ハノイ、2024年2月5日*</strong></p>
+番号：01/2024/TT-BGDĐT | *ハノイ、2024年2月5日*
 
 <p align="center"><strong>通達</strong></p>
 <p align="center"><strong>高等教育機関基準の制定について</strong></p>
 
-<p align="center"><strong>*2012年6月18日付高等教育法および2018年11月19日付高等教育法一部改正・補足法を根拠として；*</strong></p>
+*2012年6月18日付高等教育法および2018年11月19日付高等教育法一部改正・補足法を根拠として；*
 
-<p align="center"><strong>*2022年10月24日付政令第86/2022/ND-CP号（教育訓練省の機能、任務、権限および組織構成を規定）を根拠として；*</strong></p>
+*2022年10月24日付政令第86/2022/ND-CP号（教育訓練省の機能、任務、権限および組織構成を規定）を根拠として；*
 
-<p align="center"><strong>*高等教育局局長の提案に基づき；*</strong></p>
+*高等教育局局長の提案に基づき；*
 
-<p align="center"><strong>*教育訓練大臣は高等教育機関基準の制定に関する本通達を公布する。*</strong></p>
+*教育訓練大臣は高等教育機関基準の制定に関する本通達を公布する。*
 
 <p align="center"><strong>---</strong></p>
 
