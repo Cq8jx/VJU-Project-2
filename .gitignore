@@ -22,3 +22,7 @@ node_modules/
 docs/project/
 docs/src/
 docs/stitch/
+
+# Confidential local documents (must never be committed)
+confidential/
+data/confidential/
