@@ -1664,3 +1664,34 @@
 
 ### Status
 - Pending Claude QA -> fix -> review cycle (PDF extraction unreliable)
+
+## 2026-02-24 2085-CV-BGDDT Claude QA / Fix / Review (Batch run 20260224_183937)
+
+### Claude findings (QA)
+- 判定: 構造は概ね良好、修正対象あり（PDF本文忠実性は抽出不良のため判定対象外）
+- 修正指示（Claude）:
+  - VI/EN/JA 全3ファイルの EOF に `SOURCE_NOTE` 追加
+  - EN の `### Article` 4箇所を `## Article` に修正
+  - JA の `### **第 4 条. 評価尺度**` を H2 に正規化
+- リスク受容（Claude判断）:
+  - JA の centered `<p align="center"><strong>` 多数は正当な見出し/体裁（誤検知）
+  - VI 脚注はインライン脚注として維持（PDF検証不可のため現状維持）
+
+### Fixes applied (Codex, per Claude instructions)
+- `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_transcription.md`: EOF に `SOURCE_NOTE` 追加
+- `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_transcription_en.md`: EOF に `SOURCE_NOTE` 追加、`### Article` → `## Article` を4箇所修正
+- `data/2085-CV-BGDDT_Self-Assessment and External Evaluation_transcription_ja.md`: EOF に `SOURCE_NOTE` 追加、`### **第 4 条. 評価尺度**` → `## 第 4 条. 評価尺度`
+
+### Claude review after fixes
+- 1回目レビュー: `FAIL`（VI版 `SOURCE_NOTE` 追加漏れを検出）
+- 追加修正: VI版 EOF `SOURCE_NOTE` 追加
+- 再レビュー: `PASS`
+
+### New QA checks (Claude提案)
+- JA 第1-3条（テンプレート例文内）の太字のみ表記 vs heading markup を横断確認
+- VI 脚注内容の完全性を PDF 再抽出可能時に確認
+
+### Timeout / Auth / Cleanup
+- Claude timeout events: none
+- Claude auth errors: none
+- Note: 1件、再レビュー用のClaude呼び出しで入力生成コマンドの引用ミスあり（別ジョブで再実行して完了）
