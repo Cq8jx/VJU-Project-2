@@ -1695,3 +1695,31 @@
 - Claude timeout events: none
 - Claude auth errors: none
 - Note: 1件、再レビュー用のClaude呼び出しで入力生成コマンドの引用ミスあり（別ジョブで再実行して完了）
+
+## Batch Execution Summary (auto)
+
+- run_id: `20260224_183937`
+- processed sets: `2085-CV-BGDDT`
+- partially processed sets: none
+- skipped sets due to time limit: none
+- estimated remaining sets: `5`
+- major issues:
+  - `qpdf` / `mutool` unavailable (non-blocking)
+  - `2085-CV-BGDDT` PDF text extraction unreliable (`pdftotext` empty / form-feed only)
+  - 1件、Claude再レビュー呼び出しで入力生成コマンドの引用ミス（別ジョブで再実行）
+  - 1件、上記誤実行Claudeジョブが無出力継続のためタイムアウト扱いで記録
+- major fixes:
+  - VI/EN/JA EOF に `SOURCE_NOTE` 追加
+  - EN `### Article` 4箇所を `## Article` に修正
+  - JA `### **第 4 条. 評価尺度**` を `## 第 4 条. 評価尺度` に修正
+- new QA checks discovered:
+  - JA 第1-3条（テンプレート例文内）の表記方針を横断確認
+  - VI 脚注内容の完全性を PDF 再抽出可能時に確認
+- timeout events:
+  - malformed Claude review call (no-output timeout handling; superseded by successful re-review job)
+- authentication errors: none
+- git push failures: none
+- temp cleanup status: `tmp/run_20260224_183937` removed
+- suggested next targets: `1010-TB-DHVN`, `1592-QD-DHVN`, `04-2020-TT-BGDDT`
+- runtime duration: `423s` (~7m03s)
+- stop reason: `completion`
