@@ -1846,3 +1846,25 @@
 ### Timeout / Auth / Cleanup
 - Claude timeout events: none
 - Claude auth errors: none
+
+## Batch Execution Summary (auto)
+
+- run_id: `20260224_191534`
+- processed sets: `2459-QD-DHQGHN`
+- partially processed sets: none
+- skipped sets due to time limit: none
+- estimated remaining sets: `3`
+- major issues:
+  - `qpdf` / `mutool` unavailable (non-blocking)
+  - PDF extraction unreliable (metadata-only)
+  - EOF `SOURCE_NOTE` missing in VI/EN/JA
+- major fixes:
+  - VI/EN/JA 全3版に EOF `SOURCE_NOTE` 追加
+- new QA checks discovered: none
+- timeout events: none
+- authentication errors: none
+- git push failures: none
+- temp cleanup status: `tmp/run_20260224_191534` removed
+- suggested next targets: `1592-QD-DHVN`, `04-2020-TT-BGDDT`, `01-2024-TT-BGDDT`
+- runtime duration: `~4m`
+- stop reason: `completion`
