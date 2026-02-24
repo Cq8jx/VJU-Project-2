@@ -1197,3 +1197,23 @@
 - suggested next targets: `50-2026-KH-DHVN_VJU Quality Assurance Plan 2026` (restore omitted rows/sections), `1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026` (apply merged fix plan + review), `1274` post-fix chunked/full review
 - runtime duration: `727s` (~12m07s)
 - stop reason: `time limit` (controlled stop with partial results recorded)
+
+## 2026-02-24 04-2016-TT-BGDDT Script Check (Batch run 20260224_163537)
+
+### Scope
+- `data/04-2016-TT-BGDDT_Quality Standards for HE Programs_source.pdf`
+- `data/04-2016-TT-BGDDT_Quality Standards for HE Programs_transcription.md`
+- `data/04-2016-TT-BGDDT_Quality Standards for HE Programs_transcription_en.md`
+- `data/04-2016-TT-BGDDT_Quality Standards for HE Programs_transcription_ja.md`
+
+### Page Count / Chunk Plan
+- Page count: `9` (tool: `pdfinfo`)
+- Chunking: `no chunking`
+
+### Script results (Codex-run)
+- `data/04-2016-TT-BGDDT_Quality Standards for HE Programs_transcription.md`: disclaimer present; source note missing; pipe_table_lines=6
+- `data/04-2016-TT-BGDDT_Quality Standards for HE Programs_transcription_en.md`: disclaimer present; source note missing; pipe_table_lines=8
+- `data/04-2016-TT-BGDDT_Quality Standards for HE Programs_transcription_ja.md`: disclaimer present; source note missing; pipe_table_lines=7
+
+### Status
+- Pending Claude QA -> fix -> review cycle
