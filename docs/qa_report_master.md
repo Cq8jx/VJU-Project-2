@@ -2069,3 +2069,31 @@
 ### Timeout / Auth / Cleanup
 - Claude timeout events: none
 - Claude auth errors: none
+
+## Batch Execution Summary (auto)
+
+- run_id: `20260224_193131`
+- processed sets: `01-2024-TT-BGDDT`
+- partially processed sets: none
+- skipped sets due to time limit: none
+- estimated remaining sets: `0`
+- major issues:
+  - `qpdf` / `mutool` unavailable (non-blocking)
+  - PDF extraction unreliable（署名メタデータのみ）
+  - ヘッダー部のテーブル記法残骸（`:--- | :---`, 先頭 `|`）
+  - VI 見出し内インライン太字と EN/JA との差異、EN/JA Part V 前 HR 欠落
+- major fixes:
+  - VI/EN/JA ヘッダー冒頭を正規化、`<hr>` 置換、番号行整形
+  - VI 見出し内太字 7箇所を除去
+  - EN/JA の Part V 直前に `---` 挿入
+- new QA checks discovered:
+  - Part IV 計算式/変数定義（Trong đó）翻訳照合
+  - Part V テーブル列数・行数の3言語一致確認
+  - 数式記号保持確認（∑, ≤, ≥ 等）
+- timeout events: none
+- authentication errors: none
+- git push failures: none
+- temp cleanup status: `tmp/run_20260224_193131` removed
+- suggested next targets: none (pending marker base exhausted)
+- runtime duration: `~14m`
+- stop reason: `completion`
