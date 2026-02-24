@@ -1080,3 +1080,20 @@
 
 ### Timeout events
 - None
+
+## Batch Execution Summary (auto)
+
+- run_id: `20260224_130029`
+- processed sets: `840-DT-DHVN_Academic Calendar 2025-2026 Annex 4 Masters-PhD` (QA -> fix -> review completed)
+- partially processed sets: `1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026` (chunked QA + merge only), `50-2026-KH-DHVN_VJU Quality Assurance Plan 2026` (QA only; large repair deferred)
+- skipped sets due to time limit: all other QA-incomplete sets in inventory (not started this batch)
+- estimated remaining sets: `42` (total detected incomplete `43` - completed `1`)
+- major issues: `50-2026` missing large portions of Sections III/IV and entire Section V; `1274` page-break row-boundary defects in Phụ lục 5; `840` YAML/header/OCR artifacts (fixed)
+- major fixes: `840` YAML dates corrected, VI source-note div closed, OCR `and 2.` artifacts removed, EN `Admin Office` corrected, EN duplicate source numbering restored with `sic`, VI source typo/mismatch annotations added
+- new QA checks discovered: page-break row-boundary continuity, signing date vs YAML date, OCR row-number bleed detection, V/v subject-line presence, source abbreviation typo preservation with `[sic]`, section completeness/row-count parity, source-note div closure
+- timeout events: none
+- git push failures: none
+- temp cleanup status: `tmp/run_20260224_130029` removed
+- suggested next targets: `50-2026-KH-DHVN_VJU Quality Assurance Plan 2026` (restore omitted rows/sections), `1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026` (apply merged fix plan + review), `1274` post-fix chunked/full review
+- runtime duration: `727s` (~12m07s)
+- stop reason: `time limit` (controlled stop with partial results recorded)
