@@ -287,6 +287,37 @@
 
 ### Timeout events
 - None (all Claude calls returned within 300s)
+
+## Batch Execution Summary (auto)
+
+- run_id: `20260224_162924`
+- processed sets:
+  - `50-2026-KH-DHVN_VJU Quality Assurance Plan 2026` (full script->Claude QA->fix->review cycle executed)
+- partially processed sets:
+  - `50-2026-KH-DHVN_VJU Quality Assurance Plan 2026` (remaining CRITICAL/HIGH issues require PDF re-extraction/manual PDF verification)
+- skipped sets due to time limit: none
+- estimated remaining sets: `36` (detected incomplete est. `37` total before this batch, `1` processed)
+- major issues:
+  - PDF text extraction insufficient (Claude could not reconstruct exact missing content from source)
+  - numbering inconsistency (`1.` parent vs `4.x` children)
+  - truncated Section 3 table and missing `4.2.4`
+- major fixes:
+  - Section 4 heading format normalized to centered HTML
+  - `Về đánh giá chất lượng` sub-bullet nesting fixed
+- new QA checks discovered:
+  - duplicate sub-numbering check
+  - fix-agent scope verification for PDF-required issues
+  - plan/schedule table row-count validation heuristic
+  - explicit `PDF re-extraction required` flag when text layer unavailable
+- timeout events: none
+- git push failures: none
+- temp cleanup status: `tmp/run_20260224_162924` removed
+- suggested next targets:
+  - `50-2026-KH-DHVN_VJU Quality Assurance Plan 2026` (PDF re-extraction / OCR capable flow)
+  - `01-2024-TT-BGDDT_Standards for Higher Education Institutions`
+  - `04-2020-TT-BGDDT_Foreign Cooperation in Education`
+- runtime duration: `00:04:33`
+- stop reason: `completion`
 - PDF->MD layout fidelity (high-level structural checks)
 - Cross-language structural consistency
 - Heading translation pattern consistency
