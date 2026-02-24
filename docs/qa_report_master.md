@@ -917,3 +917,29 @@
 - suggested next targets: `24-2023-ND-CP_Decree on Base Salary` (done), `1132-QD-DHVN_Examination Affairs Regulations`, `5292-QD-DHQGHN_Regulations on International Student Management`
 - runtime duration: `~07:32`
 - stop reason: `completion`
+
+## 2026-02-24 Batch (Run 20260224_130029) Script Check Intake
+
+### Batch Scope (selected)
+- `1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026`
+- `50-2026-KH-DHVN_VJU Quality Assurance Plan 2026`
+- `840-DT-DHVN_Academic Calendar 2025-2026 Annex 4 Masters-PhD`
+
+### Inventory
+- Total detected QA-incomplete sets: `43`
+- Selection policy: prioritized recent/high-risk documents with manageable size within 15-minute batch
+
+### Per-set Page Count / Chunk Plan (pre-QA)
+- `1274-HD-KTDBCL_End-of-Course Exam Guidance S1 2025-2026`: `35` pages (`pdfinfo`), chunked QA planned: `1-15`, `16-30`, `31-35`
+  - Chunk PDF extraction tool unavailable (`qpdf`/`mutool` missing); using `pdftotext -f/-l` page-range text extraction only (elevated risk)
+- `50-2026-KH-DHVN_VJU Quality Assurance Plan 2026`: `12` pages (`pdfinfo`), no chunking
+- `840-DT-DHVN_Academic Calendar 2025-2026 Annex 4 Masters-PhD`: `14` pages (`pdfinfo`), no chunking
+
+### Script Check Results (Codex-run)
+- Common (all selected files): required YAML fields present; disclaimer block missing; `issue_date: null` remains
+- `1274` (VI/EN/JA): pipe-table lines detected (`165` each); ASCII separator pattern (`1`) detected in each (likely table separator style or artifact, needs Claude confirmation)
+- `50-2026` (VI only present): pipe-table lines detected (`28`); ASCII separator pattern (`1`) detected
+- `840 Annex 4` (VI/EN/JA): pipe-table lines detected (`69-70`); no ASCII separator warning
+
+### Timeout Events (so far)
+- None
