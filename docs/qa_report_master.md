@@ -2013,3 +2013,26 @@
 - suggested next targets: `01-2024-TT-BGDDT`
 - runtime duration: `~6m`
 - stop reason: `completion`
+
+## 2026-02-24 01-2024-TT-BGDDT Script Check (Batch run 20260224_193131)
+
+### Scope
+- `data/01-2024-TT-BGDDT_Standards for Higher Education Institutions_source.pdf`
+- `data/01-2024-TT-BGDDT_Standards for Higher Education Institutions_transcription.md`
+- `data/01-2024-TT-BGDDT_Standards for Higher Education Institutions_transcription_en.md`
+- `data/01-2024-TT-BGDDT_Standards for Higher Education Institutions_transcription_ja.md`
+
+### Page Count / Chunk Plan
+- Page count: `27` (tool: `pdfinfo`)
+- Extraction quality: `unreliable` (`pdftotext` metadata/signature-only; 4 lines / 200 chars)
+- Chunking: `no chunking` (<=30 pages)
+
+### Script results (Codex-run)
+- VI/EN/JA all: YAML baseline fields OK; disclaimer present; EOF source note present
+- Pipe-table lines: VI=`156`, EN=`171`, JA=`171`; ascii separator lines: VI=`21`, EN=`28`, JA=`28`
+- Heading parity (articles): VI `## Điều`=`4`, EN `## Article`=`4`, JA `## 第...条`=`4`; no `### Article`/`### 第...条` detected
+- JA centered wrapper heuristic flagged `5` candidates (likely false positives; requires Claude judgment)
+- Potential header formatting anomaly observed in all 3 versions (`:--- | :---` literal / leading `|` in motto line)
+
+### Status
+- Pending Claude QA -> fix -> review cycle (PDF extraction unreliable)
