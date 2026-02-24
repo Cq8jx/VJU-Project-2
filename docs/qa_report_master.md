@@ -392,3 +392,54 @@
 - `50-2026`: escalate to Claude QA/fix due to structural risk (table truncation likely)
 - `WEB-TTTS2026`: send to Claude QA for confirmation; likely low-risk
 - `1274`: send to Claude QA for content/translation contamination review
+
+
+## 2026-02-24 Batch 3 Claude QA -> Fix -> Review Cycle (50 / WEB-TTTS2026 / 1274)
+
+### 1274-HD-KTDBCL (End-of-Course Exam Guidance S1 2025-2026)
+- Claude QA (pre-fix): EN contamination string repeated (`Department of Testing and 2. Quality Assurance`), mistranslation `ACTING RECTOR`, Appendix 4a value drift (`1.5` vs source `1` point per sub-question), EN Appendix 7 blockquote break, missing source footer notes.
+- Claude-based fixes applied (Codex executed exact Claude instructions):
+  - EN global contamination replacement (`... 2. Quality Assurance` -> `... Quality Assurance`) including `Dept.` variant
+  - EN signature block term fixed to `ON BEHALF OF THE RECTOR`
+  - EN Appendix 4a scoring value restored to `1 point / sub-question`
+  - EN Appendix 7 blockquote continuity restored by prefixing missing `> ` lines
+  - Added source footer note to VI/EN/JA files
+- Claude post-fix review: `PASS WITH NOTES`
+- Remaining note (non-blocking): Appendix 7 formatting style differs between EN (`>` blockquote) and VI/JA (plain quoted paragraph), content intact.
+- QA checks added from Claude feedback:
+  1. Department-name contamination pattern scan for embedded numbering (e.g., `/\d+\.\s*Quality/`)
+  2. Cross-language value parity check for template tables (detect translator-altered numeric values)
+  3. Blockquote formatting consistency across language variants for equivalent passages
+  4. Glossary mapping for `TL. HIỆU TRƯỞNG` -> EN/JA standard terms
+
+### WEB-TTTS2026-VJU (Undergraduate Admissions Information 2026)
+- Claude QA result: `PASS WITH NOTES` (no fixes required)
+- Verified by Claude:
+  - YAML/front matter completeness with localized titles/issuers and `lang` fields
+  - Source-note/disclaimer block present in all 3 languages
+  - 11-section structure fidelity across VI/EN/JA and PDF
+  - Table integrity across mixed Markdown/HTML tables; row counts and numeric values aligned
+  - Formula omission annotations faithfully preserve source gaps
+  - No source contamination in EN/JA; Vietnamese text in degree-name column is intentional
+- Minor notes only: source-preserved `VJU 7/8/9` spacing inconsistency and stray `&nbsp;` blank lines (cosmetic, no fix applied).
+
+### 50-2026-KH-DHVN (VJU Quality Assurance Plan 2026, VI only)
+- Claude QA (pre-fix): `FAIL` due to severe table truncation (Sections III/IV/V largely missing), section numbering alterations (`4.1/4.2` incorrectly normalized to `1.1/1.2`), Thai character contamination (`ของ`), missing source note footer.
+- Claude full-rebuild fix attempt (complete file rewrite from PDF): `TIMEOUT >300s no output`
+- Claude-based partial fixes applied (Codex executed exact Claude instructions):
+  - Restored source numbering `4.1. Mục tiêu chung` and `4.2. Mục tiêu cụ thể`
+  - Fixed Thai contamination token `phản hồiของ` -> `phản hồi của`
+  - Added source note footer with PDF reference
+- Claude post-fix review: `PARTIALLY COMPLETE`
+- Remaining critical issues (Claude-reviewed):
+  - Table row omissions remain across III-1 (1.3-1.6), III-2..III-6 (all rows), IV (rows 2,3,4,5,7), and V (all rows)
+  - Row 1.7 / 1.8 `Sản phẩm dự kiến` text still truncated vs PDF
+- Claude suggested next fix action: chunked rebuild in 5 steps (III-1 missing rows -> III-2..III-6 -> IV missing rows -> V -> row 1.7/1.8 text completion) to avoid timeout.
+
+### Batch 3 Timeout Events (300s threshold)
+- `50-2026` Claude full-table rebuild / complete-file rewrite attempt timed out at >300s with no output (`tmp/qa_runs/50_fix_call.txt`).
+
+### Batch 3 Status Summary
+- Completed with fixes + review: `1274-HD-KTDBCL`
+- Completed QA-only (no fixes needed): `WEB-TTTS2026-VJU`
+- Partial completion (critical content still missing): `50-2026-KH-DHVN`
