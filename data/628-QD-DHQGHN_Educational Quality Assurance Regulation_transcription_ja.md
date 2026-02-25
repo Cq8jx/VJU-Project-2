@@ -1,11 +1,15 @@
 ---
 doc_id: "628/QĐ-ĐHQGHN"
+id: "628-QD-DHQGHN"
+language: "ja"
+original_language: "vi"
+source_pdf: "data/628-QD-DHQGHN_Educational Quality Assurance Regulation_source.pdf"
 title: "ベトナム国家大学ハノイ校における教育質保証に関する規程"
 date: 2015-02-10
 department: "Quality Assurance"
 type: "Regulation"
 restricted: false
-last_updated: 2026-02-22
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** 本文書はAIにより生成されたものであり、参考資料としてのみ使用されます。法的効力はありません。重要な判断を行う場合は、必ず公式文書を参照するか、発行機関（ベトナム国家大学ハノイ校 __https://vnu.edu.vn__）にお問い合わせください。
@@ -176,3 +180,5 @@ last_updated: 2026-02-22
 **Phùng Xuân Nhạ**
 
 ---
+
+> **[SOURCE_NOTE]** Transcription source: `data/628-QD-DHQGHN_Educational Quality Assurance Regulation_source.pdf` (13 pages)

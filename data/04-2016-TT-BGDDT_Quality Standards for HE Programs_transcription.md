@@ -1,21 +1,33 @@
 ---
 doc_id: "04/2016/TT-BGDĐT"
+id: "04-2016-TT-BGDDT"
+language: "vi"
+original_language: "vi"
+source_pdf: "data/04-2016-TT-BGDDT_Quality Standards for HE Programs_source.pdf"
 title: "Ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học"
 date: 2016-03-14
 department: "Ministry of Education and Training"
 type: "Circular"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** Tài liệu này được tạo bởi AI phục vụ mục đích học tập và tham khảo. Nội dung gốc tiếng Việt được trích xuất từ văn bản chính thức. Mọi thông tin có tính pháp lý phải được đối chiếu với văn bản gốc có đóng dấu đỏ.
 
 ---
 
-<p align="center"><strong>BỘ GIÁO DỤC VÀ ĐÀO TẠO | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</strong></p>
-<p align="center"><strong>:--- | :---</strong></p>
-| **Độc lập - Tự do - Hạnh phúc**
-<p align="center"><strong>Số: 04/2016/TT-BGDĐT | *Hà Nội, ngày 14 tháng 3 năm 2016*</strong></p>
+<div style="display: flex; justify-content: space-between; text-align: center;">
+<div>
+<strong>BỘ GIÁO DỤC VÀ ĐÀO TẠO</strong>
+</div>
+<div>
+<strong>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</strong><br>
+<strong>Độc lập - Tự do - Hạnh phúc</strong><br>
+<em>Hà Nội, ngày 14 tháng 3 năm 2016</em>
+</div>
+</div>
+
+<p align="center"><strong>Số: 04/2016/TT-BGDĐT</strong></p>
 
 <p align="center"><strong>THÔNG TƯ</strong></p>
 <p align="center"><strong>Ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học</strong></p>

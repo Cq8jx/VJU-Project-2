@@ -1,11 +1,15 @@
 ---
 doc_id: "23/2021/TT-BGDĐT"
+id: "23-2021-TT-BGDDT"
+language: "vi"
+original_language: "vi"
+source_pdf: "data/23-2021-TT-BGDDT_Masters Admission and Training Regulation_source.pdf"
 title: "Ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ"
 date: 2021-08-30
 department: "Ministry of Education and Training"
 type: "Circular"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** Tài liệu này được tạo bởi AI phục vụ mục đích học tập và tham khảo. Nội dung gốc tiếng Việt được trích xuất từ văn bản chính thức. Mọi thông tin có tính pháp lý phải được đối chiếu với văn bản gốc có đóng dấu đỏ.
@@ -314,3 +318,5 @@ Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư ban hành Q
 | 4 | Tiếng Trung Quốc | Hanyu Shuiping Kaoshi (HSK) | HSK Bậc 3 | HSK Bậc 4 |
 | 5 | Tiếng Nhật | Japanese Language Proficiency Test (JLPT) | N4 | N3 |
 | 6 | Tiếng Nga | ТРКИ - Тест по русскому языку как иностранному | ТРКИ-1 | ТРКИ-2 |
+
+> **[SOURCE_NOTE]** Transcription source: `data/23-2021-TT-BGDDT_Masters Admission and Training Regulation_source.pdf` (22 pages)

@@ -1,11 +1,15 @@
 ---
 doc_id: "4998/QĐ-BGDĐT"
+id: "4998-QD-BGDDT"
+language: "vi"
+original_language: "vi"
+source_pdf: "data/4998-QD-BGDDT_Education Database Technical Specifications_source.pdf"
 title: "Quy định kỹ thuật về dữ liệu của cơ sở dữ liệu giáo dục và đào tạo"
 date: 2021-12-31
 department: "Ministry of Education and Training"
 type: "Decision"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** Tài liệu này được tạo bởi AI phục vụ mục đích học tập và tham khảo. Nội dung gốc tiếng Việt được trích xuất từ văn bản chính thức. Mọi thông tin có tính pháp lý phải được đối chiếu với văn bản gốc có đóng dấu đỏ.
@@ -71,3 +75,5 @@ Văn bản này quy định kỹ thuật về dữ liệu của cơ sở dữ li
 *Cơ sở dữ liệu giáo dục và đào tạo*: là tập hợp dữ liệu số hóa thông tin quản lý về giáo dục và đào tạo (gồm dữ liệu về mạng lưới cơ sở giáo dục, dữ liệu về lớp học, dữ liệu về đội ngũ giáo viên, giảng viên, cán bộ quản lý giáo dục và nhân viên, dữ liệu về học sinh, sinh viên, dữ liệu về chương trình giáo dục, dữ liệu về cơ sở vật chất trường học và các dữ liệu liên quan khác) do Bộ Giáo dục và Đào tạo xây dựng, quản lý và cung cấp.
 
 #### **II. DANH MỤC DÙNG CHUNG**
+
+> **[SOURCE_NOTE]** Transcription source: `data/4998-QD-BGDDT_Education Database Technical Specifications_source.pdf` (174 pages)

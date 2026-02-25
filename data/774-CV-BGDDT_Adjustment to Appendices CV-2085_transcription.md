@@ -1,11 +1,15 @@
 ---
 doc_id: "774/QLCL-KĐCLGD"
+id: "774-CV-BGDDT"
+language: "vi"
+original_language: "vi"
+source_pdf: "data/774-CV-BGDDT_Adjustment to Appendices CV-2085_source.pdf"
 title: "Công văn điều chỉnh phụ lục Công văn 2085/QLCL-KĐCLGD"
 date: 2021-06-10
 department: "Ministry of Education and Training"
 type: "Official Letter"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** Tài liệu này được tạo bởi AI phục vụ mục đích học tập và tham khảo. Nội dung gốc tiếng Việt được trích xuất từ văn bản chính thức. Mọi thông tin có tính pháp lý phải được đối chiếu với văn bản gốc có đóng dấu đỏ.
@@ -495,3 +499,5 @@ Hai bên cùng ký biên bản hoàn thành đợt khảo sát chính thức và
 **THỦ TRƯỞNG**
 **CƠ SỞ GIÁO DỤC**
 *(Ký, ghi rõ họ tên và đóng dấu)*
+
+> **[SOURCE_NOTE]** Transcription source: `data/774-CV-BGDDT_Adjustment to Appendices CV-2085_source.pdf` (18 pages)

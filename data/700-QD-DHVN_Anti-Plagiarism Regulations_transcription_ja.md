@@ -1,11 +1,15 @@
 ---
 doc_id: "700/QĐ-ĐHVN"
+id: "700-QD-DHVN"
+language: "ja"
+original_language: "vi"
+source_pdf: "data/700-QD-DHVN_Anti-Plagiarism Regulations_source.pdf"
 title: "日越大学における教育及び科学研究における盗用防止規程"
 date: 2021-09-30
 department: "Education Testing"
 type: "Regulation"
 restricted: false
-last_updated: 2026-02-22
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** 本文書はAIにより生成されたものであり、参考資料としてのみ使用されます。法的効力はありません。重要な判断を行う場合は、必ず公式文書を参照するか、発行機関（ベトナム国家大学ハノイ校 __https://vnu.edu.vn__）にお問い合わせください。
@@ -195,3 +199,5 @@ last_updated: 2026-02-22
 ![印章及び署名](#)
 
 **グエン・ホアン・オアイン**
+
+> **[SOURCE_NOTE]** Transcription source: `data/700-QD-DHVN_Anti-Plagiarism Regulations_source.pdf` (11 pages)

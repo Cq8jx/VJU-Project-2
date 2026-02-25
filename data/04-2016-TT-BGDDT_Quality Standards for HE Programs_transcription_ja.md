@@ -1,11 +1,15 @@
 ---
 doc_id: "04/2016/TT-BGDĐT"
+id: "04-2016-TT-BGDDT"
+language: "ja"
+original_language: "vi"
+source_pdf: "data/04-2016-TT-BGDDT_Quality Standards for HE Programs_source.pdf"
 title: "Ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học"
 date: 2016-03-14
 department: "Ministry of Education and Training"
 type: "Circular"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** 本文書はAIにより生成されたものであり、学習および参照を目的としています。内容はベトナム語の公式法的文書に基づいています。法的効力については、署名・捺印された公式のベトナム語原文を優先してください。

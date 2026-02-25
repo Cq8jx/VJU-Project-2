@@ -1,11 +1,15 @@
 ---
 doc_id: "18/2021/TT-BGDĐT"
+id: "18-2021-TT-BGDDT"
+language: "vi"
+original_language: "vi"
+source_pdf: "data/18-2021-TT-BGDDT_Doctoral Admission and Training Regulation_source.pdf"
 title: "Ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ"
 date: 2021-06-28
 department: "Ministry of Education and Training"
 type: "Circular"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** Tài liệu này được tạo bởi AI phục vụ mục đích học tập và tham khảo. Nội dung gốc tiếng Việt được trích xuất từ văn bản chính thức. Mọi thông tin có tính pháp lý phải được đối chiếu với văn bản gốc có đóng dấu đỏ.
@@ -427,3 +431,5 @@ Nghiên cứu sinh có quyền và trách nhiệm sau:
 
 **Lãnh đạo cơ sở đào tạo**
 *(Ký tên và đóng dấu)*
+
+> **[SOURCE_NOTE]** Transcription source: `data/18-2021-TT-BGDDT_Doctoral Admission and Training Regulation_source.pdf` (26 pages)

@@ -1,11 +1,15 @@
 ---
 doc_id: "774/QLCL-KĐCLGD"
+id: "774-CV-BGDDT"
+language: "ja"
+original_language: "vi"
+source_pdf: "data/774-CV-BGDDT_Adjustment to Appendices CV-2085_source.pdf"
 title: "Công văn điều chỉnh phụ lục Công văn 2085/QLCL-KĐCLGD"
 date: 2021-06-10
 department: "Ministry of Education and Training"
 type: "Official Letter"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** 本文書はAIにより生成されたものであり、学習および参照を目的としています。内容はベトナム語の公式法的文書に基づいています。法的効力については、署名・捺印された公式のベトナム語原文を優先してください。
@@ -21,24 +25,24 @@ last_updated: 2026-02-23
 <p align="center"><strong>*ハノイ、2021 年 6 月 10 日*</strong></p>
 
 <p align="center"><strong>宛先:</strong></p>
-<p align="center"><strong>- 高等教育機関各位</strong></p>
-<p align="center"><strong>- 教員養成を行う短期大学各位</strong></p>
-<p align="center"><strong>- 教育質保証認定組織各位</strong></p>
+  - 高等教育機関各位
+  - 教員養成を行う短期大学各位
+  - 教育質保証認定組織各位
 
-<p align="center"><strong>2020 年 12 月 31 日、教育訓練省品質管理局は、プログラム自己評価および外部評価に関する公文第 2085/QLCL-KĐCLGD 号を発出しました。</strong></p>
+2020 年 12 月 31 日、教育訓練省品質管理局は、プログラム自己評価および外部評価に関する公文第 2085/QLCL-KĐCLGD 号を発出しました。
 
-<p align="center"><strong>実施状況および一部機関からの意見を踏まえ、品質管理局は付属書 5、10、12、13 および 15（公文に添付）の技術的誤りを調整し、関係機関の利用に供します。</strong></p>
+実施状況および一部機関からの意見を踏まえ、品質管理局は付属書 5、10、12、13 および 15（公文に添付）の技術的誤りを調整し、関係機関の利用に供します。
 
 実施に際して疑義や提案がある場合は、教育訓練省品質管理局教育質保証課（住所: 35 Đại Cồ Việt, Hai Bà Trưng, Hà Nội、電子メール: phongkdclgd@moet.gov.vn）まで速やかにご連絡ください。
 
 <p align="center"><strong>送付先:</strong></p>
-<p align="center"><strong>- 上記宛先</strong></p>
+  - 上記宛先
   - Hoàng Minh Sơn 副大臣（報告用）
-<p align="center"><strong>- 局長（報告用）</strong></p>
-<p align="center"><strong>- 学校局（国防省）</strong></p>
-<p align="center"><strong>- 教育局（公安省）</strong></p>
-<p align="center"><strong>- 高等教育局</strong></p>
-<p align="center"><strong>- 保存: 文書課、教育質保証課</strong></p>
+  - 局長（報告用）
+  - 学校局（国防省）
+  - 教育局（公安省）
+  - 高等教育局
+  - 保存: 文書課、教育質保証課
 
 <p align="center"><strong>局長代理</strong></p>
 <p align="center"><strong>副局長</strong></p>
@@ -513,3 +517,5 @@ e) その他の要請（ある場合）。
 
 **教育機関長**  
 *(署名、氏名記載、押印)*
+
+> **[SOURCE_NOTE]** Transcription source: `data/774-CV-BGDDT_Adjustment to Appendices CV-2085_source.pdf` (18 pages)

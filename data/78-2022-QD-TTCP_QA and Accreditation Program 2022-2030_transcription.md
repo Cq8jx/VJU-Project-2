@@ -1,11 +1,15 @@
 ---
 doc_id: "78/2022/QĐ-TTg"
+id: "78-2022-QD-TTCP"
+language: "vi"
+original_language: "vi"
+source_pdf: "data/78-2022-QD-TTCP_QA and Accreditation Program 2022-2030_source.pdf"
 title: "Phê duyệt Chương trình “Phát triển hệ thống bảo đảm và kiểm định chất lượng giáo dục đối với giáo dục đại học và cao đẳng sư phạm giai đoạn 2022 - 2030”"
 date: 2022-06-28
 department: "Government"
 type: "Decision"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** Tài liệu này được tạo bởi AI phục vụ mục đích học tập và tham khảo. Nội dung gốc tiếng Việt được trích xuất từ văn bản chính thức. Mọi thông tin có tính pháp lý phải được đối chiếu với văn bản gốc có đóng dấu đỏ.
@@ -157,3 +161,5 @@ b) Phối hợp với Bộ Giáo dục và Đào tạo trong xây dựng chính 
   - Hội Khuyến học Việt Nam;
   - VPCP: BTCN, các PCN, Trợ lý TTgCP, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;
   - Lưu: VT, KGVX (2b), ĐND. 105
+
+> **[SOURCE_NOTE]** Transcription source: `data/78-2022-QD-TTCP_QA and Accreditation Program 2022-2030_source.pdf` (7 pages)

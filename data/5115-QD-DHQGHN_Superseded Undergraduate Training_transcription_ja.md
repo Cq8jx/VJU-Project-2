@@ -1,11 +1,15 @@
 ---
 doc_id: "5115/QĐ-ĐHQGHN"
+id: "5115-QD-DHQGHN"
+language: "ja"
+original_language: "vi"
+source_pdf: "data/5115-QD-DHQGHN_Superseded Undergraduate Training_source.pdf"
 title: "ベトナム国家大学ハノイ校における学部教育に関する規程 [3626/QĐ-ĐHQGHNにより置換]"
 date: 2014-12-25
 department: "Academic Affairs"
 type: "Regulation"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 > **[免責事項]** この文書はAIにより生成されたものであり、参考用です。法的効力はありません。重要な判断を行う際は、必ず公式文書を参照するか、発行機関であるベトナム国家大学ハノイ校（__https://vnu.edu.vn__）に問い合わせてください。
 
@@ -803,3 +807,5 @@ last_updated: 2026-02-23
 2.  必要に応じて、ベトナム国家大学ハノイ校の総長は実際の状況に合わせていくつかの規則を修正および補足することを決定する場合があります。
 
 **総長** **フン・スアン・ニャ**
+
+> **[SOURCE_NOTE]** Transcription source: `data/5115-QD-DHQGHN_Superseded Undergraduate Training_source.pdf` (48 pages)

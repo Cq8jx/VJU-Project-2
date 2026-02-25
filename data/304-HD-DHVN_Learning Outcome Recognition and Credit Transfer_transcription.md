@@ -1,11 +1,15 @@
 ---
 doc_id: "304/HD-ĐHVN"
+id: "304-HD-DHVN"
+language: "vi"
+original_language: "vi"
+source_pdf: "data/304-HD-DHVN_Learning Outcome Recognition and Credit Transfer_source.pdf"
 title: "Hướng dẫn Công nhận kết quả học tập và chuyển đổi tín chỉ"
 date: 2025-04-01
 department: "Academic Affairs"
 type: "Guidance"
 restricted: false
-last_updated: 2026-02-22
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** Tài liệu này được tạo bởi AI và chỉ mang tính chất tham khảo. Tài liệu không có giá trị pháp lý. Đối với các quyết định quan trọng, vui lòng tham khảo văn bản chính thức hoặc liên hệ cơ quan ban hành: Đại học Quốc gia Hà Nội (__https://vnu.edu.vn__)
@@ -156,3 +160,5 @@ Em xin chân thành cảm ơn./.
 
 **Sinh viên**
 *(Ký và ghi rõ họ tên)*
+
+> **[SOURCE_NOTE]** Transcription source: `data/304-HD-DHVN_Learning Outcome Recognition and Credit Transfer_source.pdf` (4 pages)

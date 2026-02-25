@@ -1,11 +1,15 @@
 ---
 doc_id: "4618/QĐ-ĐHQGHN"
+id: "4618-QD-DHQGHN"
+language: "ja"
+original_language: "vi"
+source_pdf: "data/4618-QD-DHQGHN_Scholarship Management and Use_source.pdf"
 title: "ベトナム国家大学ハノイ校における奨学金の管理及び使用に関する規程"
 date: 2024-10-07
 department: "Student Affairs"
 type: "Regulation"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 > **[免責事項]** この文書はAIにより生成されたものであり、参考用です。法的効力はありません。重要な判断を行う際は、必ず公式文書を参照するか、発行機関であるベトナム国家大学ハノイ校（__https://vnu.edu.vn__）に問い合わせてください。
 
@@ -57,3 +61,5 @@ last_updated: 2026-02-23
 **副総長**
 
 **Nguyễn Hiệu**
+
+> **[SOURCE_NOTE]** Transcription source: `data/4618-QD-DHQGHN_Scholarship Management and Use_source.pdf` (1 pages)

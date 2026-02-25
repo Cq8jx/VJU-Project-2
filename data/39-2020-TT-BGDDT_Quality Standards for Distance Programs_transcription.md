@@ -1,11 +1,15 @@
 ---
 doc_id: "39/2020/TT-BGDĐT"
+id: "39-2020-TT-BGDDT"
+language: "vi"
+original_language: "vi"
+source_pdf: "data/39-2020-TT-BGDDT_Quality Standards for Distance Programs_source.pdf"
 title: "Ban hành Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo từ xa trình độ đại học"
 date: 2020-10-09
 department: "Ministry of Education and Training"
 type: "Circular"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** Tài liệu này được tạo bởi AI phục vụ mục đích học tập và tham khảo. Nội dung gốc tiếng Việt được trích xuất từ văn bản chính thức. Mọi thông tin có tính pháp lý phải được đối chiếu với văn bản gốc có đóng dấu đỏ.
@@ -193,3 +197,5 @@ Chánh Văn phòng, Cục trưởng Cục Quản lý chất lượng, Thủ trư
 | | **KT. BỘ TRƯỞNG** <br> **THỨ TRƯỞNG** |
 | :--- | :--- |
 | **Nơi nhận:** <br> - Văn phòng Chính phủ; <br> - Ban Tuyên giáo TƯ; <br> - UBVHGDTNTNNĐ của Quốc hội; <br> - Hội đồng Quốc gia Giáo dục và Phát triển nhân lực; <br> - Các Bộ, cơ quan ngang Bộ, cơ quan trực thuộc CP; <br> - Cục Kiểm tra văn bản QPPL (Bộ Tư pháp); <br> - Kiểm toán nhà nước; <br> - Bộ trưởng (để b/c); <br> - Như Điều 21; <br> - Công báo; <br> - Cổng TTĐT Chính phủ; <br> - Cổng TTĐT Bộ GDĐT; <br> - Lưu: VT, Vụ PC, Cục QLCL. | *(đã ký)* <br><br><br> **Nguyễn Văn Phúc** |
+
+> **[SOURCE_NOTE]** Transcription source: `data/39-2020-TT-BGDDT_Quality Standards for Distance Programs_source.pdf` (9 pages)

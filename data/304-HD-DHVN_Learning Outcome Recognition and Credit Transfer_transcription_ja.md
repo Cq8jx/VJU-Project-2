@@ -1,11 +1,15 @@
 ---
 doc_id: "304/HD-ĐHVN"
+id: "304-HD-DHVN"
+language: "ja"
+original_language: "vi"
+source_pdf: "data/304-HD-DHVN_Learning Outcome Recognition and Credit Transfer_source.pdf"
 title: "学習成果の認定及び単位互換に関するガイダンス"
 date: 2025-04-01
 department: "Academic Affairs"
 type: "Guidance"
 restricted: false
-last_updated: 2026-02-22
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** 本文書はAIにより生成されたものであり、参考資料としてのみ使用されます。法的効力はありません。重要な判断を行う場合は、必ず公式文書を参照するか、発行機関（ベトナム国家大学ハノイ校 __https://vnu.edu.vn__）にお問い合わせください。
@@ -162,3 +166,5 @@ last_updated: 2026-02-22
 
 **学生**
 *（署名及び氏名記入）*
+
+> **[SOURCE_NOTE]** Transcription source: `data/304-HD-DHVN_Learning Outcome Recognition and Credit Transfer_source.pdf` (4 pages)

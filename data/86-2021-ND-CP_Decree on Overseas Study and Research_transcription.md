@@ -1,11 +1,15 @@
 ---
 doc_id: "86/2021/NĐ-CP"
+id: "86-2021-ND-CP"
+language: "vi"
+original_language: "vi"
+source_pdf: "data/86-2021-ND-CP_Decree on Overseas Study and Research_source.pdf"
 title: "Quy định về việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu khoa học và trao đổi học thuật"
 date: 2021-09-25
 department: "Government"
 type: "Decree"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[DISCLAIMER]** Tài liệu này được tạo bởi AI phục vụ mục đích học tập và tham khảo. Nội dung gốc tiếng Việt được trích xuất từ văn bản chính thức. Mọi thông tin có tính pháp lý phải được đối chiếu với văn bản gốc có đóng dấu đỏ.
@@ -1170,3 +1174,5 @@ Trân trọng.
 **Ghi chú:**
 ¹ Tên cơ quan báo cáo.
 ² Chữ viết tắt tên cơ quan ban hành văn bản.
+
+> **[SOURCE_NOTE]** Transcription source: `data/86-2021-ND-CP_Decree on Overseas Study and Research_source.pdf` (61 pages)

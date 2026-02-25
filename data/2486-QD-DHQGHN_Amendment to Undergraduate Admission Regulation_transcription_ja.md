@@ -1,11 +1,15 @@
 ---
 doc_id: "2486/QĐ-ĐHQGHN"
+id: "2486-QD-DHQGHN"
+language: "ja"
+original_language: "vi"
+source_pdf: "data/2486-QD-DHQGHN_Amendment to Undergraduate Admission Regulation_source.pdf"
 title: "正規学部入学規程改正決定"
 date: 2024-06-06
 department: "Academic Affairs"
 type: "Decision"
 restricted: false
-last_updated: 2026-02-23
+last_updated: 2026-02-25
 ---
 
 > **[免責事項]** この文書はAIにより生成されたものであり、参考用です。法的効力はありません。重要な判断を行う際は、必ず公式文書を参照するか、発行機関であるベトナム国家大学ハノイ校（__https://vnu.edu.vn__）に問い合わせてください。
@@ -127,3 +131,5 @@ last_updated: 2026-02-23
 ---
 
 > **[出典]** 公式文書からの転記: ベトナム国家大学ハノイ校総長 2024年6月6日付第2486/QĐ-ĐHQGHN号決定。出典: VNU学務局。
+
+> **[SOURCE_NOTE]** Transcription source: `data/2486-QD-DHQGHN_Amendment to Undergraduate Admission Regulation_source.pdf` (5 pages)

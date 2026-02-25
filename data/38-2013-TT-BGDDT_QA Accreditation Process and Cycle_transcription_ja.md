@@ -1,5 +1,8 @@
 ---
 id: BGDDT-TT-2013-38
+language: "ja"
+original_language: "vi"
+source_pdf: "data/38-2013-TT-BGDDT_QA Accreditation Process and Cycle_source.pdf"
 title: BGDDT-TT-2013-38 大学等教育課程質保証評価手順・周期規程通達
 issuer: Bộ Giáo dục và Đào tạo
 category: 2. Quality Assurance
@@ -8,7 +11,7 @@ status: active
 replaces: []
 replaced_by: []
 revision_history: []
-last_updated: "2026-02-23"
+last_updated: 2026-02-25
 tags:
 - quality-assurance
 version:
@@ -18,6 +21,8 @@ version:
 - vi
 lang: ja
 ---
+
+> **[免責事項]** この文書はAIにより生成されたものであり、参考用です。法的効力はありません。重要な判断を行う際は、必ず公式文書を参照するか、発行機関である教育訓練省に問い合わせてください。
 
 <div class="source-note" role="note" aria-label="出典メモ">
   <p><strong>出典メモ。</strong> このファイルは https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=171225 に掲載された情報を転記したものであり、正式な内容は同サイトで公開されている版をご確認ください。</p>
@@ -299,3 +304,5 @@ lang: ja
 | | **大臣代行** <br> **副大臣** |
 | :--- | :--- |
 | | *(署名済み)* <br><br><br> **Bùi Văn Ga** |
+
+> **[SOURCE_NOTE]** Transcription source: `data/38-2013-TT-BGDDT_QA Accreditation Process and Cycle_source.pdf` (23 pages)
