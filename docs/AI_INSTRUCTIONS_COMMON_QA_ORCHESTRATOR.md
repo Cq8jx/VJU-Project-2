@@ -120,6 +120,8 @@ If `*_transcription.md` / `*_transcription_en.md` / `*_transcription_ja.md` are 
 5. If extraction is unreliable:
    - Claude should generate only safe structure/metadata placeholders + clearly mark content fidelity risk
    - do NOT fabricate detailed content
+   - if the PDF appears to be non-OCR (text extraction not available/poor), consider a Gemini-based processing path using Gemini 3.1 / 3.0-series models, referencing the approach in `/Users/home/GitHub/3. DX-General/Web App/PDF_Converter_App`
+   - if that Gemini-based path is also not feasible or fails, consider processing with Claude as a fallback
    - continue with format-level QA and report elevated risk
 6. Generated files must follow project conventions used by existing `*_transcription*.md` files:
    - YAML front matter
@@ -323,6 +325,41 @@ For each existing transcription file:
 Record summarized script findings in `docs/qa_report_master.md` before Claude QA.
 
 --------------------------------------------------------------------
+ADDITIONAL QUALITY CHECK (OPTIONAL-BUT-RECOMMENDED FINAL GATE): GEMINI PDF↔MD VISUAL/CONTENT CROSS-CHECK
+
+After Claude QA/fix/review (especially for documents with complex layout, signatures, recipients blocks, title pages, tables, or suspected formatting drift), run an additional verification step with Gemini by providing both:
+- the source PDF
+- the generated/transcribed Markdown (`*_transcription*.md`)
+
+Purpose:
+- detect omissions / skipped passages / dropped lines in MD vs PDF
+- detect layout-semantic mismatches that script checks may miss
+- validate signature / recipients / title-page formatting fidelity
+
+Gemini check prompt should explicitly ask questions like:
+1. Does the Markdown appear to be a complete transcription of the PDF text, or are there missing sections/lines/paragraphs?
+2. Are there likely omissions in appendices, tables, footnotes, or page headers/footers?
+3. How is the signature block represented in the PDF, and is that structure faithfully reflected in Markdown?
+   - e.g., left/right block placement
+   - whether a left-aligned block is incorrectly moved to the right
+   - whether signer title/name/seal placeholders are preserved
+4. Is the recipients/`Nơi nhận` section layout accurately represented?
+   - e.g., left-side block vs centered/right-aligned formatting
+   - bullets / indentation / ordering
+5. Is title-page layout (center alignment, stacked headers, document number/date line, title/subtitle) reflected in Markdown in a way that preserves meaning and reading order?
+6. Are there visually important formatting cues (centered headings, italic legal-basis paragraphs, side-by-side header rows, tables) that were flattened or distorted incorrectly?
+
+Operational rules for this step:
+- Gemini is an additional checker, not a replacement for Claude judgement authority in this workflow.
+- Treat Gemini findings as supplemental evidence for Claude-directed fixes/review decisions.
+- If Gemini flags possible omissions or layout drift, summarize the findings in `docs/qa_report_master.md` and route the final fix/review judgement back through Claude.
+- Prioritize this step for:
+  - PDF-only generation runs
+  - long/complex legal documents
+  - docs with signature blocks / recipients blocks / title-page layout complexity
+  - docs with repeated false positives from script heuristics (wrapper/layout-related)
+
+--------------------------------------------------------------------
 PAGE COUNT / EXTRACTION / CHUNKING
 
 - Determine page count with preferred tools (`pdfinfo` → `qpdf` → `mutool`)
@@ -442,7 +479,57 @@ Remember:
 - This prompt intentionally supports both public and confidential workflows with the same logic, controlled by `TARGET_ROOT` and `MODE`.
 - It also includes a mandatory generation flow for PDF-only sets and a safe filename-normalization plan workflow.
 - Future maintenance rule: if the agent identifies prompt improvements (safety, accuracy, batching, deployment handling, QA heuristics, naming rules, etc.), it should also update this instruction file (`docs/AI_INSTRUCTIONS_COMMON_QA_ORCHESTRATOR.md`) as part of the work so the improvements are preserved for future runs.
+- Implementation maintenance rule (mandatory): if the agent identifies script-level improvements during execution (preprocessing heuristics, script checks, autofix safety guards, parser robustness, false-positive reduction, etc.), it should also apply those improvements to the relevant files under `scripts/` in the same run whenever safely possible (not just document them here). If immediate code changes are unsafe or too broad, the agent must record a concrete deferred implementation task in `docs/qa_report_master.md`.
 - Compatibility note: this instruction is written for both Codex and Claude as the orchestrator. Regardless of orchestrator, QA/review/fix-policy judgement should still be delegated to a `claude` CLI call to keep a single judgement authority.
+
+## Operational Learnings (add/update over time)
+
+### Preprocessing / Script Heuristic Improvements (observed in real runs)
+- `ja_wrapper_misuse` false positives:
+  - Current heuristic over-flags legitimate header/layout wrappers (`<p align="center"><strong>...`) that appear in all language variants (letterhead, signature, appendix title, form labels).
+  - Improve by allowing known-safe zones/patterns before flagging:
+    - document letterhead/header blocks near file top
+    - signature block labels
+    - appendix headings / form template placeholders
+  - Prefer flagging only wrappers around normal body paragraphs / bullet items that are inconsistent with VI/EN counterparts.
+  - Implementation expectation: update the corresponding script check logic in `scripts/` to reduce these false positives, not only the orchestrator prompt.
+- JA chapter heading detection:
+  - Detection must recognize both `# 第...章` and `## 第...章` (some files use H2 chapter headings).
+  - Report heading-level mismatch separately from “missing chapter heading”.
+  - Do not report `ja_ch=0` as content failure when chapter-like headings exist at a different level.
+  - Implementation expectation: update regex and reporting categories in `scripts/` (e.g., distinguish detector miss vs heading-level mismatch).
+- Disclaimer detection:
+  - Script should detect standardized `[DISCLAIMER]` plus localized labels (e.g., `[免責事項]` and Vietnamese localized disclaimer labels) to avoid false negatives.
+  - If project policy prefers one canonical label, enforce normalization as a separate autofix rule rather than marking as missing.
+  - Implementation expectation: keep detection and normalization rules separated in `scripts/` so checks do not misreport localized labels as missing.
+- Escaped pipe corruption detection/fix:
+  - `\\|` in translated table rows is a common corruption pattern (especially EN/JA).
+  - Safe autofix exists when scoped to table-like lines only (lines containing 2+ pipe delimiters / separator patterns).
+  - Avoid global `\\| -> |` replacement in prose/code contexts.
+  - Implementation expectation: implement table-line-scoped unescape autofix in `scripts/` with safety checks/logging.
+- `bad_h3_article` normalization:
+  - Mechanical `### Article` / `### 第...条` -> `## ...` fixes are often safe.
+  - However, residual cases may be inline corruption (`...this\n### Article.`) caused by accidental line breaks; detect and fix separately.
+  - Add an explicit inline-corruption check for `\n### Article.` following non-heading prose.
+  - Implementation expectation: add both checks to `scripts/` (heading-level normalization candidate + inline-corruption detector/autofix).
+
+### Claude Output Handling Robustness
+- Claude may prepend explanatory text before JSON (even when asked for JSON-only).
+- Orchestrator should robustly extract JSON (including fenced ```json blocks) before parsing, instead of assuming raw JSON at byte 0.
+- When using Claude for exact edits, prefer structured outputs saved under `tmp/run_<run_id>/...` and parse defensively.
+
+### Safe Fix Playbook (high-confidence patterns)
+- Missing YAML required fields (`id`, `language`, `original_language`, `source_pdf`) can be autofilled from filename/path conventions after verifying source PDF existence.
+- Missing EOF `SOURCE_NOTE` can be autofixed with verified source path and page count.
+- Escaped pipe corruption in table-heavy EN/JA files can be autofixed with table-line-scoped unescape.
+- Disclaimer insertion can be autofixed after YAML front matter, but script detection should align with accepted disclaimer labels.
+
+### Review Policy Clarifications
+- If a heuristic flag is shown to be an intentional 3-language-common formatting pattern (e.g., header `<p align="center">` wrappers), record it as `false positive / intentional formatting` and do not keep re-raising it as unresolved.
+- For structural parity checks, separate:
+  - content-missing (real defect)
+  - heading-level mismatch (format inconsistency)
+  - detector blind spot (script issue)
 
 ## Claude Orchestrator Tips (Reduce Approval Interruptions)
 - When Claude is the orchestrator, prefer using a task agent / sub-agent (if available in the environment) to execute each batch end-to-end, while the parent agent handles only orchestration and monitoring.

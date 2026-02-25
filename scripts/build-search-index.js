@@ -49,8 +49,8 @@ function extractBody(text) {
   // Remove YAML front matter
   let body = text.replace(/^---[\s\S]*?---\r?\n?/, '');
 
-  // Remove DISCLAIMER blockquotes (first blockquote)
-  body = body.replace(/^>\s*\*\*\[DISCLAIMER\]\*\*[\s\S]*?(?=\n[^>]|\n\n)/m, '');
+  // Remove disclaimer blockquotes (support canonical + localized labels)
+  body = body.replace(/^>\s*\*\*\[(?:DISCLAIMER|免責事項|TUYÊN BỐ TỪ CHỐI TRÁCH NHIỆM)\]\*\*[\s\S]*?(?=\n[^>]|\n\n)/m, '');
 
   // Remove HTML tags
   body = body.replace(/<[^>]+>/g, '');
