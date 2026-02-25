@@ -983,7 +983,7 @@
   fetch('data/search-index.json').then(r => r.ok ? r.json() : null).then(data => { searchIndex = data; console.log('[SearchIndex] Loaded', data ? Object.keys(data).length + ' entries' : 'failed'); }).catch(() => { console.warn('[SearchIndex] Not available, falling back to metadata search'); });
 
   // ==================== SEARCH STATE ====================
-  let searchState = { query: '', departments: [], types: [], dateFrom: null, dateTo: null, sortBy: 'newest' };
+  let searchState = { query: '', departments: [], types: [], tags: [], dateFrom: null, dateTo: null, sortBy: 'newest' };
 
   // ==================== SEARCH HELPERS ====================
   function getAllDocs() {
@@ -1048,7 +1048,7 @@
     grid.querySelectorAll('.tag-link[data-tag-dept], .tag-link[data-tag-type]').forEach(el => {
       el.addEventListener('click', (e) => {
         e.stopPropagation();
-        searchState = { query: '', departments: [], types: [], dateFrom: null, dateTo: null, sortBy: 'newest' };
+        searchState = { query: '', departments: [], types: [], tags: [], dateFrom: null, dateTo: null, sortBy: 'newest' };
         if (el.dataset.tagDept) searchState.departments = [el.dataset.tagDept];
         if (el.dataset.tagType) searchState.types = [el.dataset.tagType];
         searchViewInitialized = false;
@@ -1079,6 +1079,23 @@
       .replace(/\s+/g, ' ');
   }
 
+  function normalizeTag(tag) { return (tag || '').toLowerCase().trim(); }
+  function formatTagLabel(tag) { return normalizeTag(tag).replace(/\s+/g, '-'); }
+
+  function parseSearchQuery(raw) {
+    const tags = [];
+    const rest = (raw || '').replace(/tag:(\S+)/gi, function(_, t) { tags.push(normalizeTag(t.replace(/-/g, ' '))); return ''; }).trim();
+    return { text: rest, tags: tags };
+  }
+
+  function applyTagSearchState(tagArray) {
+    searchState = { query: '', departments: [], types: [], tags: tagArray.map(normalizeTag), dateFrom: null, dateTo: null, sortBy: 'newest' };
+    const input = document.getElementById('search-input');
+    if (input) input.value = '';
+    searchViewInitialized = false;
+    navigateTo('search');
+  }
+
   // Score a document against a query using search index (multilingual full-text)
   function scoreDoc(doc, q) {
     let score = 0;
@@ -1106,10 +1123,17 @@
 
   function filterDocs(state) {
     let docs = getAllDocs();
+    // 0. Parse tag: tokens from query
+    const parsed = parseSearchQuery(state.query);
+    const activeTags = (state.tags || []).concat(parsed.tags).map(normalizeTag).filter(Boolean);
+    const q = normalizeSearchQuery(parsed.text);
     // 1. Filter by text query (metadata + search index)
-    const q = normalizeSearchQuery(state.query);
     if (q) {
       docs = docs.filter(d => scoreDoc(d, q) > 0);
+    }
+    // 1b. Filter by tags (all must match)
+    if (activeTags.length > 0) {
+      docs = docs.filter(d => { const dt = (d.tags || []).map(normalizeTag); return activeTags.every(t => dt.some(dt2 => dt2.includes(t))); });
     }
     // 2. Filter by departments
     if (state.departments && state.departments.length > 0) {
@@ -1173,6 +1197,8 @@
     const chips = [];
     searchState.departments.forEach(d => chips.push({ label: d, type: 'dept', value: d }));
     searchState.types.forEach(t => chips.push({ label: t, type: 'type', value: t }));
+    (searchState.tags || []).forEach(t => chips.push({ label: 'tag:' + formatTagLabel(t), type: 'tag', value: t }));
+    parseSearchQuery(searchState.query).tags.forEach(t => chips.push({ label: 'tag:' + formatTagLabel(t), type: 'queryTag', value: t }));
     if (searchState.query) chips.push({ label: '"' + searchState.query + '"', type: 'query', value: searchState.query });
     if (searchState.dateFrom) chips.push({ label: 'From: ' + searchState.dateFrom, type: 'dateFrom', value: searchState.dateFrom });
     if (searchState.dateTo) chips.push({ label: 'To: ' + searchState.dateTo, type: 'dateTo', value: searchState.dateTo });
@@ -1189,6 +1215,12 @@
         const chipValue = btn.dataset.value;
         if (chipType === 'dept') { searchState.departments = searchState.departments.filter(d => d !== chipValue); document.querySelectorAll('.dept-filter').forEach(cb => { if (cb.value === chipValue) cb.checked = false; }); }
         else if (chipType === 'type') { searchState.types = searchState.types.filter(t => t !== chipValue); document.querySelectorAll('.type-filter').forEach(cb => { if (cb.value === chipValue) cb.checked = false; }); }
+        else if (chipType === 'tag') { searchState.tags = (searchState.tags || []).filter(t => t !== chipValue); }
+        else if (chipType === 'queryTag') {
+          const escaped = chipValue.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          searchState.query = (searchState.query || '').replace(new RegExp('(^|\\s)tag:' + escaped + '(?=\\s|$)', 'ig'), ' ').replace(/\s+/g, ' ').trim();
+          document.getElementById('search-input').value = searchState.query;
+        }
         else if (chipType === 'query') { searchState.query = ''; document.getElementById('search-input').value = ''; }
         else if (chipType === 'dateFrom') { searchState.dateFrom = null; document.getElementById('date-from').value = ''; }
         else if (chipType === 'dateTo') { searchState.dateTo = null; document.getElementById('date-to').value = ''; }
@@ -1197,7 +1229,7 @@
     });
     const clearBtn = document.getElementById('clear-all-filters');
     if (clearBtn) clearBtn.addEventListener('click', () => {
-      searchState.query = ''; searchState.departments = []; searchState.types = []; searchState.dateFrom = null; searchState.dateTo = null;
+      searchState.query = ''; searchState.departments = []; searchState.types = []; searchState.tags = []; searchState.dateFrom = null; searchState.dateTo = null;
       document.getElementById('search-input').value = '';
       document.getElementById('date-from').value = '';
       document.getElementById('date-to').value = '';
@@ -1216,10 +1248,14 @@
     }
     container.innerHTML = results.map(doc => {
       const prefix = getDocPrefix(doc.id);
-      return '<article class="search-result bg-white rounded-xl p-5 shadow-subtle border border-gray-200 hover:shadow-md hover:border-vnu-blue/30 transition-all cursor-pointer group flex flex-col sm:flex-row gap-5" data-doc="' + doc.id + '"' + (doc.restricted ? ' data-restricted="true"' : '') + '>' + '<div class="shrink-0 flex sm:flex-col items-center sm:items-start gap-3 sm:w-36">' + '<span class="inline-flex items-center px-2.5 py-1 rounded bg-gray-100 text-gray-600 font-mono text-xs font-medium border border-gray-200 group-hover:bg-vnu-blue/5 group-hover:text-vnu-blue group-hover:border-vnu-blue/20 transition-colors">' + prefix + '</span>' + '<div class="flex items-center gap-1.5 text-xs text-gray-500"><span class="material-symbols-outlined text-[16px]">calendar_month</span><span>' + formatDisplayDate(doc.date) + '</span></div>' + '</div>' + '<div class="flex-1 space-y-2">' + '<h3 class="text-lg font-semibold text-gray-900 group-hover:text-vnu-blue transition-colors leading-tight">' + doc.title + '</h3>' + '<p class="text-sm text-gray-600 leading-relaxed line-clamp-2">' + (doc.description || '') + '</p>' + '<div class="flex items-center flex-wrap gap-4 pt-2">' + '<div class="flex items-center gap-1.5 text-xs font-medium text-gray-500"><span class="material-symbols-outlined text-[18px] text-gray-400">apartment</span>' + (doc.department || '') + '</div>' + '<span class="text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 border border-gray-200">' + (doc.type || '') + '</span>' + (doc.restricted ? '<span class="inline-flex items-center gap-1 text-xs font-medium text-amber-600"><span class="material-symbols-outlined text-[16px]">lock</span>Restricted</span>' : '') + '</div>' + '</div>' + '</article>';
+      const tagHtml = (doc.tags || []).map(t => '<span class="search-tag rel-tag" data-tag="' + t + '">' + formatTagLabel(t) + '</span>').join('');
+      return '<article class="search-result bg-white rounded-xl p-5 shadow-subtle border border-gray-200 hover:shadow-md hover:border-vnu-blue/30 transition-all cursor-pointer group flex flex-col sm:flex-row gap-5" data-doc="' + doc.id + '"' + (doc.restricted ? ' data-restricted="true"' : '') + '>' + '<div class="shrink-0 flex sm:flex-col items-center sm:items-start gap-3 sm:w-36">' + '<span class="inline-flex items-center px-2.5 py-1 rounded bg-gray-100 text-gray-600 font-mono text-xs font-medium border border-gray-200 group-hover:bg-vnu-blue/5 group-hover:text-vnu-blue group-hover:border-vnu-blue/20 transition-colors">' + prefix + '</span>' + '<div class="flex items-center gap-1.5 text-xs text-gray-500"><span class="material-symbols-outlined text-[16px]">calendar_month</span><span>' + formatDisplayDate(doc.date) + '</span></div>' + '</div>' + '<div class="flex-1 space-y-2">' + '<h3 class="text-lg font-semibold text-gray-900 group-hover:text-vnu-blue transition-colors leading-tight">' + doc.title + '</h3>' + '<p class="text-sm text-gray-600 leading-relaxed line-clamp-2">' + (doc.description || '') + '</p>' + '<div class="flex items-center flex-wrap gap-4 pt-2">' + '<div class="flex items-center gap-1.5 text-xs font-medium text-gray-500"><span class="material-symbols-outlined text-[18px] text-gray-400">apartment</span>' + (doc.department || '') + '</div>' + '<span class="text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 border border-gray-200">' + (doc.type || '') + '</span>' + (doc.restricted ? '<span class="inline-flex items-center gap-1 text-xs font-medium text-amber-600"><span class="material-symbols-outlined text-[16px]">lock</span>Restricted</span>' : '') + '</div>' + (tagHtml ? '<div class="flex flex-wrap gap-1 pt-1">' + tagHtml + '</div>' : '') + '</div>' + '</article>';
     }).join('');
     container.querySelectorAll('.search-result[data-doc]').forEach(el => {
-      el.addEventListener('click', () => openDocument(el.dataset.doc, el.dataset.restricted === 'true'));
+      el.addEventListener('click', (e) => { if (e.target.closest('.search-tag')) return; openDocument(el.dataset.doc, el.dataset.restricted === 'true'); });
+    });
+    container.querySelectorAll('.search-tag').forEach(el => {
+      el.addEventListener('click', (e) => { e.stopPropagation(); applyTagSearchState([el.dataset.tag]); });
     });
     renderActiveFilters();
   }
@@ -1381,7 +1417,10 @@
 
   // Home search → search view
   document.getElementById('home-search-btn').addEventListener('click', () => {
-    searchState.query = document.getElementById('home-search').value;
+    const parsed = parseSearchQuery(document.getElementById('home-search').value);
+    searchState.query = parsed.text;
+    searchState.tags = parsed.tags;
+    searchViewInitialized = false;
     navigateTo('search');
   });
   document.getElementById('home-search').addEventListener('keydown', (e) => {
@@ -1399,7 +1438,10 @@
   // Nav quick search → search view
   document.getElementById('nav-search-input').addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
-      searchState.query = e.target.value;
+      const parsed = parseSearchQuery(e.target.value);
+      searchState.query = parsed.text;
+      searchState.tags = parsed.tags;
+      searchViewInitialized = false;
       navigateTo('search');
     }
   });
@@ -1805,7 +1847,7 @@
     panel.style.display = '';
     // Tags
     if (tags.length) {
-      tagsEl.innerHTML = '<h4>Tags</h4>' + tags.map(t => '<span class="rel-tag" data-tag="' + t + '">' + t + '</span>').join('');
+      tagsEl.innerHTML = '<h4>Tags</h4>' + tags.map(t => '<span class="rel-tag" data-tag="' + t + '">' + formatTagLabel(t) + '</span>').join('');
     } else { tagsEl.innerHTML = ''; }
     // Relations
     if (relations.length) {
@@ -1818,6 +1860,8 @@
       }).join('');
       linksEl.querySelectorAll('.rel-link').forEach(a => { a.addEventListener('click', () => openDocument(a.dataset.docId, false)); });
     } else { linksEl.innerHTML = ''; }
+    // Wire tag clicks → search by tag
+    tagsEl.querySelectorAll('.rel-tag').forEach(el => { el.addEventListener('click', () => applyTagSearchState([el.dataset.tag])); });
   }
 
   let tocIndexMap = [];
