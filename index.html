@@ -1070,12 +1070,23 @@
     return Object.values(searchIndex).filter(e => e.registry_key === registryKey);
   }
 
+  function normalizeSearchQuery(query) {
+    return (query || '')
+      .toLowerCase()
+      .trim()
+      // Ignore both ASCII and Japanese/typographic quotes users may paste/type
+      .replace(/["'“”‘’「」『』]/g, '')
+      .replace(/\s+/g, ' ');
+  }
+
   // Score a document against a query using search index (multilingual full-text)
   function scoreDoc(doc, q) {
     let score = 0;
     // Metadata match (always available)
     if (doc.title.toLowerCase().includes(q)) score += 10;
     if (doc.id.toLowerCase().includes(q)) score += 5;
+    if ((doc.department || '').toLowerCase().includes(q)) score += 9;
+    if ((doc.type || '').toLowerCase().includes(q)) score += 4;
     if ((doc.tags || []).join(' ').toLowerCase().includes(q)) score += 3;
     if ((doc.description || '').toLowerCase().includes(q)) score += 2;
     // Search index match (multilingual titles + body text)
@@ -1096,8 +1107,8 @@
   function filterDocs(state) {
     let docs = getAllDocs();
     // 1. Filter by text query (metadata + search index)
-    if (state.query) {
-      const q = state.query.toLowerCase();
+    const q = normalizeSearchQuery(state.query);
+    if (q) {
       docs = docs.filter(d => scoreDoc(d, q) > 0);
     }
     // 2. Filter by departments
@@ -1120,8 +1131,7 @@
       docs.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
     } else if (state.sortBy === 'oldest') {
       docs.sort((a, b) => (a.date || '').localeCompare(b.date || ''));
-    } else if (state.sortBy === 'relevance' && state.query) {
-      const q = state.query.toLowerCase();
+    } else if (state.sortBy === 'relevance' && q) {
       docs.sort((a, b) => scoreDoc(b, q) - scoreDoc(a, q) || (b.date || '').localeCompare(a.date || ''));
     }
     return docs;
