@@ -12,7 +12,7 @@ restricted: false
 last_updated: 2026-02-25
 ---
 
-> **[DISCLAIMER]** 本文書はAIにより生成されたものであり、参考資料としてのみ使用されます。法的効力はありません。重要な判断を行う場合は、必ず公式文書を参照するか、発行機関（ベトナム国家大学ハノイ校 __https://vnu.edu.vn__）にお問い合わせください。
+> **[DISCLAIMER]** 本文書はAIにより生成されたものであり、参考資料としてのみ使用されます。法的効力はありません。重要な判断を行う場合は、必ず公式文書を参照するか、発行機関（ベトナム日本大学 __https://vju.ac.vn__）にお問い合わせください。
 
 <!-- JA translation pending: translate from VI transcription once complete -->
 

@@ -312,15 +312,19 @@ SCRIPT CHECKS (MANDATORY BASELINE)
 For each existing transcription file:
 1. YAML front matter presence + required fields
 2. DISCLAIMER presence
-3. SOURCE_NOTE presence at EOF (and parseable format if present)
-4. Pipe-table line count / ASCII separator detection / escaped-pipe corruption detection
-5. Heading parity checks:
+3. DISCLAIMER issuer-link consistency check (NEW):
+   - if document is a VJU-issued document (e.g., `ĐHVN` / `DHVN` / `VJU` in doc-id, issuer, or filename), flag disclaimer text that names `Vietnam National University, Hanoi` with `https://vnu.edu.vn`
+   - acceptable VJU targets are `Vietnam Japan University` with `https://vju.ac.vn` (or repo-approved VJU domain variants such as `vju.vnu.edu.vn`)
+   - record as `disclaimer_issuer_link_mismatch`
+4. SOURCE_NOTE presence at EOF (and parseable format if present)
+5. Pipe-table line count / ASCII separator detection / escaped-pipe corruption detection
+6. Heading parity checks:
    - VI `# Chương` ↔ EN `# Chapter` ↔ JA `# 第...章`
    - VI `## Điều` ↔ EN `## Article` ↔ JA `## 第...条`
    - flag `### Article` / `### 第...条`
-6. JA non-heading wrapper misuse check:
+7. JA non-heading wrapper misuse check:
    - flag `<p align="center"><strong>` wrapping normal body/list lines
-7. Footnote parity check (if VI markers like `¹²³...` exist)
+8. Footnote parity check (if VI markers like `¹²³...` exist)
 
 Record summarized script findings in `docs/qa_report_master.md` before Claude QA.
 
