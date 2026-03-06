@@ -4049,3 +4049,60 @@ QA workflow requires existing Markdown transcription files (`*_transcription.md`
 - deployment failures: none
 - runtime duration: ~16 minutes
 - stop reason: batch complete
+
+## 2026-03-07 Batch 4 (New docs x3 with Gemini-first gate)
+
+### Selected sets
+- `1259-HD-DHVN_End-of-Semester Exam Organization Guidance S1 2023-2024`
+- `1541-CV-DHVN-KTDBCL_End-of-Course Exam Organization Notice S1 2025-2026`
+- `5292-QD-DHQGHN_Regulations on International Student Management`
+
+### Gemini PDF↔MD first-gate results (run before other QA)
+- `1259`: **HIGH risk**
+  - MD (VI/EN/JA) are placeholder stubs while source PDF has full 35-page content.
+  - Decision: **defer deterministic fix**; requires full retranscription from PDF first.
+- `1541`: **MEDIUM risk**
+  - EN doc number mismatch (`1541/VJU-QA`), note-column omissions/truncations in EN/JA, extra phrase in EN.
+  - Decision: fix now.
+- `5292`: **HIGH risk**
+  - VI/EN body typo: `5282/QĐ-ĐHQGHN` should be `5292/QĐ-ĐHQGHN`.
+  - Decision: fix now.
+
+### Claude judgement after Gemini gate
+- `1259`: `defer` (full retranscription required; no safe micro-edit)
+- `1541`: `fix_now`
+- `5292`: `fix_now`
+
+### Fixes applied
+- `1541` EN:
+  - `No.: 1541/VJU-QA` -> `No.: 1541/ĐHVN-KT&ĐBCL`
+  - Filled missing note cells for PES1075/PES1020/PES1045 rows
+  - Removed fabricated phrase `8-week schedule;`
+  - `last_updated: 2026-03-07`
+- `1541` JA:
+  - Completed truncated/missing note cells for PES1075/PES1020/PES1045 rows
+  - Removed unnecessary `8週間カリキュラムのため、` prefix to align with source note meaning
+  - `last_updated: 2026-03-07`
+- `5292` VI/EN:
+  - Corrected body typo `5282/QĐ-ĐHQGHN` -> `5292/QĐ-ĐHQGHN`
+  - `last_updated: 2026-03-07`
+
+### Deferred implementation task
+- `1259`:
+  - Run complete PDF->VI retranscription (all pages/tables/appendices/signature/recipients)
+  - Regenerate EN/JA from corrected VI transcription
+
+## Batch Execution Summary (auto)
+- run_id: `20260307_021000`
+- target_root: `data`
+- mode: `public`
+- processed sets: 3
+- partially processed sets: 0
+- skipped sets due to time limit: 0
+- major issues: 1259 full-content omission; 1541 EN/JA table-note drift; 5292 document-number typo
+- major fixes: applied for 1541 and 5292
+- timeout events: none
+- authentication errors: none
+- deployment failures: none
+- runtime duration: ~22 minutes
+- stop reason: batch complete
