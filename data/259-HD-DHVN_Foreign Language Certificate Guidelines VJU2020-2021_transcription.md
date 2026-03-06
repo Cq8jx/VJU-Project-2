@@ -5,10 +5,10 @@ date: 2024-04-03
 department: "Academic Affairs"
 type: "Guidance"
 restricted: false
-last_updated: 2026-02-22
+last_updated: 2026-03-07
 ---
 
-> **[DISCLAIMER]** Tài liệu này được tạo bởi AI và chỉ mang tính chất tham khảo. Tài liệu không có giá trị pháp lý. Đối với các quyết định quan trọng, vui lòng tham khảo văn bản chính thức hoặc liên hệ cơ quan ban hành: Đại học Quốc gia Hà Nội (__https://vnu.edu.vn__)
+> **[DISCLAIMER]** Tài liệu này được tạo bởi AI và chỉ mang tính chất tham khảo. Tài liệu không có giá trị pháp lý. Đối với các quyết định quan trọng, vui lòng tham khảo văn bản chính thức hoặc liên hệ cơ quan ban hành: Trường Đại học Việt Nhật (__https://vju.ac.vn__)
 
 <div style="display: flex; justify-content: space-between; text-align: center;">
 <div>
