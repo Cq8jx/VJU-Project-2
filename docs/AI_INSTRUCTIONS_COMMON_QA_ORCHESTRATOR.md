@@ -227,14 +227,15 @@ In `TARGET_ROOT` (or recovered temp copy if missing), find PDF→Markdown sets w
 
 (0) inventory (and optional filename normalization plan)
 (1) if transcriptions are missing, generate `*_transcription*.md` via Claude-driven workflow
-(2) script checks
-(3) Claude LLM QA
-(4) Claude-based fixes applied to files
-(5) Claude-based review after fixes
-(6) update `docs/qa_report_master.md`
-(7) deployment step by MODE (`git push` or Firebase workflow)
-(8) append batch execution summary to report
-(9) output ONE concise final summary (Japanese)
+(2) MANDATORY FIRST GATE: Gemini PDF↔MD cross-check (must run before any other QA checks)
+(3) script checks
+(4) Claude LLM QA
+(5) Claude-based fixes applied to files
+(6) Claude-based review after fixes
+(7) update `docs/qa_report_master.md`
+(8) deployment step by MODE (`git push` or Firebase workflow)
+(9) append batch execution summary to report
+(10) output ONE concise final summary (Japanese)
 
 A set may include:
 - `*_source.pdf`
@@ -330,9 +331,9 @@ For each existing transcription file:
 Record summarized script findings in `docs/qa_report_master.md` before Claude QA.
 
 --------------------------------------------------------------------
-ADDITIONAL QUALITY CHECK (OPTIONAL-BUT-RECOMMENDED FINAL GATE): GEMINI PDF↔MD VISUAL/CONTENT CROSS-CHECK
+MANDATORY QUALITY FIRST GATE: GEMINI PDF↔MD VISUAL/CONTENT CROSS-CHECK (RUN BEFORE ALL OTHER QA CHECKS)
 
-After Claude QA/fix/review (especially for documents with complex layout, signatures, recipients blocks, title pages, tables, or suspected formatting drift), run an additional verification step with Gemini by providing both:
+Before script checks and before Claude QA/fix/review, run Gemini verification by providing both:
 - the source PDF
 - the generated/transcribed Markdown (`*_transcription*.md`)
 
@@ -341,7 +342,7 @@ Purpose:
 - detect layout-semantic mismatches that script checks may miss
 - validate signature / recipients / title-page formatting fidelity
 
-Gemini check prompt should explicitly ask questions like:
+Gemini check prompt MUST explicitly ask questions like:
 1. Does the Markdown appear to be a complete transcription of the PDF text, or are there missing sections/lines/paragraphs?
 2. Are there likely omissions in appendices, tables, footnotes, or page headers/footers?
 3. How is the signature block represented in the PDF, and is that structure faithfully reflected in Markdown?
@@ -355,20 +356,26 @@ Gemini check prompt should explicitly ask questions like:
 6. Are there visually important formatting cues (centered headings, italic legal-basis paragraphs, side-by-side header rows, tables) that were flattened or distorted incorrectly?
 
 Preferred model for this step:
-- **Gemini 3.x Flash Preview 系** (PDF↔MD cross-check に最優先で使用)
-  - 現時点: `gemini-3.0-flash-preview`（3.1 公開後は最新の 3.x-flash-preview に更新）
-- Fallback: Claude → `gemini-2.5-pro` → `gemini-2.5-flash-lite`
-- CLI invocation example: `gemini --model gemini-3.0-flash-preview -p "..."`
+- **Gemini 3.1 系** (PDF↔MD cross-check に最優先で使用)
+  - 第一候補: `gemini-3.1-flash-lite-preview`
+  - 高精度照合が必要な場合: `gemini-3.1-pro`（利用可能なIDで）
+- Fallback: `gemini-2.5-pro` → `gemini-2.5-flash-lite` → Claude
+- CLI invocation example: `gemini --model gemini-3.1-flash-lite-preview -p "..."`
 
 Operational rules for this step:
-- Gemini is an additional checker, not a replacement for Claude judgement authority in this workflow.
-- Treat Gemini findings as supplemental evidence for Claude-directed fixes/review decisions.
+- This is the highest-priority QA gate and MUST run before any other QA checks for each document-set.
+- If Gemini indicates material PDF↔MD mismatch (missing blocks, structural drift, signature/recipient/title-page misplacement), fix alignment issues first before running script checks or Claude QA.
+- Gemini is a pre-QA verifier, not a replacement for Claude judgement authority in this workflow.
+- Treat Gemini findings as primary evidence for transcription-fidelity fixes and as supplemental evidence for Claude-directed review decisions.
 - If Gemini flags possible omissions or layout drift, summarize the findings in `docs/qa_report_master.md` and route the final fix/review judgement back through Claude.
 - Prioritize this step for:
   - PDF-only generation runs
   - long/complex legal documents
   - docs with signature blocks / recipients blocks / title-page layout complexity
   - docs with repeated false positives from script heuristics (wrapper/layout-related)
+
+Rationale (policy):
+- If transcription fidelity is wrong, downstream translation QA is also wrong. Therefore PDF↔MD fidelity verification must be completed first.
 
 --------------------------------------------------------------------
 PAGE COUNT / EXTRACTION / CHUNKING
@@ -415,6 +422,7 @@ For each batch:
 5) For each set:
    - page count / extraction quality
    - generate missing transcriptions if needed (Claude-judged)
+   - Gemini PDF↔MD cross-check (mandatory first QA gate)
    - script checks
    - Claude QA
    - Claude-directed fixes
